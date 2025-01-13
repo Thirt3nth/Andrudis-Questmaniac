@@ -1,34 +1,5 @@
 
-This is an update to make Andrudis-QuestManiac playable with the latest version of SPT (3.9.8) and hopefully catch it up to modern versions by including the new gear added since the mod stopped officially updating. - Jaxander
-
-* Questlines that were based around unlocking new barters and trades have been updated. New items can be unlocked for both trades and barters, and now count to be used or turned in for their relevant quests.
-
-* New questlines have been added to Warden to unlock gear types that previously weren't available. Warden now offers quests and unlocks for flares, grenades, and heavy weapons (LMGs + Grenade Launchers).
-
-* Hideout Assistant updated. Added new modules (gym, display case, shooting range 2 + 3, etc). Finally has the correct items for old modules too.
-
-* Ground Zero now has new map-specific quests just like the other maps do. However, just like Labs, Ground Zero quests are not required to progress questlines on other maps. Talk to Elder for these.
-
-* Streets of Tarkov also now has map-specific quests. Khokhol is in charge of this map.
-
-* Rebalanced ALL this mod's cash trades. Previous balance was very strange. Purchases are now very cheap but fair, reliably averaging about 1.5x their sale price, with a few specific rare items as exceptions. Extremely good deals, but remember the whole point is you have to work hard to unlock them first!
-
-* Cleared up the language in some questlines to make it more clear what the limitations were.
-
-### The following questlines have been updated:
-1. Ammo Proficiency: Added all new ammo. New weapons of the right caliber should now properly progress ammo trade quests.
-2. Deep Pockets: Added and integrated all new rigs. This means all rigs should be able to be handed in and worn for the necessary quests, and will be unlocked in the trader at the appropriate times.
-3. Headless PMC: Added Ground Zero and Streets of Tarkov.
-4. Headless Scav: Added Ground Zero and Streets of Tarkov.
-5. Hideout Assistant Lite: Added new modules and fixed the items for old modules. Currently set to non-strict mode, which means all hideout quests are available from the start. If you'd rather they only become available when the prerequisite quests are finished, check the "_AlternativeBundles" folder.
-6. Iron Head: Added and integrated all new helmets.
-7. Juggernaut: Added and integrated all new body armors.
-8. PMC Hunt: Added Ground Zero and Streets of Tarkov.
-9. Scav Hunt: Added Ground Zero and Streets of Tarkov.
-10. Survivalist:  Added Ground Zero and Streets of Tarkov.
-11. Tarkov Mule: Added and integrated all new backpacks.
-12. Ultrasound: Added and integrated all new headsets.
-13. Weapon Proficiency: Added and integrated all new body armors. Added questlines for Warden to unlock flares, grenades, and heavy weapons (LMGs + Grenade Launchers).
+This is an update to make Andrudis-QuestManiac playable with the latest version of SPT (3.10) 
 
 ### Credit:
 
@@ -41,6 +12,8 @@ LaurentMekka : 3.2.2 version
 Mighty_Condor : 3.5.0 & 3.7.X version
 
 wbyjake: 3.8.3 version, modernization of many things
+
+Jaxander: 3.9 version, modernization of many things
 
 DrakiaXYZ: Quest converter tool
 

@@ -1,0 +1,14 @@
+{
+    "a4de75c32db70fbbaf4dcd30 name": "[Mec] Compétence clé: Usine Serrurier",
+    "a4de75c32db70fbbaf4dcd30 note": "",
+    "a4de75c32db70fbbaf4dcd30 description": "Vous voulez des conteneurs pour les clés ? Pourquoi en avez-vous besoin si vous n'avez pas encore de clés ? Je dois les trouver tout !",
+    "a4de75c32db70fbbaf4dcd30 startedMessageText": "[Mec] Quête acceptée: '[Mec] Compétence clé: Usine Serrurier'!",
+    "a4de75c32db70fbbaf4dcd30 failMessageText": "[Mec] Échec de la quête: '[Mec] Compétence clé: Usine Serrurier'!",
+    "a4de75c32db70fbbaf4dcd30 successMessageText": "[Mec] Quête terminée: '[Mec] Compétence clé: Usine Serrurier'!",
+    "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 declinePlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 completePlayerMessage": "",
+    "67ea305f94b3c1dc54de997f": "Trouve Clé de porte (alternative)",
+    "bafce78f880183b5e71ab1ea": "Trouve Clé de porte",
+    "c28edcca6cece5d5cea5e988": "Trouve Clé de sortie de l'usine"
+}

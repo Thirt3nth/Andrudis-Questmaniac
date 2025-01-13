@@ -1,0 +1,1691 @@
+{
+  "ab4dbc0c8caf7ac7e6ea84fd": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 2 Scav(s)",
+    "_id": "ab4dbc0c8caf7ac7e6ea84fd",
+    "acceptPlayerMessage": "ab4dbc0c8caf7ac7e6ea84fd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ab4dbc0c8caf7ac7e6ea84fd changeQuestMessageText",
+    "completePlayerMessage": "ab4dbc0c8caf7ac7e6ea84fd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bc63ebf112a9fff0bc7e97b5",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "aff9cacbebc95a17aae04ee8",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "6b23aec9a1a74220072d7dab"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "48eb23aceaaab8d6983dc50f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ab4dbc0c8caf7ac7e6ea84fd declinePlayerMessage",
+    "description": "ab4dbc0c8caf7ac7e6ea84fd description",
+    "failMessageText": "ab4dbc0c8caf7ac7e6ea84fd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "ab4dbc0c8caf7ac7e6ea84fd name",
+    "note": "ab4dbc0c8caf7ac7e6ea84fd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "97cefefcaed1a9f1a4de98db",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "e4cebd6f5b66a1735aebcae5",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2fccdcbac1aeba2fc40c8875",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "2fccdcbac1aeba2fc40c8875",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ab4dbc0c8caf7ac7e6ea84fd startedMessageText",
+    "successMessageText": "ab4dbc0c8caf7ac7e6ea84fd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "dafbf0ee3ff66ce7ba3d2fdd": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 10 Scav(s)",
+    "_id": "dafbf0ee3ff66ce7ba3d2fdd",
+    "acceptPlayerMessage": "dafbf0ee3ff66ce7ba3d2fdd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dafbf0ee3ff66ce7ba3d2fdd changeQuestMessageText",
+    "completePlayerMessage": "dafbf0ee3ff66ce7ba3d2fdd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "73e95b8f226ef1d2df88ee3a",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "4d6d9fd1ef719fffabaf2e84",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "aeac6bff1d8d8d473e4e87c1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cce2ef5fc49fd2838fdb3b63",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab19dec3acfdefa9a8a1b8b8",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ab4dbc0c8caf7ac7e6ea84fd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dafbf0ee3ff66ce7ba3d2fdd declinePlayerMessage",
+    "description": "dafbf0ee3ff66ce7ba3d2fdd description",
+    "failMessageText": "dafbf0ee3ff66ce7ba3d2fdd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "dafbf0ee3ff66ce7ba3d2fdd name",
+    "note": "dafbf0ee3ff66ce7ba3d2fdd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "df6afcc2844771ddcbdc8f10",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "248cbb9d0ee8ec2c6c4c4de3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6fcf69c1b3d3db35fb8c85ab",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "6fcf69c1b3d3db35fb8c85ab",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dafbf0ee3ff66ce7ba3d2fdd startedMessageText",
+    "successMessageText": "dafbf0ee3ff66ce7ba3d2fdd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "ccada9eeb15a5fde00ccb57b": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 25 Scav(s)",
+    "_id": "ccada9eeb15a5fde00ccb57b",
+    "acceptPlayerMessage": "ccada9eeb15a5fde00ccb57b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ccada9eeb15a5fde00ccb57b changeQuestMessageText",
+    "completePlayerMessage": "ccada9eeb15a5fde00ccb57b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8bf4194c4ccadc2e3e1ae25f",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "9cbcabf238bf80f38cbfe5af",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "befb5cfdd37a9275fd637cb2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff172b7fd86beb333b2dee44",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6fd9abc862b7cfdc26dde2dd",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e49a7e5cebb6d1ececf6cfef"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1f87ed0deafafd49bc4cdb8",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dcd7618bfffacb8a41abcb75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "69fbfcc146d4bb53cf87d3c6",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "208d39b68a0b9cb08d39e92c"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c2fabbeaf7c116ea0c756ac7",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ab4dbc0c8caf7ac7e6ea84fd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "699b6c6e821c5ff3cc6b9470",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d0ffeb9bc82ced953ce3dd61"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0265a1a6e6ead54d9326f3fd",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ebff8afc3e6ebcb1cacb79ad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d66ed0a32c7701abc24faeb3",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e73b626be0f8eab46b9e0aa"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "acbb7b1cf593ee9fd58fdbcf",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba80b8f0bffddfc7d68f8eb1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ccada9eeb15a5fde00ccb57b declinePlayerMessage",
+    "description": "ccada9eeb15a5fde00ccb57b description",
+    "failMessageText": "ccada9eeb15a5fde00ccb57b failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "ccada9eeb15a5fde00ccb57b name",
+    "note": "ccada9eeb15a5fde00ccb57b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1cca07f3d6cfa1d37ff3ac0d",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "3878ebece80b4eefdf88fbe7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "c6758ffd972a9de2608abe28",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 37500
+              }
+            }
+          ],
+          "target": "c6758ffd972a9de2608abe28",
+          "type": "Item",
+          "value": "37500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ccada9eeb15a5fde00ccb57b startedMessageText",
+    "successMessageText": "ccada9eeb15a5fde00ccb57b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "b0b5b241baa9b1f14de2c157": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 50 Scav(s)",
+    "_id": "b0b5b241baa9b1f14de2c157",
+    "acceptPlayerMessage": "b0b5b241baa9b1f14de2c157 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b0b5b241baa9b1f14de2c157 changeQuestMessageText",
+    "completePlayerMessage": "b0b5b241baa9b1f14de2c157 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dcb9e0ff9aaa5ecac301da40",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "47ec3fe853d71dba6ce04b5e",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "0ccfa5ec21e0b42e6b0bad0c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6acd6be86e8e16a20b8dffa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "78cc9536d2f43d3a36b84bed",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "23bb9352e1c5ded56c38df7e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a6fc79d7dbf2d7d9443464c9",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "51ef23d56c22dfae6ac33f2b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1012b9b4448c80de8ccecfa2",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "491f523355cbecdbfa49aeb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f58a77679f93fc53d3effd5e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dafbf0ee3ff66ce7ba3d2fdd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b798dba0fae4db6d471fd7cb",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e546de0ebdace4de3f431fe"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "14295e9e71cbff17d7969dcf",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f74dedb7f041c2efd8ada597"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c401e0ecfd7f92c45aefd4fc",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fee1aa11ee1405a9fd2aa1b0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0a0ae11ddad625fd78bc0b50",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d31ea072d62bf7043a5e36ed"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b0b5b241baa9b1f14de2c157 declinePlayerMessage",
+    "description": "b0b5b241baa9b1f14de2c157 description",
+    "failMessageText": "b0b5b241baa9b1f14de2c157 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "b0b5b241baa9b1f14de2c157 name",
+    "note": "b0b5b241baa9b1f14de2c157 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d5d7a188f5630e5aff1c4c0b",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "b16cd1dda786b44a9ad2cd54",
+          "index": 4,
+          "items": [
+            {
+              "_id": "4dba1ffb857fbbc868bbb2d7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "4dba1ffb857fbbc868bbb2d7",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b0b5b241baa9b1f14de2c157 startedMessageText",
+    "successMessageText": "b0b5b241baa9b1f14de2c157 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "1bffbcc111bffbeebcaecacd": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 75 Scav(s)",
+    "_id": "1bffbcc111bffbeebcaecacd",
+    "acceptPlayerMessage": "1bffbcc111bffbeebcaecacd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "1bffbcc111bffbeebcaecacd changeQuestMessageText",
+    "completePlayerMessage": "1bffbcc111bffbeebcaecacd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a27f78ef5624125e5fd35287",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "1ebb83eaaac3b7ff6afffd6b",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "56683fefe9e2fcca3bb2b4bf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "86c6ec9ff1bbdc6f9cca78af",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8d36fea4ea5acdeb570b3a0c",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "de52eedf03883e5f4956ad4a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ada33ca948a2f7ce8a5f97b",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f4fcb1efc3f1b4decac7dda3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2aed730391a296100bea3f70",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d3d0f5ecc13474781bf0bae4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3a363cafe88444ab3645d70b",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccada9eeb15a5fde00ccb57b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1ab964dfbed3d2164e53b10b",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad19ca52d63e7296fd3d3fa6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7fadca9bdba3a52547fc7a3e",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ad9a58af5807a5e377ccdc2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f32e4eede1dae96548a4fe49",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9b360680c3b69f7beca9c5f2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3bb6f49d1abedb7ebb671fe8",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0d538a9ab089f7cbd8883f39"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "1bffbcc111bffbeebcaecacd declinePlayerMessage",
+    "description": "1bffbcc111bffbeebcaecacd description",
+    "failMessageText": "1bffbcc111bffbeebcaecacd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "1bffbcc111bffbeebcaecacd name",
+    "note": "1bffbcc111bffbeebcaecacd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1adf2ed0b10c72cb48518061",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "8471b3618cc7076c3d4dbef5",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e43d0f362aa1ebc88bdbfd4d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "e43d0f362aa1ebc88bdbfd4d",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "1bffbcc111bffbeebcaecacd startedMessageText",
+    "successMessageText": "1bffbcc111bffbeebcaecacd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "1d81c919cac2acfd5d41c29a": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 100 Scav(s)",
+    "_id": "1d81c919cac2acfd5d41c29a",
+    "acceptPlayerMessage": "1d81c919cac2acfd5d41c29a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "1d81c919cac2acfd5d41c29a changeQuestMessageText",
+    "completePlayerMessage": "1d81c919cac2acfd5d41c29a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2dd1e2f4b109ff471f557e4c",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "aea08f7f9b2e2efd4a324af2",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "babac393f373b4ecdd6059cc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c1dca4e5ea6baf0063f2e82b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c1e2c8df6cf1cb7f48931ba6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cbe94dfb206eec9c29735f55"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ef47ede7fab9a9e89d7f2e34",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "359ccd01aaf2c566e3eaaf74"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd1ee1efccfa654ba40ebcaf",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "012facf4ceb617cdaf57b360"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dca0007d3fc31ec5a30a0a93",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b0b5b241baa9b1f14de2c157"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "beccbd1ec98e2d88f30ed9e9",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "181ffdddf84a4f8fc6c3d8d8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd6cdc0a69eaf6d4ea9ed0ab",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acdde8bcbc3c97f7cceccbac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f61abb8aa3af60fee2f1d79d",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a5ecdb7cdb21f45a94ffe959"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9df1b23416e4a3b22dd93a4b",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6e4e7d00babd97d3bdeed34f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "1d81c919cac2acfd5d41c29a declinePlayerMessage",
+    "description": "1d81c919cac2acfd5d41c29a description",
+    "failMessageText": "1d81c919cac2acfd5d41c29a failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "1d81c919cac2acfd5d41c29a name",
+    "note": "1d81c919cac2acfd5d41c29a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "0ed855a4fb7f9ad1fa6dabfa",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "30ecd51e60755acfb1bfa4fb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ae5fbace37af81bcbff43491",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "ae5fbace37af81bcbff43491",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "1d81c919cac2acfd5d41c29a startedMessageText",
+    "successMessageText": "1d81c919cac2acfd5d41c29a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "a8ccc6864b3c2c5c179eebad": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 150 Scav(s)",
+    "_id": "a8ccc6864b3c2c5c179eebad",
+    "acceptPlayerMessage": "a8ccc6864b3c2c5c179eebad acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a8ccc6864b3c2c5c179eebad changeQuestMessageText",
+    "completePlayerMessage": "a8ccc6864b3c2c5c179eebad completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c45fc5a5c2ad73ca423c65da",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bfdfec4dcebbc1b3224cfac9",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "2e6ddb5df73cdcc31371a8f3"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ccef8a8dd6af9257196c2f1c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "150",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab449ae5db028aed131f89fc",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0c9155ebc6fa4b54efda64d2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "87bddb0d1cfcfbe960c4ff6f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "808712b4eaac5c7a4dca7ef1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9f825ffedbdddbd313adf2ce",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad2d78acd04694de51f3fcbf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b1ecdfae75fff7fff49a5ae0",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1bffbcc111bffbeebcaecacd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8653a69734af93affe8d0f83",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fcf96df1c3066a1dbeaaadcf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bc5a31c1c896bad793f8ccac",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e5b598d00a265b220952bb0f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff895ae13af1cbceedd0e9de",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c23a90bb786aea28ef9182b5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "74cca30fc08c1a90b54adccd",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eff294e3effd8bf2bceafbfc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a8ccc6864b3c2c5c179eebad declinePlayerMessage",
+    "description": "a8ccc6864b3c2c5c179eebad description",
+    "failMessageText": "a8ccc6864b3c2c5c179eebad failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "a8ccc6864b3c2c5c179eebad name",
+    "note": "a8ccc6864b3c2c5c179eebad note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f66ece3bc5de7d7ace60d7b7",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "8bf41d36795be0fbf9af59ba",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ecb70b02d7943ad20ac9cf4d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "ecb70b02d7943ad20ac9cf4d",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a8ccc6864b3c2c5c179eebad startedMessageText",
+    "successMessageText": "a8ccc6864b3c2c5c179eebad successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "a3decd23ebcc6efcc608eca9": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 200 Scav(s)",
+    "_id": "a3decd23ebcc6efcc608eca9",
+    "acceptPlayerMessage": "a3decd23ebcc6efcc608eca9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a3decd23ebcc6efcc608eca9 changeQuestMessageText",
+    "completePlayerMessage": "a3decd23ebcc6efcc608eca9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bd3bbad54bf4fd0cba9ae090",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "4b55a398fbab399ccbc0f5a7",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "d6d2d2ed3b8ff7936f60ccf8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cb9fc7eab44f1e3abe320caa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eccaac2bbdec4df91fba0a3e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d774a5189df0f5a40edf26d3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a7efcdebebdc5c5ab8974a97",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aff88cc8cf1acafdc0e88af4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "37eb0bfed16fe46e4b93ddac",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccddc8ca329bdd3fd79ba393"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "08e4a6b1cf13e752fc9ebe7b",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1d81c919cac2acfd5d41c29a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0abc8a1f98eb8abe29eb98ca",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd655ae61131b80cd4fa83d4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "934d3e21c388c6068babefbc",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2da49b75a8bc2ef53ed0cac2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7c8dcaf399595ceb2c93e027",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "11fbdde567d6c70ee572df93"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "34de635adbfb3ca16be6beed",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9bc51e1eeed43ebae1840fa9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a3decd23ebcc6efcc608eca9 declinePlayerMessage",
+    "description": "a3decd23ebcc6efcc608eca9 description",
+    "failMessageText": "a3decd23ebcc6efcc608eca9 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "a3decd23ebcc6efcc608eca9 name",
+    "note": "a3decd23ebcc6efcc608eca9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4e07b9b3cba8b510b5e33f0c",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "e0a0f03ecbea9baecaf2aded",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2b0bfd23aa262a0b072d1b80",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "2b0bfd23aa262a0b072d1b80",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a3decd23ebcc6efcc608eca9 startedMessageText",
+    "successMessageText": "a3decd23ebcc6efcc608eca9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "250a37ced8c759631cafc6e2": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 500 Scav(s)",
+    "_id": "250a37ced8c759631cafc6e2",
+    "acceptPlayerMessage": "250a37ced8c759631cafc6e2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "250a37ced8c759631cafc6e2 changeQuestMessageText",
+    "completePlayerMessage": "250a37ced8c759631cafc6e2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "749475ab1cb3dc7bca96cfb0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "c9eedf0cc5d6dad8fb3b8740",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "aeaeccdd7cfb52cfcfd49aaa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a3fad0aac1febd2c3d3bffe8",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dd7fbeba966ec5aa4cfb9b3e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a968f4de9dbefa217aed6f95"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbdc292bd0ae21b2ff1db3dc",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c563d3283aa39f45bff442bf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "99de1c64edd5ba8a1d49ffaa",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ac99c7ebed06ac9ee753cfa5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4ea708bffa92ced95b9dd19e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a8ccc6864b3c2c5c179eebad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4dbaed9cc73fea6d6a5b2cea",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "67a6bf0acc6fff28ca5cf8ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2bf7a8b95cdbeb03d9deebbd",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55a3ef1ad95b4ecd7e7304b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1be7da063deb45fd41a8ecd7",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55dbd6aebbddba8cd92c85e5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "07cfce59a50386f1c85aa9ca",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "675143ae0fd3af09fd62fba5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "250a37ced8c759631cafc6e2 declinePlayerMessage",
+    "description": "250a37ced8c759631cafc6e2 description",
+    "failMessageText": "250a37ced8c759631cafc6e2 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "250a37ced8c759631cafc6e2 name",
+    "note": "250a37ced8c759631cafc6e2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "eec22816f51209b9af5a1d15",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "98a7a998cffbf6dacbdfe7e2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6038bce9692253e42062e7d7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "6038bce9692253e42062e7d7",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "250a37ced8c759631cafc6e2 startedMessageText",
+    "successMessageText": "250a37ced8c759631cafc6e2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "6e0f0c2e4597faf4daabfbd7": {
+    "QuestName": "[Bsh] Scav Hunt: Clear Shoreline from 1000 Scav(s)",
+    "_id": "6e0f0c2e4597faf4daabfbd7",
+    "acceptPlayerMessage": "6e0f0c2e4597faf4daabfbd7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6e0f0c2e4597faf4daabfbd7 changeQuestMessageText",
+    "completePlayerMessage": "6e0f0c2e4597faf4daabfbd7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1f519f0193d7dc66ecbf23eb",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "4c4ddcf1e8fb9b9b2efcd11e",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "644b302d8a0afeb085dca940"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cc1bdfe81fe78ddf4cd2e0e6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "110882e25dce70dca89a613a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7dba29c47bd1cee2aeccb2cc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e5edc53dfa1d6efe78dfca29",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1282a59c8ae36908efa2fcbc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "caa7310974a0cc6422c5f034",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd3b488dede5cb4f76d9bd98"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2aded8fefacfb7ecd4c5fecc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a3decd23ebcc6efcc608eca9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eb996f1da669edad115ba076",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f547e32ed3eb0eb3bccb48b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "edb6bed6c9d3ace70df31ac3",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fadb688cfaef0a2bbac89d49"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1fde62cfe5b6c9f5feefe0ee",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea416cde47dd85d347b0f3c0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e833ffdd62b8bbda921eeaa8",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d37de300b3f7210fd86acdb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6e0f0c2e4597faf4daabfbd7 declinePlayerMessage",
+    "description": "6e0f0c2e4597faf4daabfbd7 description",
+    "failMessageText": "6e0f0c2e4597faf4daabfbd7 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "6e0f0c2e4597faf4daabfbd7 name",
+    "note": "6e0f0c2e4597faf4daabfbd7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7eebe9cdad84e019ff4b97c8",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "af390e9e29ec8b3072e5f1c9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7e2f6bb3b6eb4ae7f6eea9c9",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "7e2f6bb3b6eb4ae7f6eea9c9",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6e0f0c2e4597faf4daabfbd7 startedMessageText",
+    "successMessageText": "6e0f0c2e4597faf4daabfbd7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  }
+}

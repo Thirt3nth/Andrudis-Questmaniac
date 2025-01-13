@@ -1,0 +1,1035 @@
+{
+  "f1aa8dab92793e86a778eb39": {
+    "QuestName": "[Mec] Survivalist: Factory x2",
+    "_id": "f1aa8dab92793e86a778eb39",
+    "acceptPlayerMessage": "f1aa8dab92793e86a778eb39 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "f1aa8dab92793e86a778eb39 changeQuestMessageText",
+    "completePlayerMessage": "f1aa8dab92793e86a778eb39 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "bb6a57b4b1bcadcab72ebbe8",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "f9f8da4d59c76f34d7ec7bcf",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "382f4cbae9141e9cf0a9da2b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cdb0af84c3f4c2f5d7168c61",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3ba7ea65fa697dbfe5efe69c",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "f1aa8dab92793e86a778eb39 declinePlayerMessage",
+    "description": "f1aa8dab92793e86a778eb39 description",
+    "failMessageText": "f1aa8dab92793e86a778eb39 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "f1aa8dab92793e86a778eb39 name",
+    "note": "f1aa8dab92793e86a778eb39 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d13a4b870a77b33bb4cddd69",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "9e203361dc0cb9dbf93eeeaa",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bb8b3aeb8acdfb9126bfd8cc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "bb8b3aeb8acdfb9126bfd8cc",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "f1aa8dab92793e86a778eb39 startedMessageText",
+    "successMessageText": "f1aa8dab92793e86a778eb39 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  },
+  "52aaacb7cf6d028e32a2ea8a": {
+    "QuestName": "[Mec] Survivalist: Factory x5",
+    "_id": "52aaacb7cf6d028e32a2ea8a",
+    "acceptPlayerMessage": "52aaacb7cf6d028e32a2ea8a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "52aaacb7cf6d028e32a2ea8a changeQuestMessageText",
+    "completePlayerMessage": "52aaacb7cf6d028e32a2ea8a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "5ec244dad7ffdfc7a5acfbf3",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "3671b8c6e953c4fcadba3baf",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "e32fdad995d6ea93f2da54a5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7dab8efd81aaa08f40e2f5b5",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "def7cdffbfade19a8d4e6c28",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4faf64fdc768af35cb88b368",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea2741f54fd938f22dfecace"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e260ffed6a6da1ae33e949fa",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e1ee8e8a2285eb1da88f3cd8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "26cafdfbfb56e560fac7cae4",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2beda36d4f0acdf781cceb59"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fdac3a67dfb98ffbafcbdb8c",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0b0044be7829e6a6b3a73f4d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "db9f98bb88b5a5addc59a038",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ca4952c179fcd9cfc1a1d5b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0dab5602d4e1aac5fdbb2acd",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f1aa8dab92793e86a778eb39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "46a402aee5335d1dabd655cb",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c9a006c39f0a566daaa2f21f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b2b9392a224f10cdc6af32ee",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb0b1fc4fccffbe565cbb2ff"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "52aaacb7cf6d028e32a2ea8a declinePlayerMessage",
+    "description": "52aaacb7cf6d028e32a2ea8a description",
+    "failMessageText": "52aaacb7cf6d028e32a2ea8a failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "52aaacb7cf6d028e32a2ea8a name",
+    "note": "52aaacb7cf6d028e32a2ea8a note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1be81c3d15962fbfacecfc69",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "efb4e02ab1abcf4074a29ba7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ab6bfdfbb1ddde2b99e782d6",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "ab6bfdfbb1ddde2b99e782d6",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "52aaacb7cf6d028e32a2ea8a startedMessageText",
+    "successMessageText": "52aaacb7cf6d028e32a2ea8a successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  },
+  "eab9e49ec8f2da122d4d59d6": {
+    "QuestName": "[Mec] Survivalist: Factory x10",
+    "_id": "eab9e49ec8f2da122d4d59d6",
+    "acceptPlayerMessage": "eab9e49ec8f2da122d4d59d6 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eab9e49ec8f2da122d4d59d6 changeQuestMessageText",
+    "completePlayerMessage": "eab9e49ec8f2da122d4d59d6 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "c5bbe3ccede5cb2afdacda58",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "a8ad1b5bbc0b181a0eb82efe",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "ebbd0bfdc4cddf9ac5d9f599"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fef4b947ef1d511e9f0f59eb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0cb12abc6613cacb26ef132a",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "57650b689de6a6deb6e4ef2b",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6101e8bf229d74c2faca9b39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ccba11d672aa03c8f74d18d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "da077c0e5fff7ff39a2cde38"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9c4acd04e54687838e3daab8",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e39face8e4772eb255da7ac5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0ef0fa30acdd42addcd316ca",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b6dce7d3751ea84990be7bb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cf498baca38f430d55c7f87c",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fedacdaadcd9cfdac8c004f3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ca5fab0dcfdf8becf5d90c2f",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "52aaacb7cf6d028e32a2ea8a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a604c30ac4fff1dcd8eecf7f",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f048439d15dd21d7c2603da"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ecc78aabaf31c9aadeca5e73",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dfb4fa50ffceaac7ef49ff0a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eab9e49ec8f2da122d4d59d6 declinePlayerMessage",
+    "description": "eab9e49ec8f2da122d4d59d6 description",
+    "failMessageText": "eab9e49ec8f2da122d4d59d6 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "eab9e49ec8f2da122d4d59d6 name",
+    "note": "eab9e49ec8f2da122d4d59d6 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cc4d14fd6acb410f20db10ab",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "d2fcee06c94fe7dad6abe0ac",
+          "index": 4,
+          "items": [
+            {
+              "_id": "651244148bce46a34dfe1756",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "651244148bce46a34dfe1756",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eab9e49ec8f2da122d4d59d6 startedMessageText",
+    "successMessageText": "eab9e49ec8f2da122d4d59d6 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  },
+  "daf169fe1e14c4bd8fde27e8": {
+    "QuestName": "[Mec] Survivalist: Factory x5",
+    "_id": "daf169fe1e14c4bd8fde27e8",
+    "acceptPlayerMessage": "daf169fe1e14c4bd8fde27e8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "daf169fe1e14c4bd8fde27e8 changeQuestMessageText",
+    "completePlayerMessage": "daf169fe1e14c4bd8fde27e8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "cbcaf7930e532da0afcfba7a",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "6686bab855bcf1ea8f09924a",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "39a1c1fc202a42a627d3daca"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e799a0d89f96e04e38ccdd4c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ba183fb7e39aca3ecded0d89",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b93ee2c27bb0b328febaa812",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c960cb46c2ed44618cba6eda"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffa6c1bbc98322b795a07eec",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5eadc84b39fb601fe1dd061a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd11fa87f9b09daa8dd8526a",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1e2d81816d37deaf43e1fbca"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "929e8fdd1efbe31bb1bf231c",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "133b4c8ca5d4e9626a2124ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ecde5e75fc31f51e62b20c66",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc3ea75d553e05a5cec4bffc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fc09b7325ff23dedbdfb82d7",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eab9e49ec8f2da122d4d59d6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "97f337b6255fc0b0ffd0ecfd",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6a32d4a00247cedaedffec0e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fdeb3169d25fce4d914a7de6",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d6fabef5edb84fb1fbc23bda"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "cb753be02fad25adfeabf1e1",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "59a4b0aaddad4a27d3bac56f",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "5a8acd69ba9a5c6216bbdbcf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "8bd96ba54bfbd5ebabdb10e7",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "daf169fe1e14c4bd8fde27e8 declinePlayerMessage",
+    "description": "daf169fe1e14c4bd8fde27e8 description",
+    "failMessageText": "daf169fe1e14c4bd8fde27e8 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "daf169fe1e14c4bd8fde27e8 name",
+    "note": "daf169fe1e14c4bd8fde27e8 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e0be0cc9f3f6bd5daf27246d",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "cf86aadb92660c8de8b6a87e",
+          "index": 5,
+          "items": [
+            {
+              "_id": "0faf7d2e85d7be048edcaa14",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "0faf7d2e85d7be048edcaa14",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "e9b6aecaf088993e82d29f84",
+          "index": 6,
+          "items": [
+            {
+              "_id": "eb73420c1ed5f26d2b0a347f",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "eb73420c1ed5f26d2b0a347f",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "bf33a74e8ccca426bc71e106",
+          "index": 7,
+          "items": [
+            {
+              "_id": "3a5c3cdb36cde8e3fbda5ff7",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "3a5c3cdb36cde8e3fbda5ff7",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "daf169fe1e14c4bd8fde27e8 startedMessageText",
+    "successMessageText": "daf169fe1e14c4bd8fde27e8 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  },
+  "f00fabf6de7bfbbb17b4a6ad": {
+    "QuestName": "[Mec] Survivalist: Factory x10",
+    "_id": "f00fabf6de7bfbbb17b4a6ad",
+    "acceptPlayerMessage": "f00fabf6de7bfbbb17b4a6ad acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "f00fabf6de7bfbbb17b4a6ad changeQuestMessageText",
+    "completePlayerMessage": "f00fabf6de7bfbbb17b4a6ad completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "5c34f70e144d5ceaffefafed",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "105c4b9329b3bcfed9c34e37",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "cebee2bce7c62da290aa4feb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "348bc9fdae093eb4a92f19b3",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8bcac0aeb4e4f6dd0a70ab8e",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3259fecfa2cc1aaaa3f7eddb",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "caaa8addfd6c4f700c5efc42"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b0befbffcb6bb2eff1e75ae8",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "efb061ba8fa7de4501f9cfe9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "df1fd4d49a6dafb7c130e94e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4e596b76ea591d4dbb4d148b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e3dcff715eeafab8db79b6d0",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a4efbaa5ec6ac68a4a9cd5b4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ce4babbea0daca7e0af6d7dd",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fefbdaff1bae5f2c2d83dfcd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eee5da87dfdb4bffe0b478db",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "daf169fe1e14c4bd8fde27e8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c9cba9138ca9913d68d62d60",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3d3b8dc5e3a4999b9a88e9b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6c2e85f2d38ecad3cbc6bdad",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d6f929e1c2bdbccf8bc576b"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "bb14bbdfd7b3fc485db7edab",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "8e4a73e0fc2edc3d60321db6",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "50a4fb64fdbf7b7c8ff9c78d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "acf9adcdba85a070c6b07cad",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "f00fabf6de7bfbbb17b4a6ad declinePlayerMessage",
+    "description": "f00fabf6de7bfbbb17b4a6ad description",
+    "failMessageText": "f00fabf6de7bfbbb17b4a6ad failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "f00fabf6de7bfbbb17b4a6ad name",
+    "note": "f00fabf6de7bfbbb17b4a6ad note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9edef4cbd7846dcd2957cabc",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "e07cf556dbecfb8ee8d9c5f5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "2afaa8c7dcb32255c297bbff",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "2afaa8c7dcb32255c297bbff",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "aa05a0d8516f9c3d5e5ebc7e",
+          "index": 6,
+          "items": [
+            {
+              "_id": "02c4fea0afe4da99fc0c138f",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "02c4fea0afe4da99fc0c138f",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "4dd03ea71b028fefcc29eebc",
+          "index": 7,
+          "items": [
+            {
+              "_id": "cb6fc1bc6fd8a61d949f8c17",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "cb6fc1bc6fd8a61d949f8c17",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "f00fabf6de7bfbbb17b4a6ad startedMessageText",
+    "successMessageText": "f00fabf6de7bfbbb17b4a6ad successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  }
+}

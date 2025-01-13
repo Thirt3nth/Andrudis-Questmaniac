@@ -1,0 +1,692 @@
+{
+  "26d329e27faeb61aecc6aded": {
+    "QuestName": "[Lab] Survivalist: The Lab x2",
+    "_id": "26d329e27faeb61aecc6aded",
+    "acceptPlayerMessage": "26d329e27faeb61aecc6aded acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "26d329e27faeb61aecc6aded changeQuestMessageText",
+    "completePlayerMessage": "26d329e27faeb61aecc6aded completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "0bfeda79285bec20eafeeebb",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "c752a8959ee4b3ecd3a9c184",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "cc9aa296fa33ebe9c1b56fcf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "67d3eef4aae6e74bbd630843",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c4ac8fa17fb50ae52e8ebefb",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "26d329e27faeb61aecc6aded declinePlayerMessage",
+    "description": "26d329e27faeb61aecc6aded description",
+    "failMessageText": "26d329e27faeb61aecc6aded failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "26d329e27faeb61aecc6aded name",
+    "note": "26d329e27faeb61aecc6aded note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f1351dd2b76fceaf8b55a796",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "cb1a1cd41e17bf87ebcc3aa0",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ceb0b0c0e5bf0e901b4dc1b7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "ceb0b0c0e5bf0e901b4dc1b7",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "26d329e27faeb61aecc6aded startedMessageText",
+    "successMessageText": "26d329e27faeb61aecc6aded successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "eec3260a3808bdebad6fea5d": {
+    "QuestName": "[Lab] Survivalist: The Lab x5",
+    "_id": "eec3260a3808bdebad6fea5d",
+    "acceptPlayerMessage": "eec3260a3808bdebad6fea5d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eec3260a3808bdebad6fea5d changeQuestMessageText",
+    "completePlayerMessage": "eec3260a3808bdebad6fea5d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "bd3e9d7edf60aae73bc6db60",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "ca0daf1ca3f2948013bfde64",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "faaa0fd0a9beed69ffc81cef"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a25a1aedb9cfceba19c2b46c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fe895e7bf23fa50054affebc",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f081fceafbc15ac2bd8dee2e",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "26d329e27faeb61aecc6aded"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eec3260a3808bdebad6fea5d declinePlayerMessage",
+    "description": "eec3260a3808bdebad6fea5d description",
+    "failMessageText": "eec3260a3808bdebad6fea5d failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "eec3260a3808bdebad6fea5d name",
+    "note": "eec3260a3808bdebad6fea5d note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "549d19f80ff260dfaf909137",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "c2aa9427aff1a75e4c42d92a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "c235f2d78ddfe3e22b66b3b1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "c235f2d78ddfe3e22b66b3b1",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eec3260a3808bdebad6fea5d startedMessageText",
+    "successMessageText": "eec3260a3808bdebad6fea5d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "ec2b4aeb7aecb84fcde2c74c": {
+    "QuestName": "[Lab] Survivalist: The Lab x10",
+    "_id": "ec2b4aeb7aecb84fcde2c74c",
+    "acceptPlayerMessage": "ec2b4aeb7aecb84fcde2c74c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ec2b4aeb7aecb84fcde2c74c changeQuestMessageText",
+    "completePlayerMessage": "ec2b4aeb7aecb84fcde2c74c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "cfacc28aefffd505b33a2ccd",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "64ae9cd9ed3e3b48de57efda",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "568d67b36121f1eae0a85ebc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8ad74d0d0eff2e3d6d4f6aac",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "64cc4cf149fbaf7d0b7c6fec",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "babd63c7c7a1cacf8cb9fe10",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eec3260a3808bdebad6fea5d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ec2b4aeb7aecb84fcde2c74c declinePlayerMessage",
+    "description": "ec2b4aeb7aecb84fcde2c74c description",
+    "failMessageText": "ec2b4aeb7aecb84fcde2c74c failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ec2b4aeb7aecb84fcde2c74c name",
+    "note": "ec2b4aeb7aecb84fcde2c74c note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b576f68c9299f2eebc7dbf44",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "eb8447b8f2430ea24d5a0042",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e3f0e73120cfbc7d6ebf1a5a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "e3f0e73120cfbc7d6ebf1a5a",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ec2b4aeb7aecb84fcde2c74c startedMessageText",
+    "successMessageText": "ec2b4aeb7aecb84fcde2c74c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "6eb799a5fb80a11ec835cd86": {
+    "QuestName": "[Lab] Survivalist: The Lab x5",
+    "_id": "6eb799a5fb80a11ec835cd86",
+    "acceptPlayerMessage": "6eb799a5fb80a11ec835cd86 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6eb799a5fb80a11ec835cd86 changeQuestMessageText",
+    "completePlayerMessage": "6eb799a5fb80a11ec835cd86 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "262c8c97299afa0a49eb0f1e",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "c2af4e41cd4c5e3068398f3d",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "0aaecffedc9a8eb5bfdb32c1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0f812a70fa42ea87c81a3a7e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1d0965f7f23fad3f461b3aab",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3f8d3d6dbcf6bdcdbb3acdd5",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ec2b4aeb7aecb84fcde2c74c"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "817acef242fb7abd82baed95",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "c9bb07a60dedb440beab0b8c",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "fc9f75f7c3fcf5711b98e0c9"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "1b9bf2d0078e88ccdeb5a154",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "6eb799a5fb80a11ec835cd86 declinePlayerMessage",
+    "description": "6eb799a5fb80a11ec835cd86 description",
+    "failMessageText": "6eb799a5fb80a11ec835cd86 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "6eb799a5fb80a11ec835cd86 name",
+    "note": "6eb799a5fb80a11ec835cd86 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "30d73c57db6a697eadeff67e",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "84cfe180538eacc8f0dccef8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dbf7db12e00baaeae5ab6018",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "dbf7db12e00baaeae5ab6018",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "bda21adf7fed8613dfbebb94",
+          "index": 6,
+          "items": [
+            {
+              "_id": "4e4b916bb3ecbc12afdacbf5",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "4e4b916bb3ecbc12afdacbf5",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "6437cc1c28e5c0b923af6ef7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "379ea047e1f9e3b27707deef",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "379ea047e1f9e3b27707deef",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6eb799a5fb80a11ec835cd86 startedMessageText",
+    "successMessageText": "6eb799a5fb80a11ec835cd86 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "e6e4dc5e3670caf9f17cb284": {
+    "QuestName": "[Lab] Survivalist: The Lab x10",
+    "_id": "e6e4dc5e3670caf9f17cb284",
+    "acceptPlayerMessage": "e6e4dc5e3670caf9f17cb284 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e6e4dc5e3670caf9f17cb284 changeQuestMessageText",
+    "completePlayerMessage": "e6e4dc5e3670caf9f17cb284 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "c3c537466a39cafd68a7ec2a",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "1cc9c76aafd247ca9ebaad5e",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "ac9fafae5f38723c77f6da7c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9c66b1e29f2fabf84bb28c6d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "530426433bdee7f5671bdfb7",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bce5efc98d7eb3efe72cad2d",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "caaa8addfd6c4f700c5efc42"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "ceafc8236d0f4d8f808b2f7b",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "24eadaec29a37c0fcdc17a1e",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "3b7f3625b07c7f2a5f6f4fd3"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "a4f0cfe86dfa1b59caf18802",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "e6e4dc5e3670caf9f17cb284 declinePlayerMessage",
+    "description": "e6e4dc5e3670caf9f17cb284 description",
+    "failMessageText": "e6e4dc5e3670caf9f17cb284 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "e6e4dc5e3670caf9f17cb284 name",
+    "note": "e6e4dc5e3670caf9f17cb284 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "afa9c15bfc3430d4de3debdd",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "dace9b78ca8c2eb42eb8cdb2",
+          "index": 5,
+          "items": [
+            {
+              "_id": "3cb629b69cfd5076b56ccd17",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "3cb629b69cfd5076b56ccd17",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "2fb0f2eecce1b63d4972fb36",
+          "index": 6,
+          "items": [
+            {
+              "_id": "7ec72bbd0847cab46dcfcaf7",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "7ec72bbd0847cab46dcfcaf7",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "ac44d274eaedaacb8ebd0cda",
+          "index": 7,
+          "items": [
+            {
+              "_id": "cc65e83aefb746a3c23fbbc2",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "cc65e83aefb746a3c23fbbc2",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e6e4dc5e3670caf9f17cb284 startedMessageText",
+    "successMessageText": "e6e4dc5e3670caf9f17cb284 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  }
+}

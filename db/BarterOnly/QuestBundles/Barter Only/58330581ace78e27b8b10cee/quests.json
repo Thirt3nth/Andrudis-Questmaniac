@@ -1,0 +1,2918 @@
+{
+    "dcb6e1e2dac7e11fa743c84f": {
+        "_id": "dcb6e1e2dac7e11fa743c84f",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "a8c8daea7d4e995befb4dd7e",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "9ca767776c7ebda13f47d8e3",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59f32bb586f774757e1e8442",
+                            "59f32c3b86f77472a31742f0"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "dcb6e1e2dac7e11fa743c84f description",
+        "failMessageText": "dcb6e1e2dac7e11fa743c84f failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "dcb6e1e2dac7e11fa743c84f name",
+        "note": "dcb6e1e2dac7e11fa743c84f note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "8ecca9fdacee618f46b9f2f7",
+                    "value": "1",
+                    "id": "5b5dbfcd2ea5ac41b27c3a89",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "8ecca9fdacee618f46b9f2f7",
+                            "_tpl": "564caa3d4bdc2d17108b458e",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438bfc2",
+                    "id": "8d8a30dbfe7dbacfdc4a2cbf",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438bfc2",
+                            "_tpl": "564caa3d4bdc2d17108b458e",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "dcb6e1e2dac7e11fa743c84f startedMessageText",
+        "successMessageText": "dcb6e1e2dac7e11fa743c84f successMessageText",
+        "templateId": "dcb6e1e2dac7e11fa743c84f",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: AK 5.45x39 TGP-A muzzle device-suppressor",
+        "acceptPlayerMessage": "dcb6e1e2dac7e11fa743c84f acceptPlayerMessage",
+        "changeQuestMessageText": "dcb6e1e2dac7e11fa743c84f changeQuestMessageText",
+        "completePlayerMessage": "dcb6e1e2dac7e11fa743c84f completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "30acce1bed7d0f34dba7a1ee": {
+        "_id": "30acce1bed7d0f34dba7a1ee",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "a0df3cb1c1ce2da4adf0db48",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "b0bdfde0f9acfcd31375a056",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5734770f24597738025ee254"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "8df688bcbcbbc414dcb5a0df",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "573476f124597737e04bf328"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "30acce1bed7d0f34dba7a1ee description",
+        "failMessageText": "30acce1bed7d0f34dba7a1ee failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "30acce1bed7d0f34dba7a1ee name",
+        "note": "30acce1bed7d0f34dba7a1ee note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "668d6decbb4b7e9f67a7bd4a",
+                    "value": "1",
+                    "id": "a9cbabeecd8f888fbdfd7ac1",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "668d6decbb4b7e9f67a7bd4a",
+                            "_tpl": "5c1127bdd174af44217ab8b9",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438bfc4",
+                    "id": "2ca8cce0abb2ae82c09a620c",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438bfc4",
+                            "_tpl": "5c1127bdd174af44217ab8b9",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "30acce1bed7d0f34dba7a1ee startedMessageText",
+        "successMessageText": "30acce1bed7d0f34dba7a1ee successMessageText",
+        "templateId": "30acce1bed7d0f34dba7a1ee",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: 9x19mm RIP 20 pcs. ammo box",
+        "acceptPlayerMessage": "30acce1bed7d0f34dba7a1ee acceptPlayerMessage",
+        "changeQuestMessageText": "30acce1bed7d0f34dba7a1ee changeQuestMessageText",
+        "completePlayerMessage": "30acce1bed7d0f34dba7a1ee completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "7bfebbddf68fd73ca57dddfc": {
+        "_id": "7bfebbddf68fd73ca57dddfc",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "a6917adf1ef4ad6e47e6ae9f",
+                        "index": 12,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "55caf865febfd1e98c8c2edc",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d0378d486f77420421a5ff4"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "7bfebbddf68fd73ca57dddfc description",
+        "failMessageText": "7bfebbddf68fd73ca57dddfc failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "7bfebbddf68fd73ca57dddfc name",
+        "note": "7bfebbddf68fd73ca57dddfc note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "f98e00eec65a5e32ea1ffd5b",
+                    "value": "1",
+                    "id": "9e780f81a43c86b3aa57b738",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "f98e00eec65a5e32ea1ffd5b",
+                            "_tpl": "588892092459774ac91d4b11",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        },
+                        {
+                            "_id": "566e6ffff8eabcfc0ebea01f",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "f98e00eec65a5e32ea1ffd5b",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "ad5db2ddda829ba81c04aadc",
+                            "_tpl": "5888945a2459774bf43ba385",
+                            "parentId": "f98e00eec65a5e32ea1ffd5b",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "beb5a96d9ee01b0adbfb159e",
+                            "_tpl": "58889c7324597754281f9439",
+                            "parentId": "ad5db2ddda829ba81c04aadc",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "9ea4cc74ffb9c4044d3ad7ac",
+                            "_tpl": "5888961624597754281f93f3",
+                            "parentId": "ad5db2ddda829ba81c04aadc",
+                            "slotId": "mod_bipod"
+                        },
+                        {
+                            "_id": "cfdce84c7afb7b17cfd40766",
+                            "_tpl": "57c55f172459772d27602381",
+                            "parentId": "f98e00eec65a5e32ea1ffd5b",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "6ceabfb858f8286ebe3d7553",
+                            "_tpl": "58889d0c2459775bc215d981",
+                            "parentId": "f98e00eec65a5e32ea1ffd5b",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438bfea",
+                    "id": "4ce8f9ebcddcf0cd480b6bdd",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438bfea",
+                            "_tpl": "588892092459774ac91d4b11",
+                                                        "slotId": "hideout"
+                        },
+                        {
+                            "_id": "a34faa65eb6b5cb1db04c70c",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "61e0a28d033bdc459438bfea",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "ded5e3231da8ca8bd3c2e949",
+                            "_tpl": "5888945a2459774bf43ba385",
+                            "parentId": "61e0a28d033bdc459438bfea",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "50f8efcfb6dee0f1bfb9c2ab",
+                            "_tpl": "58889c7324597754281f9439",
+                            "parentId": "ded5e3231da8ca8bd3c2e949",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "f4e18cde7600ff60e2372b22",
+                            "_tpl": "5888961624597754281f93f3",
+                            "parentId": "ded5e3231da8ca8bd3c2e949",
+                            "slotId": "mod_bipod"
+                        },
+                        {
+                            "_id": "cfbffb3b92b3c23cc497fc99",
+                            "_tpl": "57c55f172459772d27602381",
+                            "parentId": "61e0a28d033bdc459438bfea",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "d966ca0add8c2ee50bddaf6d",
+                            "_tpl": "58889d0c2459775bc215d981",
+                            "parentId": "61e0a28d033bdc459438bfea",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "7bfebbddf68fd73ca57dddfc startedMessageText",
+        "successMessageText": "7bfebbddf68fd73ca57dddfc successMessageText",
+        "templateId": "7bfebbddf68fd73ca57dddfc",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: LOBAEV Arms DVL-10 Saboteur 7.62x51 bolt-action sniper rifle",
+        "acceptPlayerMessage": "7bfebbddf68fd73ca57dddfc acceptPlayerMessage",
+        "changeQuestMessageText": "7bfebbddf68fd73ca57dddfc changeQuestMessageText",
+        "completePlayerMessage": "7bfebbddf68fd73ca57dddfc completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "2cdbe316adfcbecbdcebcea9": {
+        "_id": "2cdbe316adfcbecbdcebcea9",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "5517ad29c1fe1d42ad3b8e97",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "04df6eddab233b1d003a2d96",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "57347cd0245977445a2d6ff1"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "2cdbe316adfcbecbdcebcea9 description",
+        "failMessageText": "2cdbe316adfcbecbdcebcea9 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "2cdbe316adfcbecbdcebcea9 name",
+        "note": "2cdbe316adfcbecbdcebcea9 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "777df4a6deaacc4ba9e674ff",
+                    "value": "1",
+                    "id": "0187cbba45b5e2671b88fcea",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "777df4a6deaacc4ba9e674ff",
+                            "_tpl": "5c1127d0d174af29be75cf68",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438bff6",
+                    "id": "a7c9fdabd3bcdfa86daea984",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438bff6",
+                            "_tpl": "5c1127d0d174af29be75cf68",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "2cdbe316adfcbecbdcebcea9 startedMessageText",
+        "successMessageText": "2cdbe316adfcbecbdcebcea9 successMessageText",
+        "templateId": "2cdbe316adfcbecbdcebcea9",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: 12/70 RIP 5 pcs. ammo box",
+        "acceptPlayerMessage": "2cdbe316adfcbecbdcebcea9 acceptPlayerMessage",
+        "changeQuestMessageText": "2cdbe316adfcbecbdcebcea9 changeQuestMessageText",
+        "completePlayerMessage": "2cdbe316adfcbecbdcebcea9 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "34bcc7f1afc0f3284a4ed0d7": {
+        "_id": "34bcc7f1afc0f3284a4ed0d7",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "c9b6da9daff338bedfe2a09d",
+                        "index": 14,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "1"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "eebc20183afcefbdeaf5293b",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "573478bc24597738002c6175"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "34bcc7f1afc0f3284a4ed0d7 description",
+        "failMessageText": "34bcc7f1afc0f3284a4ed0d7 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "34bcc7f1afc0f3284a4ed0d7 name",
+        "note": "34bcc7f1afc0f3284a4ed0d7 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "fc12b5c7b3b941fbe589816a",
+                    "value": "1",
+                    "id": "51c8169fcdcefcbefcbdd222",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "fc12b5c7b3b941fbe589816a",
+                            "_tpl": "59e6152586f77473dc057aa1",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        },
+                        {
+                            "_id": "8ef30aec1ab4c8b7daebfe6d",
+                            "_tpl": "59e649f986f77411d949b246",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "ee6693853e3af3cad09b6ea6",
+                            "_tpl": "59e6284f86f77440d569536f",
+                            "parentId": "8ef30aec1ab4c8b7daebfe6d",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "c5c037e82ddccd4affc8c89d",
+                            "_tpl": "59e61eb386f77440d64f5daf",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "7a4d55c047ddc6efed16af5a",
+                            "_tpl": "59e6318286f77444dd62c4cc",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "3fd455cae361fbc43e68bc4d",
+                            "_tpl": "59e6449086f7746c9f75e822",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "b0a4dec8b88c40ebccacfccf",
+                            "_tpl": "59d650cf86f7741b846413a4",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "4ae55ef9ddeef5cb9e84caa7",
+                            "_tpl": "59e6227d86f77440d64f5dc2",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "a28d10c2db0cb8ecc52201be",
+                            "_tpl": "59d625f086f774661516605d",
+                            "parentId": "fc12b5c7b3b941fbe589816a",
+                            "slotId": "mod_magazine"
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438c002",
+                    "id": "4f204aa35bee7b5eb3120b60",
+                    "type": "AssortmentUnlock",
+                    "index": 12,
+                    "loyaltyLevel": 1,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438c002",
+                            "_tpl": "59e6152586f77473dc057aa1",
+                                                        "slotId": "hideout"
+                        },
+                        {
+                            "_id": "669dbb2fe7fe2cde95a65996",
+                            "_tpl": "59e649f986f77411d949b246",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "7b48ef48fc4f6f4a2bc8b2c6",
+                            "_tpl": "59e6284f86f77440d569536f",
+                            "parentId": "669dbb2fe7fe2cde95a65996",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "a4fe5b6bef039ffddfb357e0",
+                            "_tpl": "59e61eb386f77440d64f5daf",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "7bdc86a9db1aee385e0a54d7",
+                            "_tpl": "59e6318286f77444dd62c4cc",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "b0b8dd4a1539bbcabb0ffdc8",
+                            "_tpl": "59e6449086f7746c9f75e822",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "ef9bacededdac5947deb131b",
+                            "_tpl": "59d650cf86f7741b846413a4",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "e3fdded71dee3b57a89a5030",
+                            "_tpl": "59e6227d86f77440d64f5dc2",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "90abec838aeec572bcfe99fa",
+                            "_tpl": "59d625f086f774661516605d",
+                            "parentId": "61e0a28d033bdc459438c002",
+                            "slotId": "mod_magazine"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "34bcc7f1afc0f3284a4ed0d7 startedMessageText",
+        "successMessageText": "34bcc7f1afc0f3284a4ed0d7 successMessageText",
+        "templateId": "34bcc7f1afc0f3284a4ed0d7",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Molot VPO-136 'Vepr-KM' 7.62x39 carbine",
+        "acceptPlayerMessage": "34bcc7f1afc0f3284a4ed0d7 acceptPlayerMessage",
+        "changeQuestMessageText": "34bcc7f1afc0f3284a4ed0d7 changeQuestMessageText",
+        "completePlayerMessage": "34bcc7f1afc0f3284a4ed0d7 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "bcdc6fe79cebe97de56ce1ae": {
+        "_id": "bcdc6fe79cebe97de56ce1ae",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "13ceed94e86faaa5e895a5f6",
+                        "index": 9,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "5dbe9a9e7eaffd0aeb3bce4b",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c052f6886f7746b1e3db148"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "95b8835425d781dfbe6b5fc3",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5913915886f774123603c392"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "f7151b2f2e83c17df89cbfe5",
+                        "index": 2,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c1267ee86f77416ec610f72"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "e83adbcb42ff319ebb12a578",
+                        "index": 3,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d03775b86f774203e7e0c4b"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "bcdc6fe79cebe97de56ce1ae description",
+        "failMessageText": "bcdc6fe79cebe97de56ce1ae failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "bcdc6fe79cebe97de56ce1ae name",
+        "note": "bcdc6fe79cebe97de56ce1ae note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "a2c9cedbc40eec951da29cf2",
+                    "value": "1",
+                    "id": "ba91bfcbe712b4fe51afa960",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "a2c9cedbc40eec951da29cf2",
+                            "_tpl": "5bffdd7e0db834001b734a1a",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28d033bdc459438c01f",
+                    "id": "431c2afecb4b2e93d5db1791",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28d033bdc459438c01f",
+                            "_tpl": "5bffdd7e0db834001b734a1a",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "bcdc6fe79cebe97de56ce1ae startedMessageText",
+        "successMessageText": "bcdc6fe79cebe97de56ce1ae successMessageText",
+        "templateId": "bcdc6fe79cebe97de56ce1ae",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Miller Bros. Blades M-2 Tactical Sword",
+        "acceptPlayerMessage": "bcdc6fe79cebe97de56ce1ae acceptPlayerMessage",
+        "changeQuestMessageText": "bcdc6fe79cebe97de56ce1ae changeQuestMessageText",
+        "completePlayerMessage": "bcdc6fe79cebe97de56ce1ae completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "41ba6e36b6bdcfe1126bdc74": {
+        "_id": "41ba6e36b6bdcfe1126bdc74",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "0ec8db7dba98ad24ded35927",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "f45b546f013a27aebc6102e7",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59f32bb586f774757e1e8442",
+                            "59f32c3b86f77472a31742f0"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "41ba6e36b6bdcfe1126bdc74 description",
+        "failMessageText": "41ba6e36b6bdcfe1126bdc74 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "41ba6e36b6bdcfe1126bdc74 name",
+        "note": "41ba6e36b6bdcfe1126bdc74 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "9c86e1120413f1b0af587230",
+                    "value": "1",
+                    "id": "c5b4ba5de66809a46ea3e16c",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "9c86e1120413f1b0af587230",
+                            "_tpl": "56ea70acd2720b844b8b4594",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28e033bdc459438c0b3",
+                    "id": "ebd4e5deca2aebfd648d6b9d",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28e033bdc459438c0b3",
+                            "_tpl": "56ea70acd2720b844b8b4594",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "41ba6e36b6bdcfe1126bdc74 startedMessageText",
+        "successMessageText": "41ba6e36b6bdcfe1126bdc74 successMessageText",
+        "templateId": "41ba6e36b6bdcfe1126bdc74",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Hensoldt FF 4-16x56 scope",
+        "acceptPlayerMessage": "41ba6e36b6bdcfe1126bdc74 acceptPlayerMessage",
+        "changeQuestMessageText": "41ba6e36b6bdcfe1126bdc74 changeQuestMessageText",
+        "completePlayerMessage": "41ba6e36b6bdcfe1126bdc74 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "23b0c6dcb2eb571fd6d6654f": {
+        "_id": "23b0c6dcb2eb571fd6d6654f",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "bfbad552d763caa727df92bb",
+                        "index": 8,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "c0e8caecf8c246b4167adc95",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59e3647686f774176a362507"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "23fac72b671dc8b156fa25ef",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59faf7ca86f7740dbe19f6c2"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "facb9770bba2b9637dfb2acf",
+                        "index": 2,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d235a5986f77443f6329bc6"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "23b0c6dcb2eb571fd6d6654f description",
+        "failMessageText": "23b0c6dcb2eb571fd6d6654f failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "23b0c6dcb2eb571fd6d6654f name",
+        "note": "23b0c6dcb2eb571fd6d6654f note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "6406dc25ba4fe6f4cb9e21b7",
+                    "value": "1",
+                    "id": "b1c6863e80c329bccfa8ab05",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "6406dc25ba4fe6f4cb9e21b7",
+                            "_tpl": "5a1eaa87fcdbcb001865f75e",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28e033bdc459438c0e7",
+                    "id": "6f883e1713e4b49dae43229d",
+                    "type": "AssortmentUnlock",
+                    "index": 6,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28e033bdc459438c0e7",
+                            "_tpl": "5a1eaa87fcdbcb001865f75e",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "23b0c6dcb2eb571fd6d6654f startedMessageText",
+        "successMessageText": "23b0c6dcb2eb571fd6d6654f successMessageText",
+        "templateId": "23b0c6dcb2eb571fd6d6654f",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Trijicon REAP-IR thermal scope",
+        "acceptPlayerMessage": "23b0c6dcb2eb571fd6d6654f acceptPlayerMessage",
+        "changeQuestMessageText": "23b0c6dcb2eb571fd6d6654f changeQuestMessageText",
+        "completePlayerMessage": "23b0c6dcb2eb571fd6d6654f completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "09f2b10861af815bd8dcf268": {
+        "_id": "09f2b10861af815bd8dcf268",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "a83d7dbe6e927c7af8ebb9a0",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "2"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ed6ccd5e19616e1d99c0d2ec",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5af0484c86f7740f02001f7f"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "09f2b10861af815bd8dcf268 description",
+        "failMessageText": "09f2b10861af815bd8dcf268 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "09f2b10861af815bd8dcf268 name",
+        "note": "09f2b10861af815bd8dcf268 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "bcf4daedaaaccbf65d73ec51",
+                    "value": "1",
+                    "id": "4eb55fb1a3f99b64a94b7dcb",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "bcf4daedaaaccbf65d73ec51",
+                            "_tpl": "5a9fb739a2750c003215717f",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28e033bdc459438c0fd",
+                    "id": "c54cef0f2b1ca93efa6dad8d",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 2,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28e033bdc459438c0fd",
+                            "_tpl": "5a9fb739a2750c003215717f",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "09f2b10861af815bd8dcf268 startedMessageText",
+        "successMessageText": "09f2b10861af815bd8dcf268 successMessageText",
+        "templateId": "09f2b10861af815bd8dcf268",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Rotor 43 9x19 muzzle brake-compensator",
+        "acceptPlayerMessage": "09f2b10861af815bd8dcf268 acceptPlayerMessage",
+        "changeQuestMessageText": "09f2b10861af815bd8dcf268 changeQuestMessageText",
+        "completePlayerMessage": "09f2b10861af815bd8dcf268 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "beb58da7fea63a3a7fac7dec": {
+        "_id": "beb58da7fea63a3a7fac7dec",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "43ad55e7ebd25cea2bfbb3af",
+                        "index": 13,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "34fb64802b97e0f3d14afa3e",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "573478bc24597738002c6175"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "6f0c559f4cc263183fb782f0",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590de71386f774347051a052"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "beb58da7fea63a3a7fac7dec description",
+        "failMessageText": "beb58da7fea63a3a7fac7dec failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "beb58da7fea63a3a7fac7dec name",
+        "note": "beb58da7fea63a3a7fac7dec note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "9f19f8db9aa501f6413992b0",
+                    "value": "1",
+                    "id": "8ad9ce4f86046eae6d231acd",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "9f19f8db9aa501f6413992b0",
+                            "_tpl": "588892092459774ac91d4b11",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        },
+                        {
+                            "_id": "828c0991d8f5c6934ab6afcf",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "9f19f8db9aa501f6413992b0",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "8d31fdda76df96a5df5aa934",
+                            "_tpl": "5888956924597752983e182d",
+                            "parentId": "9f19f8db9aa501f6413992b0",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "cea89dec45d012cb130daf0f",
+                            "_tpl": "5888996c24597754281f9419",
+                            "parentId": "8d31fdda76df96a5df5aa934",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "aff2414ea6f5b614214c9bc8",
+                            "_tpl": "5888976c24597754281f93f5",
+                            "parentId": "8d31fdda76df96a5df5aa934",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "d6c05fcf3aeb2e4ff68ddd81",
+                            "_tpl": "57c55f172459772d27602381",
+                            "parentId": "9f19f8db9aa501f6413992b0",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "1c4b911877ede4b0debe0de8",
+                            "_tpl": "58889d0c2459775bc215d981",
+                            "parentId": "9f19f8db9aa501f6413992b0",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28e033bdc459438c121",
+                    "id": "aacfa0f9d8a41f4ed56ae3cf",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28e033bdc459438c121",
+                            "_tpl": "588892092459774ac91d4b11",
+                                                        "slotId": "hideout"
+                        },
+                        {
+                            "_id": "cd6ef4feeb18da973d7406a7",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "61e0a28e033bdc459438c121",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "2a6ac5cecbccbfef9d1d3ffa",
+                            "_tpl": "5888956924597752983e182d",
+                            "parentId": "61e0a28e033bdc459438c121",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "3bf18bb1b3804e00f8dfebac",
+                            "_tpl": "5888996c24597754281f9419",
+                            "parentId": "2a6ac5cecbccbfef9d1d3ffa",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "42fe895b8afee531b6edfb4c",
+                            "_tpl": "5888976c24597754281f93f5",
+                            "parentId": "2a6ac5cecbccbfef9d1d3ffa",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "b17fd3c5de5c1b2dc37aef10",
+                            "_tpl": "57c55f172459772d27602381",
+                            "parentId": "61e0a28e033bdc459438c121",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "c18a0efcfce99e512a599fea",
+                            "_tpl": "58889d0c2459775bc215d981",
+                            "parentId": "61e0a28e033bdc459438c121",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "beb58da7fea63a3a7fac7dec startedMessageText",
+        "successMessageText": "beb58da7fea63a3a7fac7dec successMessageText",
+        "templateId": "beb58da7fea63a3a7fac7dec",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: LOBAEV Arms DVL-10 Saboteur 7.62x51 bolt-action sniper rifle",
+        "acceptPlayerMessage": "beb58da7fea63a3a7fac7dec acceptPlayerMessage",
+        "changeQuestMessageText": "beb58da7fea63a3a7fac7dec changeQuestMessageText",
+        "completePlayerMessage": "beb58da7fea63a3a7fac7dec completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "e9f904b4e3d22fbabb6fb2ee": {
+        "_id": "e9f904b4e3d22fbabb6fb2ee",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "198ebc7bcbee616cae0ae517",
+                        "index": 8,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "fbef253a389a5da8f43cb37c",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d1b376e86f774252519444e"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ffbd119679fd51ee6bfe8bbc",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d40407c86f774318526545a"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "d4d8effa395ede1e56e67ae0",
+                        "index": 2,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "544fb6cc4bdc2d34748b456e"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "e9f904b4e3d22fbabb6fb2ee description",
+        "failMessageText": "e9f904b4e3d22fbabb6fb2ee failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "e9f904b4e3d22fbabb6fb2ee name",
+        "note": "e9f904b4e3d22fbabb6fb2ee note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "3a0870998dcaf1ce1b598d8f",
+                    "value": "1",
+                    "id": "651da813a4dd8a0ae5725bce",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "3a0870998dcaf1ce1b598d8f",
+                            "_tpl": "59fb023c86f7746d0d4b423c",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28e033bdc459438c175",
+                    "id": "bb8d776e7fe9a7a8da4bfa3d",
+                    "type": "AssortmentUnlock",
+                    "index": 6,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28e033bdc459438c175",
+                            "_tpl": "59fb023c86f7746d0d4b423c",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "e9f904b4e3d22fbabb6fb2ee startedMessageText",
+        "successMessageText": "e9f904b4e3d22fbabb6fb2ee successMessageText",
+        "templateId": "e9f904b4e3d22fbabb6fb2ee",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Weapon case",
+        "acceptPlayerMessage": "e9f904b4e3d22fbabb6fb2ee acceptPlayerMessage",
+        "changeQuestMessageText": "e9f904b4e3d22fbabb6fb2ee changeQuestMessageText",
+        "completePlayerMessage": "e9f904b4e3d22fbabb6fb2ee completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "6acb640bef5dba6b613c5ab8": {
+        "_id": "6acb640bef5dba6b613c5ab8",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "b9ebf2eff0d9e561dbe6cc6d",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "edcf4bd8b771ad3970f9fa97",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "573474f924597738002c6174"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "dd5002baca9ca445f3e410f4",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590de7e986f7741b096e5f32"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "6acb640bef5dba6b613c5ab8 description",
+        "failMessageText": "6acb640bef5dba6b613c5ab8 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "6acb640bef5dba6b613c5ab8 name",
+        "note": "6acb640bef5dba6b613c5ab8 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "b33adfd97c5770be70f36c04",
+                    "value": "1",
+                    "id": "7280301af7b4bfae282b4024",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "b33adfd97c5770be70f36c04",
+                            "_tpl": "5b07db875acfc40dc528a5f6",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c18b",
+                    "id": "c2ffee4dbea23fc001e697b1",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c18b",
+                            "_tpl": "5b07db875acfc40dc528a5f6",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "6acb640bef5dba6b613c5ab8 startedMessageText",
+        "successMessageText": "6acb640bef5dba6b613c5ab8 successMessageText",
+        "templateId": "6acb640bef5dba6b613c5ab8",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: AR-15 Tactical Dynamics Skeletonized pistol grip",
+        "acceptPlayerMessage": "6acb640bef5dba6b613c5ab8 acceptPlayerMessage",
+        "changeQuestMessageText": "6acb640bef5dba6b613c5ab8 changeQuestMessageText",
+        "completePlayerMessage": "6acb640bef5dba6b613c5ab8 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "97a03ef62ea171990d55ab59": {
+        "_id": "97a03ef62ea171990d55ab59",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "cbd4fb42cd9c2a9d874cfd3d",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "874b2eb78740c879e878a0ce",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d1b2ffd86f77425243e8d17"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "e47dad9c2c1f8dd5bebf20a0",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5672cb124bdc2d1a0f8b4568"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "97a03ef62ea171990d55ab59 description",
+        "failMessageText": "97a03ef62ea171990d55ab59 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "97a03ef62ea171990d55ab59 name",
+        "note": "97a03ef62ea171990d55ab59 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "e62cd7db1a552652952dbaf5",
+                    "value": "1",
+                    "id": "26dbc7fa0fdb00dc0c37e200",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "e62cd7db1a552652952dbaf5",
+                            "_tpl": "5f63407e1b231926f2329f15",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c191",
+                    "id": "e0fa0c253dc69e3da4c5fb5c",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c191",
+                            "_tpl": "5f63407e1b231926f2329f15",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "97a03ef62ea171990d55ab59 startedMessageText",
+        "successMessageText": "97a03ef62ea171990d55ab59 successMessageText",
+        "templateId": "97a03ef62ea171990d55ab59",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: VPO-101 'Vepr-Hunter' Rotor 43 7.62x51 muzzle brake-compensator",
+        "acceptPlayerMessage": "97a03ef62ea171990d55ab59 acceptPlayerMessage",
+        "changeQuestMessageText": "97a03ef62ea171990d55ab59 changeQuestMessageText",
+        "completePlayerMessage": "97a03ef62ea171990d55ab59 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "28322df1d5b64f2b4ccf20fb": {
+        "_id": "28322df1d5b64f2b4ccf20fb",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "eb9cbeb457bcfd3bf9cac19e",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "2"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "257aeefedcac7a6aebef0dca",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5734770f24597738025ee254"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ccfbd0114afa6bd657cbdcad",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d1c819a86f774771b0acd6c"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "28322df1d5b64f2b4ccf20fb description",
+        "failMessageText": "28322df1d5b64f2b4ccf20fb failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "28322df1d5b64f2b4ccf20fb name",
+        "note": "28322df1d5b64f2b4ccf20fb note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "8b16da1c8bcd9b0e6adbbecb",
+                    "value": "1",
+                    "id": "fdffaaaadc1feaa7b18e0f01",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "8b16da1c8bcd9b0e6adbbecb",
+                            "_tpl": "5fb651dc85f90547f674b6f4",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1e4",
+                    "id": "63cd070aaf48c8920cbbcff2",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 2,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1e4",
+                            "_tpl": "5fb651dc85f90547f674b6f4",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "28322df1d5b64f2b4ccf20fb startedMessageText",
+        "successMessageText": "28322df1d5b64f2b4ccf20fb successMessageText",
+        "templateId": "28322df1d5b64f2b4ccf20fb",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Glock .45 ACP KRISS G30 MagEx 30-round magazine",
+        "acceptPlayerMessage": "28322df1d5b64f2b4ccf20fb acceptPlayerMessage",
+        "changeQuestMessageText": "28322df1d5b64f2b4ccf20fb changeQuestMessageText",
+        "completePlayerMessage": "28322df1d5b64f2b4ccf20fb completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "0a7a1fe9cb3dcf335fbe370f": {
+        "_id": "0a7a1fe9cb3dcf335fbe370f",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "3b2d7c3e3baf1341f1ecb81c",
+                        "index": 12,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "1"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "6556b5f60c81ed8dd4f705ae",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "591ae8f986f77406f854be45"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ef4a0cdb13d8ddca51e5d3af",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59136f6f86f774447a1ed173"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "c24ebf4bfde2fddcdeddbcbd",
+                        "index": 2,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5913651986f774432f15d132"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "0a7a1fe9cb3dcf335fbe370f description",
+        "failMessageText": "0a7a1fe9cb3dcf335fbe370f failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "0a7a1fe9cb3dcf335fbe370f name",
+        "note": "0a7a1fe9cb3dcf335fbe370f note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "be51abf3d35412fc4d3dabe0",
+                    "value": "1",
+                    "id": "cf33c3e72fbf7a2acdefaafc",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "be51abf3d35412fc4d3dabe0",
+                            "_tpl": "56dee2bdd2720bc8328b4567",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        },
+                        {
+                            "_id": "c4ad156e930dcc9c6d1cb8c1",
+                            "_tpl": "56deec93d2720bec348b4568",
+                            "parentId": "be51abf3d35412fc4d3dabe0",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "cdf1bcd4fdc7b9fc5925bf01",
+                            "_tpl": "56deed6ed2720b4c698b4583",
+                            "parentId": "be51abf3d35412fc4d3dabe0",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "d8ff96ea970b9d592aaea296",
+                            "_tpl": "56deee15d2720bee328b4567",
+                            "parentId": "be51abf3d35412fc4d3dabe0",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "baf7dadab4fb57c4e48d2eeb",
+                            "_tpl": "56083be64bdc2d20478b456f",
+                            "parentId": "be51abf3d35412fc4d3dabe0",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1ea",
+                    "id": "3eacc6d0ec977fff9b53fdaa",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1ea",
+                            "_tpl": "56dee2bdd2720bc8328b4567",
+                                                        "slotId": "hideout"
+                        },
+                        {
+                            "_id": "aac42b18a92c0dbb86a11943",
+                            "_tpl": "56deec93d2720bec348b4568",
+                            "parentId": "61e0a28f033bdc459438c1ea",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "ca8f4cd2d064cc3efae287d8",
+                            "_tpl": "56deed6ed2720b4c698b4583",
+                            "parentId": "61e0a28f033bdc459438c1ea",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "c4be5174a02e8cddaaffa4b6",
+                            "_tpl": "56deee15d2720bee328b4567",
+                            "parentId": "61e0a28f033bdc459438c1ea",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "baaa0bbbdeacbc5ff7a5fab4",
+                            "_tpl": "56083be64bdc2d20478b456f",
+                            "parentId": "61e0a28f033bdc459438c1ea",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "0a7a1fe9cb3dcf335fbe370f startedMessageText",
+        "successMessageText": "0a7a1fe9cb3dcf335fbe370f successMessageText",
+        "templateId": "0a7a1fe9cb3dcf335fbe370f",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: MP-153 12ga semi-automatic shotgun",
+        "acceptPlayerMessage": "0a7a1fe9cb3dcf335fbe370f acceptPlayerMessage",
+        "changeQuestMessageText": "0a7a1fe9cb3dcf335fbe370f changeQuestMessageText",
+        "completePlayerMessage": "0a7a1fe9cb3dcf335fbe370f completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "0ed1ea93ce2e9c7eda871ce3": {
+        "_id": "0ed1ea93ce2e9c7eda871ce3",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "df8dad506c7a20d7ece2cc3c",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "a116dae6031eadef6d736fdd",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c1265fc86f7743f896a21c2"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "0ed1ea93ce2e9c7eda871ce3 description",
+        "failMessageText": "0ed1ea93ce2e9c7eda871ce3 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "0ed1ea93ce2e9c7eda871ce3 name",
+        "note": "0ed1ea93ce2e9c7eda871ce3 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "b4db6b8090fa504d8aa72958",
+                    "value": "1",
+                    "id": "fe669f3cabaf4bbffeef0a47",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "b4db6b8090fa504d8aa72958",
+                            "_tpl": "5b3b99475acfc432ff4dcbee",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1f0",
+                    "id": "114ec0bfdd8eaadad0b7ef7c",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1f0",
+                            "_tpl": "5b3b99475acfc432ff4dcbee",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "0ed1ea93ce2e9c7eda871ce3 startedMessageText",
+        "successMessageText": "0ed1ea93ce2e9c7eda871ce3 successMessageText",
+        "templateId": "0ed1ea93ce2e9c7eda871ce3",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: EOTech Vudu 1-6x24 riflescope",
+        "acceptPlayerMessage": "0ed1ea93ce2e9c7eda871ce3 acceptPlayerMessage",
+        "changeQuestMessageText": "0ed1ea93ce2e9c7eda871ce3 changeQuestMessageText",
+        "completePlayerMessage": "0ed1ea93ce2e9c7eda871ce3 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "a874b1feaad7eeabf229a6fc": {
+        "_id": "a874b1feaad7eeabf229a6fc",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "a48ba5aabb0fe9ef7fa506fb",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "2"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "dd04e514bd2dd2fa6da2c1cb",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59e3647686f774176a362507"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "a874b1feaad7eeabf229a6fc description",
+        "failMessageText": "a874b1feaad7eeabf229a6fc failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "a874b1feaad7eeabf229a6fc name",
+        "note": "a874b1feaad7eeabf229a6fc note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "a3bd16abb26f1ba6cd2835f4",
+                    "value": "1",
+                    "id": "f7135c0ceb38d9ccd96ed79b",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "a3bd16abb26f1ba6cd2835f4",
+                            "_tpl": "59c0ec5b86f77435b128bfca",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1f2",
+                    "id": "dc14aaecd4f0b696bdd9d7df",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 2,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1f2",
+                            "_tpl": "59c0ec5b86f77435b128bfca",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "a874b1feaad7eeabf229a6fc startedMessageText",
+        "successMessageText": "a874b1feaad7eeabf229a6fc successMessageText",
+        "templateId": "a874b1feaad7eeabf229a6fc",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Hexagon 12K 12ga sound suppressor",
+        "acceptPlayerMessage": "a874b1feaad7eeabf229a6fc acceptPlayerMessage",
+        "changeQuestMessageText": "a874b1feaad7eeabf229a6fc changeQuestMessageText",
+        "completePlayerMessage": "a874b1feaad7eeabf229a6fc completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "5f6b5ef93e933aab6561dce1": {
+        "_id": "5f6b5ef93e933aab6561dce1",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "cf4df8ffdec3c404ca5f3bfd",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "4"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "d340abb91b87bcdb9bf43d1d",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5e54f62086f774219b0f1937"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "5f6b5ef93e933aab6561dce1 description",
+        "failMessageText": "5f6b5ef93e933aab6561dce1 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "5f6b5ef93e933aab6561dce1 name",
+        "note": "5f6b5ef93e933aab6561dce1 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "b7dbf6bef5fbef5fb8ba27ce",
+                    "value": "1",
+                    "id": "f0d0d25726ff62e26de86d63",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "b7dbf6bef5fbef5fb8ba27ce",
+                            "_tpl": "5fbe760793164a5b6278efc8",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1f4",
+                    "id": "b190aca8dcbeb59554ef41cc",
+                    "type": "AssortmentUnlock",
+                    "index": 4,
+                    "loyaltyLevel": 4,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1f4",
+                            "_tpl": "5fbe760793164a5b6278efc8",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "5f6b5ef93e933aab6561dce1 startedMessageText",
+        "successMessageText": "5f6b5ef93e933aab6561dce1 successMessageText",
+        "templateId": "5f6b5ef93e933aab6561dce1",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: SIG Sauer SRD762-QD 7.62x51 sound suppressor",
+        "acceptPlayerMessage": "5f6b5ef93e933aab6561dce1 acceptPlayerMessage",
+        "changeQuestMessageText": "5f6b5ef93e933aab6561dce1 changeQuestMessageText",
+        "completePlayerMessage": "5f6b5ef93e933aab6561dce1 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "aa8cbf4bebdb32f5a66ef16d": {
+        "_id": "aa8cbf4bebdb32f5a66ef16d",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "01d9cdc4dc3aa7c4f5cfe31e",
+                        "index": 19,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "2"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "702becae394ffffeffb170bb",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c1265fc86f7743f896a21c2"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "4a2719b4fa19ca1fdb68ddff",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5bc9b720d4351e450201234b"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "aa8cbf4bebdb32f5a66ef16d description",
+        "failMessageText": "aa8cbf4bebdb32f5a66ef16d failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "aa8cbf4bebdb32f5a66ef16d name",
+        "note": "aa8cbf4bebdb32f5a66ef16d note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "4debd8220284c4bca1d001db",
+                    "value": "1",
+                    "id": "ddbaff2bcccb2c2d93addd7c",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "4debd8220284c4bca1d001db",
+                            "_tpl": "5fbcc1d9016cce60e8341ab3",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        },
+                        {
+                            "_id": "eeb127cbbdb3a5b58c7dbb4e",
+                            "_tpl": "5fbcbd6c187fea44d52eda14",
+                            "parentId": "4debd8220284c4bca1d001db",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "afe70cd8a8e560a9dbd6b07b",
+                            "_tpl": "55d4887d4bdc2d962f8b4570",
+                            "parentId": "4debd8220284c4bca1d001db",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "1f3ddeeeaf7eba60eae65a3b",
+                            "_tpl": "5fbcc3e4d6fa9c00c571bb58",
+                            "parentId": "4debd8220284c4bca1d001db",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "2abafbee451dbd19ba4d2ba7",
+                            "_tpl": "5fbbfacda56d053a3543f799",
+                            "parentId": "1f3ddeeeaf7eba60eae65a3b",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "b4b8eecfb5a4bc00f4b87b7c",
+                            "_tpl": "5fbc22ccf24b94483f726483",
+                            "parentId": "2abafbee451dbd19ba4d2ba7",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "fcc8de5cabb0beadbd286e1c",
+                            "_tpl": "5fbcbd10ab884124df0cd563",
+                            "parentId": "b4b8eecfb5a4bc00f4b87b7c",
+                            "slotId": "mod_muzzle_000"
+                        },
+                        {
+                            "_id": "d1b8ed4b7caa21414039edec",
+                            "_tpl": "5fbc210bf24b94483f726481",
+                            "parentId": "2abafbee451dbd19ba4d2ba7",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "b3b4b728156f0bae792bcdcd",
+                            "_tpl": "5fbc226eca32ed67276c155d",
+                            "parentId": "1f3ddeeeaf7eba60eae65a3b",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "aa7d9827c9fa6bcd40a0bcce",
+                            "_tpl": "5fc0fa362770a0045c59c677",
+                            "parentId": "b3b4b728156f0bae792bcdcd",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "7abfc1e87c2d0b1c44c7caaf",
+                            "_tpl": "5fc0fa957283c4046c58147e",
+                            "parentId": "1f3ddeeeaf7eba60eae65a3b",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "b9aa0e1b25e7a0b08b4a8946",
+                            "_tpl": "5fbcc437d724d907e2077d5c",
+                            "parentId": "4debd8220284c4bca1d001db",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "fa6a318cbf17babc90eb9fcc",
+                            "_tpl": "5fbcc640016cce60e8341acc",
+                            "parentId": "4debd8220284c4bca1d001db",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c1f6",
+                    "id": "e1ffaf8bc095b3dac0c303b3",
+                    "type": "AssortmentUnlock",
+                    "index": 17,
+                    "loyaltyLevel": 2,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c1f6",
+                            "_tpl": "5fbcc1d9016cce60e8341ab3",
+                                                        "slotId": "hideout"
+                        },
+                        {
+                            "_id": "f4133bfba1a9ccacafb44796",
+                            "_tpl": "5fbcbd6c187fea44d52eda14",
+                            "parentId": "61e0a28f033bdc459438c1f6",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "6dabdef4c39a7ee6906bcb3d",
+                            "_tpl": "55d4887d4bdc2d962f8b4570",
+                            "parentId": "61e0a28f033bdc459438c1f6",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "7babb1f2b421e4a1d6b53b3c",
+                            "_tpl": "5fbcc3e4d6fa9c00c571bb58",
+                            "parentId": "61e0a28f033bdc459438c1f6",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "eea6edec87944fc1d3444cfe",
+                            "_tpl": "5fbbfacda56d053a3543f799",
+                            "parentId": "7babb1f2b421e4a1d6b53b3c",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "2cea2d80b64c763d98fcbe2f",
+                            "_tpl": "5fbc22ccf24b94483f726483",
+                            "parentId": "eea6edec87944fc1d3444cfe",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "e6de35d2b91e6bcbeb61f360",
+                            "_tpl": "5fbcbd10ab884124df0cd563",
+                            "parentId": "2cea2d80b64c763d98fcbe2f",
+                            "slotId": "mod_muzzle_000"
+                        },
+                        {
+                            "_id": "a331388b8aaec28981dae58b",
+                            "_tpl": "5fbc210bf24b94483f726481",
+                            "parentId": "eea6edec87944fc1d3444cfe",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "c9f6af4dfcf9fec03c68ee9a",
+                            "_tpl": "5fbc226eca32ed67276c155d",
+                            "parentId": "7babb1f2b421e4a1d6b53b3c",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "30eee4710cbd32f497c78ac8",
+                            "_tpl": "5fc0fa362770a0045c59c677",
+                            "parentId": "c9f6af4dfcf9fec03c68ee9a",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "ecaf1db096fbeb59dab41e50",
+                            "_tpl": "5fc0fa957283c4046c58147e",
+                            "parentId": "7babb1f2b421e4a1d6b53b3c",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "ce9be5e2edec2abdcaefeb06",
+                            "_tpl": "5fbcc437d724d907e2077d5c",
+                            "parentId": "61e0a28f033bdc459438c1f6",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "ecaecacb231febb8fcca02ac",
+                            "_tpl": "5fbcc640016cce60e8341acc",
+                            "parentId": "61e0a28f033bdc459438c1f6",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "aa8cbf4bebdb32f5a66ef16d startedMessageText",
+        "successMessageText": "aa8cbf4bebdb32f5a66ef16d successMessageText",
+        "templateId": "aa8cbf4bebdb32f5a66ef16d",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: SIG MCX .300 Blackout assault rifle",
+        "acceptPlayerMessage": "aa8cbf4bebdb32f5a66ef16d acceptPlayerMessage",
+        "changeQuestMessageText": "aa8cbf4bebdb32f5a66ef16d changeQuestMessageText",
+        "completePlayerMessage": "aa8cbf4bebdb32f5a66ef16d completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "77cccd288b7d55f00c7aa7ec": {
+        "_id": "77cccd288b7d55f00c7aa7ec",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "7bc8cac5a5da5837de82707a",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "1"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "295ef1eaecf4ccacee7af7cb",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "59e3658a86f7741776641ac4"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ec4164cce8bfc5cafb9187de",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5b4329075acfc400153b78ff"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "77cccd288b7d55f00c7aa7ec description",
+        "failMessageText": "77cccd288b7d55f00c7aa7ec failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "77cccd288b7d55f00c7aa7ec name",
+        "note": "77cccd288b7d55f00c7aa7ec note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "b5a2af35ccf819ce8f7bbdc4",
+                    "value": "1",
+                    "id": "f9dc7cdde13ded2864d8b6e5",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "b5a2af35ccf819ce8f7bbdc4",
+                            "_tpl": "5c0e5edb86f77461f55ed1f7",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c206",
+                    "id": "2db598187b6a8edcfbea0318",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 1,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c206",
+                            "_tpl": "5c0e5edb86f77461f55ed1f7",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "77cccd288b7d55f00c7aa7ec startedMessageText",
+        "successMessageText": "77cccd288b7d55f00c7aa7ec successMessageText",
+        "templateId": "77cccd288b7d55f00c7aa7ec",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: BNTI Zhuk-3 body armor (Press)",
+        "acceptPlayerMessage": "77cccd288b7d55f00c7aa7ec acceptPlayerMessage",
+        "changeQuestMessageText": "77cccd288b7d55f00c7aa7ec changeQuestMessageText",
+        "completePlayerMessage": "77cccd288b7d55f00c7aa7ec completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "fe7fef2f83ba877e9f7ca6a2": {
+        "_id": "fe7fef2f83ba877e9f7ca6a2",
+        "canShowNotificationsInGame": false,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "TraderLoyalty",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "ad6f79afbeedba3dc506fddb",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "58330581ace78e27b8b10cee",
+                        "value": "3"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "67bd3d6e1b8e2c5a5f4f4f57",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "60a7acf20c5cb24b01346648"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "ca3b0e03e5b880ee3f4ff355",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "61c18db6dfd64163ea78fbb4"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "fe7fef2f83ba877e9f7ca6a2 description",
+        "failMessageText": "fe7fef2f83ba877e9f7ca6a2 failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "fe7fef2f83ba877e9f7ca6a2 name",
+        "note": "fe7fef2f83ba877e9f7ca6a2 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "b3ff3b2d8f3d4e8e9d0acb6c",
+                    "value": "1",
+                    "id": "0bca4a2aadc272c35bdecbda",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "b3ff3b2d8f3d4e8e9d0acb6c",
+                            "_tpl": "5d44064fa4b9361e4f6eb8b5",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "61e0a28f033bdc459438c232",
+                    "id": "5bffbaccd543a82e4fffde8b",
+                    "type": "AssortmentUnlock",
+                    "index": 5,
+                    "loyaltyLevel": 3,
+                    "traderId": "58330581ace78e27b8b10cee",
+                    "items": [
+                        {
+                            "_id": "61e0a28f033bdc459438c232",
+                            "_tpl": "5d44064fa4b9361e4f6eb8b5",
+                                                        "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "fe7fef2f83ba877e9f7ca6a2 startedMessageText",
+        "successMessageText": "fe7fef2f83ba877e9f7ca6a2 successMessageText",
+        "templateId": "fe7fef2f83ba877e9f7ca6a2",
+        "traderId": "58330581ace78e27b8b10cee",
+        "type": "PickUp",
+        "QuestName": "[Ski] Barter Only: Thunder Beast Arms Ultra 5 sound suppressor",
+        "acceptPlayerMessage": "fe7fef2f83ba877e9f7ca6a2 acceptPlayerMessage",
+        "changeQuestMessageText": "fe7fef2f83ba877e9f7ca6a2 changeQuestMessageText",
+        "completePlayerMessage": "fe7fef2f83ba877e9f7ca6a2 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

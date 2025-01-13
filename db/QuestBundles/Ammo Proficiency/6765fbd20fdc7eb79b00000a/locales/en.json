@@ -1,0 +1,12 @@
+{
+    "c2a70d1a5491c819aaea0d7d name": "[War] Ammo Proficiency: Introduction",
+    "c2a70d1a5491c819aaea0d7d note": "",
+    "c2a70d1a5491c819aaea0d7d description": "Psst! You look like a guy who could use some ammo, am I right? But nobody wants to sell you any, eh? I can help you with that, but my recommendation will not come cheap. Are you interested?",
+    "c2a70d1a5491c819aaea0d7d startedMessageText": "[War] Quest Accepted: '[War] Ammo Proficiency: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d failMessageText": "[War] Quest Failed: '[War] Ammo Proficiency: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d successMessageText": "[War] Quest Completed: '[War] Ammo Proficiency: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d acceptPlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d declinePlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d completePlayerMessage": "",
+    "ac3999cea367de016176dd71": "Handover any ammunition."
+}

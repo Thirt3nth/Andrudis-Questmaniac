@@ -1,0 +1,143 @@
+{
+  "1db42bc17ae1d88cdace4473": {
+    "QuestName": "[Jgr] Key Proficiency: Woods Locksmith",
+    "_id": "1db42bc17ae1d88cdace4473",
+    "acceptPlayerMessage": "1db42bc17ae1d88cdace4473 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "1db42bc17ae1d88cdace4473 changeQuestMessageText",
+    "completePlayerMessage": "1db42bc17ae1d88cdace4473 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fce30aad6f98f9b040f82eac",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591afe0186f77431bd616a11"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7f0a53f628b48d52f6ae23f3",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5d08d21286f774736e7c94c3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4b2ea6d9b28dfafdef27f3ed",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591ae8f986f77406f854be45"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "febce9ee990adb5cf8f54e5a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b953f47abe86cad41ccb4fa5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "1db42bc17ae1d88cdace4473 declinePlayerMessage",
+    "description": "1db42bc17ae1d88cdace4473 description",
+    "failMessageText": "1db42bc17ae1d88cdace4473 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "1db42bc17ae1d88cdace4473 name",
+    "note": "1db42bc17ae1d88cdace4473 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9ea7efed59a2aede6e68ebee",
+          "index": 5,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "48acca0ccf3e2bfcb5e1e520",
+          "index": 6,
+          "items": [
+            {
+              "_id": "4e855ecaffad4de5aefbfffe",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "4e855ecaffad4de5aefbfffe",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "ddc4fdcf0e1d6d3ece7cb9c5",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fb00caaf22ec7623f79a2e45",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "fb00caaf22ec7623f79a2e45",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "1db42bc17ae1d88cdace4473 startedMessageText",
+    "successMessageText": "1db42bc17ae1d88cdace4473 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  }
+}

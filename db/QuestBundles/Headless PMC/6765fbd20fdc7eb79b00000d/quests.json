@@ -1,0 +1,1059 @@
+{
+  "4ab1169a0d7fad6bafe3baec": {
+    "QuestName": "[Eld] Headless PMC: Headshot 1 PMC(s) at Ground Zero",
+    "_id": "4ab1169a0d7fad6bafe3baec",
+    "acceptPlayerMessage": "4ab1169a0d7fad6bafe3baec acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4ab1169a0d7fad6bafe3baec changeQuestMessageText",
+    "completePlayerMessage": "4ab1169a0d7fad6bafe3baec completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fdefbacdb0f01e766b846c66",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0ecf8faabc56c5fa07837b17",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "22a02daf8dddf5c7544beadd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "62aaeacf12fcbeed3dd9d77e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4ab1169a0d7fad6bafe3baec declinePlayerMessage",
+    "description": "4ab1169a0d7fad6bafe3baec description",
+    "failMessageText": "4ab1169a0d7fad6bafe3baec failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "4ab1169a0d7fad6bafe3baec name",
+    "note": "4ab1169a0d7fad6bafe3baec note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f76adc2cb8e4ef0969e8bf10",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "affaac220314616dc9efd4cc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6eb17c086532bfaca9b79ead",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "6eb17c086532bfaca9b79ead",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4ab1169a0d7fad6bafe3baec startedMessageText",
+    "successMessageText": "4ab1169a0d7fad6bafe3baec successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "01ce8facae91e21eb2c9158d": {
+    "QuestName": "[Eld] Headless PMC: Headshot 2 PMC(s) at Ground Zero",
+    "_id": "01ce8facae91e21eb2c9158d",
+    "acceptPlayerMessage": "01ce8facae91e21eb2c9158d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "01ce8facae91e21eb2c9158d changeQuestMessageText",
+    "completePlayerMessage": "01ce8facae91e21eb2c9158d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "28e6524d3a781248f9a7dd12",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "c3667c99fe1cc7c1ba84552d",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "2a27f8b3ca947d91f7eb2af5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "53eafe5beef84c8f2bfcf04c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9e46dbafe6e7b8ccbca6ead2",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4ab1169a0d7fad6bafe3baec"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "01ce8facae91e21eb2c9158d declinePlayerMessage",
+    "description": "01ce8facae91e21eb2c9158d description",
+    "failMessageText": "01ce8facae91e21eb2c9158d failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "01ce8facae91e21eb2c9158d name",
+    "note": "01ce8facae91e21eb2c9158d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b2a4dbaae626cff7e7eb87ff",
+          "index": 3,
+          "type": "Experience",
+          "value": "400"
+        },
+        {
+          "id": "9fbc4cbba2b1feda42a018d2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "13eddb9e3bbdbbfe97ccbfc0",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 6000
+              }
+            }
+          ],
+          "target": "13eddb9e3bbdbbfe97ccbfc0",
+          "type": "Item",
+          "value": "6000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "01ce8facae91e21eb2c9158d startedMessageText",
+    "successMessageText": "01ce8facae91e21eb2c9158d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "dca3cb6e40ffc69e3fff2bad": {
+    "QuestName": "[Eld] Headless PMC: Headshot 5 PMC(s) at Ground Zero",
+    "_id": "dca3cb6e40ffc69e3fff2bad",
+    "acceptPlayerMessage": "dca3cb6e40ffc69e3fff2bad acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dca3cb6e40ffc69e3fff2bad changeQuestMessageText",
+    "completePlayerMessage": "dca3cb6e40ffc69e3fff2bad completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "df0b009e0e9b091cb30da3e2",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "95c94b6357bcfce4d9fc1add",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "cf06569198f66ec7fe7884f4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8390cbba7bed24aad59a68cf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b3c1090db8384cf6f0994cde",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "01ce8facae91e21eb2c9158d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dca3cb6e40ffc69e3fff2bad declinePlayerMessage",
+    "description": "dca3cb6e40ffc69e3fff2bad description",
+    "failMessageText": "dca3cb6e40ffc69e3fff2bad failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "dca3cb6e40ffc69e3fff2bad name",
+    "note": "dca3cb6e40ffc69e3fff2bad note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5bab6ecdab98e4bbf17fb7e1",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "ceecd7af0acbe65dda7f4e8a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "1e34fbb5f5a4c94a48680d13",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "1e34fbb5f5a4c94a48680d13",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dca3cb6e40ffc69e3fff2bad startedMessageText",
+    "successMessageText": "dca3cb6e40ffc69e3fff2bad successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "e9afc2b52ef5f229cf0f76c7": {
+    "QuestName": "[Eld] Headless PMC: Headshot 10 PMC(s) at Ground Zero",
+    "_id": "e9afc2b52ef5f229cf0f76c7",
+    "acceptPlayerMessage": "e9afc2b52ef5f229cf0f76c7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e9afc2b52ef5f229cf0f76c7 changeQuestMessageText",
+    "completePlayerMessage": "e9afc2b52ef5f229cf0f76c7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e58fb727d74dfcfec97cea5b",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cbb3a0cdfe899b58927787b2",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "fda0be391abcd211dd15958b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ba0a5a116d2f8b209fcdc332",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fbddf69bb8b64c7acc296c7d",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dca3cb6e40ffc69e3fff2bad"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e9afc2b52ef5f229cf0f76c7 declinePlayerMessage",
+    "description": "e9afc2b52ef5f229cf0f76c7 description",
+    "failMessageText": "e9afc2b52ef5f229cf0f76c7 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "e9afc2b52ef5f229cf0f76c7 name",
+    "note": "e9afc2b52ef5f229cf0f76c7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6ef35b6a71c16290fcdbacf2",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "dc3d22ff9acd0506b1acee8a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "006db6caaa65482e6cbcbbeb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "006db6caaa65482e6cbcbbeb",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e9afc2b52ef5f229cf0f76c7 startedMessageText",
+    "successMessageText": "e9afc2b52ef5f229cf0f76c7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "1f7c9a6f6eabafc806bdad80": {
+    "QuestName": "[Eld] Headless PMC: Headshot 15 PMC(s) at Ground Zero",
+    "_id": "1f7c9a6f6eabafc806bdad80",
+    "acceptPlayerMessage": "1f7c9a6f6eabafc806bdad80 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "1f7c9a6f6eabafc806bdad80 changeQuestMessageText",
+    "completePlayerMessage": "1f7c9a6f6eabafc806bdad80 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e4bd9d9e4ffbaeacc23e70cd",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "eec44a9fe72cf6fcc9d770b9",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "bbd859df1fca7b1a64879dfa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cf3929218eb9643a75767ee4",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0ddd0b283cefda3e1432ca29",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e9afc2b52ef5f229cf0f76c7"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "1f7c9a6f6eabafc806bdad80 declinePlayerMessage",
+    "description": "1f7c9a6f6eabafc806bdad80 description",
+    "failMessageText": "1f7c9a6f6eabafc806bdad80 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "1f7c9a6f6eabafc806bdad80 name",
+    "note": "1f7c9a6f6eabafc806bdad80 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cfdd6ff9dff61c39b3f3bb2f",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "be8a2d5d0faf737ca9f0bc8a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fbdd5ae76ce9c459cf56f6dc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 45000
+              }
+            }
+          ],
+          "target": "fbdd5ae76ce9c459cf56f6dc",
+          "type": "Item",
+          "value": "45000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "1f7c9a6f6eabafc806bdad80 startedMessageText",
+    "successMessageText": "1f7c9a6f6eabafc806bdad80 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "ac9dc4b83bfb8dd04d719efa": {
+    "QuestName": "[Eld] Headless PMC: Headshot 20 PMC(s) at Ground Zero",
+    "_id": "ac9dc4b83bfb8dd04d719efa",
+    "acceptPlayerMessage": "ac9dc4b83bfb8dd04d719efa acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ac9dc4b83bfb8dd04d719efa changeQuestMessageText",
+    "completePlayerMessage": "ac9dc4b83bfb8dd04d719efa completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "eb7cc4f1c876d42b5504efba",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cdfdd55ecff9dcaaa1b3df69",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "af4afb57fbefaf8cca4b601e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "80732ef67703abc7a9bbeab6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fda1dfea0b2fd7e13cfb9dfb",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1f7c9a6f6eabafc806bdad80"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ac9dc4b83bfb8dd04d719efa declinePlayerMessage",
+    "description": "ac9dc4b83bfb8dd04d719efa description",
+    "failMessageText": "ac9dc4b83bfb8dd04d719efa failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "ac9dc4b83bfb8dd04d719efa name",
+    "note": "ac9dc4b83bfb8dd04d719efa note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2ff54ea94dffacd560ae4d0f",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "5fc73fbad13cdeafa8460b7e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "de5ebc4e3bee851c040fc2cc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "de5ebc4e3bee851c040fc2cc",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ac9dc4b83bfb8dd04d719efa startedMessageText",
+    "successMessageText": "ac9dc4b83bfb8dd04d719efa successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "5b7d51c0bdf5bf16b18b28b8": {
+    "QuestName": "[Eld] Headless PMC: Headshot 33 PMC(s) at Ground Zero",
+    "_id": "5b7d51c0bdf5bf16b18b28b8",
+    "acceptPlayerMessage": "5b7d51c0bdf5bf16b18b28b8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5b7d51c0bdf5bf16b18b28b8 changeQuestMessageText",
+    "completePlayerMessage": "5b7d51c0bdf5bf16b18b28b8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2ff60c233e6e7cac5bdc4c30",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "8cfde6a69cab33ec8d7c56a9",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "cbe77d6592c7b0b65cddeb22"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4211651a322645bdb1d27ac9",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "33",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ad22576afbc2adc0d7b1aaa2",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ac9dc4b83bfb8dd04d719efa"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5b7d51c0bdf5bf16b18b28b8 declinePlayerMessage",
+    "description": "5b7d51c0bdf5bf16b18b28b8 description",
+    "failMessageText": "5b7d51c0bdf5bf16b18b28b8 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "5b7d51c0bdf5bf16b18b28b8 name",
+    "note": "5b7d51c0bdf5bf16b18b28b8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c6f3e5cd9be5ef5fdb3c3ebc",
+          "index": 3,
+          "type": "Experience",
+          "value": "6600"
+        },
+        {
+          "id": "28e299ddb1dc8efb6d6cfe9a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "71acdade6bd7622e93bbe2a3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 99000
+              }
+            }
+          ],
+          "target": "71acdade6bd7622e93bbe2a3",
+          "type": "Item",
+          "value": "99000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5b7d51c0bdf5bf16b18b28b8 startedMessageText",
+    "successMessageText": "5b7d51c0bdf5bf16b18b28b8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "2de2ce966eadb8bfcf5667ff": {
+    "QuestName": "[Eld] Headless PMC: Headshot 50 PMC(s) at Ground Zero",
+    "_id": "2de2ce966eadb8bfcf5667ff",
+    "acceptPlayerMessage": "2de2ce966eadb8bfcf5667ff acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2de2ce966eadb8bfcf5667ff changeQuestMessageText",
+    "completePlayerMessage": "2de2ce966eadb8bfcf5667ff completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f7ff8cbcfe70c99fdfac3efd",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cd3ae784dcd14e99bf954df2",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "30087bdb6a0bebfbb3d5eec4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bda264beddef0caab4c6a68e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fca4a1ff0e1a6affd2d82948",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5b7d51c0bdf5bf16b18b28b8"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2de2ce966eadb8bfcf5667ff declinePlayerMessage",
+    "description": "2de2ce966eadb8bfcf5667ff description",
+    "failMessageText": "2de2ce966eadb8bfcf5667ff failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "2de2ce966eadb8bfcf5667ff name",
+    "note": "2de2ce966eadb8bfcf5667ff note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "8f7fce351a0acf4c311b9de1",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "7bf94f1ed283656efff8b86b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0bd5b5c64b6f80dfe5dcdcd3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "0bd5b5c64b6f80dfe5dcdcd3",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2de2ce966eadb8bfcf5667ff startedMessageText",
+    "successMessageText": "2de2ce966eadb8bfcf5667ff successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "fd166b982e4f4cb00aaae7ff": {
+    "QuestName": "[Eld] Headless PMC: Headshot 100 PMC(s) at Ground Zero",
+    "_id": "fd166b982e4f4cb00aaae7ff",
+    "acceptPlayerMessage": "fd166b982e4f4cb00aaae7ff acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fd166b982e4f4cb00aaae7ff changeQuestMessageText",
+    "completePlayerMessage": "fd166b982e4f4cb00aaae7ff completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3dff0beffd9d67d17ab58ff4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "6ca813c68f8ce04f6b887755",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "9ebb6d7de0d2327fac3ff9ca"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ade60d097d64d1eb33e1fa8e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fe4adb0fea34a8b45a7bb4fd",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2de2ce966eadb8bfcf5667ff"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fd166b982e4f4cb00aaae7ff declinePlayerMessage",
+    "description": "fd166b982e4f4cb00aaae7ff description",
+    "failMessageText": "fd166b982e4f4cb00aaae7ff failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "fd166b982e4f4cb00aaae7ff name",
+    "note": "fd166b982e4f4cb00aaae7ff note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4b1bceb8aeec3efd72241edb",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "e772c759ec90ed7b8a38b4a8",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6cce0eebb969f5ece3aa12a4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "6cce0eebb969f5ece3aa12a4",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fd166b982e4f4cb00aaae7ff startedMessageText",
+    "successMessageText": "fd166b982e4f4cb00aaae7ff successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "8aaafe5b0d5c21c7daa1be1a": {
+    "QuestName": "[Eld] Headless PMC: Headshot 200 PMC(s) at Ground Zero",
+    "_id": "8aaafe5b0d5c21c7daa1be1a",
+    "acceptPlayerMessage": "8aaafe5b0d5c21c7daa1be1a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "8aaafe5b0d5c21c7daa1be1a changeQuestMessageText",
+    "completePlayerMessage": "8aaafe5b0d5c21c7daa1be1a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c4df9afb73cb8acb8fed3fca",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "1d09f07dbcbe5bf006bfeeac",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "daae22e505eb408cb79a9abb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "66bedb2fadc216c6e7b4cf01",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "efebecb48298c84ab5f43018",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fd166b982e4f4cb00aaae7ff"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "8aaafe5b0d5c21c7daa1be1a declinePlayerMessage",
+    "description": "8aaafe5b0d5c21c7daa1be1a description",
+    "failMessageText": "8aaafe5b0d5c21c7daa1be1a failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "8aaafe5b0d5c21c7daa1be1a name",
+    "note": "8aaafe5b0d5c21c7daa1be1a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "df7d694f2fee0a9b6f6a7f3d",
+          "index": 3,
+          "type": "Experience",
+          "value": "40000"
+        },
+        {
+          "id": "822b1deafcff3a44abf00c13",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ae6e1abdd7d243ecbb0ebf5e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 600000
+              }
+            }
+          ],
+          "target": "ae6e1abdd7d243ecbb0ebf5e",
+          "type": "Item",
+          "value": "600000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "8aaafe5b0d5c21c7daa1be1a startedMessageText",
+    "successMessageText": "8aaafe5b0d5c21c7daa1be1a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  }
+}

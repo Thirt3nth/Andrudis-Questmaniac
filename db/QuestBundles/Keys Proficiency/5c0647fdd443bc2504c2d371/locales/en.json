@@ -1,0 +1,14 @@
+{
+    "1db42bc17ae1d88cdace4473 name": "[Jgr] Key Proficiency: Woods Locksmith",
+    "1db42bc17ae1d88cdace4473 note": "",
+    "1db42bc17ae1d88cdace4473 description": "You want containers for keys? What reason do you need containers if you don't have any keys yet? Gotta Find 'Em All!",
+    "1db42bc17ae1d88cdace4473 startedMessageText": "[Jgr] Quest Accepted: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "1db42bc17ae1d88cdace4473 failMessageText": "[Jgr] Quest Failed: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "1db42bc17ae1d88cdace4473 successMessageText": "[Jgr] Quest Completed: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "1db42bc17ae1d88cdace4473 acceptPlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 declinePlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 completePlayerMessage": "",
+    "fce30aad6f98f9b040f82eac": "Find a ZB-014 key",
+    "7f0a53f628b48d52f6ae23f3": "Find a Shturman's stash key",
+    "4b2ea6d9b28dfafdef27f3ed": "Find a Yotota car key"
+}

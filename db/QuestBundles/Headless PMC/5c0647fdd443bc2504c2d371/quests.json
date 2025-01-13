@@ -1,0 +1,1721 @@
+{
+  "ecdaab1ddc9e43cbefebe3dd": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 1 PMC(s) at Woods",
+    "_id": "ecdaab1ddc9e43cbefebe3dd",
+    "acceptPlayerMessage": "ecdaab1ddc9e43cbefebe3dd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ecdaab1ddc9e43cbefebe3dd changeQuestMessageText",
+    "completePlayerMessage": "ecdaab1ddc9e43cbefebe3dd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "016deeaca71cfffe62cea620",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "fc48de6aeb0b2cc7f9a84c1c",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "a27bce7fcdfd42848868a7e4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dca1cee9eaec2d7a1b54ce93",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ecdaab1ddc9e43cbefebe3dd declinePlayerMessage",
+    "description": "ecdaab1ddc9e43cbefebe3dd description",
+    "failMessageText": "ecdaab1ddc9e43cbefebe3dd failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "ecdaab1ddc9e43cbefebe3dd name",
+    "note": "ecdaab1ddc9e43cbefebe3dd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b1611a8bece08cd4cdc824be",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "e0e69857bfe2bfafbaacb9ac",
+          "index": 4,
+          "items": [
+            {
+              "_id": "5e3a2f3db0e8d2ad020d529b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "5e3a2f3db0e8d2ad020d529b",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ecdaab1ddc9e43cbefebe3dd startedMessageText",
+    "successMessageText": "ecdaab1ddc9e43cbefebe3dd successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "65da91e9282ee84fb789b6cf": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 2 PMC(s) at Woods",
+    "_id": "65da91e9282ee84fb789b6cf",
+    "acceptPlayerMessage": "65da91e9282ee84fb789b6cf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "65da91e9282ee84fb789b6cf changeQuestMessageText",
+    "completePlayerMessage": "65da91e9282ee84fb789b6cf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4f22aa5bfcadaef2f9d16dbf",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "2bafe60646c81dfe69fec716",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "ada58fa784e01c2b36b7e94e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5be7fdfeb3f18ccf2cf3d0aa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b1b35e312ebb74e0cfa70bda",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ecdaab1ddc9e43cbefebe3dd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "65da91e9282ee84fb789b6cf declinePlayerMessage",
+    "description": "65da91e9282ee84fb789b6cf description",
+    "failMessageText": "65da91e9282ee84fb789b6cf failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "65da91e9282ee84fb789b6cf name",
+    "note": "65da91e9282ee84fb789b6cf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "0b1a25ae0dd21ef80e05df7c",
+          "index": 3,
+          "type": "Experience",
+          "value": "400"
+        },
+        {
+          "id": "bf5dc4c2a4582bcaf23fceab",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7ba9cecc6f83faa5751d5cea",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 6000
+              }
+            }
+          ],
+          "target": "7ba9cecc6f83faa5751d5cea",
+          "type": "Item",
+          "value": "6000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "65da91e9282ee84fb789b6cf startedMessageText",
+    "successMessageText": "65da91e9282ee84fb789b6cf successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "5c8f438bdb169ba3aad274ac": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 5 PMC(s) at Woods",
+    "_id": "5c8f438bdb169ba3aad274ac",
+    "acceptPlayerMessage": "5c8f438bdb169ba3aad274ac acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5c8f438bdb169ba3aad274ac changeQuestMessageText",
+    "completePlayerMessage": "5c8f438bdb169ba3aad274ac completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fe0e25cfb5d55a76b716c0ff",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "deb3715df62dccc7b3fc81ed",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "d1bc2917dcfd579e07de0038"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6fd8ec16fabb482e4bbdcd4",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d41de5ac2dc15703bf78a9da",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "de69a6fd0974b4ac2af7eec6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "719c8bbd966e8dbfaf8dacb5",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dbaece446cda61ca7da6bb38"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "51ee3fcbdb903532af176a9d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3b7fbb7ec2bdfd83ea584e31"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e86df0fae29fb3a2f4a71e62",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd053ed5d7baebfbd21adae6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e0d883f5cd950f7a2354a27e",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ecdaab1ddc9e43cbefebe3dd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "da964ff72df1e0fca7283fd1",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d57fae8adeed328b526cf4d4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "14efcd397a532b1e9daad6ff",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d1a6db1ddc6fdbaa45e1a3bb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "448f53e6ae853959f50cadfb",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "001cabd2971647dd1678075d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5c8f438bdb169ba3aad274ac declinePlayerMessage",
+    "description": "5c8f438bdb169ba3aad274ac description",
+    "failMessageText": "5c8f438bdb169ba3aad274ac failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "5c8f438bdb169ba3aad274ac name",
+    "note": "5c8f438bdb169ba3aad274ac note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fdeffd6ae0a5b7c6ded95711",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "4527a3964df6aead368e192e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d5bccc8fc1a46a96896effe6",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "d5bccc8fc1a46a96896effe6",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5c8f438bdb169ba3aad274ac startedMessageText",
+    "successMessageText": "5c8f438bdb169ba3aad274ac successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "630e2fa1ca7d8e5fe9bbc1d0": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 10 PMC(s) at Woods",
+    "_id": "630e2fa1ca7d8e5fe9bbc1d0",
+    "acceptPlayerMessage": "630e2fa1ca7d8e5fe9bbc1d0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "630e2fa1ca7d8e5fe9bbc1d0 changeQuestMessageText",
+    "completePlayerMessage": "630e2fa1ca7d8e5fe9bbc1d0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "76c0cdfecbcc4cbe1beb7b54",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "9d892afdbc2b8f0bc8352d40",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "9b458e4da1e1600d168ffce0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5a6de4f74bc61a80afaece1d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f84bdfdc0ea12eeaecf89d4e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fd1c1b2c2c4ff4dac59eeadf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f4f108a2872ba5f60b2fc9e1",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aacc6c31f2f18aa0c7b572fe"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6d2ed86f7fe81bbf8fcc8a95",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d4ccd01abde07ba5a7a7bf6d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3fc3458d8eb1ceee5b399d87",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b3e68adabd6c2132fcec1a2b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3da65f6fbeb2ef769490573b",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "65da91e9282ee84fb789b6cf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5bfbefbca01ab16e9dd73f02",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8ee8a2e4fe9b14685bcea70d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "199cdf9e5f26858d67b567bc",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f28d474f63ad9c9b1cc74e8e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bdd2bdbba50592f043d10bbb",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0d4a9c6c7ab7ceaee14f33fe"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "630e2fa1ca7d8e5fe9bbc1d0 declinePlayerMessage",
+    "description": "630e2fa1ca7d8e5fe9bbc1d0 description",
+    "failMessageText": "630e2fa1ca7d8e5fe9bbc1d0 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "630e2fa1ca7d8e5fe9bbc1d0 name",
+    "note": "630e2fa1ca7d8e5fe9bbc1d0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b1d7d4afee6d757604ef02ae",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "d9fdceeedcbec32abcffe19b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0cb62b328456ab83a7a8fb92",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "0cb62b328456ab83a7a8fb92",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "630e2fa1ca7d8e5fe9bbc1d0 startedMessageText",
+    "successMessageText": "630e2fa1ca7d8e5fe9bbc1d0 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "bdfec574f3a96e204fa4ced8": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 15 PMC(s) at Woods",
+    "_id": "bdfec574f3a96e204fa4ced8",
+    "acceptPlayerMessage": "bdfec574f3a96e204fa4ced8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bdfec574f3a96e204fa4ced8 changeQuestMessageText",
+    "completePlayerMessage": "bdfec574f3a96e204fa4ced8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a990fe7ec77b6cd4daaad5d5",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bb867b60172f9af8bb086013",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "fbc95273dbdc0b48ec794304"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7c2b8badb507476a3f948bba",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f3c52bdfec09cd62f14599c7",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e58bc9dc3a34e365f201c0cb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5e9b06f02143cb7f761fa49f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8ae53ec8e862edf23efd0fc9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "563fcdca522322761c7b3ee1",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "00b4e1be130e7fb1e4ad7aa5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a39b9dc18bf90d3069e2cffc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e143fcf9bfebf2a4fb77e89d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3492dcb8aaf9a23e37c6dcf5",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5c8f438bdb169ba3aad274ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "21dfac2dacf05ca95fd6cb5a",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cb0a828a7150d16bfa4c87ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "46ba4bdbeec02c24f2592c8e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9f6baef2a816fbbc9cebadd9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "305546f32a3faa1020c1b0ca",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eea7b71c10fddeeff6babe05"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bdfec574f3a96e204fa4ced8 declinePlayerMessage",
+    "description": "bdfec574f3a96e204fa4ced8 description",
+    "failMessageText": "bdfec574f3a96e204fa4ced8 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "bdfec574f3a96e204fa4ced8 name",
+    "note": "bdfec574f3a96e204fa4ced8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a0ff2c9758b6c1629ea1ab28",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "d553c89dfcfdc30fa7f34e83",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e9da01a8bdad2f3abdf094bd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 45000
+              }
+            }
+          ],
+          "target": "e9da01a8bdad2f3abdf094bd",
+          "type": "Item",
+          "value": "45000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bdfec574f3a96e204fa4ced8 startedMessageText",
+    "successMessageText": "bdfec574f3a96e204fa4ced8 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "efafbf8dbd3ee45debc0cfbd": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 20 PMC(s) at Woods",
+    "_id": "efafbf8dbd3ee45debc0cfbd",
+    "acceptPlayerMessage": "efafbf8dbd3ee45debc0cfbd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "efafbf8dbd3ee45debc0cfbd changeQuestMessageText",
+    "completePlayerMessage": "efafbf8dbd3ee45debc0cfbd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2067d6a6c499ced68c0dee19",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "fa2ce7520fcf1da6f39859ef",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "8909baa8862e4ffe5d502c75"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fa662d2ccf71c67178ae370f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d77105b198dea276c6a6a3ed",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dd7da554af2e66bcb0ffafa0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed5fd72bfc51cd0a7dbf8a97",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ecad25acd3ca74f3bb67b11d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cdccaacd86a31700a43caa2b",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aa6feaa6aeca74e0fcbef97d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "05cdce63b3fb2fa36ccc73b1",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "487df7e87ff76ddfa127a214"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "abf92e4ffb713665e4a210d1",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "630e2fa1ca7d8e5fe9bbc1d0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbdb362c9f53b93b3cd5dede",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6c63b7a00ac27749b1cccebb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "04b2f98998173f6a10ffc668",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "54dd6dfadb0fa0a1bacb96e2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fdb6d07cdf4fc3bdfa28f6c0",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e9f2e9b97f0ebbfebe5ecd37"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "efafbf8dbd3ee45debc0cfbd declinePlayerMessage",
+    "description": "efafbf8dbd3ee45debc0cfbd description",
+    "failMessageText": "efafbf8dbd3ee45debc0cfbd failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "efafbf8dbd3ee45debc0cfbd name",
+    "note": "efafbf8dbd3ee45debc0cfbd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "29ffba3b53ae9d20ce5c4a3b",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "074fb4ef2dab03f15eaddaec",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d567deacc984c0ef37acc2aa",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "d567deacc984c0ef37acc2aa",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "efafbf8dbd3ee45debc0cfbd startedMessageText",
+    "successMessageText": "efafbf8dbd3ee45debc0cfbd successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "6b6130fbebdb90cfecac8869": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 33 PMC(s) at Woods",
+    "_id": "6b6130fbebdb90cfecac8869",
+    "acceptPlayerMessage": "6b6130fbebdb90cfecac8869 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6b6130fbebdb90cfecac8869 changeQuestMessageText",
+    "completePlayerMessage": "6b6130fbebdb90cfecac8869 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "401dbfd3ddb7b095dbe0aced",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "d58c9c5b66f2f6d0f4cc3850",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "7e9cdebc9f3fd629bdf6ffef"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b00dfc8cf4fdeadc47f8b7d8",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "33",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc1c46ffddf6d52e5fbad4a0",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb17caebc82aa4bafb4bb82a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d6eb6ee38efebb7d153d3dbd",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "51f11faffc86c2cbc61b86fb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ae4bca0bad9dfaa5cb462abd",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d8360afae3f98a6bedad874c"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "be327c2cb19dcaf91af6a51a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c9fab6e8c34b6385e5beccbc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "92f0aa2faeec779a09656b72",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bdfec574f3a96e204fa4ced8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bfaaa6856fede3cfabb6536b",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7b912d288bbc3ad1fda6c52d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e8ec8e4a5fc0cfaead17468c",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c1fbabc84ce5a4cd2bf6e074"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c1dcafdc7570cef5a98f6db8",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a1b8e7eb93b5c32bccfa56f8"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6b6130fbebdb90cfecac8869 declinePlayerMessage",
+    "description": "6b6130fbebdb90cfecac8869 description",
+    "failMessageText": "6b6130fbebdb90cfecac8869 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "6b6130fbebdb90cfecac8869 name",
+    "note": "6b6130fbebdb90cfecac8869 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "aff72ecbc67d20d1ffc9d23e",
+          "index": 3,
+          "type": "Experience",
+          "value": "6600"
+        },
+        {
+          "id": "5ef9a3d47fbfa997dffecb5a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "f9bab9a2a762fbcd2684dce8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 99000
+              }
+            }
+          ],
+          "target": "f9bab9a2a762fbcd2684dce8",
+          "type": "Item",
+          "value": "99000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6b6130fbebdb90cfecac8869 startedMessageText",
+    "successMessageText": "6b6130fbebdb90cfecac8869 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "574dcf249cbe8bbbd8cbb841": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 50 PMC(s) at Woods",
+    "_id": "574dcf249cbe8bbbd8cbb841",
+    "acceptPlayerMessage": "574dcf249cbe8bbbd8cbb841 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "574dcf249cbe8bbbd8cbb841 changeQuestMessageText",
+    "completePlayerMessage": "574dcf249cbe8bbbd8cbb841 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2ce62a26aae7a152419a21a8",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "e7ddadeaa0db42c6d6b87ca6",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "bb0d7acab1f4df22cabe3d6f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cd67e08fe68df95d29cefd7b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "42d3a8f55a52f895af27ea3c",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bf6420b8a5b90e7acefae37e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f7be20cf9ad76ebfd20a0b7e",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3f0ad65fb2d6e77ca22f8dcd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "074d5bf7a211d641e3daf28c",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9fbe426aba4fdf67c1505826"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d56eba42baea36f54e3f2f5e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea3ef0e63bac6d71fcdd8352"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6bb49f46aeebce60dad0dbdd",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "efafbf8dbd3ee45debc0cfbd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ae64efc30575c4ac2dcde814",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba0ecd65ca33eefc7b5b7ecb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2ead452a2df20b7fecdb8ac6",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cbeddf530edce6bcd54b55b9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9c64dc18b0c24d991dda22e6",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cac7d21cafab4503d7e9fadb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "574dcf249cbe8bbbd8cbb841 declinePlayerMessage",
+    "description": "574dcf249cbe8bbbd8cbb841 description",
+    "failMessageText": "574dcf249cbe8bbbd8cbb841 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "574dcf249cbe8bbbd8cbb841 name",
+    "note": "574dcf249cbe8bbbd8cbb841 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "db5be59c3e0fdc1e1c66ddc8",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "3eb63edd88b8fe5745dbfde8",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2d2ee9b5f500beb95bd2abb2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "2d2ee9b5f500beb95bd2abb2",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "574dcf249cbe8bbbd8cbb841 startedMessageText",
+    "successMessageText": "574dcf249cbe8bbbd8cbb841 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "dbb1f3b20ca2a8aabbd0e738": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 100 PMC(s) at Woods",
+    "_id": "dbb1f3b20ca2a8aabbd0e738",
+    "acceptPlayerMessage": "dbb1f3b20ca2a8aabbd0e738 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dbb1f3b20ca2a8aabbd0e738 changeQuestMessageText",
+    "completePlayerMessage": "dbb1f3b20ca2a8aabbd0e738 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "db50bb8a73b6d88abdcd5da4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ade1e70f1c6eebb4d98e5f27",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "fa7a549f3ff04f1eac5da6dc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "32ed2bd3fc6778bc82064aa2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7788b6f6de4adf3b6eb6fea4",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bffa2b03aaedcefc2731adff"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "26d9bbf5dfbfeb66a439b7fe",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ffec1451bccc7f3dd1adeb1e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d6a32b32ec3c1d6cdec0d666",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "354fe361dbdad7c4a3c82fb9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "db774ffca91058eb3c4dd9a4",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1aa7420f70bc0e6d7c7a8e1d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fcfbfb6c3feb8f08efac8f6e",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6b6130fbebdb90cfecac8869"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfb78d18a1fbda24faf6a1f2",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2e02a55ccfc245f638bc747a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a7aaeb95df01f5dc2fa57481",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dd080c46fd0bdd1a89ea55e9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1cedbd404792aacc1ebaf234",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad28aea79ffa5e271e6f7a70"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dbb1f3b20ca2a8aabbd0e738 declinePlayerMessage",
+    "description": "dbb1f3b20ca2a8aabbd0e738 description",
+    "failMessageText": "dbb1f3b20ca2a8aabbd0e738 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "dbb1f3b20ca2a8aabbd0e738 name",
+    "note": "dbb1f3b20ca2a8aabbd0e738 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7f125bfae13a2fdc9d5bd54b",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "f5c773d7e592113c1baebd1a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "cc2502da7a28dfab5ac9bdd5",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "cc2502da7a28dfab5ac9bdd5",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dbb1f3b20ca2a8aabbd0e738 startedMessageText",
+    "successMessageText": "dbb1f3b20ca2a8aabbd0e738 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  },
+  "2ed64e087c22653feced3ad3": {
+    "QuestName": "[Jgr] Headless PMC: Headshot 200 PMC(s) at Woods",
+    "_id": "2ed64e087c22653feced3ad3",
+    "acceptPlayerMessage": "2ed64e087c22653feced3ad3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2ed64e087c22653feced3ad3 changeQuestMessageText",
+    "completePlayerMessage": "2ed64e087c22653feced3ad3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1bbbdaedcabe7eec5efcd2a0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cbd54dad7dcfeadbeebfa2bf",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "efff9a6eca3dcabb5b11f8b7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "edf33fd9aa6bd7191c6ad84d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d9f71c7b4b7cf5dcdb46affb",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bcfc65bad71e066f12d30bef"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0c741dbcffed5f72adc5d366",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f9e6b867edc9e99f42f42c3e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8c5ccf5617c3dfbada7e7c5d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6e10a5ad3ceaccffa948b973"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4adac3bc6f6a4a110b6b9ed9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a92faac7564a1ba3dbb8ec16"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fcfbb084aec406fa1abf6ba6",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "574dcf249cbe8bbbd8cbb841"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a26a919ab71db7ceeefc0fad",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2ee10ebae10da319f84b1e90"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ec3124f12301acfd9beeceee",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "75cdedffdbb5e2d7bf7fdd82"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2ba3a021424babd6cf486527",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3fda3d07f944dfedee0deceb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2ed64e087c22653feced3ad3 declinePlayerMessage",
+    "description": "2ed64e087c22653feced3ad3 description",
+    "failMessageText": "2ed64e087c22653feced3ad3 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e3c2d2720bac5b8b4567",
+    "name": "2ed64e087c22653feced3ad3 name",
+    "note": "2ed64e087c22653feced3ad3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9ba263cf17bebe1de7def92d",
+          "index": 3,
+          "type": "Experience",
+          "value": "40000"
+        },
+        {
+          "id": "0bbb4dfc8d3f64bd9f21bb55",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fd08abb11f5a9ed4dfa480ac",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 600000
+              }
+            }
+          ],
+          "target": "fd08abb11f5a9ed4dfa480ac",
+          "type": "Item",
+          "value": "600000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2ed64e087c22653feced3ad3 startedMessageText",
+    "successMessageText": "2ed64e087c22653feced3ad3 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "Elimination"
+  }
+}

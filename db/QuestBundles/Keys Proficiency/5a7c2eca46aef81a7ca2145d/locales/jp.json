@@ -1,0 +1,14 @@
+{
+    "a4de75c32db70fbbaf4dcd30 name": "[Mec] キーの習熟度:Factory 鍵屋",
+    "a4de75c32db70fbbaf4dcd30 note": "",
+    "a4de75c32db70fbbaf4dcd30 description": "キーのコンテナが必要ですか？まだキーがない場合は何が必要ですか？ 'Em All!を検索する必要があります!",
+    "a4de75c32db70fbbaf4dcd30 startedMessageText": "[Mec] クエストが承認されました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "a4de75c32db70fbbaf4dcd30 failMessageText": "[Mec] クエストに失敗しました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "a4de75c32db70fbbaf4dcd30 successMessageText": "[Mec] クエストが完了しました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 declinePlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 completePlayerMessage": "",
+    "67ea305f94b3c1dc54de997f": "ドアの鍵を検索",
+    "bafce78f880183b5e71ab1ea": "ドアの鍵を検索",
+    "c28edcca6cece5d5cea5e988": "Factory出口の鍵を検索"
+}

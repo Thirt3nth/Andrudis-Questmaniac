@@ -1,0 +1,1020 @@
+{
+  "401c3132c17aaf23ae44eee5": {
+    "QuestName": "[Ski] Key Proficiency: Customs Burglar",
+    "_id": "401c3132c17aaf23ae44eee5",
+    "acceptPlayerMessage": "401c3132c17aaf23ae44eee5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "401c3132c17aaf23ae44eee5 changeQuestMessageText",
+    "completePlayerMessage": "401c3132c17aaf23ae44eee5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "52dba2d6cfbb56ceb23e99db",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59136a4486f774447a1ed172",
+            "591383f186f7744a4c5edcf3",
+            "591382d986f774465a6413a7",
+            "59136e1e86f774432f15d133",
+            "59387a4986f77401cc236e62",
+            "5938603e86f77435642354f4",
+            "5938994586f774523a425196",
+            "5914578086f774123569ffa4",
+            "5672c92d4bdc2d180f8b4567",
+            "5938504186f7740991483f30",
+            "59148c8a86f774197930e983",
+            "5780cf942459777df90dcb72",
+            "5780cf9e2459777df90dcb73",
+            "5780cfa52459777dfb276eb1",
+            "593aa4be86f77457f56379f8",
+            "5780cda02459777b272ede61",
+            "5780cf722459777a5108b9a1",
+            "5780cf692459777de4559321",
+            "5780cf7f2459777de4559322",
+            "5448ba0b4bdc2d02308b456c",
+            "5780d0652459777df90dcb74",
+            "5780d0532459777a5108b9a2",
+            "5937ee6486f77408994ba448",
+            "5913915886f774123603c392",
+            "5780d07a2459777de4559324",
+            "5938144586f77473c2087145",
+            "5913877a86f774432f15d444",
+            "5913611c86f77479e0084092",
+            "593962ca86f774068014d9af",
+            "5da743f586f7744014504f72"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2b1f34ab9eb4d5bd7ca139cc",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "20000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4a58d44b478aa3ddec2dc2da",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b953f47abe86cad41ccb4fa5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "401c3132c17aaf23ae44eee5 declinePlayerMessage",
+    "description": "401c3132c17aaf23ae44eee5 description",
+    "failMessageText": "401c3132c17aaf23ae44eee5 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "401c3132c17aaf23ae44eee5 name",
+    "note": "401c3132c17aaf23ae44eee5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e1eec7bccbcac3517da0a2a8",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "7f1ea734bb1dba0a9dffd5b5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dff576d25f18facfd6dab3a8",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "dff576d25f18facfd6dab3a8",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "e4efd06d4c49df1046cfdba4",
+          "index": 6,
+          "items": [
+            {
+              "_id": "fcf0ccd7ed7f2d6d005ef081",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "fcf0ccd7ed7f2d6d005ef081",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "401c3132c17aaf23ae44eee5 startedMessageText",
+    "successMessageText": "401c3132c17aaf23ae44eee5 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "PickUp"
+  },
+  "8ff612f74b9ebff5fdcbcb87": {
+    "QuestName": "[Ski] Key Proficiency: Customs Key Master",
+    "_id": "8ff612f74b9ebff5fdcbcb87",
+    "acceptPlayerMessage": "8ff612f74b9ebff5fdcbcb87 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "8ff612f74b9ebff5fdcbcb87 changeQuestMessageText",
+    "completePlayerMessage": "8ff612f74b9ebff5fdcbcb87 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7eadff3b0d3e6a8baddc458c",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59136a4486f774447a1ed172",
+            "591383f186f7744a4c5edcf3",
+            "591382d986f774465a6413a7",
+            "59136e1e86f774432f15d133",
+            "59387a4986f77401cc236e62",
+            "5938603e86f77435642354f4",
+            "5938994586f774523a425196",
+            "5914578086f774123569ffa4",
+            "5672c92d4bdc2d180f8b4567",
+            "5938504186f7740991483f30",
+            "59148c8a86f774197930e983",
+            "5780cf942459777df90dcb72",
+            "5780cf9e2459777df90dcb73",
+            "5780cfa52459777dfb276eb1",
+            "593aa4be86f77457f56379f8",
+            "5780cda02459777b272ede61",
+            "5780cf722459777a5108b9a1",
+            "5780cf692459777de4559321",
+            "5780cf7f2459777de4559322",
+            "5448ba0b4bdc2d02308b456c",
+            "5780d0652459777df90dcb74",
+            "5780d0532459777a5108b9a2",
+            "5937ee6486f77408994ba448",
+            "5913915886f774123603c392",
+            "5780d07a2459777de4559324",
+            "5938144586f77473c2087145",
+            "5913877a86f774432f15d444",
+            "5913611c86f77479e0084092",
+            "593962ca86f774068014d9af",
+            "5da743f586f7744014504f72"
+          ],
+          "value": "8",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c54fa53355794cfda93e437f",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "500000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aca1f5da051ef6d7eec9ccda",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "401c3132c17aaf23ae44eee5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "8ff612f74b9ebff5fdcbcb87 declinePlayerMessage",
+    "description": "8ff612f74b9ebff5fdcbcb87 description",
+    "failMessageText": "8ff612f74b9ebff5fdcbcb87 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "8ff612f74b9ebff5fdcbcb87 name",
+    "note": "8ff612f74b9ebff5fdcbcb87 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6049966a6baef29f0d52fda1",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "598f5ad95e0cc266ec9f45d0",
+          "index": 5,
+          "items": [
+            {
+              "_id": "5151c5cbd1debbc65b15280b",
+              "_tpl": "590c60fc86f77412b13fddcf",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "5151c5cbd1debbc65b15280b",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "fda4af677c9c5cbf7e12a03b",
+          "index": 6,
+          "items": [
+            {
+              "_id": "e8f3d2edf27efffbb6bbbcb8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "e8f3d2edf27efffbb6bbbcb8",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "8ff612f74b9ebff5fdcbcb87 startedMessageText",
+    "successMessageText": "8ff612f74b9ebff5fdcbcb87 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "PickUp"
+  },
+  "bffaa8d5bab1ed33fe5c84b4": {
+    "QuestName": "[Ski] Key Proficiency: Customs Dorms Locksmith",
+    "_id": "bffaa8d5bab1ed33fe5c84b4",
+    "acceptPlayerMessage": "bffaa8d5bab1ed33fe5c84b4 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bffaa8d5bab1ed33fe5c84b4 changeQuestMessageText",
+    "completePlayerMessage": "bffaa8d5bab1ed33fe5c84b4 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ce1be4ebce0df2128caebfd",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59136a4486f774447a1ed172"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "16250ee9fdce9284603ffbc9",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591383f186f7744a4c5edcf3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ebc19fa9ea45bbc4c756399a",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591382d986f774465a6413a7"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a14a1f1cc041cdc99e63acce",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59136e1e86f774432f15d133"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b3c26ac0b8fb6bdada6f6547",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59387a4986f77401cc236e62"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb2c569e1cbad47b4e968fae",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5938603e86f77435642354f4"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "efa66c590df6783cc3f5f09c",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5938994586f774523a425196"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ef7eef81fbdae6c9eb1a2dcf",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5914578086f774123569ffa4"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f2e2be5bae2c91c3fcfe143a",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5672c92d4bdc2d180f8b4567"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "68adc8861899bb3430ee2c92",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5938504186f7740991483f30"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7a93fcec6a2cde1a211bac64",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59148c8a86f774197930e983"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3962aab9d3dac790f9a2d10f",
+          "index": 11,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cf942459777df90dcb72"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "efdd9e62dadca5eebce921be",
+          "index": 12,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cf9e2459777df90dcb73"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "db598dadb4a4affee0d1f625",
+          "index": 13,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cfa52459777dfb276eb1"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eade02a7a69aa1672d7ca51e",
+          "index": 14,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "593aa4be86f77457f56379f8"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "adebdea7ebfb98b1bb2cce92",
+          "index": 15,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cda02459777b272ede61"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d30bda3240f98e10ba5cff7c",
+          "index": 16,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cf722459777a5108b9a1"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "10d5dcdeb2042bbc9d646f07",
+          "index": 17,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cf692459777de4559321"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fadb1c05b2ffce2dd3aa2c5b",
+          "index": 18,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780cf7f2459777de4559322"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffcfcfbc8eeae2a08b8b4def",
+          "index": 25,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8ff612f74b9ebff5fdcbcb87"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bffaa8d5bab1ed33fe5c84b4 declinePlayerMessage",
+    "description": "bffaa8d5bab1ed33fe5c84b4 description",
+    "failMessageText": "bffaa8d5bab1ed33fe5c84b4 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bffaa8d5bab1ed33fe5c84b4 name",
+    "note": "bffaa8d5bab1ed33fe5c84b4 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "aa61aaddcdaad5194d7e2ed5",
+          "index": 21,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "b64f3aa2f99cecbdb6e6ba5f",
+          "index": 22,
+          "items": [
+            {
+              "_id": "b71a69016bfde49deb0bed39",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "b71a69016bfde49deb0bed39",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "acb5a8aeda15c7582e44b684",
+          "index": 23,
+          "items": [
+            {
+              "_id": "9d2dde8dabd2f0d1bf4c89be",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "9d2dde8dabd2f0d1bf4c89be",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bffaa8d5bab1ed33fe5c84b4 startedMessageText",
+    "successMessageText": "bffaa8d5bab1ed33fe5c84b4 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "PickUp"
+  },
+  "062ff7f3bba9565cca432087": {
+    "QuestName": "[Ski] Key Proficiency: Customs Misc Locksmith",
+    "_id": "062ff7f3bba9565cca432087",
+    "acceptPlayerMessage": "062ff7f3bba9565cca432087 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "062ff7f3bba9565cca432087 changeQuestMessageText",
+    "completePlayerMessage": "062ff7f3bba9565cca432087 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "78aeb3cc1abd5b417b0ab6cc",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fcb5a27adcbfeaa62a1ffb6f",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780d0652459777df90dcb74"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd5a56d5f7ee74c4fce2eaba",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780d0532459777a5108b9a2"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7bec30ad4efda547f5daa995",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5937ee6486f77408994ba448"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bb154132fedb7233bb95b088",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5913915886f774123603c392"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0b79ea2acb1ea741864bbaaf",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5780d07a2459777de4559324"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9a1f46750e60ddeabd9effbc",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5938144586f77473c2087145"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7692ece0f86ff71efc0f16ce",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5913877a86f774432f15d444"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2ef2739b0d16b0eaa5a10ea2",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5913611c86f77479e0084092"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1e6f9442e699bcdbb17dbce",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "593962ca86f774068014d9af"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7cdbdd16fc886197d6cd8a5c",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5da743f586f7744014504f72"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a0afd360cc13b4c08ecec71e",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8ff612f74b9ebff5fdcbcb87"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "062ff7f3bba9565cca432087 declinePlayerMessage",
+    "description": "062ff7f3bba9565cca432087 description",
+    "failMessageText": "062ff7f3bba9565cca432087 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "062ff7f3bba9565cca432087 name",
+    "note": "062ff7f3bba9565cca432087 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1caa384aa19da9ec0ccaa15c",
+          "index": 13,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "029d062dacde688e2d0549ee",
+          "index": 14,
+          "items": [
+            {
+              "_id": "d7ee4b3a72baea1c3a6c2a5e",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "d7ee4b3a72baea1c3a6c2a5e",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "fd6a0a69fdefaba9ccbee7db",
+          "index": 15,
+          "items": [
+            {
+              "_id": "dabf0333dddf8bb8fcb1bbf4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "dabf0333dddf8bb8fcb1bbf4",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "062ff7f3bba9565cca432087 startedMessageText",
+    "successMessageText": "062ff7f3bba9565cca432087 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "PickUp"
+  }
+}

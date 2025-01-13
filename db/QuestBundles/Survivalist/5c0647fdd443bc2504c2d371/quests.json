@@ -1,0 +1,1028 @@
+{
+  "0ca4952c179fcd9cfc1a1d5b": {
+    "QuestName": "[Jgr] Survivalist: Woods x2",
+    "_id": "0ca4952c179fcd9cfc1a1d5b",
+    "acceptPlayerMessage": "0ca4952c179fcd9cfc1a1d5b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0ca4952c179fcd9cfc1a1d5b changeQuestMessageText",
+    "completePlayerMessage": "0ca4952c179fcd9cfc1a1d5b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "0a9e0fdd223d523ccaaedbe8",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "4b1fedd19aedbbbd9a845faa",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "732de73bf2bcd6eca84bf4ea"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "de9016ebee1dff2d6bffdc37",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a66cbcaae81b2124bf3b5b88",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0ca4952c179fcd9cfc1a1d5b declinePlayerMessage",
+    "description": "0ca4952c179fcd9cfc1a1d5b description",
+    "failMessageText": "0ca4952c179fcd9cfc1a1d5b failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0ca4952c179fcd9cfc1a1d5b name",
+    "note": "0ca4952c179fcd9cfc1a1d5b note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ffaefd6be740aeb82fbcab8d",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "2da1085fde6daefea7cddae7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "30cfcd4d0f41fde4aac400a4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "30cfcd4d0f41fde4aac400a4",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0ca4952c179fcd9cfc1a1d5b startedMessageText",
+    "successMessageText": "0ca4952c179fcd9cfc1a1d5b successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  },
+  "fedacdaadcd9cfdac8c004f3": {
+    "QuestName": "[Jgr] Survivalist: Woods x5",
+    "_id": "fedacdaadcd9cfdac8c004f3",
+    "acceptPlayerMessage": "fedacdaadcd9cfdac8c004f3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fedacdaadcd9cfdac8c004f3 changeQuestMessageText",
+    "completePlayerMessage": "fedacdaadcd9cfdac8c004f3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "6bb4e7c9a86e4c4b8fce20bb",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "faa1efa0b6be3f68721d84bd",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "d992e0426ca3fac3d1bfeadf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d172ad59bad3553c2fdec9bc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6cb70abeefef2e54394ced57",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c2bb590cfd0584aafdd6dd2d",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea2741f54fd938f22dfecace"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1a4e6ff9c28dbf1cde6dbb9d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e1ee8e8a2285eb1da88f3cd8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b9ae720c48eec34fba62d632",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2beda36d4f0acdf781cceb59"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "efce5abbaeb7fe4e69e101ff",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0b0044be7829e6a6b3a73f4d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ac3cf9ccc8a2c251dec9bec",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ca4952c179fcd9cfc1a1d5b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "265cad1a59ffeff876d1a3b6",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f1aa8dab92793e86a778eb39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f0bdee76278f7ac755aeb1b0",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c9a006c39f0a566daaa2f21f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ccefceeacdf3e718cc26e4b7",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb0b1fc4fccffbe565cbb2ff"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fedacdaadcd9cfdac8c004f3 declinePlayerMessage",
+    "description": "fedacdaadcd9cfdac8c004f3 description",
+    "failMessageText": "fedacdaadcd9cfdac8c004f3 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fedacdaadcd9cfdac8c004f3 name",
+    "note": "fedacdaadcd9cfdac8c004f3 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ddd48bd4d252e9dbda7f98ff",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "5e5a666e9bc15b7eebbdd3e3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b7b7a76ef06dae21a3c5e9e2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "b7b7a76ef06dae21a3c5e9e2",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fedacdaadcd9cfdac8c004f3 startedMessageText",
+    "successMessageText": "fedacdaadcd9cfdac8c004f3 successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  },
+  "bc3ea75d553e05a5cec4bffc": {
+    "QuestName": "[Jgr] Survivalist: Woods x10",
+    "_id": "bc3ea75d553e05a5cec4bffc",
+    "acceptPlayerMessage": "bc3ea75d553e05a5cec4bffc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bc3ea75d553e05a5cec4bffc changeQuestMessageText",
+    "completePlayerMessage": "bc3ea75d553e05a5cec4bffc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "dd1ff99f88b03b9c8faa2ba9",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "bbb3eafdeea1e5c5d87a7d22",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "5a3e0fd50c97734b9aecac6d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0c05dcd53c4a2ecf8cf6b5fb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5cf136fde3df4e3d7f6200b8",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d5a9bfa4d7637c235fbe2dba",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6101e8bf229d74c2faca9b39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "32bdea4abc9d2cfc3e841ffd",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "da077c0e5fff7ff39a2cde38"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "89fabf4dbade8dd0b48df38e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e39face8e4772eb255da7ac5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "084d6bbb6f9843beb73f000f",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b6dce7d3751ea84990be7bb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fc5b0a2d37dc1e2f9d60e145",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fedacdaadcd9cfdac8c004f3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc338cab2c9cf268eb35faff",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "52aaacb7cf6d028e32a2ea8a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3e9be5388bff6b9bb727da1a",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f048439d15dd21d7c2603da"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbdebedff03143063f6780ca",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dfb4fa50ffceaac7ef49ff0a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bc3ea75d553e05a5cec4bffc declinePlayerMessage",
+    "description": "bc3ea75d553e05a5cec4bffc description",
+    "failMessageText": "bc3ea75d553e05a5cec4bffc failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bc3ea75d553e05a5cec4bffc name",
+    "note": "bc3ea75d553e05a5cec4bffc note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "315bd9f9e85b9fcec9ec1f8e",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "177796dfadaccbcb4a32434b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "05dea61ebb8d3f838d90f0ea",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "05dea61ebb8d3f838d90f0ea",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bc3ea75d553e05a5cec4bffc startedMessageText",
+    "successMessageText": "bc3ea75d553e05a5cec4bffc successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  },
+  "fefbdaff1bae5f2c2d83dfcd": {
+    "QuestName": "[Jgr] Survivalist: Woods x5",
+    "_id": "fefbdaff1bae5f2c2d83dfcd",
+    "acceptPlayerMessage": "fefbdaff1bae5f2c2d83dfcd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fefbdaff1bae5f2c2d83dfcd changeQuestMessageText",
+    "completePlayerMessage": "fefbdaff1bae5f2c2d83dfcd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "fbe0aac7acba08fc055be03e",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "195548a1feef8c99ed4adb03",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "43cbb7fa0de3ec7a93830fc1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e93bbbb9bf4dbf01cb8cfcec",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bdba454ff919a7d284bd3525",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "15e5d7b2ebcc71f52cf3a3d2",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c960cb46c2ed44618cba6eda"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8b3609f9abb9c9b0eef97bf",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5eadc84b39fb601fe1dd061a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "75ebde0b97d84b0fbdc64d74",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1e2d81816d37deaf43e1fbca"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f02b2f4d9e3ed11cbe3c2d7c",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "133b4c8ca5d4e9626a2124ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5c32aa95cad9289decb45d4f",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc3ea75d553e05a5cec4bffc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "04fe156505e21b2897a825ed",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eab9e49ec8f2da122d4d59d6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cacd16ee1a8e4dcea645fe9c",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6a32d4a00247cedaedffec0e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f0ecc2e3dec4de958fbed1d0",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d6fabef5edb84fb1fbc23bda"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "e3ebbf9cc1be7e4ca6ff5f6c",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "59d7da8c9f298982e77c1f3f",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "bdad22d27ea4dcd02ab3fa93"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "ea49ac3feecbdaa55d795fd3",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "fefbdaff1bae5f2c2d83dfcd declinePlayerMessage",
+    "description": "fefbdaff1bae5f2c2d83dfcd description",
+    "failMessageText": "fefbdaff1bae5f2c2d83dfcd failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fefbdaff1bae5f2c2d83dfcd name",
+    "note": "fefbdaff1bae5f2c2d83dfcd note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1aec6b7c839905261e5a0ec3",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "8e1a20bc3c202e4cfa2fc0e5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "411c2acc7fa805e2e57443ff",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "411c2acc7fa805e2e57443ff",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "57c91cfd9b3a7cc6ce43e21c",
+          "index": 6,
+          "items": [
+            {
+              "_id": "7b73a77de5650014c53d3017",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "7b73a77de5650014c53d3017",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "dcd5302c4f4a8c9463f0f8d7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "574dc17f2ebfb8ad4c35eaff",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "574dc17f2ebfb8ad4c35eaff",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fefbdaff1bae5f2c2d83dfcd startedMessageText",
+    "successMessageText": "fefbdaff1bae5f2c2d83dfcd successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  },
+  "81bf77e5b0cf5f98fbcf51fd": {
+    "QuestName": "[Jgr] Survivalist: Woods x10",
+    "_id": "81bf77e5b0cf5f98fbcf51fd",
+    "acceptPlayerMessage": "81bf77e5b0cf5f98fbcf51fd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "81bf77e5b0cf5f98fbcf51fd changeQuestMessageText",
+    "completePlayerMessage": "81bf77e5b0cf5f98fbcf51fd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "67edc08d5297c686c7b2cc6d",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "cfc1dccc2fc369a7ef3595b9",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "ac23f2b55edb923cd45de4d5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cea0dc57d1878b37bbedf19b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a2be9bffaf38dfb6f5d1bdcb",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8112cfd6de20cb16a2ddf35c",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "caaa8addfd6c4f700c5efc42"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ef1ad7ce1ead1c7e9bb3a983",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "efb061ba8fa7de4501f9cfe9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3e2acdbec5be5bb97bae85de",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4e596b76ea591d4dbb4d148b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6fc8cef154c5bf06ebc039ea",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a4efbaa5ec6ac68a4a9cd5b4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aeafb5da16e970eb28a879b4",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fefbdaff1bae5f2c2d83dfcd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4a36a6f5f3ad8d8564dbbeb5",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "daf169fe1e14c4bd8fde27e8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a7bf74d1c32bde7ffa3f3bed",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3d3b8dc5e3a4999b9a88e9b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "42cacb8f717fbaac7c72fe7e",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d6f929e1c2bdbccf8bc576b"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "1eea09f151b2cef4eca3b94b",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "2f2653a8bceda07c14bc806f",
+                "target": [
+                  "Woods"
+                ]
+              }
+            ],
+            "id": "eaa13ce6fec89beea6b757ea"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "fe0afccec61f6fb4c461dea1",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "81bf77e5b0cf5f98fbcf51fd declinePlayerMessage",
+    "description": "81bf77e5b0cf5f98fbcf51fd description",
+    "failMessageText": "81bf77e5b0cf5f98fbcf51fd failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "81bf77e5b0cf5f98fbcf51fd name",
+    "note": "81bf77e5b0cf5f98fbcf51fd note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "856bcbb1cac7035afacc013d",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "3639ff3c11e4d126e60311ea",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f10f57effbfa2ef89edfddf2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "f10f57effbfa2ef89edfddf2",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "9821cceeceac3bcfcc82ecdc",
+          "index": 6,
+          "items": [
+            {
+              "_id": "d88a5478681eba1dbc0037d6",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "d88a5478681eba1dbc0037d6",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "f5fc5d90f9058ef185b6f8c7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "1702a2edd5b268eeafaab3cc",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "1702a2edd5b268eeafaab3cc",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "81bf77e5b0cf5f98fbcf51fd startedMessageText",
+    "successMessageText": "81bf77e5b0cf5f98fbcf51fd successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  }
+}

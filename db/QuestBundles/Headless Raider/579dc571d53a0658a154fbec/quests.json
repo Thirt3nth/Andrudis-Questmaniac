@@ -1,0 +1,1009 @@
+{
+  "ad15aaecbd91f63cea96dbaf": {
+    "QuestName": "[Fen] Headless Raider: Headshot 1 Raider(s) at Tarkov",
+    "_id": "ad15aaecbd91f63cea96dbaf",
+    "acceptPlayerMessage": "ad15aaecbd91f63cea96dbaf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ad15aaecbd91f63cea96dbaf changeQuestMessageText",
+    "completePlayerMessage": "ad15aaecbd91f63cea96dbaf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b4deba27c2f6fde0819cff26",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2dacd1e57451be14ef990f7d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "35361abe5db53a5e2d3944cd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ad15aaecbd91f63cea96dbaf declinePlayerMessage",
+    "description": "ad15aaecbd91f63cea96dbaf description",
+    "failMessageText": "ad15aaecbd91f63cea96dbaf failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ad15aaecbd91f63cea96dbaf name",
+    "note": "ad15aaecbd91f63cea96dbaf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e5789c435bbbf82dcccb802e",
+          "index": 3,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "cbba5d0ec89ea5acda2b5934",
+          "index": 4,
+          "items": [
+            {
+              "_id": "4fce4bbc3ddb23b78b9356ee",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "4fce4bbc3ddb23b78b9356ee",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ad15aaecbd91f63cea96dbaf startedMessageText",
+    "successMessageText": "ad15aaecbd91f63cea96dbaf successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "bcf1daaabe3fd9edda54ceed": {
+    "QuestName": "[Fen] Headless Raider: Headshot 2 Raider(s) at Tarkov",
+    "_id": "bcf1daaabe3fd9edda54ceed",
+    "acceptPlayerMessage": "bcf1daaabe3fd9edda54ceed acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bcf1daaabe3fd9edda54ceed changeQuestMessageText",
+    "completePlayerMessage": "bcf1daaabe3fd9edda54ceed completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "38d3466cddfcbb44261cf135",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2a27d62dd4bab3acf2acf657"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b388bcf5d55d02f89e71bae0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2dd1dcc9d94ffd930d8ea8c7",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad15aaecbd91f63cea96dbaf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bcf1daaabe3fd9edda54ceed declinePlayerMessage",
+    "description": "bcf1daaabe3fd9edda54ceed description",
+    "failMessageText": "bcf1daaabe3fd9edda54ceed failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bcf1daaabe3fd9edda54ceed name",
+    "note": "bcf1daaabe3fd9edda54ceed note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4cb1ea1fd12fcc5bba1062c1",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "b8d20f43d10d8aad95bbf084",
+          "index": 4,
+          "items": [
+            {
+              "_id": "1a322a32f5591dfaaacf3d35",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "1a322a32f5591dfaaacf3d35",
+          "type": "Item",
+          "value": "20000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bcf1daaabe3fd9edda54ceed startedMessageText",
+    "successMessageText": "bcf1daaabe3fd9edda54ceed successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "96c297b5204fcb8311df4f4d": {
+    "QuestName": "[Fen] Headless Raider: Headshot 3 Raider(s) at Tarkov",
+    "_id": "96c297b5204fcb8311df4f4d",
+    "acceptPlayerMessage": "96c297b5204fcb8311df4f4d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "96c297b5204fcb8311df4f4d changeQuestMessageText",
+    "completePlayerMessage": "96c297b5204fcb8311df4f4d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "6f8fc48aca154cde8fdd6e45",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ac25638c33efec4df2db81be"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7c2c0f1ab82eabaabe1cfdfb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfd149012f56c8fd7dcfbcda",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bcf1daaabe3fd9edda54ceed"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "96c297b5204fcb8311df4f4d declinePlayerMessage",
+    "description": "96c297b5204fcb8311df4f4d description",
+    "failMessageText": "96c297b5204fcb8311df4f4d failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "96c297b5204fcb8311df4f4d name",
+    "note": "96c297b5204fcb8311df4f4d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "72ea65b2a3874a477ce7f481",
+          "index": 3,
+          "type": "Experience",
+          "value": "750"
+        },
+        {
+          "id": "b7acc4cfcf2ca8c6fcd7ffaf",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dfde1323cb9f876d2f6cc29d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "dfde1323cb9f876d2f6cc29d",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "96c297b5204fcb8311df4f4d startedMessageText",
+    "successMessageText": "96c297b5204fcb8311df4f4d successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "dc62fbc1c3ce64fec2b3e466": {
+    "QuestName": "[Fen] Headless Raider: Headshot 4 Raider(s) at Tarkov",
+    "_id": "dc62fbc1c3ce64fec2b3e466",
+    "acceptPlayerMessage": "dc62fbc1c3ce64fec2b3e466 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dc62fbc1c3ce64fec2b3e466 changeQuestMessageText",
+    "completePlayerMessage": "dc62fbc1c3ce64fec2b3e466 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b0deefeac2e6cefb157a72bc",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "d010adc7d73eb4993b9d36bb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a650dae85ab321f0b2a5ac04",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9154fab3fd426bfcec108a5e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "96c297b5204fcb8311df4f4d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dc62fbc1c3ce64fec2b3e466 declinePlayerMessage",
+    "description": "dc62fbc1c3ce64fec2b3e466 description",
+    "failMessageText": "dc62fbc1c3ce64fec2b3e466 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dc62fbc1c3ce64fec2b3e466 name",
+    "note": "dc62fbc1c3ce64fec2b3e466 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "8bdcc1c8f51fcea2ee10dbd8",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "55d8c1aa61f6e7aa389c6eeb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "870adf3aedfa3bc713bb9ef7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 40000
+              }
+            }
+          ],
+          "target": "870adf3aedfa3bc713bb9ef7",
+          "type": "Item",
+          "value": "40000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dc62fbc1c3ce64fec2b3e466 startedMessageText",
+    "successMessageText": "dc62fbc1c3ce64fec2b3e466 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "d0ebe9bae84c2a5dcee03c7b": {
+    "QuestName": "[Fen] Headless Raider: Headshot 5 Raider(s) at Tarkov",
+    "_id": "d0ebe9bae84c2a5dcee03c7b",
+    "acceptPlayerMessage": "d0ebe9bae84c2a5dcee03c7b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d0ebe9bae84c2a5dcee03c7b changeQuestMessageText",
+    "completePlayerMessage": "d0ebe9bae84c2a5dcee03c7b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d59bbc1ddd17c8ff4a33c07e",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "9ecc2e9b00baffec591eaf74"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cb626a51eb4fba2aae6f0fda",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fbec5bbcf4eb2c165edbc38f",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dc62fbc1c3ce64fec2b3e466"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d0ebe9bae84c2a5dcee03c7b declinePlayerMessage",
+    "description": "d0ebe9bae84c2a5dcee03c7b description",
+    "failMessageText": "d0ebe9bae84c2a5dcee03c7b failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d0ebe9bae84c2a5dcee03c7b name",
+    "note": "d0ebe9bae84c2a5dcee03c7b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "3792e29e4ced4a96e4d6969d",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "035ebcd1ba030acf7bea4eda",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bafb5dac2fbe0a445597fc0a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "bafb5dac2fbe0a445597fc0a",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d0ebe9bae84c2a5dcee03c7b startedMessageText",
+    "successMessageText": "d0ebe9bae84c2a5dcee03c7b successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "9fb1b2fb766c20dfe7560ebe": {
+    "QuestName": "[Fen] Headless Raider: Headshot 7 Raider(s) at Tarkov",
+    "_id": "9fb1b2fb766c20dfe7560ebe",
+    "acceptPlayerMessage": "9fb1b2fb766c20dfe7560ebe acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9fb1b2fb766c20dfe7560ebe changeQuestMessageText",
+    "completePlayerMessage": "9fb1b2fb766c20dfe7560ebe completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fefe0b6fe8fbe2ea0d4c50aa",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "d5b8a8cd4629fcf2cbabdefd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbac74a35a78eb85cfaeb3aa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5b79aa6fb4c9ce09259e658c",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d0ebe9bae84c2a5dcee03c7b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9fb1b2fb766c20dfe7560ebe declinePlayerMessage",
+    "description": "9fb1b2fb766c20dfe7560ebe description",
+    "failMessageText": "9fb1b2fb766c20dfe7560ebe failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "9fb1b2fb766c20dfe7560ebe name",
+    "note": "9fb1b2fb766c20dfe7560ebe note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e502454b7d9f892f16e0088d",
+          "index": 3,
+          "type": "Experience",
+          "value": "1750"
+        },
+        {
+          "id": "d764d2eddffb2e5b0f1efa12",
+          "index": 4,
+          "items": [
+            {
+              "_id": "f6464ca0e786be4e6893ed86",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 70000
+              }
+            }
+          ],
+          "target": "f6464ca0e786be4e6893ed86",
+          "type": "Item",
+          "value": "70000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9fb1b2fb766c20dfe7560ebe startedMessageText",
+    "successMessageText": "9fb1b2fb766c20dfe7560ebe successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "d0d1559e2e8b1eb3ccb4cc7f": {
+    "QuestName": "[Fen] Headless Raider: Headshot 9 Raider(s) at Tarkov",
+    "_id": "d0d1559e2e8b1eb3ccb4cc7f",
+    "acceptPlayerMessage": "d0d1559e2e8b1eb3ccb4cc7f acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d0d1559e2e8b1eb3ccb4cc7f changeQuestMessageText",
+    "completePlayerMessage": "d0d1559e2e8b1eb3ccb4cc7f completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "cccbbed2be7bfaeebdbc6bb0",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ede9c123c920faaa54201dce"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3e9aadfeb820b98ea03861c9",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb2babcd71bf0a4ddedcd665",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9fb1b2fb766c20dfe7560ebe"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d0d1559e2e8b1eb3ccb4cc7f declinePlayerMessage",
+    "description": "d0d1559e2e8b1eb3ccb4cc7f description",
+    "failMessageText": "d0d1559e2e8b1eb3ccb4cc7f failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d0d1559e2e8b1eb3ccb4cc7f name",
+    "note": "d0d1559e2e8b1eb3ccb4cc7f note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "0defdd8ef8cbfdbab51bee19",
+          "index": 3,
+          "type": "Experience",
+          "value": "2250"
+        },
+        {
+          "id": "6b84c4678ba9a9499795dbde",
+          "index": 4,
+          "items": [
+            {
+              "_id": "4e4a309dedb73e23db5bc2a8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 90000
+              }
+            }
+          ],
+          "target": "4e4a309dedb73e23db5bc2a8",
+          "type": "Item",
+          "value": "90000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d0d1559e2e8b1eb3ccb4cc7f startedMessageText",
+    "successMessageText": "d0d1559e2e8b1eb3ccb4cc7f successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "95ca9e5e4d0dfba90ec1cc14": {
+    "QuestName": "[Fen] Headless Raider: Headshot 12 Raider(s) at Tarkov",
+    "_id": "95ca9e5e4d0dfba90ec1cc14",
+    "acceptPlayerMessage": "95ca9e5e4d0dfba90ec1cc14 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "95ca9e5e4d0dfba90ec1cc14 changeQuestMessageText",
+    "completePlayerMessage": "95ca9e5e4d0dfba90ec1cc14 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3acfcbdce0f2ecd50da6980e",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e25afeebe4396dd875bd7aee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0aba8603dcb2b1ffdd7dead5",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e26d1495c9ffa42cba15014e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d0d1559e2e8b1eb3ccb4cc7f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "95ca9e5e4d0dfba90ec1cc14 declinePlayerMessage",
+    "description": "95ca9e5e4d0dfba90ec1cc14 description",
+    "failMessageText": "95ca9e5e4d0dfba90ec1cc14 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "95ca9e5e4d0dfba90ec1cc14 name",
+    "note": "95ca9e5e4d0dfba90ec1cc14 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cf9f6d89a62bd5fcbb65fda1",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "19b6fdf8ce36cd4fecae83c6",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fefae6aedae43dba3b3bbefe",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "fefae6aedae43dba3b3bbefe",
+          "type": "Item",
+          "value": "120000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "95ca9e5e4d0dfba90ec1cc14 startedMessageText",
+    "successMessageText": "95ca9e5e4d0dfba90ec1cc14 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "749660aa3b45d7a3c3c4df68": {
+    "QuestName": "[Fen] Headless Raider: Headshot 20 Raider(s) at Tarkov",
+    "_id": "749660aa3b45d7a3c3c4df68",
+    "acceptPlayerMessage": "749660aa3b45d7a3c3c4df68 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "749660aa3b45d7a3c3c4df68 changeQuestMessageText",
+    "completePlayerMessage": "749660aa3b45d7a3c3c4df68 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "20aebb0bb0bac4eab368e468",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "bb9c3ed4df5b69d16da7ece4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b3a4517badb7b0ebdfaffeec",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e5fd2cbcd5dd22e7e33bdea6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "95ca9e5e4d0dfba90ec1cc14"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "749660aa3b45d7a3c3c4df68 declinePlayerMessage",
+    "description": "749660aa3b45d7a3c3c4df68 description",
+    "failMessageText": "749660aa3b45d7a3c3c4df68 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "749660aa3b45d7a3c3c4df68 name",
+    "note": "749660aa3b45d7a3c3c4df68 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b1d92630e8b5bf3bbfb6d4dd",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "ca12e0fb7e8c31b4ee61ffff",
+          "index": 4,
+          "items": [
+            {
+              "_id": "93ebb6e603cc67d2e0bb3258",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "93ebb6e603cc67d2e0bb3258",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "749660aa3b45d7a3c3c4df68 startedMessageText",
+    "successMessageText": "749660aa3b45d7a3c3c4df68 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "faf960ef9908fa8cbace7fc5": {
+    "QuestName": "[Fen] Headless Raider: Headshot 50 Raider(s) at Tarkov",
+    "_id": "faf960ef9908fa8cbace7fc5",
+    "acceptPlayerMessage": "faf960ef9908fa8cbace7fc5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "faf960ef9908fa8cbace7fc5 changeQuestMessageText",
+    "completePlayerMessage": "faf960ef9908fa8cbace7fc5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "980013ded0fab3ff09cb17f9",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "cdbeabbb1236defdab8754df"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "489cad9e8f2bdbaeafeb0ce9",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8c68d24dde1d4cd97b75a9f9",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "749660aa3b45d7a3c3c4df68"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "faf960ef9908fa8cbace7fc5 declinePlayerMessage",
+    "description": "faf960ef9908fa8cbace7fc5 description",
+    "failMessageText": "faf960ef9908fa8cbace7fc5 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "faf960ef9908fa8cbace7fc5 name",
+    "note": "faf960ef9908fa8cbace7fc5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c5efbb61bbab0fbf9218061c",
+          "index": 3,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "5dfe7f71a50deabbbda92dbe",
+          "index": 4,
+          "items": [
+            {
+              "_id": "cb88eb8a55ffd3c1edef4a85",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "cb88eb8a55ffd3c1edef4a85",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "faf960ef9908fa8cbace7fc5 startedMessageText",
+    "successMessageText": "faf960ef9908fa8cbace7fc5 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "c2a70d1a5491c819aaea0d7d name": "[War] Munitionsbeherrschung: Einführung",
+    "c2a70d1a5491c819aaea0d7d note": "",
+    "c2a70d1a5491c819aaea0d7d description": "Pssst! Du siehst aus wie jemand, der etwas Munition gebrauchen könnte, habe ich recht? Aber keiner will dir welche verkaufen, hä? Ich kann dir dabei helfen, aber meine Empfehlung wird nicht günstig sein... Bist du interessiert?",
+    "c2a70d1a5491c819aaea0d7d startedMessageText": "[War] Quest angenommen: '[War] Munitionsbeherrschung: Einführung'!",
+    "c2a70d1a5491c819aaea0d7d failMessageText": "[War] Quest fehlgeschlagen: '[War] Munitionsbeherrschung: Einführung'!",
+    "c2a70d1a5491c819aaea0d7d successMessageText": "[War] Quest beendet: '[War] Munitionsbeherrschung: Einführung'!",
+    "c2a70d1a5491c819aaea0d7d acceptPlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d declinePlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d completePlayerMessage": "",
+    "ac3999cea367de016176dd71": "Übergebe 1000 einer beliebigen Munition."
+}

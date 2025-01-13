@@ -1,0 +1,1009 @@
+{
+  "eeef79debad1ceacd9d4ecf0": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 1 Rogue(s) at Tarkov",
+    "_id": "eeef79debad1ceacd9d4ecf0",
+    "acceptPlayerMessage": "eeef79debad1ceacd9d4ecf0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eeef79debad1ceacd9d4ecf0 changeQuestMessageText",
+    "completePlayerMessage": "eeef79debad1ceacd9d4ecf0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "eb0f04896b58f251dcfe1c26",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "02f1c9cb0b5bdffbd86bdedb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3167bb0fda7ced0cec2cff6b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eeef79debad1ceacd9d4ecf0 declinePlayerMessage",
+    "description": "eeef79debad1ceacd9d4ecf0 description",
+    "failMessageText": "eeef79debad1ceacd9d4ecf0 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "eeef79debad1ceacd9d4ecf0 name",
+    "note": "eeef79debad1ceacd9d4ecf0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6bb08bac5bd6edd9aeb9c0b9",
+          "index": 3,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "419093def5cea71927dfc1b1",
+          "index": 4,
+          "items": [
+            {
+              "_id": "70a7ee8acbca3b9eb396cab4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "70a7ee8acbca3b9eb396cab4",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eeef79debad1ceacd9d4ecf0 startedMessageText",
+    "successMessageText": "eeef79debad1ceacd9d4ecf0 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "dffdd522d2c897a94baef8ce": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 2 Rogue(s) at Tarkov",
+    "_id": "dffdd522d2c897a94baef8ce",
+    "acceptPlayerMessage": "dffdd522d2c897a94baef8ce acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dffdd522d2c897a94baef8ce changeQuestMessageText",
+    "completePlayerMessage": "dffdd522d2c897a94baef8ce completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8cc5c905a283d0ddaf7dddc6",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "a9b4318959dfed5bfbe7e766"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8f42a3ca21484ae6e7ae488b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d5c0ec33078c74c90b3e09d4",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eeef79debad1ceacd9d4ecf0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dffdd522d2c897a94baef8ce declinePlayerMessage",
+    "description": "dffdd522d2c897a94baef8ce description",
+    "failMessageText": "dffdd522d2c897a94baef8ce failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dffdd522d2c897a94baef8ce name",
+    "note": "dffdd522d2c897a94baef8ce note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "227289eaf6aa1da65dea4bb3",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "86544eead228b3ee9c396bb0",
+          "index": 4,
+          "items": [
+            {
+              "_id": "3195fc46edca67febfb46ba3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "3195fc46edca67febfb46ba3",
+          "type": "Item",
+          "value": "20000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dffdd522d2c897a94baef8ce startedMessageText",
+    "successMessageText": "dffdd522d2c897a94baef8ce successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "cb5e09d905efaae559d3c537": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 3 Rogue(s) at Tarkov",
+    "_id": "cb5e09d905efaae559d3c537",
+    "acceptPlayerMessage": "cb5e09d905efaae559d3c537 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "cb5e09d905efaae559d3c537 changeQuestMessageText",
+    "completePlayerMessage": "cb5e09d905efaae559d3c537 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "58c5be8eb6f4abdcc77ec2fd",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "fc4ec0af3e86dccab6fe8bac"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d821ec3e05aaf08c0f9fdd7d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "177a4c24db08dc748c3dbcec",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dffdd522d2c897a94baef8ce"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "cb5e09d905efaae559d3c537 declinePlayerMessage",
+    "description": "cb5e09d905efaae559d3c537 description",
+    "failMessageText": "cb5e09d905efaae559d3c537 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "cb5e09d905efaae559d3c537 name",
+    "note": "cb5e09d905efaae559d3c537 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "905ddbbabfb3c5b285f8cdff",
+          "index": 3,
+          "type": "Experience",
+          "value": "750"
+        },
+        {
+          "id": "b0fc07b5b09d8c6dcba637dc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "89fa6fc8d7174ebdaf6005cf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "89fa6fc8d7174ebdaf6005cf",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "cb5e09d905efaae559d3c537 startedMessageText",
+    "successMessageText": "cb5e09d905efaae559d3c537 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "9cad0aefaf24e4b3deacfb9a": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 4 Rogue(s) at Tarkov",
+    "_id": "9cad0aefaf24e4b3deacfb9a",
+    "acceptPlayerMessage": "9cad0aefaf24e4b3deacfb9a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9cad0aefaf24e4b3deacfb9a changeQuestMessageText",
+    "completePlayerMessage": "9cad0aefaf24e4b3deacfb9a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "9916d2d10ae2cb91fceb3d5d",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "33f4d0ad2cea5ce0b75e5192"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0b2fbf1bd107e05e87bea592",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ade537e91394db86e9fb7e51",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cb5e09d905efaae559d3c537"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9cad0aefaf24e4b3deacfb9a declinePlayerMessage",
+    "description": "9cad0aefaf24e4b3deacfb9a description",
+    "failMessageText": "9cad0aefaf24e4b3deacfb9a failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "9cad0aefaf24e4b3deacfb9a name",
+    "note": "9cad0aefaf24e4b3deacfb9a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6fe537911edc3bb5a3a71a32",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "ffcb11deea5cf6f96f448cca",
+          "index": 4,
+          "items": [
+            {
+              "_id": "1a386cfd8c75cc28ff70cc3d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 40000
+              }
+            }
+          ],
+          "target": "1a386cfd8c75cc28ff70cc3d",
+          "type": "Item",
+          "value": "40000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9cad0aefaf24e4b3deacfb9a startedMessageText",
+    "successMessageText": "9cad0aefaf24e4b3deacfb9a successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "aaac4a6fda3806ddbaabeb83": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 5 Rogue(s) at Tarkov",
+    "_id": "aaac4a6fda3806ddbaabeb83",
+    "acceptPlayerMessage": "aaac4a6fda3806ddbaabeb83 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "aaac4a6fda3806ddbaabeb83 changeQuestMessageText",
+    "completePlayerMessage": "aaac4a6fda3806ddbaabeb83 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "70c7474d32bac94e245e96d3",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "adf0b65b44d5d183b2b95bd5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fbb417ae3bdbdc4966ae58ac",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bcfbccaf92ea723d44e9e71b",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9cad0aefaf24e4b3deacfb9a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "aaac4a6fda3806ddbaabeb83 declinePlayerMessage",
+    "description": "aaac4a6fda3806ddbaabeb83 description",
+    "failMessageText": "aaac4a6fda3806ddbaabeb83 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "aaac4a6fda3806ddbaabeb83 name",
+    "note": "aaac4a6fda3806ddbaabeb83 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ceed3536760a6e3fbcfb434d",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "d362d16dd59b9ecc83a1b21e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "32ecd80ebbec21e45ebbeae5",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "32ecd80ebbec21e45ebbeae5",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "aaac4a6fda3806ddbaabeb83 startedMessageText",
+    "successMessageText": "aaac4a6fda3806ddbaabeb83 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "4c58fc2eecacaa9d1953761e": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 7 Rogue(s) at Tarkov",
+    "_id": "4c58fc2eecacaa9d1953761e",
+    "acceptPlayerMessage": "4c58fc2eecacaa9d1953761e acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4c58fc2eecacaa9d1953761e changeQuestMessageText",
+    "completePlayerMessage": "4c58fc2eecacaa9d1953761e completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d74b1ad0bcefcfbbb4dc723d",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "656b8c9fd8f15c6dea423a3e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c83fd2cabf0f984ab1df9f5d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fbce73434b33aebdc26eda42",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aaac4a6fda3806ddbaabeb83"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4c58fc2eecacaa9d1953761e declinePlayerMessage",
+    "description": "4c58fc2eecacaa9d1953761e description",
+    "failMessageText": "4c58fc2eecacaa9d1953761e failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4c58fc2eecacaa9d1953761e name",
+    "note": "4c58fc2eecacaa9d1953761e note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1bfbee66d2ed9332f6c34eac",
+          "index": 3,
+          "type": "Experience",
+          "value": "1750"
+        },
+        {
+          "id": "9dabdc1f3c9fabcbc983bc71",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a6eee6cca3393c0e08f8f89d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 70000
+              }
+            }
+          ],
+          "target": "a6eee6cca3393c0e08f8f89d",
+          "type": "Item",
+          "value": "70000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4c58fc2eecacaa9d1953761e startedMessageText",
+    "successMessageText": "4c58fc2eecacaa9d1953761e successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "cf96ff12b08f1d1350fbac3a": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 9 Rogue(s) at Tarkov",
+    "_id": "cf96ff12b08f1d1350fbac3a",
+    "acceptPlayerMessage": "cf96ff12b08f1d1350fbac3a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "cf96ff12b08f1d1350fbac3a changeQuestMessageText",
+    "completePlayerMessage": "cf96ff12b08f1d1350fbac3a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fb40b823a5feebc82c3d7bd4",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "1eed46f1dcf0eaa86c938bc6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "433538b33e4d6f8bdbf1296a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfefbd97821baa035344ecc0",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4c58fc2eecacaa9d1953761e"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "cf96ff12b08f1d1350fbac3a declinePlayerMessage",
+    "description": "cf96ff12b08f1d1350fbac3a description",
+    "failMessageText": "cf96ff12b08f1d1350fbac3a failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "cf96ff12b08f1d1350fbac3a name",
+    "note": "cf96ff12b08f1d1350fbac3a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7bb4d28beaeab2d1bf24babc",
+          "index": 3,
+          "type": "Experience",
+          "value": "2250"
+        },
+        {
+          "id": "9ecae5ba6ad43a7d02b7defb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "baa189d95db2982fb5a3e06a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 90000
+              }
+            }
+          ],
+          "target": "baa189d95db2982fb5a3e06a",
+          "type": "Item",
+          "value": "90000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "cf96ff12b08f1d1350fbac3a startedMessageText",
+    "successMessageText": "cf96ff12b08f1d1350fbac3a successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "13c0add503f015ad5e1dcc1c": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 12 Rogue(s) at Tarkov",
+    "_id": "13c0add503f015ad5e1dcc1c",
+    "acceptPlayerMessage": "13c0add503f015ad5e1dcc1c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "13c0add503f015ad5e1dcc1c changeQuestMessageText",
+    "completePlayerMessage": "13c0add503f015ad5e1dcc1c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1d1bcfbcc12befea849ee4a5",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "a4cc2d6fedb61ef98ebd3ab6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ccdbeb7eba35dbfb55b8dac6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e5ff4baace3e6a38afdc8ce7",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cf96ff12b08f1d1350fbac3a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "13c0add503f015ad5e1dcc1c declinePlayerMessage",
+    "description": "13c0add503f015ad5e1dcc1c description",
+    "failMessageText": "13c0add503f015ad5e1dcc1c failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "13c0add503f015ad5e1dcc1c name",
+    "note": "13c0add503f015ad5e1dcc1c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "aaedd5fa131ae5a4bef4e70a",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "1af425b3a3dc25fa78f1ab43",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b4bbd4c8dfab83cc9d0bd03d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "b4bbd4c8dfab83cc9d0bd03d",
+          "type": "Item",
+          "value": "120000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "13c0add503f015ad5e1dcc1c startedMessageText",
+    "successMessageText": "13c0add503f015ad5e1dcc1c successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "4fa775ca4df9aaef58f895f6": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 20 Rogue(s) at Tarkov",
+    "_id": "4fa775ca4df9aaef58f895f6",
+    "acceptPlayerMessage": "4fa775ca4df9aaef58f895f6 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4fa775ca4df9aaef58f895f6 changeQuestMessageText",
+    "completePlayerMessage": "4fa775ca4df9aaef58f895f6 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ad173bebffecf02baedf47c1",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "1cff3feca9b46092f725c82c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fc7e7b385dcce712d14fde59",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed3a97efa1aa00eebf0d06ba",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "13c0add503f015ad5e1dcc1c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4fa775ca4df9aaef58f895f6 declinePlayerMessage",
+    "description": "4fa775ca4df9aaef58f895f6 description",
+    "failMessageText": "4fa775ca4df9aaef58f895f6 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4fa775ca4df9aaef58f895f6 name",
+    "note": "4fa775ca4df9aaef58f895f6 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1a8a062ea85c79de8e40abc4",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "257cffb9ae9f4edde2e39da9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "acef660fb43ed9f80d4f0ca9",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "acef660fb43ed9f80d4f0ca9",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4fa775ca4df9aaef58f895f6 startedMessageText",
+    "successMessageText": "4fa775ca4df9aaef58f895f6 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "a990ea8007ee038aa6197f32": {
+    "QuestName": "[Fen] Headless Rogue: Headshot 50 Rogue(s) at Tarkov",
+    "_id": "a990ea8007ee038aa6197f32",
+    "acceptPlayerMessage": "a990ea8007ee038aa6197f32 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a990ea8007ee038aa6197f32 changeQuestMessageText",
+    "completePlayerMessage": "a990ea8007ee038aa6197f32 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "85aa77b29b1b5ccb39f7eea5",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "cfcca4f0fd380bacb7a0f9d0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "db7ba15df7d69f9c457f6713",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7e2ecac22b50cebd6576b0ad",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4fa775ca4df9aaef58f895f6"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a990ea8007ee038aa6197f32 declinePlayerMessage",
+    "description": "a990ea8007ee038aa6197f32 description",
+    "failMessageText": "a990ea8007ee038aa6197f32 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a990ea8007ee038aa6197f32 name",
+    "note": "a990ea8007ee038aa6197f32 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f3cb03cdd7a7eeed9cafdbba",
+          "index": 3,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "0eb757bf7f87d85c62672a6f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eded0d37feebd4a2ed327eab",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "eded0d37feebd4a2ed327eab",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a990ea8007ee038aa6197f32 startedMessageText",
+    "successMessageText": "a990ea8007ee038aa6197f32 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  }
+}

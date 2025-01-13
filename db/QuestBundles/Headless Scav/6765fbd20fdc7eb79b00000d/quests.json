@@ -1,0 +1,1059 @@
+{
+  "dcff22c03cf0c6bbdbe34b0a": {
+    "QuestName": "[Eld] Headless Scav: Headshot 2 Scav(s) at Ground Zero",
+    "_id": "dcff22c03cf0c6bbdbe34b0a",
+    "acceptPlayerMessage": "dcff22c03cf0c6bbdbe34b0a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dcff22c03cf0c6bbdbe34b0a changeQuestMessageText",
+    "completePlayerMessage": "dcff22c03cf0c6bbdbe34b0a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "da794a7da58ed47adf8edd83",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "3d52bee813bc1cc05c268ebf",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "93ba45d4fabccac33fc1cc4f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aaaee0bfe13f2a0aedcaeadb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dcff22c03cf0c6bbdbe34b0a declinePlayerMessage",
+    "description": "dcff22c03cf0c6bbdbe34b0a description",
+    "failMessageText": "dcff22c03cf0c6bbdbe34b0a failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "dcff22c03cf0c6bbdbe34b0a name",
+    "note": "dcff22c03cf0c6bbdbe34b0a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ff15b2aa77e602fd3b16ba6f",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "bfbc51dc9c9d9df9577c0e8c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "53e9e322bed11156bffcf2ce",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "53e9e322bed11156bffcf2ce",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dcff22c03cf0c6bbdbe34b0a startedMessageText",
+    "successMessageText": "dcff22c03cf0c6bbdbe34b0a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "edbcae44ddb367ef2cebae94": {
+    "QuestName": "[Eld] Headless Scav: Headshot 5 Scav(s) at Ground Zero",
+    "_id": "edbcae44ddb367ef2cebae94",
+    "acceptPlayerMessage": "edbcae44ddb367ef2cebae94 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "edbcae44ddb367ef2cebae94 changeQuestMessageText",
+    "completePlayerMessage": "edbcae44ddb367ef2cebae94 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bdcbbaa05f5a23cd5ab8b91e",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "df31840bfc970c6ea75ae6fe",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "9292aadaa8ea03e4efddd94f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8efd10cbb6acae3af6c353bf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff089ca0125fe83bb8bf2d76",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dcff22c03cf0c6bbdbe34b0a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "edbcae44ddb367ef2cebae94 declinePlayerMessage",
+    "description": "edbcae44ddb367ef2cebae94 description",
+    "failMessageText": "edbcae44ddb367ef2cebae94 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "edbcae44ddb367ef2cebae94 name",
+    "note": "edbcae44ddb367ef2cebae94 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e268f0ec7faf8561702c45be",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "d6c38b1e86b584faafece3be",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a1dac921bdad5e243a6c98ce",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 7500
+              }
+            }
+          ],
+          "target": "a1dac921bdad5e243a6c98ce",
+          "type": "Item",
+          "value": "7500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "edbcae44ddb367ef2cebae94 startedMessageText",
+    "successMessageText": "edbcae44ddb367ef2cebae94 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "e48e010d03a9eaa075d4b5a1": {
+    "QuestName": "[Eld] Headless Scav: Headshot 10 Scav(s) at Ground Zero",
+    "_id": "e48e010d03a9eaa075d4b5a1",
+    "acceptPlayerMessage": "e48e010d03a9eaa075d4b5a1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e48e010d03a9eaa075d4b5a1 changeQuestMessageText",
+    "completePlayerMessage": "e48e010d03a9eaa075d4b5a1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ddd90a1aee6aebc7bfbd0aef",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "deff60fea9ed2daceb40cff9",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "2c3ba8bccaabe42441d4420f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "41c0bee15b3a14ba85cb7fd1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8c6613946f2e2fd5e1b638a",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "edbcae44ddb367ef2cebae94"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e48e010d03a9eaa075d4b5a1 declinePlayerMessage",
+    "description": "e48e010d03a9eaa075d4b5a1 description",
+    "failMessageText": "e48e010d03a9eaa075d4b5a1 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "e48e010d03a9eaa075d4b5a1 name",
+    "note": "e48e010d03a9eaa075d4b5a1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cb5d37b86faf3a87daebe8e1",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "3efe3bdcc7f675cfefcba715",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a59fc5f4ef4be809217dc556",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "a59fc5f4ef4be809217dc556",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e48e010d03a9eaa075d4b5a1 startedMessageText",
+    "successMessageText": "e48e010d03a9eaa075d4b5a1 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "0fd06ca0c4371f7f2d1d2dce": {
+    "QuestName": "[Eld] Headless Scav: Headshot 20 Scav(s) at Ground Zero",
+    "_id": "0fd06ca0c4371f7f2d1d2dce",
+    "acceptPlayerMessage": "0fd06ca0c4371f7f2d1d2dce acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0fd06ca0c4371f7f2d1d2dce changeQuestMessageText",
+    "completePlayerMessage": "0fd06ca0c4371f7f2d1d2dce completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c92f55deafe0b0eb12b49dda",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "23f252fb5f24eceeab5f5828",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "5ddd37acec4e70bba14b9868"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dafde9259bacad9e512dd5aa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5fec47cc5a1d3efbff13bdf2",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e48e010d03a9eaa075d4b5a1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0fd06ca0c4371f7f2d1d2dce declinePlayerMessage",
+    "description": "0fd06ca0c4371f7f2d1d2dce description",
+    "failMessageText": "0fd06ca0c4371f7f2d1d2dce failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "0fd06ca0c4371f7f2d1d2dce name",
+    "note": "0fd06ca0c4371f7f2d1d2dce note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f32c36bf4bde85f4fab40411",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "79b5adaa53095fabd9d432fa",
+          "index": 4,
+          "items": [
+            {
+              "_id": "862c245241ddf9f9faefd4af",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "862c245241ddf9f9faefd4af",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0fd06ca0c4371f7f2d1d2dce startedMessageText",
+    "successMessageText": "0fd06ca0c4371f7f2d1d2dce successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "bfc9228c95ea523caacd3d56": {
+    "QuestName": "[Eld] Headless Scav: Headshot 35 Scav(s) at Ground Zero",
+    "_id": "bfc9228c95ea523caacd3d56",
+    "acceptPlayerMessage": "bfc9228c95ea523caacd3d56 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bfc9228c95ea523caacd3d56 changeQuestMessageText",
+    "completePlayerMessage": "bfc9228c95ea523caacd3d56 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2433eee0ea4e8db6b1a94e85",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "7c8bac9bbfdeae8b23e7df82",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "84e2dcadd913acbff52ba0dc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fad4aceec28cca62f8edd6e3",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aac7f2ec6a37bc62fb335a0f",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0fd06ca0c4371f7f2d1d2dce"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bfc9228c95ea523caacd3d56 declinePlayerMessage",
+    "description": "bfc9228c95ea523caacd3d56 description",
+    "failMessageText": "bfc9228c95ea523caacd3d56 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "bfc9228c95ea523caacd3d56 name",
+    "note": "bfc9228c95ea523caacd3d56 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "aad284f2f9f5dceed7d8abf5",
+          "index": 3,
+          "type": "Experience",
+          "value": "3500"
+        },
+        {
+          "id": "0e2ef27b1ee34eabda1cbaea",
+          "index": 4,
+          "items": [
+            {
+              "_id": "aaefc0af24fffbae0bbd534b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 52500
+              }
+            }
+          ],
+          "target": "aaefc0af24fffbae0bbd534b",
+          "type": "Item",
+          "value": "52500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bfc9228c95ea523caacd3d56 startedMessageText",
+    "successMessageText": "bfc9228c95ea523caacd3d56 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "6b54d3bfab0e78a349ec27a9": {
+    "QuestName": "[Eld] Headless Scav: Headshot 50 Scav(s) at Ground Zero",
+    "_id": "6b54d3bfab0e78a349ec27a9",
+    "acceptPlayerMessage": "6b54d3bfab0e78a349ec27a9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6b54d3bfab0e78a349ec27a9 changeQuestMessageText",
+    "completePlayerMessage": "6b54d3bfab0e78a349ec27a9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fa7c53e2d3ddadcaf80d52fb",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "eaeaf15d512a112a4c025778",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "e1114b190dd11bbec9bd0500"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "feaf5ad6cb22efcf9f5fcdd8",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ebca2b4d5d073fd51ebf65e",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bfc9228c95ea523caacd3d56"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6b54d3bfab0e78a349ec27a9 declinePlayerMessage",
+    "description": "6b54d3bfab0e78a349ec27a9 description",
+    "failMessageText": "6b54d3bfab0e78a349ec27a9 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "6b54d3bfab0e78a349ec27a9 name",
+    "note": "6b54d3bfab0e78a349ec27a9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d11e1077e1da2ee8ddea63f9",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "ed52c3aba56b4dbfaaf6e4f3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "98d6f02d5197881d93ec9cec",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "98d6f02d5197881d93ec9cec",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6b54d3bfab0e78a349ec27a9 startedMessageText",
+    "successMessageText": "6b54d3bfab0e78a349ec27a9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "e4eaadf4bbcdc0f98c9883a5": {
+    "QuestName": "[Eld] Headless Scav: Headshot 75 Scav(s) at Ground Zero",
+    "_id": "e4eaadf4bbcdc0f98c9883a5",
+    "acceptPlayerMessage": "e4eaadf4bbcdc0f98c9883a5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e4eaadf4bbcdc0f98c9883a5 changeQuestMessageText",
+    "completePlayerMessage": "e4eaadf4bbcdc0f98c9883a5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d889abfcb2effadddb1a50ad",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0bdefee4d0b1faac4eecbdde",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "4a4ac5c6b6e8bedf6c77a9db"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "92d0b2eee0119e5425b95078",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2efadcfea497b2347d9e56af",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6b54d3bfab0e78a349ec27a9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e4eaadf4bbcdc0f98c9883a5 declinePlayerMessage",
+    "description": "e4eaadf4bbcdc0f98c9883a5 description",
+    "failMessageText": "e4eaadf4bbcdc0f98c9883a5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "e4eaadf4bbcdc0f98c9883a5 name",
+    "note": "e4eaadf4bbcdc0f98c9883a5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "97ac87a33eeeeaaa69bfef26",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "df8bb5cf5ce074ed2714cbe3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "feede3ac5fe29fc2ab9dd2bc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "feede3ac5fe29fc2ab9dd2bc",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e4eaadf4bbcdc0f98c9883a5 startedMessageText",
+    "successMessageText": "e4eaadf4bbcdc0f98c9883a5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "e7adcc7c9f5c0693904ecbe5": {
+    "QuestName": "[Eld] Headless Scav: Headshot 100 Scav(s) at Ground Zero",
+    "_id": "e7adcc7c9f5c0693904ecbe5",
+    "acceptPlayerMessage": "e7adcc7c9f5c0693904ecbe5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e7adcc7c9f5c0693904ecbe5 changeQuestMessageText",
+    "completePlayerMessage": "e7adcc7c9f5c0693904ecbe5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d960cead8dea880dac1afc2f",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "c306b0cefed0dcab2fbecba7",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "46ffc0a3cbaee2cffcacf1ed"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2d18e0375ffa8eeadf8d02af",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fa71ce1b43e8d7f7c148e3ba",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e4eaadf4bbcdc0f98c9883a5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e7adcc7c9f5c0693904ecbe5 declinePlayerMessage",
+    "description": "e7adcc7c9f5c0693904ecbe5 description",
+    "failMessageText": "e7adcc7c9f5c0693904ecbe5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "e7adcc7c9f5c0693904ecbe5 name",
+    "note": "e7adcc7c9f5c0693904ecbe5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bf9bf6e74ee7e9c567eea5c6",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "a2aaffff515e455fa9ffece7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "72bd9b1f0a9eb7364c47f5b7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "72bd9b1f0a9eb7364c47f5b7",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e7adcc7c9f5c0693904ecbe5 startedMessageText",
+    "successMessageText": "e7adcc7c9f5c0693904ecbe5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "bc30dacddbcfe3bd5812dcea": {
+    "QuestName": "[Eld] Headless Scav: Headshot 250 Scav(s) at Ground Zero",
+    "_id": "bc30dacddbcfe3bd5812dcea",
+    "acceptPlayerMessage": "bc30dacddbcfe3bd5812dcea acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bc30dacddbcfe3bd5812dcea changeQuestMessageText",
+    "completePlayerMessage": "bc30dacddbcfe3bd5812dcea completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d05bc730cc8eff9d20253142",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "13e29daad7f4137ecabd75bc",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "a2ffdba1b1d3784d2e62f445"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5c59eb69c7d0a8dbf9a7d188",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "250",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd11bf9318bedd4e72bb8ad5",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e7adcc7c9f5c0693904ecbe5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bc30dacddbcfe3bd5812dcea declinePlayerMessage",
+    "description": "bc30dacddbcfe3bd5812dcea description",
+    "failMessageText": "bc30dacddbcfe3bd5812dcea failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "bc30dacddbcfe3bd5812dcea name",
+    "note": "bc30dacddbcfe3bd5812dcea note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d8bac7abc4e3e54bbbbfb03e",
+          "index": 3,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "d1eafe989a7a832fae7d68bc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "af685d34ee77570bee9e9dba",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 375000
+              }
+            }
+          ],
+          "target": "af685d34ee77570bee9e9dba",
+          "type": "Item",
+          "value": "375000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bc30dacddbcfe3bd5812dcea startedMessageText",
+    "successMessageText": "bc30dacddbcfe3bd5812dcea successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "55ca66f9b5fdb6efa5f7dbcd": {
+    "QuestName": "[Eld] Headless Scav: Headshot 500 Scav(s) at Ground Zero",
+    "_id": "55ca66f9b5fdb6efa5f7dbcd",
+    "acceptPlayerMessage": "55ca66f9b5fdb6efa5f7dbcd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "55ca66f9b5fdb6efa5f7dbcd changeQuestMessageText",
+    "completePlayerMessage": "55ca66f9b5fdb6efa5f7dbcd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8935ac929256107a47b1d157",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0de749ad1273095bca4aaeda",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "b040e88bedcaf5acd3887cdc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1aacf5b892e743fbc3201dd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfbcbf976feb4a01add5fa6f",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc30dacddbcfe3bd5812dcea"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "55ca66f9b5fdb6efa5f7dbcd declinePlayerMessage",
+    "description": "55ca66f9b5fdb6efa5f7dbcd description",
+    "failMessageText": "55ca66f9b5fdb6efa5f7dbcd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "55ca66f9b5fdb6efa5f7dbcd name",
+    "note": "55ca66f9b5fdb6efa5f7dbcd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ad1e41c5fdf31dfcacbe504c",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "ba0d6fbe41a7aa6c54175738",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bad5cd1b9f738f5f4bddf9ce",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "bad5cd1b9f738f5f4bddf9ce",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "55ca66f9b5fdb6efa5f7dbcd startedMessageText",
+    "successMessageText": "55ca66f9b5fdb6efa5f7dbcd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  }
+}

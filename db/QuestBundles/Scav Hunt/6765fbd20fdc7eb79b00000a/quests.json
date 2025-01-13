@@ -1,0 +1,1691 @@
+{
+  "3e73b626be0f8eab46b9e0aa": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 2 Scav(s)",
+    "_id": "3e73b626be0f8eab46b9e0aa",
+    "acceptPlayerMessage": "3e73b626be0f8eab46b9e0aa acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "3e73b626be0f8eab46b9e0aa changeQuestMessageText",
+    "completePlayerMessage": "3e73b626be0f8eab46b9e0aa completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e22b2cf2ccabfe4b9eecc3e8",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "761fbbb13af9b2abc60d86ca",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "9e06aeeb5dcddd203e8522ff"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "433ca1baa66e754b795253cc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "3e73b626be0f8eab46b9e0aa declinePlayerMessage",
+    "description": "3e73b626be0f8eab46b9e0aa description",
+    "failMessageText": "3e73b626be0f8eab46b9e0aa failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "3e73b626be0f8eab46b9e0aa name",
+    "note": "3e73b626be0f8eab46b9e0aa note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "82eafedfc47df2b4bb4c6fc1",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "6b0ceadfc8cb65bbd2e38c6a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "78b1fcb63873bb00beeb3dd7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "78b1fcb63873bb00beeb3dd7",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "3e73b626be0f8eab46b9e0aa startedMessageText",
+    "successMessageText": "3e73b626be0f8eab46b9e0aa successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "fee1aa11ee1405a9fd2aa1b0": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 10 Scav(s)",
+    "_id": "fee1aa11ee1405a9fd2aa1b0",
+    "acceptPlayerMessage": "fee1aa11ee1405a9fd2aa1b0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fee1aa11ee1405a9fd2aa1b0 changeQuestMessageText",
+    "completePlayerMessage": "fee1aa11ee1405a9fd2aa1b0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2ba808a11d1a4b200f5ddfaf",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bffaa7a61bf6348b9decc4db",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "1a2cb7a422c2132350ef35f2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6f3aec83a30a5db8c7ee18dc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6647efa1215eb8032eceb06b",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e73b626be0f8eab46b9e0aa"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fee1aa11ee1405a9fd2aa1b0 declinePlayerMessage",
+    "description": "fee1aa11ee1405a9fd2aa1b0 description",
+    "failMessageText": "fee1aa11ee1405a9fd2aa1b0 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "fee1aa11ee1405a9fd2aa1b0 name",
+    "note": "fee1aa11ee1405a9fd2aa1b0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "168fbacc1dac7ad382a07dc6",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "b32ae3e12f7ac397b2b2db9b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "beca5ede5e99e8eadb5a135c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "beca5ede5e99e8eadb5a135c",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fee1aa11ee1405a9fd2aa1b0 startedMessageText",
+    "successMessageText": "fee1aa11ee1405a9fd2aa1b0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "9b360680c3b69f7beca9c5f2": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 25 Scav(s)",
+    "_id": "9b360680c3b69f7beca9c5f2",
+    "acceptPlayerMessage": "9b360680c3b69f7beca9c5f2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9b360680c3b69f7beca9c5f2 changeQuestMessageText",
+    "completePlayerMessage": "9b360680c3b69f7beca9c5f2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f9cc05ce3c3e63d74fcca1cd",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "80540c7eefcf60b9e297c1ee",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "8cd70cddb9abb8f543ce7cdf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eb64f4e15ead4844165bc767",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "daf8df9a0bd5da7ac8ed92b4",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e49a7e5cebb6d1ececf6cfef"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8614d4eafefabcdcba1c5cdd",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dcd7618bfffacb8a41abcb75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dcc7ea22acedd7ab5981b062",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "208d39b68a0b9cb08d39e92c"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b6dcf568acd4ed73efabd86c",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ab4dbc0c8caf7ac7e6ea84fd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dfdf87faeba5298b7164d8ae",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d0ffeb9bc82ced953ce3dd61"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "89a43dc4e2d85d70b00dcf8d",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ebff8afc3e6ebcb1cacb79ad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e2f86babcdc9ed82fb3aeed4",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e73b626be0f8eab46b9e0aa"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bfda91e5060feb8c5eb06e52",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba80b8f0bffddfc7d68f8eb1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9b360680c3b69f7beca9c5f2 declinePlayerMessage",
+    "description": "9b360680c3b69f7beca9c5f2 description",
+    "failMessageText": "9b360680c3b69f7beca9c5f2 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "9b360680c3b69f7beca9c5f2 name",
+    "note": "9b360680c3b69f7beca9c5f2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "3ced22fe2f60d1c331bc76dc",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "af8e2f205727aa8bd67ec3f6",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ce2c9f301acaa43a5a13c4f3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 37500
+              }
+            }
+          ],
+          "target": "ce2c9f301acaa43a5a13c4f3",
+          "type": "Item",
+          "value": "37500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9b360680c3b69f7beca9c5f2 startedMessageText",
+    "successMessageText": "9b360680c3b69f7beca9c5f2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "a5ecdb7cdb21f45a94ffe959": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 50 Scav(s)",
+    "_id": "a5ecdb7cdb21f45a94ffe959",
+    "acceptPlayerMessage": "a5ecdb7cdb21f45a94ffe959 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a5ecdb7cdb21f45a94ffe959 changeQuestMessageText",
+    "completePlayerMessage": "a5ecdb7cdb21f45a94ffe959 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bb8f8ff88d7df10cf3ccafa3",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "e28f2525aaeb24cddfe4b11f",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "b13ba46f2ff7a72c3ce8679e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a10d9accd540f43f5b7d893f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9d9fd8809ebf1f87f5d8dcca",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "23bb9352e1c5ded56c38df7e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ac25eeeedfb29b0fb2b7bebb",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "51ef23d56c22dfae6ac33f2b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "feda0e5a0597c9989c2f5eb0",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "491f523355cbecdbfa49aeb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd168ad99aac0a46afd5e4e0",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dafbf0ee3ff66ce7ba3d2fdd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f1507cd240d9dea08a1ffe8d",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e546de0ebdace4de3f431fe"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd74d3bb07bdf0d133f05aea",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f74dedb7f041c2efd8ada597"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb9eddaf3d56d7c9cece6052",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fee1aa11ee1405a9fd2aa1b0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b6aed4ba88faecaac02f6e76",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d31ea072d62bf7043a5e36ed"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a5ecdb7cdb21f45a94ffe959 declinePlayerMessage",
+    "description": "a5ecdb7cdb21f45a94ffe959 description",
+    "failMessageText": "a5ecdb7cdb21f45a94ffe959 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "a5ecdb7cdb21f45a94ffe959 name",
+    "note": "a5ecdb7cdb21f45a94ffe959 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "81b8a3d4df11f39d8abcb872",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "313f1f82adfd0deb8dbb3ecf",
+          "index": 4,
+          "items": [
+            {
+              "_id": "76db495fb88ec9bc07fd95b4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "76db495fb88ec9bc07fd95b4",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a5ecdb7cdb21f45a94ffe959 startedMessageText",
+    "successMessageText": "a5ecdb7cdb21f45a94ffe959 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "c23a90bb786aea28ef9182b5": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 75 Scav(s)",
+    "_id": "c23a90bb786aea28ef9182b5",
+    "acceptPlayerMessage": "c23a90bb786aea28ef9182b5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "c23a90bb786aea28ef9182b5 changeQuestMessageText",
+    "completePlayerMessage": "c23a90bb786aea28ef9182b5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a0c70a9304f8aaff96c770b7",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "9b749515c9bffcecab2f06af",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "ca554cf9b3c343c6dbfc368c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7bd862e8f6bf8db12ec152f2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cacbc36ac171b5d37fedcea4",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "de52eedf03883e5f4956ad4a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7e87a75020c931ff3d2104d5",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f4fcb1efc3f1b4decac7dda3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4af3dac2bc260b0b69def19c",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d3d0f5ecc13474781bf0bae4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5651d4ff1dda71dafdcf42ee",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccada9eeb15a5fde00ccb57b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd0a72673d8e8fd57f7897b0",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad19ca52d63e7296fd3d3fa6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a27dfecedbba9cdffe34a1e6",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ad9a58af5807a5e377ccdc2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "acbb5dec5dbfbb7e9a770904",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9b360680c3b69f7beca9c5f2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1324ddbdb65defc009da3bb0",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0d538a9ab089f7cbd8883f39"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "c23a90bb786aea28ef9182b5 declinePlayerMessage",
+    "description": "c23a90bb786aea28ef9182b5 description",
+    "failMessageText": "c23a90bb786aea28ef9182b5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "c23a90bb786aea28ef9182b5 name",
+    "note": "c23a90bb786aea28ef9182b5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "489c64dfcaaf7a01d3e3ccae",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "dcc2e6fa830b8ec646d2c36c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "27c5a5ceadebc48aefd997bc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "27c5a5ceadebc48aefd997bc",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "c23a90bb786aea28ef9182b5 startedMessageText",
+    "successMessageText": "c23a90bb786aea28ef9182b5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "11fbdde567d6c70ee572df93": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 100 Scav(s)",
+    "_id": "11fbdde567d6c70ee572df93",
+    "acceptPlayerMessage": "11fbdde567d6c70ee572df93 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "11fbdde567d6c70ee572df93 changeQuestMessageText",
+    "completePlayerMessage": "11fbdde567d6c70ee572df93 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7deecc3eff75b2a833e66f56",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "8c2e9d2faf9fa6deec010c7d",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "993de495f3266f1f5c2e74ee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "675abd91a1b42fdd4aee51fa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0b0c5f93e669127ffd032f2a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cbe94dfb206eec9c29735f55"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cce83637ff8dbfcc0cde4550",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "359ccd01aaf2c566e3eaaf74"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8dd3a1b0eacc3fed32a84be3",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "012facf4ceb617cdaf57b360"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "73bebc3d90459fab2e42c03a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b0b5b241baa9b1f14de2c157"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8d4dc21f4a4bcdedd78aac38",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "181ffdddf84a4f8fc6c3d8d8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "beab4941dec6fc3cfdbdd3f5",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acdde8bcbc3c97f7cceccbac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d5eb48321806a72b9eae9ca7",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a5ecdb7cdb21f45a94ffe959"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3bd20cd20f7e37bbac7ddbb7",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6e4e7d00babd97d3bdeed34f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "11fbdde567d6c70ee572df93 declinePlayerMessage",
+    "description": "11fbdde567d6c70ee572df93 description",
+    "failMessageText": "11fbdde567d6c70ee572df93 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "11fbdde567d6c70ee572df93 name",
+    "note": "11fbdde567d6c70ee572df93 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "febeb5f6f9ca04bedd8f6549",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "49acdc18ccdb3df11dbdfbe0",
+          "index": 4,
+          "items": [
+            {
+              "_id": "c02e2a0e7fc00cdbc017c84b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "c02e2a0e7fc00cdbc017c84b",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "11fbdde567d6c70ee572df93 startedMessageText",
+    "successMessageText": "11fbdde567d6c70ee572df93 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "55dbd6aebbddba8cd92c85e5": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 150 Scav(s)",
+    "_id": "55dbd6aebbddba8cd92c85e5",
+    "acceptPlayerMessage": "55dbd6aebbddba8cd92c85e5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "55dbd6aebbddba8cd92c85e5 changeQuestMessageText",
+    "completePlayerMessage": "55dbd6aebbddba8cd92c85e5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "28bda4f82c1a9593aadd4ab5",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0beccbaf7aa7badbbbe4edc8",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "feb2e2ceaae42bb738ea0aa7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c2013edf96e5cd5ebb27b70d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "150",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "331faa44279ddbd3d4e19c4a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0c9155ebc6fa4b54efda64d2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2b1e790d0d2ea00b3be6c5e1",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "808712b4eaac5c7a4dca7ef1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff6eacb745b39f5e06ef20bd",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad2d78acd04694de51f3fcbf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6f7ae3f8d55df1cbe9b4e1ef",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1bffbcc111bffbeebcaecacd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab153a74fdac4c3bc5c5c1b3",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fcf96df1c3066a1dbeaaadcf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "10a9ce3febbe5accf43f9d4a",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e5b598d00a265b220952bb0f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c6842dcc38aa08f04fc8cdd1",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c23a90bb786aea28ef9182b5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8a683ad4e769ed401274de29",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eff294e3effd8bf2bceafbfc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "55dbd6aebbddba8cd92c85e5 declinePlayerMessage",
+    "description": "55dbd6aebbddba8cd92c85e5 description",
+    "failMessageText": "55dbd6aebbddba8cd92c85e5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "55dbd6aebbddba8cd92c85e5 name",
+    "note": "55dbd6aebbddba8cd92c85e5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "08fc3961cb2f8eb28abcf746",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "bf5adbca62addf3cddf05aa1",
+          "index": 4,
+          "items": [
+            {
+              "_id": "3f6a225f61ca3d15c1fe4b63",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "3f6a225f61ca3d15c1fe4b63",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "55dbd6aebbddba8cd92c85e5 startedMessageText",
+    "successMessageText": "55dbd6aebbddba8cd92c85e5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "ea416cde47dd85d347b0f3c0": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 200 Scav(s)",
+    "_id": "ea416cde47dd85d347b0f3c0",
+    "acceptPlayerMessage": "ea416cde47dd85d347b0f3c0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ea416cde47dd85d347b0f3c0 changeQuestMessageText",
+    "completePlayerMessage": "ea416cde47dd85d347b0f3c0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ede9b0607fdeaadd94fe9fed",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "c1a966ffcd9af99b152bed69",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "88adaf04ec85fa4940fceeae"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d6d6cb7a08b399a7a580e15c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "647af022befb1462cee1fdde",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d774a5189df0f5a40edf26d3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e22c050bd2ecde128ecf7c15",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aff88cc8cf1acafdc0e88af4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2f91b917edebfbb48b2ff4ef",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccddc8ca329bdd3fd79ba393"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2e2dcea3ba5bb127c196d48e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1d81c919cac2acfd5d41c29a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5babeea7af50e931f9f6490d",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd655ae61131b80cd4fa83d4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff9da63adc7218a5e3cb4daa",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2da49b75a8bc2ef53ed0cac2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4cdcbd4bfde66ebc8065f981",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "11fbdde567d6c70ee572df93"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "baae28a0daaaf83194283b6b",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9bc51e1eeed43ebae1840fa9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ea416cde47dd85d347b0f3c0 declinePlayerMessage",
+    "description": "ea416cde47dd85d347b0f3c0 description",
+    "failMessageText": "ea416cde47dd85d347b0f3c0 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "ea416cde47dd85d347b0f3c0 name",
+    "note": "ea416cde47dd85d347b0f3c0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d0226e785a2b0a39c98eaaa2",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "dbbeec0ca6effce36c4db691",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ea5f89b5ff17fcd4fad0dbfb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "ea5f89b5ff17fcd4fad0dbfb",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ea416cde47dd85d347b0f3c0 startedMessageText",
+    "successMessageText": "ea416cde47dd85d347b0f3c0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "8eb7e63afe2f0daa1fe15f7c": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 500 Scav(s)",
+    "_id": "8eb7e63afe2f0daa1fe15f7c",
+    "acceptPlayerMessage": "8eb7e63afe2f0daa1fe15f7c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "8eb7e63afe2f0daa1fe15f7c changeQuestMessageText",
+    "completePlayerMessage": "8eb7e63afe2f0daa1fe15f7c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "71a6c87cee8aed91acfb733d",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "53cc9f9d44dd425bb6dd4fee",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "2abcd36ebf29e72fbf4876f7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a2cef80accbc48ed1b447276",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "62f01b9c13cea124605fbb6d",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a968f4de9dbefa217aed6f95"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3cbddfbe2cb3bdbae59b26d4",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c563d3283aa39f45bff442bf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc3ef3547f93ab27eafcb799",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ac99c7ebed06ac9ee753cfa5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bcfd6ba5643dcdebc01c1e9e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a8ccc6864b3c2c5c179eebad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "121f69063cbf79cdd68d0a0c",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "67a6bf0acc6fff28ca5cf8ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ae8becbb0a4abcd2e7208e8",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55a3ef1ad95b4ecd7e7304b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c9caf3fee02f64bd0f07ddd6",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55dbd6aebbddba8cd92c85e5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c67c16ed0fafa5f6d437f7f5",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "675143ae0fd3af09fd62fba5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "8eb7e63afe2f0daa1fe15f7c declinePlayerMessage",
+    "description": "8eb7e63afe2f0daa1fe15f7c description",
+    "failMessageText": "8eb7e63afe2f0daa1fe15f7c failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "8eb7e63afe2f0daa1fe15f7c name",
+    "note": "8eb7e63afe2f0daa1fe15f7c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "92c64afdeeb4acbce353fa53",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "fb08f62ca69afc66bdc95d13",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e0965eb5ecaca32c51cdfcce",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "e0965eb5ecaca32c51cdfcce",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "8eb7e63afe2f0daa1fe15f7c startedMessageText",
+    "successMessageText": "8eb7e63afe2f0daa1fe15f7c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  },
+  "a15994b1dcada3394a90b215": {
+    "QuestName": "[War] Scav Hunt: Clear Lighthouse from 1000 Scav(s)",
+    "_id": "a15994b1dcada3394a90b215",
+    "acceptPlayerMessage": "a15994b1dcada3394a90b215 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a15994b1dcada3394a90b215 changeQuestMessageText",
+    "completePlayerMessage": "a15994b1dcada3394a90b215 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "850a7845fa64af1a84a4de76",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "af4a89cbbbbb2cf76202b61f",
+                "target": [
+                  "Lighthouse"
+                ]
+              }
+            ],
+            "id": "e06bee633a4edac94f2b6827"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "16d5fed50064a8a47fd76e16",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c9a1e790eeceacad0fecb0b6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7dba29c47bd1cee2aeccb2cc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4b89e22f668d06521ea5d62a",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1282a59c8ae36908efa2fcbc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc8cb2191955dba8a9e1b12d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd3b488dede5cb4f76d9bd98"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ecf262dfefb5bfb895c5cbb",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a3decd23ebcc6efcc608eca9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e901cfecfcb7ed4de0b3b5b5",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f547e32ed3eb0eb3bccb48b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "79ece3af46630520dbba5582",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fadb688cfaef0a2bbac89d49"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d1ebe29a4d4daace7ded0aa4",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea416cde47dd85d347b0f3c0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6d0abd2287e31da11fdf834a",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d37de300b3f7210fd86acdb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a15994b1dcada3394a90b215 declinePlayerMessage",
+    "description": "a15994b1dcada3394a90b215 description",
+    "failMessageText": "a15994b1dcada3394a90b215 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e4dad2720bb55b8b4567",
+    "name": "a15994b1dcada3394a90b215 name",
+    "note": "a15994b1dcada3394a90b215 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4810cd8dbe7d1def63deb979",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "56d61ce6c95b82bc24dd0afc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6b8ce30ba716bc1ff2768bfb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "6b8ce30ba716bc1ff2768bfb",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a15994b1dcada3394a90b215 startedMessageText",
+    "successMessageText": "a15994b1dcada3394a90b215 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000a",
+    "type": "Elimination"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "a4de75c32db70fbbaf4dcd30 name": "[Mec] Key Proficiency: Factory Locksmith",
+    "a4de75c32db70fbbaf4dcd30 note": "",
+    "a4de75c32db70fbbaf4dcd30 description": "You want containers for keys? What reason do you need containers if you don't have any keys yet? Gotta Find 'Em All!",
+    "a4de75c32db70fbbaf4dcd30 startedMessageText": "[Mec] Quest Accepted: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "a4de75c32db70fbbaf4dcd30 failMessageText": "[Mec] Quest Failed: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "a4de75c32db70fbbaf4dcd30 successMessageText": "[Mec] Quest Completed: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 declinePlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 completePlayerMessage": "",
+    "67ea305f94b3c1dc54de997f": "Find a Pumping station front door key",
+    "bafce78f880183b5e71ab1ea": "Find a Pumping station back door key",
+    "c28edcca6cece5d5cea5e988": "Find a Factory emergency exit key"
+}

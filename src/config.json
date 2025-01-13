@@ -1,0 +1,23 @@
+{
+	"AllQuestsAvailableFromStart" : false,
+	"AllTradesAvailableFromStart" : false,
+
+	"ShouldAddGammaContainer" : false,
+	"QuestIdForGammaContainer" : "5a27bc3686f7741c73584026",
+
+	"RemoveAllMapsRestrictions" : false,
+	"RemoveAllGearRestrictions" : false,
+	"ReplaceKillCounterForRaidersWithPMCs" : false,
+	"AddTraderLoyaltyReward" : false,
+
+	"OverrideTradersDiscounts" : false,
+	"rewardScaling" : 0.1,
+	"TradersDiscounts" : {
+		"Bashkir" 	: 40,
+		"Colonel" 	: 40,
+		"Elder" 	: 40,
+		"Khokhol" 	: 40,
+		"LabRat" 	: 40,
+		"Warden" 	: 40
+	}
+}

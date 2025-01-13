@@ -1,0 +1,12 @@
+{
+    "c2a70d1a5491c819aaea0d7d name": "[War] 弾薬の習熟度:Introduction",
+    "c2a70d1a5491c819aaea0d7d note": "",
+    "c2a70d1a5491c819aaea0d7d description": "Psss!あなたは弾薬を使える人のように見えますよね？でも誰もあなたに売りたくないですよね？私はそれを手伝うことができますが,私の推薦は安くはありません...興味がありますか？",
+    "c2a70d1a5491c819aaea0d7d startedMessageText": "[War] クエストが承認されました: '[War] 弾薬の習熟度:Introduction'!",
+    "c2a70d1a5491c819aaea0d7d failMessageText": "[War] クエストに失敗しました: '[War] 弾薬の習熟度:Introduction'!",
+    "c2a70d1a5491c819aaea0d7d successMessageText": "[War] クエストが完了しました: '[War] 弾薬の習熟度:Introduction'!",
+    "c2a70d1a5491c819aaea0d7d acceptPlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d declinePlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d completePlayerMessage": "",
+    "ac3999cea367de016176dd71": "任意の弾薬のハンドオーバー1000。"
+}

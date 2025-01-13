@@ -1,0 +1,5181 @@
+{
+  "4cffdab3b9306de45be34fe1": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM FMJ Barter",
+    "_id": "4cffdab3b9306de45be34fe1",
+    "acceptPlayerMessage": "4cffdab3b9306de45be34fe1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4cffdab3b9306de45be34fe1 changeQuestMessageText",
+    "completePlayerMessage": "4cffdab3b9306de45be34fe1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8adbfadaa62afa2925e1d4a8",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59e6542b86f77411dc52a77a",
+            "59e655cb86f77411dc52a77b",
+            "59e6658b86f77411d949b250",
+            "5f0596629e22f464da6bbdd9"
+          ],
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6619b4ac1cecefea94de3a3e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c2a70d1a5491c819aaea0d7d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fa47c3fd3c0cb2aeed9f33cd",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acd4aefbd14ca9b646d52c6c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4cffdab3b9306de45be34fe1 declinePlayerMessage",
+    "description": "4cffdab3b9306de45be34fe1 description",
+    "failMessageText": "4cffdab3b9306de45be34fe1 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4cffdab3b9306de45be34fe1 name",
+    "note": "4cffdab3b9306de45be34fe1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b70f5adadabcfbdb7d2bc8d1",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "d2eaebaedf5f7efd66f971b0",
+          "index": 4,
+          "items": [
+            {
+              "_id": "4a7ac6a08aafc4f3ffca63ea",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "4a7ac6a08aafc4f3ffca63ea",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "a8a56c207e15ddf4b698f138",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a11b58dd0ad3a0f499bb06f5",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "a11b58dd0ad3a0f499bb06f5",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "e103add36fa0e2c4a0eb48cc",
+          "index": 6,
+          "items": [
+            {
+              "_id": "e51db3ef6caaaefb88e2eeea",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "e51db3ef6caaaefb88e2eeea",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "6db7dd2b8a368b3b1b4dcd8c",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fc4b0dfcfcb6ee9ffef903c2",
+              "_tpl": "59e6542b86f77411dc52a77a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "fc4b0dfcfcb6ee9ffef903c2",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4cffdab3b9306de45be34fe1 startedMessageText",
+    "successMessageText": "4cffdab3b9306de45be34fe1 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "2092fde33863e659e4bc3ca0": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM EKO Barter",
+    "_id": "2092fde33863e659e4bc3ca0",
+    "acceptPlayerMessage": "2092fde33863e659e4bc3ca0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2092fde33863e659e4bc3ca0 changeQuestMessageText",
+    "completePlayerMessage": "2092fde33863e659e4bc3ca0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbc4d74dbca18db3ddb4b32d",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59e655cb86f77411dc52a77b",
+            "59e6658b86f77411d949b250",
+            "5f0596629e22f464da6bbdd9"
+          ],
+          "value": "400",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d6c81badccbd1c98d23a3c91",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4cffdab3b9306de45be34fe1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2092fde33863e659e4bc3ca0 declinePlayerMessage",
+    "description": "2092fde33863e659e4bc3ca0 description",
+    "failMessageText": "2092fde33863e659e4bc3ca0 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "2092fde33863e659e4bc3ca0 name",
+    "note": "2092fde33863e659e4bc3ca0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2f2cfa43b3612f9bef38f16f",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "8625a65c9da3fcde79feb643",
+          "index": 4,
+          "items": [
+            {
+              "_id": "8e047fdffddf8c528049197c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "8e047fdffddf8c528049197c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "c248a723bdc8a9ebee79cac3",
+          "index": 5,
+          "items": [
+            {
+              "_id": "d3fcb126c1eb8ee7c53fb59b",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "d3fcb126c1eb8ee7c53fb59b",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "9a4d0c3af4e9b1fcc96cbaee",
+          "index": 6,
+          "items": [
+            {
+              "_id": "ff6c89d077dbc796b9ee2666",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "ff6c89d077dbc796b9ee2666",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "455da95a3ee9ea00c708d8ae",
+          "index": 7,
+          "items": [
+            {
+              "_id": "2c063c6a7bc0f6df076cee60",
+              "_tpl": "59e655cb86f77411dc52a77b",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "2c063c6a7bc0f6df076cee60",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2092fde33863e659e4bc3ca0 startedMessageText",
+    "successMessageText": "2092fde33863e659e4bc3ca0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "e5fdbdef7e8e31c9e9daced3": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM Geksa Barter",
+    "_id": "e5fdbdef7e8e31c9e9daced3",
+    "acceptPlayerMessage": "e5fdbdef7e8e31c9e9daced3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e5fdbdef7e8e31c9e9daced3 changeQuestMessageText",
+    "completePlayerMessage": "e5fdbdef7e8e31c9e9daced3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bed39b1dc3b214eb0c4af2d5",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59e6658b86f77411d949b250",
+            "5f0596629e22f464da6bbdd9"
+          ],
+          "value": "600",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "af26ebda1c2952efedd16cbb",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2092fde33863e659e4bc3ca0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e5fdbdef7e8e31c9e9daced3 declinePlayerMessage",
+    "description": "e5fdbdef7e8e31c9e9daced3 description",
+    "failMessageText": "e5fdbdef7e8e31c9e9daced3 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "e5fdbdef7e8e31c9e9daced3 name",
+    "note": "e5fdbdef7e8e31c9e9daced3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4aedd7e6ddfefabfa2cb7efa",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "43a9e83544dc6174bf5c5ed8",
+          "index": 4,
+          "items": [
+            {
+              "_id": "3bbba1f1bb87c696eabca2af",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "3bbba1f1bb87c696eabca2af",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "9d0dc97f8c90d0d9eadd1cf0",
+          "index": 5,
+          "items": [
+            {
+              "_id": "bcb5f8cac1ffd7fdbc0b738b",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "bcb5f8cac1ffd7fdbc0b738b",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "aebbac8d38e106feff185655",
+          "index": 6,
+          "items": [
+            {
+              "_id": "b18ef43911ba1de3bb6cd9c8",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "b18ef43911ba1de3bb6cd9c8",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "cc4cec6f64f5ce329a77dd74",
+          "index": 7,
+          "items": [
+            {
+              "_id": "bb4e0d27bfddf187408a79db",
+              "_tpl": "59e6658b86f77411d949b250",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "bb4e0d27bfddf187408a79db",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e5fdbdef7e8e31c9e9daced3 startedMessageText",
+    "successMessageText": "e5fdbdef7e8e31c9e9daced3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "fbcf90d5e0dcecd3695e52e0": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM AP-M Barter",
+    "_id": "fbcf90d5e0dcecd3695e52e0",
+    "acceptPlayerMessage": "fbcf90d5e0dcecd3695e52e0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fbcf90d5e0dcecd3695e52e0 changeQuestMessageText",
+    "completePlayerMessage": "fbcf90d5e0dcecd3695e52e0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b9da13f8cac97c80dde50c3a",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5f0596629e22f464da6bbdd9"
+          ],
+          "value": "800",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c0b75da3a00cdddb69bbc3ad",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e5fdbdef7e8e31c9e9daced3"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fbcf90d5e0dcecd3695e52e0 declinePlayerMessage",
+    "description": "fbcf90d5e0dcecd3695e52e0 description",
+    "failMessageText": "fbcf90d5e0dcecd3695e52e0 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fbcf90d5e0dcecd3695e52e0 name",
+    "note": "fbcf90d5e0dcecd3695e52e0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e5fcff5fd3cfa9d7084cb217",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "d50eaaabbdb820a845a997a2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "c3d07a1be1883e31f2bb5070",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "c3d07a1be1883e31f2bb5070",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "dbbff43ca3ddba3fb20b3de1",
+          "index": 5,
+          "items": [
+            {
+              "_id": "9f2b2975d0ddff8d4bedea7f",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "9f2b2975d0ddff8d4bedea7f",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "db1be4daf7e6e5db5822ffb7",
+          "index": 6,
+          "items": [
+            {
+              "_id": "72f74ddf8e10ceeef14cdea3",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "72f74ddf8e10ceeef14cdea3",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "6e6a1fdea023ee2d0c3a6bfd",
+          "index": 7,
+          "items": [
+            {
+              "_id": "da8a2bd3c0bea312bbcd3e74",
+              "_tpl": "5f0596629e22f464da6bbdd9",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "da8a2bd3c0bea312bbcd3e74",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fbcf90d5e0dcecd3695e52e0 startedMessageText",
+    "successMessageText": "fbcf90d5e0dcecd3695e52e0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "cfc2b4c0fbf67ddc220fdda3": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM FMJ Trade",
+    "_id": "cfc2b4c0fbf67ddc220fdda3",
+    "acceptPlayerMessage": "cfc2b4c0fbf67ddc220fdda3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "cfc2b4c0fbf67ddc220fdda3 changeQuestMessageText",
+    "completePlayerMessage": "cfc2b4c0fbf67ddc220fdda3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "efcba1a51efd24fefc69f52f",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "59e6687d86f77411d949b251",
+                  "5de652c31b7e3716273428be"
+                ]
+              }
+            ],
+            "id": "ee6c51ad6fc4c64d10aa4bfd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e0f9f8c3adfb76ddf90e7fef",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd6fc467db83a1bfc86d7faa",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4cffdab3b9306de45be34fe1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "cfc2b4c0fbf67ddc220fdda3 declinePlayerMessage",
+    "description": "cfc2b4c0fbf67ddc220fdda3 description",
+    "failMessageText": "cfc2b4c0fbf67ddc220fdda3 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "cfc2b4c0fbf67ddc220fdda3 name",
+    "note": "cfc2b4c0fbf67ddc220fdda3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f6b0c972fdb7b927ca8bbe1f",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "3a53cc35ca3d5b49a125eeb9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "99b986e4590acdaebe6de4aa",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "99b986e4590acdaebe6de4aa",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "dc7b7efca0cd6bd9a6bbbc6a",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f4cd7aa28dafda936dacbf7b",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "f4cd7aa28dafda936dacbf7b",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "aabb466fb6d70b6210d95e64",
+          "index": 6,
+          "items": [
+            {
+              "_id": "f9a6bc43dc89b83f6b7e50db",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "f9a6bc43dc89b83f6b7e50db",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "ed3affafcfcd889ae17cec04",
+          "index": 7,
+          "items": [
+            {
+              "_id": "cd5d1e86edd1d11c4ae29e8f",
+              "_tpl": "59e6542b86f77411dc52a77a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "cd5d1e86edd1d11c4ae29e8f",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "cfc2b4c0fbf67ddc220fdda3 startedMessageText",
+    "successMessageText": "cfc2b4c0fbf67ddc220fdda3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "39e69b5ead4a90ea1ee19e9e": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM EKO Trade",
+    "_id": "39e69b5ead4a90ea1ee19e9e",
+    "acceptPlayerMessage": "39e69b5ead4a90ea1ee19e9e acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "39e69b5ead4a90ea1ee19e9e changeQuestMessageText",
+    "completePlayerMessage": "39e69b5ead4a90ea1ee19e9e completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0b6bced8ae7997eb382961a1",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "59e6687d86f77411d949b251",
+                  "5de652c31b7e3716273428be"
+                ]
+              }
+            ],
+            "id": "be79bb7dfb0ff4082ebbcaa8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b50dace7eedff6a287bc3d12",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "65a83ed93058f1fa15e7dd1f",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2092fde33863e659e4bc3ca0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb7a222b2bccb45b99dbe50c",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cfc2b4c0fbf67ddc220fdda3"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "39e69b5ead4a90ea1ee19e9e declinePlayerMessage",
+    "description": "39e69b5ead4a90ea1ee19e9e description",
+    "failMessageText": "39e69b5ead4a90ea1ee19e9e failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "39e69b5ead4a90ea1ee19e9e name",
+    "note": "39e69b5ead4a90ea1ee19e9e note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2fbca2ee1fffbf7f89bfc2d5",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "6dfb1e5cbd31bae6bfd4e8ee",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ee221589544a207aca8c3a4b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "ee221589544a207aca8c3a4b",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "c029f9a9beb39afdfce0cec7",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a8eb58ab91ff8c7abcbd41a1",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "a8eb58ab91ff8c7abcbd41a1",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "9f1efe5bd0a74fbf80bcfebb",
+          "index": 6,
+          "items": [
+            {
+              "_id": "51ec4bb69c1a2e06559b18a1",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "51ec4bb69c1a2e06559b18a1",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "4b4e37ec45a3efe19b33d4ff",
+          "index": 7,
+          "items": [
+            {
+              "_id": "482d4fef762d731c600a97ea",
+              "_tpl": "59e655cb86f77411dc52a77b",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "482d4fef762d731c600a97ea",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "39e69b5ead4a90ea1ee19e9e startedMessageText",
+    "successMessageText": "39e69b5ead4a90ea1ee19e9e successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "bbf09d7c34b65f0cc9de1bac": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM Geksa Trade",
+    "_id": "bbf09d7c34b65f0cc9de1bac",
+    "acceptPlayerMessage": "bbf09d7c34b65f0cc9de1bac acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bbf09d7c34b65f0cc9de1bac changeQuestMessageText",
+    "completePlayerMessage": "bbf09d7c34b65f0cc9de1bac completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e813cfc8d1a7b8b556f6bdc6",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "59e6687d86f77411d949b251",
+                  "5de652c31b7e3716273428be"
+                ]
+              }
+            ],
+            "id": "ebb3fbc8c1fafe22edabaafc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c49bfa23a79bccfbbb1a9f3f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ac1a37b7d5874d925bce9206",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e5fdbdef7e8e31c9e9daced3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7577da5b9af8a2ff4f9974ad",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "39e69b5ead4a90ea1ee19e9e"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bbf09d7c34b65f0cc9de1bac declinePlayerMessage",
+    "description": "bbf09d7c34b65f0cc9de1bac description",
+    "failMessageText": "bbf09d7c34b65f0cc9de1bac failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bbf09d7c34b65f0cc9de1bac name",
+    "note": "bbf09d7c34b65f0cc9de1bac note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c8a32cab69fa9c1bc4ef6f3b",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "b9f26fd237e7bb1aba268a22",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ad0abd3da4cc0ad6aae91eab",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "ad0abd3da4cc0ad6aae91eab",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "7ede604cd8dd163c6dec4710",
+          "index": 5,
+          "items": [
+            {
+              "_id": "5f567fcd0b5aae53cbdbddaa",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "5f567fcd0b5aae53cbdbddaa",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "fad690c0f71008b64ddecb9b",
+          "index": 6,
+          "items": [
+            {
+              "_id": "ea6fdacd1ca64f1bee4f73f2",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "ea6fdacd1ca64f1bee4f73f2",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "d9bb75d744a248c00bd57c76",
+          "index": 7,
+          "items": [
+            {
+              "_id": "94f8fb3791baa4f5acbb80dd",
+              "_tpl": "59e6658b86f77411d949b250",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "94f8fb3791baa4f5acbb80dd",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bbf09d7c34b65f0cc9de1bac startedMessageText",
+    "successMessageText": "bbf09d7c34b65f0cc9de1bac successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "ec892fbbcf21311ddbf283d9": {
+    "QuestName": "[Bsh] Ammo Proficiency: .366 TKM AP-M Trade",
+    "_id": "ec892fbbcf21311ddbf283d9",
+    "acceptPlayerMessage": "ec892fbbcf21311ddbf283d9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ec892fbbcf21311ddbf283d9 changeQuestMessageText",
+    "completePlayerMessage": "ec892fbbcf21311ddbf283d9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "efcc8a55d1cdbbb7ffd2e177",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "59e6687d86f77411d949b251",
+                  "5de652c31b7e3716273428be"
+                ]
+              }
+            ],
+            "id": "8d782faabd9cab0be0876d5e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4acf98f0c8d44d9625eae04a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "437f77b11acae9eaafcf6fdc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fbcf90d5e0dcecd3695e52e0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ca9d4a1e49246aa1fcdc80e",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bbf09d7c34b65f0cc9de1bac"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ec892fbbcf21311ddbf283d9 declinePlayerMessage",
+    "description": "ec892fbbcf21311ddbf283d9 description",
+    "failMessageText": "ec892fbbcf21311ddbf283d9 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ec892fbbcf21311ddbf283d9 name",
+    "note": "ec892fbbcf21311ddbf283d9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c2654eece1b575da18b08e1c",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "0bdd6142e0f2dc44dd0fb8dd",
+          "index": 4,
+          "items": [
+            {
+              "_id": "943f727a9258edcc4aa5eb0c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "943f727a9258edcc4aa5eb0c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "ad5bcd2f720c0c2fdddfffde",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dcee1f5ebbaadd947cdb04cc",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "dcee1f5ebbaadd947cdb04cc",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "d6dbaf24f7398b2b2eebf4d4",
+          "index": 6,
+          "items": [
+            {
+              "_id": "b221ad812fe192f6dedeee8a",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "b221ad812fe192f6dedeee8a",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "34d140e4bc2e7fbdac87cc86",
+          "index": 7,
+          "items": [
+            {
+              "_id": "8d694d5f50ffa2449f6f9fbb",
+              "_tpl": "5f0596629e22f464da6bbdd9",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "8d694d5f50ffa2449f6f9fbb",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ec892fbbcf21311ddbf283d9 startedMessageText",
+    "successMessageText": "ec892fbbcf21311ddbf283d9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "ce9d638ca6a98e516bdc4fe9": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R HP BT Barter",
+    "_id": "ce9d638ca6a98e516bdc4fe9",
+    "acceptPlayerMessage": "ce9d638ca6a98e516bdc4fe9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ce9d638ca6a98e516bdc4fe9 changeQuestMessageText",
+    "completePlayerMessage": "ce9d638ca6a98e516bdc4fe9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a744ed303748ddba3b9be9be",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "64b8f7c241772715af0f9c3d",
+            "64b8f7b5389d7ffd620ccba2",
+            "64b8f7968532cf95ee0a0dbf",
+            "5e023cf8186a883be655e54f",
+            "5887431f2459777e1612938f",
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "120",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6ab2ffb12f55339fcfebf2fc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c2a70d1a5491c819aaea0d7d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e1bccfb86b0deecfda4afefc",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acd4aefbd14ca9b646d52c6c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ce9d638ca6a98e516bdc4fe9 declinePlayerMessage",
+    "description": "ce9d638ca6a98e516bdc4fe9 description",
+    "failMessageText": "ce9d638ca6a98e516bdc4fe9 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ce9d638ca6a98e516bdc4fe9 name",
+    "note": "ce9d638ca6a98e516bdc4fe9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5bc9ff641e1f18a0edebe2e3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "a68c1ddbce9cd11095b7ae91",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e5f1a85cac763032a37ffe2d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "e5f1a85cac763032a37ffe2d",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "3e8eff6b2fe7ca1f8bab0ee8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a892cdee3d1dbf16bcce0e1d",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "a892cdee3d1dbf16bcce0e1d",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "d30f8bbda2fc6f86af7fc4f0",
+          "index": 6,
+          "items": [
+            {
+              "_id": "0fbaf54b3ecda09fa2a26bdf",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "0fbaf54b3ecda09fa2a26bdf",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "eb60ace55a68fa561c4db9da",
+          "index": 7,
+          "items": [
+            {
+              "_id": "f65fa316c9cb7fd50034f7cb",
+              "_tpl": "64b8f7c241772715af0f9c3d",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "f65fa316c9cb7fd50034f7cb",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ce9d638ca6a98e516bdc4fe9 startedMessageText",
+    "successMessageText": "ce9d638ca6a98e516bdc4fe9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "eebf1ecaa286405babcbd5dc": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R SP BT Barter",
+    "_id": "eebf1ecaa286405babcbd5dc",
+    "acceptPlayerMessage": "eebf1ecaa286405babcbd5dc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eebf1ecaa286405babcbd5dc changeQuestMessageText",
+    "completePlayerMessage": "eebf1ecaa286405babcbd5dc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "51ac1a4aadf1a48f72d5edff",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "64b8f7b5389d7ffd620ccba2",
+            "64b8f7968532cf95ee0a0dbf",
+            "5e023cf8186a883be655e54f",
+            "5887431f2459777e1612938f",
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "120",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fe8bfc264ff1cddcdac8abd5",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ce9d638ca6a98e516bdc4fe9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eebf1ecaa286405babcbd5dc declinePlayerMessage",
+    "description": "eebf1ecaa286405babcbd5dc description",
+    "failMessageText": "eebf1ecaa286405babcbd5dc failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "eebf1ecaa286405babcbd5dc name",
+    "note": "eebf1ecaa286405babcbd5dc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "30d1e1acf0d5d8b36efe5e3c",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "aa9d9b46a0af67fb2f4635c2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eac05fcacd7c4dbb48c81f8d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "eac05fcacd7c4dbb48c81f8d",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "aab9deee3d36fd2ab3cb58ff",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f92573bff11bcbad62fa7b4e",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "f92573bff11bcbad62fa7b4e",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "a3daf6478e0dc0df959fcefa",
+          "index": 6,
+          "items": [
+            {
+              "_id": "31d2bcdeb3dd5506ea08bab0",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "31d2bcdeb3dd5506ea08bab0",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "e56ee1f0575de61b43db8ccb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "3fe2f21b9b0d86dff054ffe4",
+              "_tpl": "64b8f7b5389d7ffd620ccba2",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "3fe2f21b9b0d86dff054ffe4",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eebf1ecaa286405babcbd5dc startedMessageText",
+    "successMessageText": "eebf1ecaa286405babcbd5dc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "e0aaa777571a9b8fb6d9bccc": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R FMJ Barter",
+    "_id": "e0aaa777571a9b8fb6d9bccc",
+    "acceptPlayerMessage": "e0aaa777571a9b8fb6d9bccc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e0aaa777571a9b8fb6d9bccc changeQuestMessageText",
+    "completePlayerMessage": "e0aaa777571a9b8fb6d9bccc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "708df598c0130236acfb62d7",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "64b8f7968532cf95ee0a0dbf",
+            "5e023cf8186a883be655e54f",
+            "5887431f2459777e1612938f",
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "120",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "74a7dfc570faf18ae597f1dd",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eebf1ecaa286405babcbd5dc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e0aaa777571a9b8fb6d9bccc declinePlayerMessage",
+    "description": "e0aaa777571a9b8fb6d9bccc description",
+    "failMessageText": "e0aaa777571a9b8fb6d9bccc failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "e0aaa777571a9b8fb6d9bccc name",
+    "note": "e0aaa777571a9b8fb6d9bccc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "95dfbfea6def7100ed79ffcb",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "5f9e11ffbf50e944a9d45aaa",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bdf001e17bfa7ce9a5e5b6e7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "bdf001e17bfa7ce9a5e5b6e7",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "c3fee4f0dbdb82db71c9a6c9",
+          "index": 5,
+          "items": [
+            {
+              "_id": "43aedd6badabb87d1a36b6ca",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "43aedd6badabb87d1a36b6ca",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "db91baf51fecfabe938eaa4e",
+          "index": 6,
+          "items": [
+            {
+              "_id": "75e5eca0be0efcba16aac1d9",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "75e5eca0be0efcba16aac1d9",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "0dc15007e7ddffdd73df6fc0",
+          "index": 7,
+          "items": [
+            {
+              "_id": "70de7dfe8e6b0ed0794e2d19",
+              "_tpl": "64b8f7968532cf95ee0a0dbf",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "70de7dfe8e6b0ed0794e2d19",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e0aaa777571a9b8fb6d9bccc startedMessageText",
+    "successMessageText": "e0aaa777571a9b8fb6d9bccc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "6ec78d3ca6dfdec19a8908fb": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R T-46M gzh Barter",
+    "_id": "6ec78d3ca6dfdec19a8908fb",
+    "acceptPlayerMessage": "6ec78d3ca6dfdec19a8908fb acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6ec78d3ca6dfdec19a8908fb changeQuestMessageText",
+    "completePlayerMessage": "6ec78d3ca6dfdec19a8908fb completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "64ac0ec0cf6c3a9a8f54feb2",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e023cf8186a883be655e54f",
+            "5887431f2459777e1612938f",
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "120",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "882bd3b01c7f2e84d1ae08ac",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e0aaa777571a9b8fb6d9bccc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6ec78d3ca6dfdec19a8908fb declinePlayerMessage",
+    "description": "6ec78d3ca6dfdec19a8908fb description",
+    "failMessageText": "6ec78d3ca6dfdec19a8908fb failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "6ec78d3ca6dfdec19a8908fb name",
+    "note": "6ec78d3ca6dfdec19a8908fb note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d2ce6aba1dceb56eae9e29ac",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "aeaeb8f9ff39eebdba7aec77",
+          "index": 4,
+          "items": [
+            {
+              "_id": "06ab3b05eb19afc147de344c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "06ab3b05eb19afc147de344c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "bf4f8e59ddd293c01ab6d468",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f8f19f1dbafccec213adb9d9",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "f8f19f1dbafccec213adb9d9",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "ce8cd91ddfda22ad2ec7c28d",
+          "index": 6,
+          "items": [
+            {
+              "_id": "3625cd98b42bf8896dcdd48d",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "3625cd98b42bf8896dcdd48d",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "2a91ede3e6390ddb59f524ae",
+          "index": 7,
+          "items": [
+            {
+              "_id": "5f2eea4230cb688d19bcdffc",
+              "_tpl": "5e023cf8186a883be655e54f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "5f2eea4230cb688d19bcdffc",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6ec78d3ca6dfdec19a8908fb startedMessageText",
+    "successMessageText": "6ec78d3ca6dfdec19a8908fb successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "b41d1a1de249e3d8a8ad0eb8": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R LPS gzh Barter",
+    "_id": "b41d1a1de249e3d8a8ad0eb8",
+    "acceptPlayerMessage": "b41d1a1de249e3d8a8ad0eb8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b41d1a1de249e3d8a8ad0eb8 changeQuestMessageText",
+    "completePlayerMessage": "b41d1a1de249e3d8a8ad0eb8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbcd21698ecdebec00098ef8",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5887431f2459777e1612938f",
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "240",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ddfaa7ff9c8ffadccec970ee",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6ec78d3ca6dfdec19a8908fb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b41d1a1de249e3d8a8ad0eb8 declinePlayerMessage",
+    "description": "b41d1a1de249e3d8a8ad0eb8 description",
+    "failMessageText": "b41d1a1de249e3d8a8ad0eb8 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b41d1a1de249e3d8a8ad0eb8 name",
+    "note": "b41d1a1de249e3d8a8ad0eb8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f56be7af1df197dd65deabbc",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "259fdfbc28758bb5bd3a9dcc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fe6fa25d00abbbeecdfe5d5a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "fe6fa25d00abbbeecdfe5d5a",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "78dd89ff5d9eea4aa9ccb9ec",
+          "index": 5,
+          "items": [
+            {
+              "_id": "aecc530655afc86d506f513b",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "aecc530655afc86d506f513b",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "fc2be66db9e1c8d40e6d27e0",
+          "index": 6,
+          "items": [
+            {
+              "_id": "dc4efc66cc0f4b1610ebaffd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "dc4efc66cc0f4b1610ebaffd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "1dcfe0b7ec4b7d9bb9fbf790",
+          "index": 7,
+          "items": [
+            {
+              "_id": "e9beeeced0b3cb909ef6ab4f",
+              "_tpl": "5887431f2459777e1612938f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e9beeeced0b3cb909ef6ab4f",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b41d1a1de249e3d8a8ad0eb8 startedMessageText",
+    "successMessageText": "b41d1a1de249e3d8a8ad0eb8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "5a26d8d413acf2fceb8ebebe": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R SNB gzh Barter",
+    "_id": "5a26d8d413acf2fceb8ebebe",
+    "acceptPlayerMessage": "5a26d8d413acf2fceb8ebebe acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5a26d8d413acf2fceb8ebebe changeQuestMessageText",
+    "completePlayerMessage": "5a26d8d413acf2fceb8ebebe completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fe22c3c687ba3be71d6c2acd",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "560d61e84bdc2da74d8b4571",
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "360",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2f80ee40a4a85b54d0d63e54",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b41d1a1de249e3d8a8ad0eb8"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5a26d8d413acf2fceb8ebebe declinePlayerMessage",
+    "description": "5a26d8d413acf2fceb8ebebe description",
+    "failMessageText": "5a26d8d413acf2fceb8ebebe failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "5a26d8d413acf2fceb8ebebe name",
+    "note": "5a26d8d413acf2fceb8ebebe note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "afead8debe70fae96c42e013",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "1d6bad80edbd4b70bc0fac0d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d7048620fbeecc8b44d314ab",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "d7048620fbeecc8b44d314ab",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "bdb4907220b25efcd14fc7fa",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6c23edcef739000ffcbde673",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "6c23edcef739000ffcbde673",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "fdcab2e6a01cee53dca8df47",
+          "index": 6,
+          "items": [
+            {
+              "_id": "c668c5fe5eba3f6ed61c8f83",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "c668c5fe5eba3f6ed61c8f83",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "eaccef2eb9a81eec9bdabab4",
+          "index": 7,
+          "items": [
+            {
+              "_id": "457322ec97ddfa2bd5c5bdd7",
+              "_tpl": "560d61e84bdc2da74d8b4571",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "457322ec97ddfa2bd5c5bdd7",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "69b57b34a81bfc5ec5fcae79",
+          "index": 8,
+          "items": [
+            {
+              "_id": "a707e551bf09eed6a32da74a",
+              "_tpl": "560d75f54bdc2da74d8b4573",
+                            "slotId": "hideout"
+            },
+            {
+              "_id": "9a6f2dcaeeaed51a70d96c60",
+              "_tpl": "560d61e84bdc2da74d8b4571",
+              "parentId": "a707e551bf09eed6a32da74a",
+              "slotId": "cartridges"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "a707e551bf09eed6a32da74a",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "d48c438a7ae4c95ee1c330ce",
+          "index": 9,
+          "items": [
+            {
+              "_id": "6c4ef36ca1f6071dea1eaef0",
+              "_tpl": "5bae13ded4351e44f824bf38",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "6c4ef36ca1f6071dea1eaef0",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5a26d8d413acf2fceb8ebebe startedMessageText",
+    "successMessageText": "5a26d8d413acf2fceb8ebebe successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "4ffbbac55ad3c1b87005e275": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R PS gzh Barter",
+    "_id": "4ffbbac55ad3c1b87005e275",
+    "acceptPlayerMessage": "4ffbbac55ad3c1b87005e275 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4ffbbac55ad3c1b87005e275 changeQuestMessageText",
+    "completePlayerMessage": "4ffbbac55ad3c1b87005e275 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dd3abb9b81d22c2d9fa9a09f",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "59e77a2386f7742ee578960a",
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "480",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1cd407ecad4e5ad5fd22a514",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5a26d8d413acf2fceb8ebebe"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4ffbbac55ad3c1b87005e275 declinePlayerMessage",
+    "description": "4ffbbac55ad3c1b87005e275 description",
+    "failMessageText": "4ffbbac55ad3c1b87005e275 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4ffbbac55ad3c1b87005e275 name",
+    "note": "4ffbbac55ad3c1b87005e275 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7d9fa1fa5add11fdb3d6dc6c",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "635eb04e36b52d21b3cbfcc3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "19cfdd5cb4afeddf58fdec83",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "19cfdd5cb4afeddf58fdec83",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "cae7a9e23a9629a6fce3d67c",
+          "index": 5,
+          "items": [
+            {
+              "_id": "266c13a7d245c905ec85fbb7",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "266c13a7d245c905ec85fbb7",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "990fbc4fb1beb755f7c74c67",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a94c5dbac5f72fee19e8cd8b",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "a94c5dbac5f72fee19e8cd8b",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "893b0de2cbbe9c9567f2a42d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "b0da7a4cbde0d4f3d5c2bacf",
+              "_tpl": "59e77a2386f7742ee578960a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "b0da7a4cbde0d4f3d5c2bacf",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "fd8bde3b8d8fbbd7108fc7d2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "d4d6ddadea6b1fabaa08df93",
+              "_tpl": "5c88f24b2e22160bc12c69a6",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "d4d6ddadea6b1fabaa08df93",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4ffbbac55ad3c1b87005e275 startedMessageText",
+    "successMessageText": "4ffbbac55ad3c1b87005e275 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "dde01da2a43ac9ddd59a1af2": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BT gzh Barter",
+    "_id": "dde01da2a43ac9ddd59a1af2",
+    "acceptPlayerMessage": "dde01da2a43ac9ddd59a1af2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dde01da2a43ac9ddd59a1af2 changeQuestMessageText",
+    "completePlayerMessage": "dde01da2a43ac9ddd59a1af2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9363f638806cdfdd223baebb",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e023d34e8a400319a28ed44",
+            "5e023d48186a883be655e551"
+          ],
+          "value": "600",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4ee5ff6faae6d612f4ac1102",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4ffbbac55ad3c1b87005e275"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dde01da2a43ac9ddd59a1af2 declinePlayerMessage",
+    "description": "dde01da2a43ac9ddd59a1af2 description",
+    "failMessageText": "dde01da2a43ac9ddd59a1af2 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dde01da2a43ac9ddd59a1af2 name",
+    "note": "dde01da2a43ac9ddd59a1af2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e1dd5edae499fc5b5de6aabb",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "64baffc9bdd18f6eea5bd747",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d8d382aeb25b267a70ecac5c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "d8d382aeb25b267a70ecac5c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "aae6dedd43f4aab0c67dede3",
+          "index": 5,
+          "items": [
+            {
+              "_id": "deb87846257e88c7ffe8fa68",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "deb87846257e88c7ffe8fa68",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "d9bdaf9d575eea4693cf6f51",
+          "index": 6,
+          "items": [
+            {
+              "_id": "9aff71df5ccadba751c5ba5c",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "9aff71df5ccadba751c5ba5c",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "03ca07ed2380b001efa63b4a",
+          "index": 7,
+          "items": [
+            {
+              "_id": "dcd883de4eac0c9ceefe4e9b",
+              "_tpl": "5e023d34e8a400319a28ed44",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "dcd883de4eac0c9ceefe4e9b",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dde01da2a43ac9ddd59a1af2 startedMessageText",
+    "successMessageText": "dde01da2a43ac9ddd59a1af2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "0cd4aba563e056bed811f875": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BS gs Barter",
+    "_id": "0cd4aba563e056bed811f875",
+    "acceptPlayerMessage": "0cd4aba563e056bed811f875 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0cd4aba563e056bed811f875 changeQuestMessageText",
+    "completePlayerMessage": "0cd4aba563e056bed811f875 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed20af347ba53dc0acebd617",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e023d48186a883be655e551"
+          ],
+          "value": "720",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cad0a47bca9aef65aecda45c",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dde01da2a43ac9ddd59a1af2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0cd4aba563e056bed811f875 declinePlayerMessage",
+    "description": "0cd4aba563e056bed811f875 description",
+    "failMessageText": "0cd4aba563e056bed811f875 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0cd4aba563e056bed811f875 name",
+    "note": "0cd4aba563e056bed811f875 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "699db564db0e9ccc9f59fedb",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "bcb8dae0fdf84caffc225ccb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2fc65e4ae605c6a28e59d062",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "2fc65e4ae605c6a28e59d062",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "dde2f8c6c2d3090c07d5f3c3",
+          "index": 5,
+          "items": [
+            {
+              "_id": "2069b632cfd34c654fcc1bbf",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "2069b632cfd34c654fcc1bbf",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "be3ae7a5aac2bcefb3fbabaf",
+          "index": 6,
+          "items": [
+            {
+              "_id": "dd7cbe8bacf4bbfdf18cad30",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "dd7cbe8bacf4bbfdf18cad30",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "3df7fdbcff8d3edae656dc7e",
+          "index": 7,
+          "items": [
+            {
+              "_id": "2edc91e27fcbcf23fbb997aa",
+              "_tpl": "5e023d48186a883be655e551",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "2edc91e27fcbcf23fbb997aa",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0cd4aba563e056bed811f875 startedMessageText",
+    "successMessageText": "0cd4aba563e056bed811f875 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "ad3cd8ad5e0da76e4b518ca7": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R HP BT Trade",
+    "_id": "ad3cd8ad5e0da76e4b518ca7",
+    "acceptPlayerMessage": "ad3cd8ad5e0da76e4b518ca7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ad3cd8ad5e0da76e4b518ca7 changeQuestMessageText",
+    "completePlayerMessage": "ad3cd8ad5e0da76e4b518ca7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3865bcc5e4df9c130c9db69a",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "baeeb614c8f09c8cbe0fcafa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5cf88c3e47ddeb6b61ffbcea",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d2cbdad5d23f85a6fd9b527e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ce9d638ca6a98e516bdc4fe9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ad3cd8ad5e0da76e4b518ca7 declinePlayerMessage",
+    "description": "ad3cd8ad5e0da76e4b518ca7 description",
+    "failMessageText": "ad3cd8ad5e0da76e4b518ca7 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ad3cd8ad5e0da76e4b518ca7 name",
+    "note": "ad3cd8ad5e0da76e4b518ca7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e3744dbccc89337ce5e0e3fc",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "b562f6ec34bbd5fbd083ec4c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eed1d54e1ebe45c1fd44bb5c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "eed1d54e1ebe45c1fd44bb5c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "4bfc5b5ae696dbac6b97ed8a",
+          "index": 5,
+          "items": [
+            {
+              "_id": "b4daeabbd013ff9ba9b0b262",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "b4daeabbd013ff9ba9b0b262",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "c8fdfdf8f4ce7b12dcffe10c",
+          "index": 6,
+          "items": [
+            {
+              "_id": "2cfa5e8fa23e4e6cbecebdbb",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "2cfa5e8fa23e4e6cbecebdbb",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "09ea9fbe7cd5b59ac6bb130d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "ada484f2dcba351b1ede85f0",
+              "_tpl": "64b8f7c241772715af0f9c3d",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ada484f2dcba351b1ede85f0",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ad3cd8ad5e0da76e4b518ca7 startedMessageText",
+    "successMessageText": "ad3cd8ad5e0da76e4b518ca7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "1bbddbf71a21f91ad5e2efd7": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R SP BT Trade",
+    "_id": "1bbddbf71a21f91ad5e2efd7",
+    "acceptPlayerMessage": "1bbddbf71a21f91ad5e2efd7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "1bbddbf71a21f91ad5e2efd7 changeQuestMessageText",
+    "completePlayerMessage": "1bbddbf71a21f91ad5e2efd7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "9a79ab6ab5be5b0a3edc8ca3",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "9c850e258c7fd35d2d746c90"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bccf6ba0fb60cfecfc760fce",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cf5c3afd56e0b0cbb850f3d0",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eebf1ecaa286405babcbd5dc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b9e50d405c4dd8cf1dade4ea",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad3cd8ad5e0da76e4b518ca7"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "1bbddbf71a21f91ad5e2efd7 declinePlayerMessage",
+    "description": "1bbddbf71a21f91ad5e2efd7 description",
+    "failMessageText": "1bbddbf71a21f91ad5e2efd7 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "1bbddbf71a21f91ad5e2efd7 name",
+    "note": "1bbddbf71a21f91ad5e2efd7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ecab52ac228acdab3d2ccebf",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "9eefced0c13b04f28a86ddbc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eb7ebf7f9f743ae6b9d7b5a4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "eb7ebf7f9f743ae6b9d7b5a4",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "56ea6affb52badedbb8affaa",
+          "index": 5,
+          "items": [
+            {
+              "_id": "c78b8a516fefa8c5a5aacbfe",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "c78b8a516fefa8c5a5aacbfe",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "f7b5b2afa9139dbed366cec6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "e98b7dabad1dcae1d82e3dab",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "e98b7dabad1dcae1d82e3dab",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "7aa9fbfc8ddc5c4accefeabc",
+          "index": 7,
+          "items": [
+            {
+              "_id": "be48b7ccd293d9f2e5546e8d",
+              "_tpl": "64b8f7b5389d7ffd620ccba2",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "be48b7ccd293d9f2e5546e8d",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "1bbddbf71a21f91ad5e2efd7 startedMessageText",
+    "successMessageText": "1bbddbf71a21f91ad5e2efd7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "f6b93bf9a1eacc2ccecf20db": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R FMJ Trade",
+    "_id": "f6b93bf9a1eacc2ccecf20db",
+    "acceptPlayerMessage": "f6b93bf9a1eacc2ccecf20db acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "f6b93bf9a1eacc2ccecf20db changeQuestMessageText",
+    "completePlayerMessage": "f6b93bf9a1eacc2ccecf20db completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4cd83a2750d57fbb45497519",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "d9cb1ef3ce9343446654e0b0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff0b8233ae7d9dc6684f2856",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d0af21bfa181f7daac2ea008",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e0aaa777571a9b8fb6d9bccc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "82f6dda8d5f7e7bcbeb5d0df",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1bbddbf71a21f91ad5e2efd7"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "f6b93bf9a1eacc2ccecf20db declinePlayerMessage",
+    "description": "f6b93bf9a1eacc2ccecf20db description",
+    "failMessageText": "f6b93bf9a1eacc2ccecf20db failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "f6b93bf9a1eacc2ccecf20db name",
+    "note": "f6b93bf9a1eacc2ccecf20db note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cbd6630a4a14df29a2edff88",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "fbed8df9e88ca8fd475b8dc2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "daf69fe3aacadc58e2a8d356",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "daf69fe3aacadc58e2a8d356",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "aa90afb97f399bf05cad66c1",
+          "index": 5,
+          "items": [
+            {
+              "_id": "67435affb34ccc45fb6634b2",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "67435affb34ccc45fb6634b2",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "aad3dcef57cfafdc5ac39ce7",
+          "index": 6,
+          "items": [
+            {
+              "_id": "def5ecae4f81af96c19f3d3c",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "def5ecae4f81af96c19f3d3c",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "bbd52dae1c752fcc9afacfcb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "e4ded52bfbe5b42c294f0ffe",
+              "_tpl": "64b8f7968532cf95ee0a0dbf",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e4ded52bfbe5b42c294f0ffe",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "f6b93bf9a1eacc2ccecf20db startedMessageText",
+    "successMessageText": "f6b93bf9a1eacc2ccecf20db successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "f6eba149d6dbbb286de23f45": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R T-46M gzh Trade",
+    "_id": "f6eba149d6dbbb286de23f45",
+    "acceptPlayerMessage": "f6eba149d6dbbb286de23f45 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "f6eba149d6dbbb286de23f45 changeQuestMessageText",
+    "completePlayerMessage": "f6eba149d6dbbb286de23f45 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "262dafbb73380ada0cd7e93d",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "c57f1eef643a66b736d1c970"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c8ff70b2833ceb51d3bff9f6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5eb7fbdb9bafdecd122999e2",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6ec78d3ca6dfdec19a8908fb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b5fb11e55a6e07bcf29e363a",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f6b93bf9a1eacc2ccecf20db"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "f6eba149d6dbbb286de23f45 declinePlayerMessage",
+    "description": "f6eba149d6dbbb286de23f45 description",
+    "failMessageText": "f6eba149d6dbbb286de23f45 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "f6eba149d6dbbb286de23f45 name",
+    "note": "f6eba149d6dbbb286de23f45 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "08f650615a1f5d237ed6b8db",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "e5747a987fdc7ddd2a9dadec",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7bacc39fee67a8d8f5fe1e8d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "7bacc39fee67a8d8f5fe1e8d",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "a4a9ca22d0c388aebadc4e0a",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6c78ac1b8bb2938ed4b3ccad",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "6c78ac1b8bb2938ed4b3ccad",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "b67cb5d4fe936ba64d2fa4a4",
+          "index": 6,
+          "items": [
+            {
+              "_id": "45effab8b1a46efaa8a137b8",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "45effab8b1a46efaa8a137b8",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "c7e70fdbb84cd014f52ebcfd",
+          "index": 7,
+          "items": [
+            {
+              "_id": "e1fc3c7e3e530cdc1fe9ad8f",
+              "_tpl": "5e023cf8186a883be655e54f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e1fc3c7e3e530cdc1fe9ad8f",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "f6eba149d6dbbb286de23f45 startedMessageText",
+    "successMessageText": "f6eba149d6dbbb286de23f45 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "5da0865b350f89ba2fe0ea48": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R LPS gzh Trade",
+    "_id": "5da0865b350f89ba2fe0ea48",
+    "acceptPlayerMessage": "5da0865b350f89ba2fe0ea48 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5da0865b350f89ba2fe0ea48 changeQuestMessageText",
+    "completePlayerMessage": "5da0865b350f89ba2fe0ea48 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c2b9223a79bdae2f8cf5add2",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "a67d9decdc8fe5b390d480be"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bf5eadfc3ee819c1c6fe8e68",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6de4cc42eef352178dac9ade",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b41d1a1de249e3d8a8ad0eb8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6abce7dd478f2e19a03e0fea",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f6eba149d6dbbb286de23f45"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5da0865b350f89ba2fe0ea48 declinePlayerMessage",
+    "description": "5da0865b350f89ba2fe0ea48 description",
+    "failMessageText": "5da0865b350f89ba2fe0ea48 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "5da0865b350f89ba2fe0ea48 name",
+    "note": "5da0865b350f89ba2fe0ea48 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f9d4e4d3f56a9db2896100fb",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "ee74f85a3606247ebcbada9f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bef81b1429fdbe70cde937df",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "bef81b1429fdbe70cde937df",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "e9cc3fcec36a05edd17ea4b7",
+          "index": 5,
+          "items": [
+            {
+              "_id": "2a4adbbe4fdc5ec25fca05ff",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "2a4adbbe4fdc5ec25fca05ff",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "c132f68ab1acc6318aaa8e6e",
+          "index": 6,
+          "items": [
+            {
+              "_id": "8bd70d305dc1dadb1a82bc19",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "8bd70d305dc1dadb1a82bc19",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "76f9fc9c8628fa14eb2cadc2",
+          "index": 7,
+          "items": [
+            {
+              "_id": "d76acd135e9606c5aa44ae60",
+              "_tpl": "5887431f2459777e1612938f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "d76acd135e9606c5aa44ae60",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5da0865b350f89ba2fe0ea48 startedMessageText",
+    "successMessageText": "5da0865b350f89ba2fe0ea48 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "83aeabe5ee6115edefaa41e2": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R SNB gzh Trade",
+    "_id": "83aeabe5ee6115edefaa41e2",
+    "acceptPlayerMessage": "83aeabe5ee6115edefaa41e2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "83aeabe5ee6115edefaa41e2 changeQuestMessageText",
+    "completePlayerMessage": "83aeabe5ee6115edefaa41e2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "eefb0a7f2b3b9e11cc25c7b3",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "1d6c1e3d3867cbde7fbe7e45"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ecb80cbff0c6cb5a5eabaeee",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "24e968b6acbf9ae4e4d1de58",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5a26d8d413acf2fceb8ebebe"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfaf9f3bc3e3a06cee5282c0",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5da0865b350f89ba2fe0ea48"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "83aeabe5ee6115edefaa41e2 declinePlayerMessage",
+    "description": "83aeabe5ee6115edefaa41e2 description",
+    "failMessageText": "83aeabe5ee6115edefaa41e2 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "83aeabe5ee6115edefaa41e2 name",
+    "note": "83aeabe5ee6115edefaa41e2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fa6a510648aae2e294ba0034",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "5cf6fdc550a6df78ca8fb177",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2dcbc1faeeaa11ca7f07a3f3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "2dcbc1faeeaa11ca7f07a3f3",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "dd80e00fd2e1e304297e3a54",
+          "index": 5,
+          "items": [
+            {
+              "_id": "1b24d451c10dafa2aa49f1e5",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "1b24d451c10dafa2aa49f1e5",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "2fbe1bb5b80bb8bda5abeba8",
+          "index": 6,
+          "items": [
+            {
+              "_id": "aae8882ec65c92aabf214d4a",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "aae8882ec65c92aabf214d4a",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "a3a1dd4a35b0b4d3e0d13588",
+          "index": 7,
+          "items": [
+            {
+              "_id": "8aa340a5caf5b3dc3bd6f1e0",
+              "_tpl": "560d61e84bdc2da74d8b4571",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "8aa340a5caf5b3dc3bd6f1e0",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "83aeabe5ee6115edefaa41e2 startedMessageText",
+    "successMessageText": "83aeabe5ee6115edefaa41e2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "a5db7838fd411139f584754d": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R PS gzh Trade",
+    "_id": "a5db7838fd411139f584754d",
+    "acceptPlayerMessage": "a5db7838fd411139f584754d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a5db7838fd411139f584754d changeQuestMessageText",
+    "completePlayerMessage": "a5db7838fd411139f584754d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "23e742dc928ddfeb7bff0b8e",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "bf7fc2bf3a74572cc534eb0b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1ee33b36ae445b912f3c70f2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4007ff309dda1dbae1652a0d",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4ffbbac55ad3c1b87005e275"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0abc8965e9d336279ec7ed2e",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "83aeabe5ee6115edefaa41e2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a5db7838fd411139f584754d declinePlayerMessage",
+    "description": "a5db7838fd411139f584754d description",
+    "failMessageText": "a5db7838fd411139f584754d failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a5db7838fd411139f584754d name",
+    "note": "a5db7838fd411139f584754d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6e950273c981ca4c44ffda4d",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "d065d0a63e8fcfbaee7cad04",
+          "index": 4,
+          "items": [
+            {
+              "_id": "63d543dbdb3befcd0dacdc4c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "63d543dbdb3befcd0dacdc4c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "41252fd77622afdcef90dd3a",
+          "index": 5,
+          "items": [
+            {
+              "_id": "adf1be6bdfc56c4381a4ecd0",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "adf1be6bdfc56c4381a4ecd0",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "a22f65bab64127d6ba9fde7d",
+          "index": 6,
+          "items": [
+            {
+              "_id": "bb7b7ffd55addff708d3c16d",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "bb7b7ffd55addff708d3c16d",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "692ed6dd4b268004eb41bbff",
+          "index": 7,
+          "items": [
+            {
+              "_id": "41fbbf09de967378d627f968",
+              "_tpl": "59e77a2386f7742ee578960a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "41fbbf09de967378d627f968",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a5db7838fd411139f584754d startedMessageText",
+    "successMessageText": "a5db7838fd411139f584754d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "d32ef6bff8e8a165f8c2ada9": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BT gzh Trade",
+    "_id": "d32ef6bff8e8a165f8c2ada9",
+    "acceptPlayerMessage": "d32ef6bff8e8a165f8c2ada9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d32ef6bff8e8a165f8c2ada9 changeQuestMessageText",
+    "completePlayerMessage": "d32ef6bff8e8a165f8c2ada9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2eef7ad84e97d509b4d4a2e4",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "8ad1babf4dda36b4ee4fe6a7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7c14ac6afac064eb48e09e90",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbd2d7978e8cf83dfd4eab71",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dde01da2a43ac9ddd59a1af2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbebadb4e2afd4dfd0bebadb",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a5db7838fd411139f584754d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d32ef6bff8e8a165f8c2ada9 declinePlayerMessage",
+    "description": "d32ef6bff8e8a165f8c2ada9 description",
+    "failMessageText": "d32ef6bff8e8a165f8c2ada9 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d32ef6bff8e8a165f8c2ada9 name",
+    "note": "d32ef6bff8e8a165f8c2ada9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a7402ce26ccfa8cf39dcbc90",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "efc71be9d206a8b74a83e50c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b8d8d1d7ef81c78d46cd4ddf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "b8d8d1d7ef81c78d46cd4ddf",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "c232d1c2db9a6252a394aefe",
+          "index": 5,
+          "items": [
+            {
+              "_id": "cafdfce9d0622853aadb5d99",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "cafdfce9d0622853aadb5d99",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "6ce920af6df54cbc7eb21ee2",
+          "index": 6,
+          "items": [
+            {
+              "_id": "8a3fe4fc6ad23e7eebe91180",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "8a3fe4fc6ad23e7eebe91180",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "ef7ebd58ab9fef40f7d51c4f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "be69cf6df3680ddbc8c0e39c",
+              "_tpl": "5e023d34e8a400319a28ed44",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "be69cf6df3680ddbc8c0e39c",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d32ef6bff8e8a165f8c2ada9 startedMessageText",
+    "successMessageText": "d32ef6bff8e8a165f8c2ada9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "b68e3f62538a29b76edd00cb": {
+    "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BS gs Trade",
+    "_id": "b68e3f62538a29b76edd00cb",
+    "acceptPlayerMessage": "b68e3f62538a29b76edd00cb acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b68e3f62538a29b76edd00cb changeQuestMessageText",
+    "completePlayerMessage": "b68e3f62538a29b76edd00cb completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7256fe8c7bd38b2ef39f378c",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5c46fbd72e2216398b5a8c9c",
+                  "55801eed4bdc2d89578b4588",
+                  "5bfd297f0db834001a669119",
+                  "5ae08f0a5acfc408fb1398a1",
+                  "6410733d5dd49d77bd07847e",
+                  "643ea5b23db6f9f57107d9fd",
+                  "61f7c9e189e6fb1a5e3ea78d",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc",
+                  "64637076203536ad5600c990",
+                  "64ca3d3954fc657e230529cc"
+                ]
+              }
+            ],
+            "id": "a175974cccaca0583fddbccb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1c429a79addec1d8cd35d1fb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b7484b48f6c67778b4daf01c",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0cd4aba563e056bed811f875"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a2b64bad6c5e8aab57edfae7",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d32ef6bff8e8a165f8c2ada9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b68e3f62538a29b76edd00cb declinePlayerMessage",
+    "description": "b68e3f62538a29b76edd00cb description",
+    "failMessageText": "b68e3f62538a29b76edd00cb failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b68e3f62538a29b76edd00cb name",
+    "note": "b68e3f62538a29b76edd00cb note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5a09e5224ceaeefff8fecae4",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "da3c6f29b76a1c9443c1f36d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "809ce4a0dffe3ba5e05b1f0c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "809ce4a0dffe3ba5e05b1f0c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "cf76fde8033ef888f6c97f30",
+          "index": 5,
+          "items": [
+            {
+              "_id": "50cec27cc7fb55b8d1fe9412",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "50cec27cc7fb55b8d1fe9412",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "f2df412a68f9eebcbdef3a8a",
+          "index": 6,
+          "items": [
+            {
+              "_id": "2fafb2f9eefecf8fadbf036e",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "2fafb2f9eefecf8fadbf036e",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "2bb97c6c2e119ae98a70fc3f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "ff067fabc0caf50c8d0dd1e1",
+              "_tpl": "5e023d48186a883be655e551",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ff067fabc0caf50c8d0dd1e1",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b68e3f62538a29b76edd00cb startedMessageText",
+    "successMessageText": "b68e3f62538a29b76edd00cb successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "bbbabedd3e2cfade8f9283db": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum UCW Barter",
+    "_id": "bbbabedd3e2cfade8f9283db",
+    "acceptPlayerMessage": "bbbabedd3e2cfade8f9283db acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bbbabedd3e2cfade8f9283db changeQuestMessageText",
+    "completePlayerMessage": "bbbabedd3e2cfade8f9283db completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4ed2fbbce12f99ca532b4aec",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5fc382c1016cce60e8341b20",
+            "5fc382b6d6fa9c00c571bbc3",
+            "5fc275cf85fd526b824a571a",
+            "5fc382a9d724d907e2077dab"
+          ],
+          "value": "90",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6ec0bd4e0dd7b6af6ca84ba6",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c2a70d1a5491c819aaea0d7d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3cd4ca29c250cafaa959a733",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fd1dcf0795b69b7e6c1ab01f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bbbabedd3e2cfade8f9283db declinePlayerMessage",
+    "description": "bbbabedd3e2cfade8f9283db description",
+    "failMessageText": "bbbabedd3e2cfade8f9283db failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bbbabedd3e2cfade8f9283db name",
+    "note": "bbbabedd3e2cfade8f9283db note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "83a6b101c570b80fda7cfcad",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "ee5dacfdcc179bfffe3feb20",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bfd1a454bf617df462eaeb7c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "bfd1a454bf617df462eaeb7c",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "f8e6bf41ee15c7409685b6df",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f98e330cfcc164a1acc718eb",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "f98e330cfcc164a1acc718eb",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "25a41bac4d8c8dfeffce61fc",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a47d4d87ba5c0f39fedbd6bf",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "a47d4d87ba5c0f39fedbd6bf",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "4ec5b6bb4eea3ebffad9edf9",
+          "index": 7,
+          "items": [
+            {
+              "_id": "d0da2cfbbb47e16fbcafc761",
+              "_tpl": "5fc382c1016cce60e8341b20",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "d0da2cfbbb47e16fbcafc761",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bbbabedd3e2cfade8f9283db startedMessageText",
+    "successMessageText": "bbbabedd3e2cfade8f9283db successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "bc0ace79681ce3c6bf4eefaf": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum TAC-X Barter",
+    "_id": "bc0ace79681ce3c6bf4eefaf",
+    "acceptPlayerMessage": "bc0ace79681ce3c6bf4eefaf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bc0ace79681ce3c6bf4eefaf changeQuestMessageText",
+    "completePlayerMessage": "bc0ace79681ce3c6bf4eefaf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e474abcae618cf20ceba9a0c",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5fc382b6d6fa9c00c571bbc3",
+            "5fc275cf85fd526b824a571a",
+            "5fc382a9d724d907e2077dab"
+          ],
+          "value": "180",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c0fecbc9eab1fcc59beb4232",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bbbabedd3e2cfade8f9283db"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bc0ace79681ce3c6bf4eefaf declinePlayerMessage",
+    "description": "bc0ace79681ce3c6bf4eefaf description",
+    "failMessageText": "bc0ace79681ce3c6bf4eefaf failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bc0ace79681ce3c6bf4eefaf name",
+    "note": "bc0ace79681ce3c6bf4eefaf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bfe4b91812b75c1e20855c3c",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "8fdcf3a1e3ce8ddb06cecddc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dfe2d47cb82c28992ffd3e56",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "dfe2d47cb82c28992ffd3e56",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "108a0ad5e62e0bd41cdf5585",
+          "index": 5,
+          "items": [
+            {
+              "_id": "b050789adfeb4f174ff04ac9",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "b050789adfeb4f174ff04ac9",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "3a6f573eab2d88fc593acbef",
+          "index": 6,
+          "items": [
+            {
+              "_id": "505db4ede7dbbfa8d94384d7",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "505db4ede7dbbfa8d94384d7",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "f9ec4acd6adee61786100edb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "1eb98bc6bd7fa14adeaae79b",
+              "_tpl": "5fc382b6d6fa9c00c571bbc3",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "1eb98bc6bd7fa14adeaae79b",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bc0ace79681ce3c6bf4eefaf startedMessageText",
+    "successMessageText": "bc0ace79681ce3c6bf4eefaf successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "9842a1c1eca789186b4ad987": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum FMJ Barter",
+    "_id": "9842a1c1eca789186b4ad987",
+    "acceptPlayerMessage": "9842a1c1eca789186b4ad987 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9842a1c1eca789186b4ad987 changeQuestMessageText",
+    "completePlayerMessage": "9842a1c1eca789186b4ad987 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4e5eb2a1a679a5a3ccaacba3",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5fc275cf85fd526b824a571a",
+            "5fc382a9d724d907e2077dab"
+          ],
+          "value": "270",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b34ecb1fa9fa8be29daf1b3e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc0ace79681ce3c6bf4eefaf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9842a1c1eca789186b4ad987 declinePlayerMessage",
+    "description": "9842a1c1eca789186b4ad987 description",
+    "failMessageText": "9842a1c1eca789186b4ad987 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "9842a1c1eca789186b4ad987 name",
+    "note": "9842a1c1eca789186b4ad987 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "116edbd4db5ace3d46ccc4c9",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "3ee1d7dcd7ba5b2379d2aa5f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ff497e21e8c0c2aa00912bf2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "ff497e21e8c0c2aa00912bf2",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "5f1a14fa80cc98e5c9cc5925",
+          "index": 5,
+          "items": [
+            {
+              "_id": "e4cd8421224ac0710eabdb22",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "e4cd8421224ac0710eabdb22",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "cb134c2ebbc102ceafcca205",
+          "index": 6,
+          "items": [
+            {
+              "_id": "edbb1fd4e87b946384df3bdb",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "edbb1fd4e87b946384df3bdb",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "2ffbbebb523441fb39b9be8b",
+          "index": 7,
+          "items": [
+            {
+              "_id": "2a3def3e8473ea8ad3d7ee9a",
+              "_tpl": "5fc275cf85fd526b824a571a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "2a3def3e8473ea8ad3d7ee9a",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9842a1c1eca789186b4ad987 startedMessageText",
+    "successMessageText": "9842a1c1eca789186b4ad987 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "63ff0cdb809e49b7830eff5d": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum AP Barter",
+    "_id": "63ff0cdb809e49b7830eff5d",
+    "acceptPlayerMessage": "63ff0cdb809e49b7830eff5d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "63ff0cdb809e49b7830eff5d changeQuestMessageText",
+    "completePlayerMessage": "63ff0cdb809e49b7830eff5d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6aaace71e5e61dfc2f29eba4",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5fc382a9d724d907e2077dab"
+          ],
+          "value": "360",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3bab587dbcd8ccc57fa60bcc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9842a1c1eca789186b4ad987"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "63ff0cdb809e49b7830eff5d declinePlayerMessage",
+    "description": "63ff0cdb809e49b7830eff5d description",
+    "failMessageText": "63ff0cdb809e49b7830eff5d failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "63ff0cdb809e49b7830eff5d name",
+    "note": "63ff0cdb809e49b7830eff5d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b7e6ffecd2bfed3aabe4b5ed",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "6188a6aaf0aa2adbda4eafdd",
+          "index": 4,
+          "items": [
+            {
+              "_id": "67c83bd5e3acf814720f9187",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "67c83bd5e3acf814720f9187",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "188886be7baf24ae50fd7d51",
+          "index": 5,
+          "items": [
+            {
+              "_id": "3cafcee0794dc51cfc43cdda",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "3cafcee0794dc51cfc43cdda",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "384cc1e7416d827a6f0d3ac2",
+          "index": 6,
+          "items": [
+            {
+              "_id": "dbfe06bdcbc6fec6f5b1fdbd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "dbfe06bdcbc6fec6f5b1fdbd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "6aa7ae9cd4bcfa9d9bdbd34d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "0fe7e0e2c768a24dfbdf4bbb",
+              "_tpl": "5fc382a9d724d907e2077dab",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "0fe7e0e2c768a24dfbdf4bbb",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "63ff0cdb809e49b7830eff5d startedMessageText",
+    "successMessageText": "63ff0cdb809e49b7830eff5d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "PickUp"
+  },
+  "5803acf5ad671dded9bcdde8": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum UCW Trade",
+    "_id": "5803acf5ad671dded9bcdde8",
+    "acceptPlayerMessage": "5803acf5ad671dded9bcdde8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5803acf5ad671dded9bcdde8 changeQuestMessageText",
+    "completePlayerMessage": "5803acf5ad671dded9bcdde8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1fe9a687cf68b564f4bc4ebd",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5fc22d7c187fea44d52eda44",
+                  "627e14b21713922ded6f2c15"
+                ]
+              }
+            ],
+            "id": "59cff15ebfc3a1203b38dc48"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc9cac60fc11f05abeb5fbfa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "6",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "85d54cfc58febac99eef2bec",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bbbabedd3e2cfade8f9283db"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5803acf5ad671dded9bcdde8 declinePlayerMessage",
+    "description": "5803acf5ad671dded9bcdde8 description",
+    "failMessageText": "5803acf5ad671dded9bcdde8 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "5803acf5ad671dded9bcdde8 name",
+    "note": "5803acf5ad671dded9bcdde8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "171acc94efbdfcaebb42a89b",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "0befdd4f0bbd7e53ab4d6bf3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "9e932fedf09ec57e2e0d28e1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "9e932fedf09ec57e2e0d28e1",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "de4bbd8c4d6ac1d6ac191bde",
+          "index": 5,
+          "items": [
+            {
+              "_id": "be2be4aca1a192d1aefaab37",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "be2be4aca1a192d1aefaab37",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "1ca1cbf5eb6caefd56bb4d33",
+          "index": 6,
+          "items": [
+            {
+              "_id": "882ebf7be214a0b83c9eb1bd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "882ebf7be214a0b83c9eb1bd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "a144ce2c1ecfb5527a1cd8ff",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fbaccb9eae1be092833ec45d",
+              "_tpl": "5fc382c1016cce60e8341b20",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "fbaccb9eae1be092833ec45d",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5803acf5ad671dded9bcdde8 startedMessageText",
+    "successMessageText": "5803acf5ad671dded9bcdde8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "dbe56ba6fddeaeaef2018123": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum TAC-X Trade",
+    "_id": "dbe56ba6fddeaeaef2018123",
+    "acceptPlayerMessage": "dbe56ba6fddeaeaef2018123 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dbe56ba6fddeaeaef2018123 changeQuestMessageText",
+    "completePlayerMessage": "dbe56ba6fddeaeaef2018123 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3bbaa12976ea3eefba7f2fee",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5fc22d7c187fea44d52eda44",
+                  "627e14b21713922ded6f2c15"
+                ]
+              }
+            ],
+            "id": "7ef0ccb7b0881df6cf3d8b1e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "58ad0573f3a7f7feebfece29",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "6",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "190dcfdfc21b19a1c84abf2a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc0ace79681ce3c6bf4eefaf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d046d8bdadbc24b8a9f6ea9f",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5803acf5ad671dded9bcdde8"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dbe56ba6fddeaeaef2018123 declinePlayerMessage",
+    "description": "dbe56ba6fddeaeaef2018123 description",
+    "failMessageText": "dbe56ba6fddeaeaef2018123 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dbe56ba6fddeaeaef2018123 name",
+    "note": "dbe56ba6fddeaeaef2018123 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cc9e12fb5ca73d807bba8d8e",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "ac621c1fac9cc59836ec0ff4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "cea6fadbd8d2ab17f1d3b616",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "cea6fadbd8d2ab17f1d3b616",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "dd65dd8da7ccb0a2066a3ce5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "7ddd7aced031798edcae28cd",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "7ddd7aced031798edcae28cd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "8e30e416da7be83cd4ec1e8a",
+          "index": 6,
+          "items": [
+            {
+              "_id": "ebe93ce0cadab8f0a53811dd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "ebe93ce0cadab8f0a53811dd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "1f13c3fced2da4fe6fa54fa9",
+          "index": 7,
+          "items": [
+            {
+              "_id": "adda4698b69d08ccecab2468",
+              "_tpl": "5fc382b6d6fa9c00c571bbc3",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "adda4698b69d08ccecab2468",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dbe56ba6fddeaeaef2018123 startedMessageText",
+    "successMessageText": "dbe56ba6fddeaeaef2018123 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "2ea63bee408bd65cbcb9ce83": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum FMJ Trade",
+    "_id": "2ea63bee408bd65cbcb9ce83",
+    "acceptPlayerMessage": "2ea63bee408bd65cbcb9ce83 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2ea63bee408bd65cbcb9ce83 changeQuestMessageText",
+    "completePlayerMessage": "2ea63bee408bd65cbcb9ce83 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ada4bd9f3bcf9bdc8bd251ef",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5fc22d7c187fea44d52eda44",
+                  "627e14b21713922ded6f2c15"
+                ]
+              }
+            ],
+            "id": "faccdd068bb2cceec1add8f7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ce78efd56297da85e9d2a67b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "6",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbdcfa0bfb8f7f835db90936",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9842a1c1eca789186b4ad987"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "da2f0be004e657d2fa3c7d73",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dbe56ba6fddeaeaef2018123"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2ea63bee408bd65cbcb9ce83 declinePlayerMessage",
+    "description": "2ea63bee408bd65cbcb9ce83 description",
+    "failMessageText": "2ea63bee408bd65cbcb9ce83 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "2ea63bee408bd65cbcb9ce83 name",
+    "note": "2ea63bee408bd65cbcb9ce83 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "54bcae48bcb3b8d28aa8d4c5",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "4caee35071ddd0dc1a16264b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a70fff2c6d5eaf07a7bec235",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "a70fff2c6d5eaf07a7bec235",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "7a13d374dd541babf35af45b",
+          "index": 5,
+          "items": [
+            {
+              "_id": "daf46afa8b5dda2ddb3ed7cb",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "daf46afa8b5dda2ddb3ed7cb",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "25ddb71faa522acc8d6820c2",
+          "index": 6,
+          "items": [
+            {
+              "_id": "54eaf1315dc87508aa9ed9cd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "54eaf1315dc87508aa9ed9cd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "cbd90d99ee40a55afcbba8ce",
+          "index": 7,
+          "items": [
+            {
+              "_id": "bfcb182d41414b1af00c5aa4",
+              "_tpl": "5fc275cf85fd526b824a571a",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "bfcb182d41414b1af00c5aa4",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2ea63bee408bd65cbcb9ce83 startedMessageText",
+    "successMessageText": "2ea63bee408bd65cbcb9ce83 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  },
+  "ba2e483afe5d6cd72cf3661b": {
+    "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum AP Trade",
+    "_id": "ba2e483afe5d6cd72cf3661b",
+    "acceptPlayerMessage": "ba2e483afe5d6cd72cf3661b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ba2e483afe5d6cd72cf3661b changeQuestMessageText",
+    "completePlayerMessage": "ba2e483afe5d6cd72cf3661b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "15b9dff89fcc06ae732b60ac",
+                "target": "AnyPmc",
+                "value": "1",
+                "weapon": [
+                  "5fc22d7c187fea44d52eda44",
+                  "627e14b21713922ded6f2c15"
+                ]
+              }
+            ],
+            "id": "c6ba98afc7cd24fdd7fcbbba"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "55fb435b7de6c7a90ea8cadf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "6",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "99db3e0794124c6ced0c4bf9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "63ff0cdb809e49b7830eff5d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fcce2ef502dff2e05a7f69c5",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2ea63bee408bd65cbcb9ce83"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ba2e483afe5d6cd72cf3661b declinePlayerMessage",
+    "description": "ba2e483afe5d6cd72cf3661b description",
+    "failMessageText": "ba2e483afe5d6cd72cf3661b failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ba2e483afe5d6cd72cf3661b name",
+    "note": "ba2e483afe5d6cd72cf3661b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b2b38c02ba21edfacdd6f7ee",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "cecb273eb93de02c2f31e443",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2dc69d05cbbd2b5189f57afe",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "2dc69d05cbbd2b5189f57afe",
+          "type": "Item",
+          "value": "15000"
+        },
+        {
+          "id": "c64ca909f72e560a96c5f3a0",
+          "index": 5,
+          "items": [
+            {
+              "_id": "5dc4a65f13bc4b04c50fdfba",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "5dc4a65f13bc4b04c50fdfba",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "f6d816b15f506edd1aadd7ed",
+          "index": 6,
+          "items": [
+            {
+              "_id": "0fc33179efeeca8ea6ed6bbe",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "0fc33179efeeca8ea6ed6bbe",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "accff3a4be0dbbdab9f6bbda",
+          "index": 7,
+          "items": [
+            {
+              "_id": "66ffc62dc5bdad9cf3fc9e78",
+              "_tpl": "5fc382a9d724d907e2077dab",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "66ffc62dc5bdad9cf3fc9e78",
+          "traderId": "6765fbd20fdc7eb79b00000b",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ba2e483afe5d6cd72cf3661b startedMessageText",
+    "successMessageText": "ba2e483afe5d6cd72cf3661b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000b",
+    "type": "Elimination"
+  }
+}

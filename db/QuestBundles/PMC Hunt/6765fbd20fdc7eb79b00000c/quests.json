@@ -1,0 +1,1691 @@
+{
+  "a52f0b1d8f9cecbafe82f561": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 1 PMC(s)",
+    "_id": "a52f0b1d8f9cecbafe82f561",
+    "acceptPlayerMessage": "a52f0b1d8f9cecbafe82f561 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a52f0b1d8f9cecbafe82f561 changeQuestMessageText",
+    "completePlayerMessage": "a52f0b1d8f9cecbafe82f561 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b93d02aca2667d6ffaf6f70f",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "823c58ba258fc3a0b2c1cc16",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "cdaadcabefa0cfafd703ede4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6ceca80b482a7b2dc2f4eddb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a52f0b1d8f9cecbafe82f561 declinePlayerMessage",
+    "description": "a52f0b1d8f9cecbafe82f561 description",
+    "failMessageText": "a52f0b1d8f9cecbafe82f561 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "a52f0b1d8f9cecbafe82f561 name",
+    "note": "a52f0b1d8f9cecbafe82f561 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cfa4cd4bdcddd92bbfbf7dd3",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "1aecaefab9acbc347c43415e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dabe36feaf72d3f37d331dad",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "dabe36feaf72d3f37d331dad",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a52f0b1d8f9cecbafe82f561 startedMessageText",
+    "successMessageText": "a52f0b1d8f9cecbafe82f561 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "5dfafc52b7d6a2bdfcd3bf20": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 5 PMC(s)",
+    "_id": "5dfafc52b7d6a2bdfcd3bf20",
+    "acceptPlayerMessage": "5dfafc52b7d6a2bdfcd3bf20 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5dfafc52b7d6a2bdfcd3bf20 changeQuestMessageText",
+    "completePlayerMessage": "5dfafc52b7d6a2bdfcd3bf20 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "02dfc33a107a90ac888b9d7c",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "dee86fbe8bbb115fe830aa18",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "c9554ebb0c2edfe7d2b28cae"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "75ebb6f5a0b2dc254b62fce6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7f0fc64cbdd4c20fa64554f6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a52f0b1d8f9cecbafe82f561"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5dfafc52b7d6a2bdfcd3bf20 declinePlayerMessage",
+    "description": "5dfafc52b7d6a2bdfcd3bf20 description",
+    "failMessageText": "5dfafc52b7d6a2bdfcd3bf20 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "5dfafc52b7d6a2bdfcd3bf20 name",
+    "note": "5dfafc52b7d6a2bdfcd3bf20 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cda0ed40bedf66d0f4cffbfa",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "6262a5f4f4c0b0ab6f7fd4fb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "16db57f77e10de134e59beaf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "16db57f77e10de134e59beaf",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5dfafc52b7d6a2bdfcd3bf20 startedMessageText",
+    "successMessageText": "5dfafc52b7d6a2bdfcd3bf20 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "e9faf211bbeebdab0b6d7eb3": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 10 PMC(s)",
+    "_id": "e9faf211bbeebdab0b6d7eb3",
+    "acceptPlayerMessage": "e9faf211bbeebdab0b6d7eb3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e9faf211bbeebdab0b6d7eb3 changeQuestMessageText",
+    "completePlayerMessage": "e9faf211bbeebdab0b6d7eb3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2e9ededd0fefb2c582fde81c",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "b87c6c65a3baa3fec497fad9",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "4a5c7afc05af75f9b3de7e4a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f3f837b5ca49ee192ce19301",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b1f9dcdbbc77fdd66a2facd1",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad85c519545ef72caa52f79b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fbeaf407e6651944dcf2af3a",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7b8229ce6bb6aecb83d9bd4d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd1d8cdeeadb23b976dee34b",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a52f0b1d8f9cecbafe82f561"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "29fc3ebc8cf4b3b2fda4f182",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2e821b3ca8652cb3c3b3cdd5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "454b4cb01cbb21ba9dbb68ff",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "edc48d46abc50a41ff92f0b8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2e6a7a43ef2eb1becd6edc3f",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea1ceda79bece3bb43d77455"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e4adadfeed4777adf4ffd21e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8fb3abcb1fcb95aa6716caba"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "da3cd69fe8229eb76da8fdfd",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "797ee7327ecfc5e6bb1e5ef0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e9faf211bbeebdab0b6d7eb3 declinePlayerMessage",
+    "description": "e9faf211bbeebdab0b6d7eb3 description",
+    "failMessageText": "e9faf211bbeebdab0b6d7eb3 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "e9faf211bbeebdab0b6d7eb3 name",
+    "note": "e9faf211bbeebdab0b6d7eb3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c67cf9bdeca53b62ab11ba3a",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "58ed92a4a44e218cbe4ca876",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b872ca4f798bed1dadfcbded",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "b872ca4f798bed1dadfcbded",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e9faf211bbeebdab0b6d7eb3 startedMessageText",
+    "successMessageText": "e9faf211bbeebdab0b6d7eb3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "be1cc7e62a8a9badece0ab51": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 20 PMC(s)",
+    "_id": "be1cc7e62a8a9badece0ab51",
+    "acceptPlayerMessage": "be1cc7e62a8a9badece0ab51 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "be1cc7e62a8a9badece0ab51 changeQuestMessageText",
+    "completePlayerMessage": "be1cc7e62a8a9badece0ab51 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dcc98ffbddf4f5fec3ca37d0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "1a73fd9c7b61f7ebb81d03d8",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "efe50ec2cfe1d0bdd2d27aa5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "91ba0e83ab3ed965eb7d41da",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "32b3b9f5cc93cbc65c03168a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cdc2c391ebcdea8f33c42cd7"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "60dce6ec8aa1d8ba548f8ca3",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fd9a915b3dfbedbcc888dcbb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d827e5391c807d9937f5b4ab",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5dfafc52b7d6a2bdfcd3bf20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eddf3f3fefc87cd6df27aa8f",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eed6e7ccc90d8ccddf51a7f2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "482e5bbda53da9a8ade1ac97",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "362e08d683eb9ad7e0dd445f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cdbe16e51c61ba876bca8c27",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a7aab5396572ab1de7dfb93a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e15cccb8bcc5c5593e2eb6ac",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "691896ccab6635835b2e1591"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "38c2fd1aef76d64efdb01f9e",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d2f54bc54be8b67c18cde464"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "be1cc7e62a8a9badece0ab51 declinePlayerMessage",
+    "description": "be1cc7e62a8a9badece0ab51 description",
+    "failMessageText": "be1cc7e62a8a9badece0ab51 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "be1cc7e62a8a9badece0ab51 name",
+    "note": "be1cc7e62a8a9badece0ab51 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6566f1e417e3ebccce2a4575",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "ed9ff19baadadadbacabcbea",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fcdcfcbd99ef7b7ed6ae2dc6",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "fcdcfcbd99ef7b7ed6ae2dc6",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "be1cc7e62a8a9badece0ab51 startedMessageText",
+    "successMessageText": "be1cc7e62a8a9badece0ab51 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "ebeabeae5745effbcdf53182": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 35 PMC(s)",
+    "_id": "ebeabeae5745effbcdf53182",
+    "acceptPlayerMessage": "ebeabeae5745effbcdf53182 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ebeabeae5745effbcdf53182 changeQuestMessageText",
+    "completePlayerMessage": "ebeabeae5745effbcdf53182 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3cd2d61f0f1cb2ee8fc7778d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "3ccd560c5ee88de150ea22b8",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "8e5ba5f71d32736dac809e5d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0eb600dc28a751ffacfebebe",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a3d1bfd9fecc4b1db5fc7cde",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb089fc6fdb8a36f7bdb83dc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ec75a7ac09efacdbcad5a60f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "60ac9bea8cfbc998543e4963"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d24a140b2ab196718cd3236c",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e9faf211bbeebdab0b6d7eb3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4d399ca445a5ccd9bda02f1a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d9ce2560fef0bbc1fa7c462c"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb04ee6ef7bd1bb8a0bc17eb",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acbfdeda3c4a8c2a66ff1f9b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "acf0a4f8aafc586e0ef4feda",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dcd0dff2bbcc1cadf59adb7a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1b87a08099e9ab6e132ebfd6",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "40d3f3ae9a5d66230dd521e7"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "21371d5a2d1b0f217e194cea",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "185ebcba4df6d6f8fe7eb6e9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ebeabeae5745effbcdf53182 declinePlayerMessage",
+    "description": "ebeabeae5745effbcdf53182 description",
+    "failMessageText": "ebeabeae5745effbcdf53182 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "ebeabeae5745effbcdf53182 name",
+    "note": "ebeabeae5745effbcdf53182 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cd5a07c340b066bc5b336aad",
+          "index": 3,
+          "type": "Experience",
+          "value": "7000"
+        },
+        {
+          "id": "b98ae97a4bb653627e9ed8d9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "537843b3990fdee50eaf72d2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 105000
+              }
+            }
+          ],
+          "target": "537843b3990fdee50eaf72d2",
+          "type": "Item",
+          "value": "105000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ebeabeae5745effbcdf53182 startedMessageText",
+    "successMessageText": "ebeabeae5745effbcdf53182 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "9a3d44ed7d635c63a4a2a8c8": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 50 PMC(s)",
+    "_id": "9a3d44ed7d635c63a4a2a8c8",
+    "acceptPlayerMessage": "9a3d44ed7d635c63a4a2a8c8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9a3d44ed7d635c63a4a2a8c8 changeQuestMessageText",
+    "completePlayerMessage": "9a3d44ed7d635c63a4a2a8c8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d67a7d3eba4186ccf78d9055",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ba1f8a32ded8ea34f0e169c3",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "ef161a48e4a3bbece3934ede"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2a8dabd5461a4ec0eeb22590",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed3af03aadd6b727adf45fde",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6cbd4d58eb7afccfd6659a45"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f9dc54e806a9fc8aea889bfc",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b8c6012f80e354b2f1db01da"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "80aaefb8e21f12bfb49e5ad2",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "be1cc7e62a8a9badece0ab51"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b32fafbacc3bb6b72abe9317",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "829a9cc1ce843b09bd2ab212"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dd63dfb0aa0bfab35f3f8c5f",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0dda2bb1269d6ff7f6deceea"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a5fdfecacaafe2fa9be7b97f",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0d4da1b05ac556263e9fb754"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dd3f045bf85fdcdbec5c65fe",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e4ecd32e4816aff0a7a6dbde"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0e96d5ceaaabf25cfa985c34",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "58c5fc9dbfeb0a8e1a9fb95f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9a3d44ed7d635c63a4a2a8c8 declinePlayerMessage",
+    "description": "9a3d44ed7d635c63a4a2a8c8 description",
+    "failMessageText": "9a3d44ed7d635c63a4a2a8c8 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "9a3d44ed7d635c63a4a2a8c8 name",
+    "note": "9a3d44ed7d635c63a4a2a8c8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fcdcbc8e9d59bbbbaaaa016d",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "41cfe9d4a67fd04fdd563f0e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "9b6b3d240d9d1f19ee57df17",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "9b6b3d240d9d1f19ee57df17",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9a3d44ed7d635c63a4a2a8c8 startedMessageText",
+    "successMessageText": "9a3d44ed7d635c63a4a2a8c8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "dd1b9a2e08a04f2a3f4ab4d6": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 75 PMC(s)",
+    "_id": "dd1b9a2e08a04f2a3f4ab4d6",
+    "acceptPlayerMessage": "dd1b9a2e08a04f2a3f4ab4d6 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dd1b9a2e08a04f2a3f4ab4d6 changeQuestMessageText",
+    "completePlayerMessage": "dd1b9a2e08a04f2a3f4ab4d6 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e0b82d10e35ab219e5bd1eab",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ebf3f39afdf6d3c2dc4ae43c",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "c2fcbf4ba71a292eedb4be3f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed9aad637fe32cb85ed7bdd6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffea43ffebc318ccd1b7e85a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1c7fad6e246c7c56c136f9fb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b11cedaef85dfe6cf4e2c73f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4eff5c50ccc79cd5b3bfb5ce"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a0addbdee3dad398c6e12a48",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ebeabeae5745effbcdf53182"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b7b3bd1d8f6d8ecdea335eeb",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dfdafad3ae4bc2c790d0bad8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d4cbd657dcaa9eed4dd5f83a",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eba06d93e66d3ad6c47de3eb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ecb41eae82cecebbeaecf4dd",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "db7bdfbfd949e6c5d3ab1ea0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b2dc4cd1fc27cc49a67da30c",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "238cbce1d351007751bb6dbb"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ae1a2480ca82fcc978caffc7",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d8d3bbf5efab1d390e0d7bcd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dd1b9a2e08a04f2a3f4ab4d6 declinePlayerMessage",
+    "description": "dd1b9a2e08a04f2a3f4ab4d6 description",
+    "failMessageText": "dd1b9a2e08a04f2a3f4ab4d6 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "dd1b9a2e08a04f2a3f4ab4d6 name",
+    "note": "dd1b9a2e08a04f2a3f4ab4d6 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1f0dcdb8fbdb7f2edbdf3fe5",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "be8540847dbf1ae826afeff2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e4f12cae6a3eacceb42b6ee4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "e4f12cae6a3eacceb42b6ee4",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dd1b9a2e08a04f2a3f4ab4d6 startedMessageText",
+    "successMessageText": "dd1b9a2e08a04f2a3f4ab4d6 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "bb7c143e6eda6b1c9dbaf936": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 100 PMC(s)",
+    "_id": "bb7c143e6eda6b1c9dbaf936",
+    "acceptPlayerMessage": "bb7c143e6eda6b1c9dbaf936 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bb7c143e6eda6b1c9dbaf936 changeQuestMessageText",
+    "completePlayerMessage": "bb7c143e6eda6b1c9dbaf936 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d3adbfffa5a7bdeb1de71dfb",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0fbeeeea04f640e745f62fe4",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "b1a6056aeaedbfea5cf88fee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7e6f5e7ae10fa1fdcce0d4bc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6a05a10348b7d40032c7e46",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cf8442ad4089da991be8fd36"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6debf1e69a85eae2c12ed0f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "79ba7ef04cc5b02c194f65fc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5b2eacdbbebac47adacdaf91",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9a3d44ed7d635c63a4a2a8c8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "18a80ff6fffcd57f47b7e4bd",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e8077de525199ebe10a6c9e0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bf0b5cd2a7f39ff7e9c03dac",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2e2bb8d4a07b44d4c4bf3727"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9abbd3f6b98d56c9a9fcaffc",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "31afffcfaefeadffdaeeef9d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "edad1bca3f8dbfda6b17de7f",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f6c8d00ed2ba6ebdf9cac111"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b2b12560346e3cafd0fca39f",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3baccacb4ab55de8a52ed697"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bb7c143e6eda6b1c9dbaf936 declinePlayerMessage",
+    "description": "bb7c143e6eda6b1c9dbaf936 description",
+    "failMessageText": "bb7c143e6eda6b1c9dbaf936 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "bb7c143e6eda6b1c9dbaf936 name",
+    "note": "bb7c143e6eda6b1c9dbaf936 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ebe53c8bef8a2e6bb5df6f6f",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "8c0eb83debba5d4293dcf8eb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e8efc2dbfaca424fccb2c235",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "e8efc2dbfaca424fccb2c235",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bb7c143e6eda6b1c9dbaf936 startedMessageText",
+    "successMessageText": "bb7c143e6eda6b1c9dbaf936 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "9aebeffd8567f6f17aa7e308": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 250 PMC(s)",
+    "_id": "9aebeffd8567f6f17aa7e308",
+    "acceptPlayerMessage": "9aebeffd8567f6f17aa7e308 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9aebeffd8567f6f17aa7e308 changeQuestMessageText",
+    "completePlayerMessage": "9aebeffd8567f6f17aa7e308 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bcdfddf6d38c3c9c8fc5028d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "b611debcde0dfa3cddd36dcf",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "53d4fba7ad242bccfe6eb9f7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed28f376cd74c4d42abaef24",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "250",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9c3d9fe0550ec7cdd1e75ed8",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b7e8ea0f65b7aadc7dfde0ea"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b9bb2dbefdb84ec8e4ec2caf",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb488c029fca6c0ad07e8cc7"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ab0fe5be7cff4ae53dea682",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dd1b9a2e08a04f2a3f4ab4d6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8c4c257ebb1f0fccfcfa7fd4",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8d3f5b0dda7659bf4cac5a5b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "913637e6df406a8f3b8d189d",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "07e83de2a91c5cce9fcc3c7f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7dfaeb03bf17e753bb4feba9",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba33f4e8dcc5c65e2f586dcd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "986aefecfa6fcadbf8ec15a5",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c4dd2cffb07ad1f78ae3ac60"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "63a3c6fd2edf0137c3c398eb",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c38d1146c0329c126dbb2fa0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9aebeffd8567f6f17aa7e308 declinePlayerMessage",
+    "description": "9aebeffd8567f6f17aa7e308 description",
+    "failMessageText": "9aebeffd8567f6f17aa7e308 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "9aebeffd8567f6f17aa7e308 name",
+    "note": "9aebeffd8567f6f17aa7e308 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fbb381df7685fbd88cd57b69",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "69d921b8cd6cc6d54bccde0f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "e3be2da4e3ee79c2cf5ba3c8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "e3be2da4e3ee79c2cf5ba3c8",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9aebeffd8567f6f17aa7e308 startedMessageText",
+    "successMessageText": "9aebeffd8567f6f17aa7e308 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  },
+  "abb8fc07a1ddd9ca386ed3ef": {
+    "QuestName": "[Col] PMC Hunt: Clear Reserve base from 500 PMC(s)",
+    "_id": "abb8fc07a1ddd9ca386ed3ef",
+    "acceptPlayerMessage": "abb8fc07a1ddd9ca386ed3ef acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "abb8fc07a1ddd9ca386ed3ef changeQuestMessageText",
+    "completePlayerMessage": "abb8fc07a1ddd9ca386ed3ef completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "abdc1e452cc5f51ef0d693d0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "74fbff73e79af9b6eddabfbf",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "3e0aec1a2c3da5aceb4aefec"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "50aeeca0cebc7eaa50eda8fd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5bc38e2b8c2b9e2f1b29c4df",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2c55ad32c8ca050f49b13b2f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "213adc21a2db1af8a645bddb",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1cee000faddc437ecb14d758"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "47d825dfcab883f009d3df7b",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb7c143e6eda6b1c9dbaf936"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd2add5efff36ddfb0a5fa89",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1eea8b20cceabe726f3611dd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ea61cbd8db6ed47adaee0ba",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a577e3af9e482a767bfac7c5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bc3e4b8fd5f0ec661a69510b",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fefa5c9a7dbbb6842edd1f72"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d1a1a4b7ad4a6fb210bb5ebd",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d89e0690acf170ad63eba0ee"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f184cafd21e6afcc26fdf7b0",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c1ff0ee7f3499ad38f3ebd23"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "abb8fc07a1ddd9ca386ed3ef declinePlayerMessage",
+    "description": "abb8fc07a1ddd9ca386ed3ef description",
+    "failMessageText": "abb8fc07a1ddd9ca386ed3ef failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "abb8fc07a1ddd9ca386ed3ef name",
+    "note": "abb8fc07a1ddd9ca386ed3ef note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e0b5eccefcbad1fde88ae87b",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "2dfbc1a8c20ce0ac0270376c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "9eca2d3ca0b8d51503d0bce0",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "9eca2d3ca0b8d51503d0bce0",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "abb8fc07a1ddd9ca386ed3ef startedMessageText",
+    "successMessageText": "abb8fc07a1ddd9ca386ed3ef successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000c",
+    "type": "Elimination"
+  }
+}

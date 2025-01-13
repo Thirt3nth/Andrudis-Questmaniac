@@ -1,0 +1,14 @@
+{
+    "1db42bc17ae1d88cdace4473 name": "[Jgr] キーの習熟度:Woods 鍵屋",
+    "1db42bc17ae1d88cdace4473 note": "",
+    "1db42bc17ae1d88cdace4473 description": "キーのコンテナが必要ですか？まだキーがない場合は何が必要ですか？ 'Em All!を検索する必要があります!",
+    "1db42bc17ae1d88cdace4473 startedMessageText": "[Jgr] クエストが承認されました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "1db42bc17ae1d88cdace4473 failMessageText": "[Jgr] クエストに失敗しました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "1db42bc17ae1d88cdace4473 successMessageText": "[Jgr] クエストが完了しました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "1db42bc17ae1d88cdace4473 acceptPlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 declinePlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 completePlayerMessage": "",
+    "fce30aad6f98f9b040f82eac": "ZB-014の鍵を検索",
+    "7f0a53f628b48d52f6ae23f3": "Shturmanの鍵を検索",
+    "4b2ea6d9b28dfafdef27f3ed": "Yotota車の鍵を検索"
+}

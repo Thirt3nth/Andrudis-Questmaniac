@@ -1,0 +1,655 @@
+{
+  "8e19e22cecd64f66ead96cdf": {
+    "QuestName": "[Eld] Survivalist: Ground Zero x2",
+    "_id": "8e19e22cecd64f66ead96cdf",
+    "acceptPlayerMessage": "8e19e22cecd64f66ead96cdf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "8e19e22cecd64f66ead96cdf changeQuestMessageText",
+    "completePlayerMessage": "8e19e22cecd64f66ead96cdf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "cba5b6720d56a6b1bbab7ebc",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "2b764cfad0dd1bd17e07f83f",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "2badce86bcddafdf2e4cb04b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e14ffcc0b0efa3dafb2151e6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4129cacd63a24a204cbace3c",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "8e19e22cecd64f66ead96cdf declinePlayerMessage",
+    "description": "8e19e22cecd64f66ead96cdf description",
+    "failMessageText": "8e19e22cecd64f66ead96cdf failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "8e19e22cecd64f66ead96cdf name",
+    "note": "8e19e22cecd64f66ead96cdf note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "42944cf6d1cf00f9713bf552",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "ebb5f7b501b9df2bbadbe6fa",
+          "index": 4,
+          "items": [
+            {
+              "_id": "cfa9e31e797eda4791f8e653",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "cfa9e31e797eda4791f8e653",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "8e19e22cecd64f66ead96cdf startedMessageText",
+    "successMessageText": "8e19e22cecd64f66ead96cdf successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "PickUp"
+  },
+  "dc39b3d8a6f8fbfa0beccda6": {
+    "QuestName": "[Eld] Survivalist: Ground Zero x5",
+    "_id": "dc39b3d8a6f8fbfa0beccda6",
+    "acceptPlayerMessage": "dc39b3d8a6f8fbfa0beccda6 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dc39b3d8a6f8fbfa0beccda6 changeQuestMessageText",
+    "completePlayerMessage": "dc39b3d8a6f8fbfa0beccda6 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "2fbede28cb8baf295c998b1c",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "6e7808f5ccc0dc18de599ae0",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "b2cbfbb1db7d41cef287f66c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1b1b3fee5ef52fd4ca62fdc2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7af0c988cdafbf515dd48ebd",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "8e19e22cecd64f66ead96cdf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dc39b3d8a6f8fbfa0beccda6 declinePlayerMessage",
+    "description": "dc39b3d8a6f8fbfa0beccda6 description",
+    "failMessageText": "dc39b3d8a6f8fbfa0beccda6 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dc39b3d8a6f8fbfa0beccda6 name",
+    "note": "dc39b3d8a6f8fbfa0beccda6 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f0a32e3bae96b2a1cef68d79",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "b2f03fecc9fe699aadbce9a9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "db7a6e8c9dfe53ff0b92eef3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "db7a6e8c9dfe53ff0b92eef3",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dc39b3d8a6f8fbfa0beccda6 startedMessageText",
+    "successMessageText": "dc39b3d8a6f8fbfa0beccda6 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "PickUp"
+  },
+  "7e66dc6cb530dac630d1b103": {
+    "QuestName": "[Eld] Survivalist: Ground Zero x10",
+    "_id": "7e66dc6cb530dac630d1b103",
+    "acceptPlayerMessage": "7e66dc6cb530dac630d1b103 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7e66dc6cb530dac630d1b103 changeQuestMessageText",
+    "completePlayerMessage": "7e66dc6cb530dac630d1b103 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "1aed738dd8a17fdb02ced2cb",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "b4baf4aab01d5b1341c75c45",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "cc508b4e6dbde1becf9c22db"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d3dbf4d3d0cfddc9ee4badd1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "effdc0bb0ee288b37b3eeb1d",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dc39b3d8a6f8fbfa0beccda6"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "7e66dc6cb530dac630d1b103 declinePlayerMessage",
+    "description": "7e66dc6cb530dac630d1b103 description",
+    "failMessageText": "7e66dc6cb530dac630d1b103 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "7e66dc6cb530dac630d1b103 name",
+    "note": "7e66dc6cb530dac630d1b103 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1ffa6b3deef0b0634ca7f3fd",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "b27f3bf6f89cbd92d5cdc6a2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "86a79c03e63058194b5bc2fd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "86a79c03e63058194b5bc2fd",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7e66dc6cb530dac630d1b103 startedMessageText",
+    "successMessageText": "7e66dc6cb530dac630d1b103 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "PickUp"
+  },
+  "b4beae884a8f197eaabf82b9": {
+    "QuestName": "[Eld] Survivalist: Ground Zero x5",
+    "_id": "b4beae884a8f197eaabf82b9",
+    "acceptPlayerMessage": "b4beae884a8f197eaabf82b9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b4beae884a8f197eaabf82b9 changeQuestMessageText",
+    "completePlayerMessage": "b4beae884a8f197eaabf82b9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "e6adccfa6e5e1fbbf374dd1d",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "dad86e27fe0dd285ffdad4e2",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "83b386ed2ebdb55de659fbbe"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "103a1b67bacf8a36a49a0edc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5234f9e0eaa79cc55dd6dccb",
+          "index": 18,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7e66dc6cb530dac630d1b103"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "15e9cb12343ac99e37cb49da",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "b3e95aa0c50992aabfbd8db3",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "fcae9212cf69ad6ef4b2f54e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "9d7a3ee5e665fd7e6a1e7ac4",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "b4beae884a8f197eaabf82b9 declinePlayerMessage",
+    "description": "b4beae884a8f197eaabf82b9 description",
+    "failMessageText": "b4beae884a8f197eaabf82b9 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b4beae884a8f197eaabf82b9 name",
+    "note": "b4beae884a8f197eaabf82b9 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "acbdf56266d9b9f1e9494651",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "1df5b9fedb65fbef0f0d0da2",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6bea5850e076d91d7eab7bca",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "6bea5850e076d91d7eab7bca",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "afbe38ddea2ef8ee4327ce19",
+          "index": 6,
+          "items": [
+            {
+              "_id": "24c825ecfebcb9c98ea44eca",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "24c825ecfebcb9c98ea44eca",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "65f83a6d54fbbbb1acb484a3",
+          "index": 7,
+          "items": [
+            {
+              "_id": "e08b46bca254bb5e7aabdefe",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "e08b46bca254bb5e7aabdefe",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b4beae884a8f197eaabf82b9 startedMessageText",
+    "successMessageText": "b4beae884a8f197eaabf82b9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "PickUp"
+  },
+  "d0db20e053ab3dcbe1ce7fe8": {
+    "QuestName": "[Eld] Survivalist: Ground Zero x10",
+    "_id": "d0db20e053ab3dcbe1ce7fe8",
+    "acceptPlayerMessage": "d0db20e053ab3dcbe1ce7fe8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d0db20e053ab3dcbe1ce7fe8 changeQuestMessageText",
+    "completePlayerMessage": "d0db20e053ab3dcbe1ce7fe8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "3dcf20ef5b6dca6f59fe2ddb",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "4ad3a1280ab4f3ddeab201d5",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "ca1e5ba94fea67e7d79ce8bc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5f0aad9386bdaa3ea08351fe",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "120c1c3798bd80eacbd5decf",
+          "index": 18,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b4beae884a8f197eaabf82b9"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "41caadfd5cbf3789adda0a9f",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "abf9aeaced2aae866b3dad62",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "edf1d7f69c9737b12db72592"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "b95cd8635e24df2d009b45e0",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "d0db20e053ab3dcbe1ce7fe8 declinePlayerMessage",
+    "description": "d0db20e053ab3dcbe1ce7fe8 description",
+    "failMessageText": "d0db20e053ab3dcbe1ce7fe8 failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d0db20e053ab3dcbe1ce7fe8 name",
+    "note": "d0db20e053ab3dcbe1ce7fe8 note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d739fe8aa659c5d5a5d62ee6",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "aa57be8f2c9caabaf15cfba3",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a9d5e8f9eea09fc9a5dd2cbe",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "a9d5e8f9eea09fc9a5dd2cbe",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "dcd1ca15b0757b4bbbe9fff1",
+          "index": 6,
+          "items": [
+            {
+              "_id": "550dee64b56ff5adde9a3eee",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "550dee64b56ff5adde9a3eee",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "b60ade4bbef1ddb9ff33048e",
+          "index": 7,
+          "items": [
+            {
+              "_id": "acbcec44dcd823d5dee0a1c6",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "acbcec44dcd823d5dee0a1c6",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d0db20e053ab3dcbe1ce7fe8 startedMessageText",
+    "successMessageText": "d0db20e053ab3dcbe1ce7fe8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "PickUp"
+  }
+}

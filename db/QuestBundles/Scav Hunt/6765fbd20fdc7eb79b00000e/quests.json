@@ -1,0 +1,1691 @@
+{
+  "ba80b8f0bffddfc7d68f8eb1": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 2 Scav(s)",
+    "_id": "ba80b8f0bffddfc7d68f8eb1",
+    "acceptPlayerMessage": "ba80b8f0bffddfc7d68f8eb1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ba80b8f0bffddfc7d68f8eb1 changeQuestMessageText",
+    "completePlayerMessage": "ba80b8f0bffddfc7d68f8eb1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d9cbcdc95e966ec8f40a9c11",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "d720e9fd7de9dae29a34c1f6",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "cddabfd0d3d87af18adfd398"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a923006ec33e65aecaa89f3f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ba80b8f0bffddfc7d68f8eb1 declinePlayerMessage",
+    "description": "ba80b8f0bffddfc7d68f8eb1 description",
+    "failMessageText": "ba80b8f0bffddfc7d68f8eb1 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "ba80b8f0bffddfc7d68f8eb1 name",
+    "note": "ba80b8f0bffddfc7d68f8eb1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e8d30aa1f2e86cce68809ec9",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "95f5ae6b84dca8fb1aa5da8f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "50e4fed41c9bc13a38d6fb56",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "50e4fed41c9bc13a38d6fb56",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ba80b8f0bffddfc7d68f8eb1 startedMessageText",
+    "successMessageText": "ba80b8f0bffddfc7d68f8eb1 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "d31ea072d62bf7043a5e36ed": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 10 Scav(s)",
+    "_id": "d31ea072d62bf7043a5e36ed",
+    "acceptPlayerMessage": "d31ea072d62bf7043a5e36ed acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d31ea072d62bf7043a5e36ed changeQuestMessageText",
+    "completePlayerMessage": "d31ea072d62bf7043a5e36ed completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b04d6bc9edfdb0daff45fa87",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "0e12adfb7be1e7c7288d0265",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "ebe0fbc0ff7bf0eddd2243ba"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dde887a0c3e014650bcd08e5",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e143ff3dd8f86cfc245da5ea",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba80b8f0bffddfc7d68f8eb1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d31ea072d62bf7043a5e36ed declinePlayerMessage",
+    "description": "d31ea072d62bf7043a5e36ed description",
+    "failMessageText": "d31ea072d62bf7043a5e36ed failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "d31ea072d62bf7043a5e36ed name",
+    "note": "d31ea072d62bf7043a5e36ed note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fb185e4eab9dbcebf9418b03",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "6acddbbaa7310e12ea763780",
+          "index": 4,
+          "items": [
+            {
+              "_id": "55020e1ada7286a8cf1d4229",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "55020e1ada7286a8cf1d4229",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d31ea072d62bf7043a5e36ed startedMessageText",
+    "successMessageText": "d31ea072d62bf7043a5e36ed successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "0d538a9ab089f7cbd8883f39": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 25 Scav(s)",
+    "_id": "0d538a9ab089f7cbd8883f39",
+    "acceptPlayerMessage": "0d538a9ab089f7cbd8883f39 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0d538a9ab089f7cbd8883f39 changeQuestMessageText",
+    "completePlayerMessage": "0d538a9ab089f7cbd8883f39 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fa325c01decaee8b9db5d114",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "fa77fd35dedd8a90b2e77319",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "dd0b6aafbc85afbf9ef98ab2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9cd40b03d9ecdbda0390ea7e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b0cbcccd35aef588dc8da677",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e49a7e5cebb6d1ececf6cfef"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "18c736ef3fbafcd6ef9b389d",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dcd7618bfffacb8a41abcb75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b3a17c59be63ca390e14714d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "208d39b68a0b9cb08d39e92c"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d762a7ef6c993894ecf5c97a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ab4dbc0c8caf7ac7e6ea84fd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bcccdd682e0bb7eddddf1cd4",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d0ffeb9bc82ced953ce3dd61"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ebdff82a194a988d9bf8bdfe",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ebff8afc3e6ebcb1cacb79ad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b9dc38cff0dbdfd5c28fbdac",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e73b626be0f8eab46b9e0aa"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e0b3cabc5fd48b3022c75d6f",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ba80b8f0bffddfc7d68f8eb1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0d538a9ab089f7cbd8883f39 declinePlayerMessage",
+    "description": "0d538a9ab089f7cbd8883f39 description",
+    "failMessageText": "0d538a9ab089f7cbd8883f39 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "0d538a9ab089f7cbd8883f39 name",
+    "note": "0d538a9ab089f7cbd8883f39 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "3b7d7c9fff42dda5b4afccf3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "639d86d832b62899c6f58bbd",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d00140ef8b69accaef8a719c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 37500
+              }
+            }
+          ],
+          "target": "d00140ef8b69accaef8a719c",
+          "type": "Item",
+          "value": "37500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0d538a9ab089f7cbd8883f39 startedMessageText",
+    "successMessageText": "0d538a9ab089f7cbd8883f39 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "6e4e7d00babd97d3bdeed34f": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 50 Scav(s)",
+    "_id": "6e4e7d00babd97d3bdeed34f",
+    "acceptPlayerMessage": "6e4e7d00babd97d3bdeed34f acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6e4e7d00babd97d3bdeed34f changeQuestMessageText",
+    "completePlayerMessage": "6e4e7d00babd97d3bdeed34f completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0ef62b54ef0ba5b18b9f3e65",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "f35f9cec6e5e6cc6ebdd6ed6",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "2f3b574a19d4acb71e38b6fa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "60bccaecbc0b07bc79da6d75",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8cc4dd7aae1c2b4a53af169c",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "23bb9352e1c5ded56c38df7e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2f7c9eb81b35cde8e1024da8",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "51ef23d56c22dfae6ac33f2b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0be9dcc1c0584d8e408f039d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "491f523355cbecdbfa49aeb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e8daafe296ed0f8bc58a0d9c",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dafbf0ee3ff66ce7ba3d2fdd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a0ea8cd2fdfddc1bfbf06505",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3e546de0ebdace4de3f431fe"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fe90a1daab2ca90b7f5bec35",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f74dedb7f041c2efd8ada597"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9bafebb672c2bcdba8bafb5e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fee1aa11ee1405a9fd2aa1b0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c5c2fe51beb844756b92317d",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d31ea072d62bf7043a5e36ed"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6e4e7d00babd97d3bdeed34f declinePlayerMessage",
+    "description": "6e4e7d00babd97d3bdeed34f description",
+    "failMessageText": "6e4e7d00babd97d3bdeed34f failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "6e4e7d00babd97d3bdeed34f name",
+    "note": "6e4e7d00babd97d3bdeed34f note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5a0daa5bd9fab4a41b0a7b1a",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "4b0d863a88afd4c0f4a7f2fc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "53a7facdfdbd26aff5d30f8a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "53a7facdfdbd26aff5d30f8a",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6e4e7d00babd97d3bdeed34f startedMessageText",
+    "successMessageText": "6e4e7d00babd97d3bdeed34f successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "eff294e3effd8bf2bceafbfc": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 75 Scav(s)",
+    "_id": "eff294e3effd8bf2bceafbfc",
+    "acceptPlayerMessage": "eff294e3effd8bf2bceafbfc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eff294e3effd8bf2bceafbfc changeQuestMessageText",
+    "completePlayerMessage": "eff294e3effd8bf2bceafbfc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bc2f37eaf3fe5fb8bda141c5",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bfcffcfb6c3acb10f6fcfafc",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "e1fec2ed0be55d87ffe2b528"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e4bccd1edfcca4e5ea8a4bdf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb4afc99a39f4fb19aed88f3",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "de52eedf03883e5f4956ad4a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d213563abce05582dc3d8db9",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f4fcb1efc3f1b4decac7dda3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1dbaf2e8dc14bd1bc5cfd36e",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d3d0f5ecc13474781bf0bae4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d0e6f78ee80c5d1cf8de026f",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccada9eeb15a5fde00ccb57b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f3cc57b3dcf4ca31f19e78c9",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad19ca52d63e7296fd3d3fa6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "735b0affcdc6dd204a7d8e6c",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ad9a58af5807a5e377ccdc2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8f5584e00a2d9fad5c67beb7",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9b360680c3b69f7beca9c5f2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0ed35c7cedcfffd8af4da3b8",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0d538a9ab089f7cbd8883f39"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eff294e3effd8bf2bceafbfc declinePlayerMessage",
+    "description": "eff294e3effd8bf2bceafbfc description",
+    "failMessageText": "eff294e3effd8bf2bceafbfc failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "eff294e3effd8bf2bceafbfc name",
+    "note": "eff294e3effd8bf2bceafbfc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7cb41e1bc0fae2fe36b1dd8f",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "b3350bcb8de4cb59d7c83f5b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "aead2af2cad3dee8a6dc085b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "aead2af2cad3dee8a6dc085b",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eff294e3effd8bf2bceafbfc startedMessageText",
+    "successMessageText": "eff294e3effd8bf2bceafbfc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "9bc51e1eeed43ebae1840fa9": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 100 Scav(s)",
+    "_id": "9bc51e1eeed43ebae1840fa9",
+    "acceptPlayerMessage": "9bc51e1eeed43ebae1840fa9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9bc51e1eeed43ebae1840fa9 changeQuestMessageText",
+    "completePlayerMessage": "9bc51e1eeed43ebae1840fa9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7c7de2df7abfdde9cdd40f57",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ea8761eecf29b6fcbb9f134b",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "e2edefbeae7fbab2ec30a6f8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4ea418feb5e33ae0bae3f56d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7bbbfd77d8a84b9c42a9e2ed",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cbe94dfb206eec9c29735f55"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6f12e2e2ad2863a3b6aa3248",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "359ccd01aaf2c566e3eaaf74"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e3d1cf997547ad7a9ac00dfb",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "012facf4ceb617cdaf57b360"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bc4cea5b140da83b97d419cc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b0b5b241baa9b1f14de2c157"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ff4726e6a8aefedba8e75943",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "181ffdddf84a4f8fc6c3d8d8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cfdd90e1cffa0efec6e44ea4",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "acdde8bcbc3c97f7cceccbac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8defdc4bfca7be52dd3e0ad4",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a5ecdb7cdb21f45a94ffe959"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eefd6bbbdffdc5b2dc85425c",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6e4e7d00babd97d3bdeed34f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9bc51e1eeed43ebae1840fa9 declinePlayerMessage",
+    "description": "9bc51e1eeed43ebae1840fa9 description",
+    "failMessageText": "9bc51e1eeed43ebae1840fa9 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "9bc51e1eeed43ebae1840fa9 name",
+    "note": "9bc51e1eeed43ebae1840fa9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "87a8e2adb7f1ac102fafded3",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "31b9ac7c53b5ad3ea4edd3b1",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d49d52faea46aaadfb15ef1f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "d49d52faea46aaadfb15ef1f",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9bc51e1eeed43ebae1840fa9 startedMessageText",
+    "successMessageText": "9bc51e1eeed43ebae1840fa9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "675143ae0fd3af09fd62fba5": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 150 Scav(s)",
+    "_id": "675143ae0fd3af09fd62fba5",
+    "acceptPlayerMessage": "675143ae0fd3af09fd62fba5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "675143ae0fd3af09fd62fba5 changeQuestMessageText",
+    "completePlayerMessage": "675143ae0fd3af09fd62fba5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8beac2c1afc51f9aeae8cfca",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "d24e4f68607a3f7f9cbb2ab5",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "2a72dacd7e2be4a38e4a6cab"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "359899cae4ad450f836a9fad",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "150",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cc7ca0c895ceb1c5fa866c5f",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0c9155ebc6fa4b54efda64d2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e564537efd4133d263bfc0d7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "808712b4eaac5c7a4dca7ef1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a800f94ee8b3fb6fef36e2cc",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad2d78acd04694de51f3fcbf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6563bb8df0aab53f8cb5c82a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1bffbcc111bffbeebcaecacd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d0dfeabed7c3161babbda19b",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fcf96df1c3066a1dbeaaadcf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc7a8e19affacb7d4deccbe0",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e5b598d00a265b220952bb0f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4fdb5e4e4a07db5cd5bf45db",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c23a90bb786aea28ef9182b5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8bbffcf03db02b9368b02c69",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eff294e3effd8bf2bceafbfc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "675143ae0fd3af09fd62fba5 declinePlayerMessage",
+    "description": "675143ae0fd3af09fd62fba5 description",
+    "failMessageText": "675143ae0fd3af09fd62fba5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "675143ae0fd3af09fd62fba5 name",
+    "note": "675143ae0fd3af09fd62fba5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "8de20bcea7a0cf712aea2c2f",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "0c723fe2b86e837638fcfaf6",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ed4b0bef373b1efabbfcfab1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "ed4b0bef373b1efabbfcfab1",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "675143ae0fd3af09fd62fba5 startedMessageText",
+    "successMessageText": "675143ae0fd3af09fd62fba5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "7d37de300b3f7210fd86acdb": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 200 Scav(s)",
+    "_id": "7d37de300b3f7210fd86acdb",
+    "acceptPlayerMessage": "7d37de300b3f7210fd86acdb acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7d37de300b3f7210fd86acdb changeQuestMessageText",
+    "completePlayerMessage": "7d37de300b3f7210fd86acdb completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "00f6db6f8ad2d4accddfdf34",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "eeaeeda64dd3bd404acec9af",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "4acdc0def4faf8b15333be5f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4a299551eddce8fc77aa8374",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab40c8addcbba49ce77c691d",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d774a5189df0f5a40edf26d3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "45d7d2981e5732dfcb7cd9ac",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "aff88cc8cf1acafdc0e88af4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "afdab563ad6c48af232f87dc",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ccddc8ca329bdd3fd79ba393"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "97804a30dfd6d97af332acc5",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1d81c919cac2acfd5d41c29a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c5e306caafc8ea2ae1aad9d6",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd655ae61131b80cd4fa83d4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eea9623aa70b04793748b526",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2da49b75a8bc2ef53ed0cac2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d76cd71babf9273d5dc95b7e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "11fbdde567d6c70ee572df93"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1bb2de7df8064e5fb5e70c34",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9bc51e1eeed43ebae1840fa9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "7d37de300b3f7210fd86acdb declinePlayerMessage",
+    "description": "7d37de300b3f7210fd86acdb description",
+    "failMessageText": "7d37de300b3f7210fd86acdb failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "7d37de300b3f7210fd86acdb name",
+    "note": "7d37de300b3f7210fd86acdb note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9047d1fd3cfb01681d3b1925",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "0beb1eacbb7fba874a1febe8",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dd1ddacafd34637deca7bfc4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "dd1ddacafd34637deca7bfc4",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7d37de300b3f7210fd86acdb startedMessageText",
+    "successMessageText": "7d37de300b3f7210fd86acdb successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "debdbfbe6c4e18e038fbdf5d": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 500 Scav(s)",
+    "_id": "debdbfbe6c4e18e038fbdf5d",
+    "acceptPlayerMessage": "debdbfbe6c4e18e038fbdf5d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "debdbfbe6c4e18e038fbdf5d changeQuestMessageText",
+    "completePlayerMessage": "debdbfbe6c4e18e038fbdf5d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d4dcc0fdacba0d99dfa2d2ce",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cb99bb348930a9219532da7b",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "ec07be3deaa10454c70d0a98"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6ecacd1ad8f0fbf2d95fcda",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0181da0e2b21cb575a3b33ac",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a968f4de9dbefa217aed6f95"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1d3498ab4206bda520ec2acf",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c563d3283aa39f45bff442bf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7f3a3a7ad7fdf0fed56bff30",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ac99c7ebed06ac9ee753cfa5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd11998ccd8a9bcdddd4b7fe",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a8ccc6864b3c2c5c179eebad"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bdcebdbdcfab61df9485ab75",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "67a6bf0acc6fff28ca5cf8ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "802f35b87f8d7135fbf393cf",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55a3ef1ad95b4ecd7e7304b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e7f07bd19411d40bd2d3beef",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "55dbd6aebbddba8cd92c85e5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "558e147cfe35e0853f1ef409",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "675143ae0fd3af09fd62fba5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "debdbfbe6c4e18e038fbdf5d declinePlayerMessage",
+    "description": "debdbfbe6c4e18e038fbdf5d description",
+    "failMessageText": "debdbfbe6c4e18e038fbdf5d failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "debdbfbe6c4e18e038fbdf5d name",
+    "note": "debdbfbe6c4e18e038fbdf5d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "dfabbabfb3ad83f2b7fdf8ae",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "cc6d901cb8fdb8a0ce4851eb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b110d02210b6ea1f937df2c3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "b110d02210b6ea1f937df2c3",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "debdbfbe6c4e18e038fbdf5d startedMessageText",
+    "successMessageText": "debdbfbe6c4e18e038fbdf5d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "64efadfb44e07cafeea0dfd8": {
+    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 1000 Scav(s)",
+    "_id": "64efadfb44e07cafeea0dfd8",
+    "acceptPlayerMessage": "64efadfb44e07cafeea0dfd8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "64efadfb44e07cafeea0dfd8 changeQuestMessageText",
+    "completePlayerMessage": "64efadfb44e07cafeea0dfd8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ee4c7cced965ffdbdcfafc82",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "a160892ae49ac48ddf8db61a",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "d69badefb641da186a9ad8e9"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "82adbe4b1c7dbbafc984fd9c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d1a5a2dcaa1ba3eaad32bb85",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7dba29c47bd1cee2aeccb2cc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b31c51ae9b6ab9ff6f1fe2d6",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1282a59c8ae36908efa2fcbc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ca9c92adc3e29bf4cfdaf796",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd3b488dede5cb4f76d9bd98"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9d74e4659a5b1bce6f8fbf5d",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a3decd23ebcc6efcc608eca9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "226fd3cc0ea208ea6beebfc7",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f547e32ed3eb0eb3bccb48b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fd59b848bedd208764adcebb",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fadb688cfaef0a2bbac89d49"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "be1ede75a18e07eecaff8207",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea416cde47dd85d347b0f3c0"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fa29b022a9c2c7aa2dbdfeeb",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d37de300b3f7210fd86acdb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "64efadfb44e07cafeea0dfd8 declinePlayerMessage",
+    "description": "64efadfb44e07cafeea0dfd8 description",
+    "failMessageText": "64efadfb44e07cafeea0dfd8 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5714dc692459777137212e12",
+    "name": "64efadfb44e07cafeea0dfd8 name",
+    "note": "64efadfb44e07cafeea0dfd8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a9b28cdd3e19803be3bc5ca2",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "7fbeabcb19f9c91ecefecbf2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "94b2dfaeff4ebe17ab6dd6d2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "94b2dfaeff4ebe17ab6dd6d2",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "64efadfb44e07cafeea0dfd8 startedMessageText",
+    "successMessageText": "64efadfb44e07cafeea0dfd8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  }
+}

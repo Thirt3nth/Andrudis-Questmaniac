@@ -1,0 +1,14 @@
+{
+    "1db42bc17ae1d88cdace4473 name": "[Егр] Знание ключей: Лес Слесарь",
+    "1db42bc17ae1d88cdace4473 note": "",
+    "1db42bc17ae1d88cdace4473 description": "Нужны контейнеры для ключей? На кой хрен они тебе сдались если у тебя и ключей-то толком нет? Должен найти их все!",
+    "1db42bc17ae1d88cdace4473 startedMessageText": "[Егр] Задание принято: '[Егр] Знание ключей: Лес Слесарь'!",
+    "1db42bc17ae1d88cdace4473 failMessageText": "[Егр] Задание провалено: '[Егр] Знание ключей: Лес Слесарь'!",
+    "1db42bc17ae1d88cdace4473 successMessageText": "[Егр] Задание завершено: '[Егр] Знание ключей: Лес Слесарь'!",
+    "1db42bc17ae1d88cdace4473 acceptPlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 declinePlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 completePlayerMessage": "",
+    "fce30aad6f98f9b040f82eac": "Найди Ключ ЗБ-014",
+    "7f0a53f628b48d52f6ae23f3": "Найди Ключ от схрона Штурмана",
+    "4b2ea6d9b28dfafdef27f3ed": "Найди Ключ от автомобиля Yotota"
+}

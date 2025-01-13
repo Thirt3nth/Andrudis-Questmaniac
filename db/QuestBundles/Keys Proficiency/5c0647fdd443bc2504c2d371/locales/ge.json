@@ -1,0 +1,14 @@
+{
+    "1db42bc17ae1d88cdace4473 name": "[Jgr] Schlüsselbeherrschung: Wälder Schlosser",
+    "1db42bc17ae1d88cdace4473 note": "",
+    "1db42bc17ae1d88cdace4473 description": "Du willst Behälter für Schlüssel? Für was brauchst du sie, wenn du noch überhaupt keine Schlüssel hast? Finde sie alle!",
+    "1db42bc17ae1d88cdace4473 startedMessageText": "[Jgr] Quest angenommen: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "1db42bc17ae1d88cdace4473 failMessageText": "[Jgr] Quest fehlgeschlagen: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "1db42bc17ae1d88cdace4473 successMessageText": "[Jgr] Quest beendet: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "1db42bc17ae1d88cdace4473 acceptPlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 declinePlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 completePlayerMessage": "",
+    "fce30aad6f98f9b040f82eac": "Finde Schlüssel ZB-014",
+    "7f0a53f628b48d52f6ae23f3": "Finde Shturman Schlüssel",
+    "4b2ea6d9b28dfafdef27f3ed": "Finde Yotota Autoschlüssel"
+}

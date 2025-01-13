@@ -1,0 +1,14 @@
+{
+    "1db42bc17ae1d88cdace4473 name": "[Jgr] Compétence clé: Bois Serrurier",
+    "1db42bc17ae1d88cdace4473 note": "",
+    "1db42bc17ae1d88cdace4473 description": "Vous voulez des conteneurs pour les clés ? Pourquoi en avez-vous besoin si vous n'avez pas encore de clés ? Je dois les trouver tout !",
+    "1db42bc17ae1d88cdace4473 startedMessageText": "[Jgr] Quête acceptée: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "1db42bc17ae1d88cdace4473 failMessageText": "[Jgr] Échec de la quête: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "1db42bc17ae1d88cdace4473 successMessageText": "[Jgr] Quête terminée: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "1db42bc17ae1d88cdace4473 acceptPlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 declinePlayerMessage": "",
+    "1db42bc17ae1d88cdace4473 completePlayerMessage": "",
+    "fce30aad6f98f9b040f82eac": "Trouve Clé ZB-014",
+    "7f0a53f628b48d52f6ae23f3": "Trouve Clé Shturman",
+    "4b2ea6d9b28dfafdef27f3ed": "Trouve Clé de voiture Yotota"
+}

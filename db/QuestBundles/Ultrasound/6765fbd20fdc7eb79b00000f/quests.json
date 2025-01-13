@@ -1,0 +1,2848 @@
+{
+  "0e36c704cbf221001fa29ecc": {
+    "QuestName": "[Lab] Ultrasound: GSSh-01 active headset Barter",
+    "_id": "0e36c704cbf221001fa29ecc",
+    "acceptPlayerMessage": "0e36c704cbf221001fa29ecc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0e36c704cbf221001fa29ecc changeQuestMessageText",
+    "completePlayerMessage": "0e36c704cbf221001fa29ecc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1ba71eeb250400e37dbefbea",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5b432b965acfc47a8774094e "
+                  ],
+                  [
+                    "6033fa48ffd42c541047f728 "
+                  ],
+                  [
+                    "5c165d832e2216398b5a7e36 "
+                  ],
+                  [
+                    "5645bcc04bdc2d363b8b4572 "
+                  ],
+                  [
+                    "5aa2ba71e5b5b000137b758f "
+                  ],
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "eb0c0a1eb46d76dfdac41ce5"
+              }
+            ],
+            "id": "8da3a4bb3fca2539f76dc403"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bf8a6a0be154e6a6b702cae5",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0e36c704cbf221001fa29ecc declinePlayerMessage",
+    "description": "0e36c704cbf221001fa29ecc description",
+    "failMessageText": "0e36c704cbf221001fa29ecc failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0e36c704cbf221001fa29ecc name",
+    "note": "0e36c704cbf221001fa29ecc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ad5fe7be2ea4fb6861ff6d7a",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "2efa9be9e480ad32408fea1d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bee68a9caaf8bdc4d7a82bd1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "bee68a9caaf8bdc4d7a82bd1",
+          "type": "Item",
+          "value": "20000"
+        },
+        {
+          "id": "f0de8e6e350cd2fe30e0d42f",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a9a5fa2e2bab27b8f5dbbf1d",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 50
+              }
+            }
+          ],
+          "target": "a9a5fa2e2bab27b8f5dbbf1d",
+          "type": "Item",
+          "value": "50"
+        },
+        {
+          "id": "4c871dd6c1412744a2be9991",
+          "index": 6,
+          "items": [
+            {
+              "_id": "9e815de12bd20a8db0864a1b",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 40
+              }
+            }
+          ],
+          "target": "9e815de12bd20a8db0864a1b",
+          "type": "Item",
+          "value": "40"
+        },
+        {
+          "id": "ee042bdf5ee5c3791be0bd1f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "ecb1bdb04dcfbbc31452cafb",
+              "_tpl": "5b432b965acfc47a8774094e",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ecb1bdb04dcfbbc31452cafb",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0e36c704cbf221001fa29ecc startedMessageText",
+    "successMessageText": "0e36c704cbf221001fa29ecc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "b0d7666bba3beb7fd317215a": {
+    "QuestName": "[Lab] Ultrasound: OPSMEN Earmor M32 headset Barter",
+    "_id": "b0d7666bba3beb7fd317215a",
+    "acceptPlayerMessage": "b0d7666bba3beb7fd317215a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b0d7666bba3beb7fd317215a changeQuestMessageText",
+    "completePlayerMessage": "b0d7666bba3beb7fd317215a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ecbbe2aade092ee3858a1aec",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "6033fa48ffd42c541047f728 "
+                  ],
+                  [
+                    "5c165d832e2216398b5a7e36 "
+                  ],
+                  [
+                    "5645bcc04bdc2d363b8b4572 "
+                  ],
+                  [
+                    "5aa2ba71e5b5b000137b758f "
+                  ],
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "bd33cb6458da9e660ce0efbf"
+              }
+            ],
+            "id": "7e2caddd12e18b85f6fa7bfa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0ac7ebcdb7da32d9871b4342",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "35eeef62ddd6bd0ee4545e61",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0e36c704cbf221001fa29ecc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b0d7666bba3beb7fd317215a declinePlayerMessage",
+    "description": "b0d7666bba3beb7fd317215a description",
+    "failMessageText": "b0d7666bba3beb7fd317215a failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b0d7666bba3beb7fd317215a name",
+    "note": "b0d7666bba3beb7fd317215a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "8ac1fdbdc6f92e24ef2ac44c",
+          "index": 3,
+          "type": "Experience",
+          "value": "6000"
+        },
+        {
+          "id": "daa41e577f1c88f27d1ffda7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "1d8efdfbae089e7c03cadcd8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 40000
+              }
+            }
+          ],
+          "target": "1d8efdfbae089e7c03cadcd8",
+          "type": "Item",
+          "value": "40000"
+        },
+        {
+          "id": "95fc9fefd331ff861fdfd7d2",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dcbf40cb0919c4b4e002cadd",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "dcbf40cb0919c4b4e002cadd",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "daa6ab9ab86497aea2f18f8d",
+          "index": 6,
+          "items": [
+            {
+              "_id": "e91f07f3b5372386dace4edd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 80
+              }
+            }
+          ],
+          "target": "e91f07f3b5372386dace4edd",
+          "type": "Item",
+          "value": "80"
+        },
+        {
+          "id": "ffb400bf9dbaae93ff6b92ec",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fafeafaf9e86834f07cbef8c",
+              "_tpl": "6033fa48ffd42c541047f728",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "fafeafaf9e86834f07cbef8c",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b0d7666bba3beb7fd317215a startedMessageText",
+    "successMessageText": "b0d7666bba3beb7fd317215a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "95bca8fafef0e73b2d40debc": {
+    "QuestName": "[Lab] Ultrasound: Peltor Tactical Sport headset Barter",
+    "_id": "95bca8fafef0e73b2d40debc",
+    "acceptPlayerMessage": "95bca8fafef0e73b2d40debc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "95bca8fafef0e73b2d40debc changeQuestMessageText",
+    "completePlayerMessage": "95bca8fafef0e73b2d40debc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a1fceafadf6d5407ed7fa4ef",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5c165d832e2216398b5a7e36 "
+                  ],
+                  [
+                    "5645bcc04bdc2d363b8b4572 "
+                  ],
+                  [
+                    "5aa2ba71e5b5b000137b758f "
+                  ],
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "6e09e1ee3dfbf4de57e06e6b"
+              }
+            ],
+            "id": "a5dd22f8b7be359311abcf6c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a5af15c2619ba688e39c186c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ca2f962c688eba5d376ff463",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b0d7666bba3beb7fd317215a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "95bca8fafef0e73b2d40debc declinePlayerMessage",
+    "description": "95bca8fafef0e73b2d40debc description",
+    "failMessageText": "95bca8fafef0e73b2d40debc failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "95bca8fafef0e73b2d40debc name",
+    "note": "95bca8fafef0e73b2d40debc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "df7bdb9ad473bb4f001a39fc",
+          "index": 3,
+          "type": "Experience",
+          "value": "9000"
+        },
+        {
+          "id": "3c04ecba51d5f977e83eabc7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "753d148bbd6c9e6dfaa0885d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "753d148bbd6c9e6dfaa0885d",
+          "type": "Item",
+          "value": "60000"
+        },
+        {
+          "id": "aeb4fd4fff2c7dcdc174de19",
+          "index": 5,
+          "items": [
+            {
+              "_id": "3a3bafbeb2dcc64d5c8ca8ea",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 150
+              }
+            }
+          ],
+          "target": "3a3bafbeb2dcc64d5c8ca8ea",
+          "type": "Item",
+          "value": "150"
+        },
+        {
+          "id": "de31dae35cb3aa6d18dbad9f",
+          "index": 6,
+          "items": [
+            {
+              "_id": "9572f4c1d98ea6d1b3bceccb",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 120
+              }
+            }
+          ],
+          "target": "9572f4c1d98ea6d1b3bceccb",
+          "type": "Item",
+          "value": "120"
+        },
+        {
+          "id": "328b3ba7a0c1c54df18c0f73",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fec191eb6f7f5dacd57322ee",
+              "_tpl": "5c165d832e2216398b5a7e36",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "fec191eb6f7f5dacd57322ee",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "95bca8fafef0e73b2d40debc startedMessageText",
+    "successMessageText": "95bca8fafef0e73b2d40debc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "d7ada25e9e093cadcfd4a676": {
+    "QuestName": "[Lab] Ultrasound: Peltor ComTac 2 headset Barter",
+    "_id": "d7ada25e9e093cadcfd4a676",
+    "acceptPlayerMessage": "d7ada25e9e093cadcfd4a676 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d7ada25e9e093cadcfd4a676 changeQuestMessageText",
+    "completePlayerMessage": "d7ada25e9e093cadcfd4a676 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "df554aac2d034ed451cdef36",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5645bcc04bdc2d363b8b4572 "
+                  ],
+                  [
+                    "5aa2ba71e5b5b000137b758f "
+                  ],
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "c60e498adaece0df4ade37d6"
+              }
+            ],
+            "id": "bfefe17be893f4520ccc0c4a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "22bb2e8aebac2ee66a1d9dca",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffafcb03bbcafebbdacfc04b",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "95bca8fafef0e73b2d40debc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d7ada25e9e093cadcfd4a676 declinePlayerMessage",
+    "description": "d7ada25e9e093cadcfd4a676 description",
+    "failMessageText": "d7ada25e9e093cadcfd4a676 failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d7ada25e9e093cadcfd4a676 name",
+    "note": "d7ada25e9e093cadcfd4a676 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2deecca540ca10a0adeb0dce",
+          "index": 3,
+          "type": "Experience",
+          "value": "12000"
+        },
+        {
+          "id": "ecda3547eaf225a6f0dc13a9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "280dcd8ccdda1a06cfb2b7fd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 80000
+              }
+            }
+          ],
+          "target": "280dcd8ccdda1a06cfb2b7fd",
+          "type": "Item",
+          "value": "80000"
+        },
+        {
+          "id": "93d4dd8aedcddffd7fe65eb8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "b41c9b2e70b9ef144fdad384",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 200
+              }
+            }
+          ],
+          "target": "b41c9b2e70b9ef144fdad384",
+          "type": "Item",
+          "value": "200"
+        },
+        {
+          "id": "cee4dab5dbfc8a8ac8d5473a",
+          "index": 6,
+          "items": [
+            {
+              "_id": "d1f8dbbbdedae870efddf38d",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 160
+              }
+            }
+          ],
+          "target": "d1f8dbbbdedae870efddf38d",
+          "type": "Item",
+          "value": "160"
+        },
+        {
+          "id": "d51ad1e76aa55cbda9a228a5",
+          "index": 7,
+          "items": [
+            {
+              "_id": "83f84aa7f1d5baa8375f2ea6",
+              "_tpl": "5645bcc04bdc2d363b8b4572",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "83f84aa7f1d5baa8375f2ea6",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d7ada25e9e093cadcfd4a676 startedMessageText",
+    "successMessageText": "d7ada25e9e093cadcfd4a676 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "fdcc91cfe6eee756b4f397b5": {
+    "QuestName": "[Lab] Ultrasound: MSA Sordin Supreme PRO-X/L active headset Barter",
+    "_id": "fdcc91cfe6eee756b4f397b5",
+    "acceptPlayerMessage": "fdcc91cfe6eee756b4f397b5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fdcc91cfe6eee756b4f397b5 changeQuestMessageText",
+    "completePlayerMessage": "fdcc91cfe6eee756b4f397b5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b19bdf0ab2def7fdf8c8ec0d",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5aa2ba71e5b5b000137b758f "
+                  ],
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "c5ecde6093cfdfce4b923db9"
+              }
+            ],
+            "id": "efcfb3bfbfddf91b4dc2d0c6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1654c4301afdec41d4de4dea",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "30",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8bab81a69e302d94bd23d8f9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d7ada25e9e093cadcfd4a676"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fdcc91cfe6eee756b4f397b5 declinePlayerMessage",
+    "description": "fdcc91cfe6eee756b4f397b5 description",
+    "failMessageText": "fdcc91cfe6eee756b4f397b5 failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fdcc91cfe6eee756b4f397b5 name",
+    "note": "fdcc91cfe6eee756b4f397b5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "43782cbc9aec0deb0c70c9fd",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "6ab44edfdf2734b1390cd208",
+          "index": 4,
+          "items": [
+            {
+              "_id": "16bbdc898ffd3c1145cad5d2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "16bbdc898ffd3c1145cad5d2",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "4e093f77e44ca4bed75386dc",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a0d91e4f53ea9663effe7284",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "a0d91e4f53ea9663effe7284",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "bdcf19c927c82a45b522c9f0",
+          "index": 6,
+          "items": [
+            {
+              "_id": "3f8d5a8e377dfdbea7ba0781",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 200
+              }
+            }
+          ],
+          "target": "3f8d5a8e377dfdbea7ba0781",
+          "type": "Item",
+          "value": "200"
+        },
+        {
+          "id": "ed23b4efc98b308e8cd3add9",
+          "index": 7,
+          "items": [
+            {
+              "_id": "a2efdd1780ef304db3cd336d",
+              "_tpl": "5aa2ba71e5b5b000137b758f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "a2efdd1780ef304db3cd336d",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fdcc91cfe6eee756b4f397b5 startedMessageText",
+    "successMessageText": "fdcc91cfe6eee756b4f397b5 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "862586164fbdea6c9ebca1ae": {
+    "QuestName": "[Lab] Ultrasound: Ops-Core FAST RAC Headset Barter",
+    "_id": "862586164fbdea6c9ebca1ae",
+    "acceptPlayerMessage": "862586164fbdea6c9ebca1ae acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "862586164fbdea6c9ebca1ae changeQuestMessageText",
+    "completePlayerMessage": "862586164fbdea6c9ebca1ae completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1deccb8a7767e3481ca1ccbf",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5a16b9fffcdbcb0176308b34 "
+                  ],
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "ff5ff6e8e44df3c5d6ffecab"
+              }
+            ],
+            "id": "bde67ee912dacad6cd0e7c1d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bfcc9aca9d1e5c53f08bdcee",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a3f8444aea40ead1468feacd",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fdcc91cfe6eee756b4f397b5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "862586164fbdea6c9ebca1ae declinePlayerMessage",
+    "description": "862586164fbdea6c9ebca1ae description",
+    "failMessageText": "862586164fbdea6c9ebca1ae failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "862586164fbdea6c9ebca1ae name",
+    "note": "862586164fbdea6c9ebca1ae note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4cead2dff9c2fefdf84b6a5e",
+          "index": 3,
+          "type": "Experience",
+          "value": "18000"
+        },
+        {
+          "id": "07768fa1d88db0ca15e4b6cd",
+          "index": 4,
+          "items": [
+            {
+              "_id": "cfbc4fa431bf24ce9dfd65ec",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "cfbc4fa431bf24ce9dfd65ec",
+          "type": "Item",
+          "value": "120000"
+        },
+        {
+          "id": "be5ae681dbeb614b8cbcf08e",
+          "index": 5,
+          "items": [
+            {
+              "_id": "a494ec6d9fe7857238dac721",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 300
+              }
+            }
+          ],
+          "target": "a494ec6d9fe7857238dac721",
+          "type": "Item",
+          "value": "300"
+        },
+        {
+          "id": "58cae66f60be0dc02ae3a08c",
+          "index": 6,
+          "items": [
+            {
+              "_id": "5dd82cbb12cee9d88b2bf2dd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 240
+              }
+            }
+          ],
+          "target": "5dd82cbb12cee9d88b2bf2dd",
+          "type": "Item",
+          "value": "240"
+        },
+        {
+          "id": "4f116cb5f67c5fd1cd3dc3c4",
+          "index": 7,
+          "items": [
+            {
+              "_id": "3c9f0e8134cb86cea7faab5e",
+              "_tpl": "5a16b9fffcdbcb0176308b34",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "3c9f0e8134cb86cea7faab5e",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "862586164fbdea6c9ebca1ae startedMessageText",
+    "successMessageText": "862586164fbdea6c9ebca1ae successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "babf78e5ce3cc3c66bfa84ee": {
+    "QuestName": "[Lab] Ultrasound: Walker's Razor Digital headset Barter",
+    "_id": "babf78e5ce3cc3c66bfa84ee",
+    "acceptPlayerMessage": "babf78e5ce3cc3c66bfa84ee acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "babf78e5ce3cc3c66bfa84ee changeQuestMessageText",
+    "completePlayerMessage": "babf78e5ce3cc3c66bfa84ee completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fbdf960ed1960bc5ef015200",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5e4d34ca86f774264f758330 "
+                  ],
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "5c189a12ecaeccfcc65ee613"
+              }
+            ],
+            "id": "9acfd5adab6c76cb3655be6d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b58b22f17f2c51bde1bcb2a6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4d6f71684dd1e9a9b34bca5a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "862586164fbdea6c9ebca1ae"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "babf78e5ce3cc3c66bfa84ee declinePlayerMessage",
+    "description": "babf78e5ce3cc3c66bfa84ee description",
+    "failMessageText": "babf78e5ce3cc3c66bfa84ee failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "babf78e5ce3cc3c66bfa84ee name",
+    "note": "babf78e5ce3cc3c66bfa84ee note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "30c8eb6c15ff3df66baf41ac",
+          "index": 3,
+          "type": "Experience",
+          "value": "21000"
+        },
+        {
+          "id": "ca10019bcc40327ababe7fb7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "90ef5bf9e2e223cdc953cf5f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 140000
+              }
+            }
+          ],
+          "target": "90ef5bf9e2e223cdc953cf5f",
+          "type": "Item",
+          "value": "140000"
+        },
+        {
+          "id": "dea129fd8d18c79acbf3f133",
+          "index": 5,
+          "items": [
+            {
+              "_id": "27b407bd2cbacdebd85d8ea0",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 350
+              }
+            }
+          ],
+          "target": "27b407bd2cbacdebd85d8ea0",
+          "type": "Item",
+          "value": "350"
+        },
+        {
+          "id": "f92fdee6f1d4512e0fb72e6a",
+          "index": 6,
+          "items": [
+            {
+              "_id": "c696d721de95e98612bd4cc7",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 280
+              }
+            }
+          ],
+          "target": "c696d721de95e98612bd4cc7",
+          "type": "Item",
+          "value": "280"
+        },
+        {
+          "id": "fd02d08b1a74afad7c3b68d4",
+          "index": 7,
+          "items": [
+            {
+              "_id": "1fffddf2426ada1efc09f219",
+              "_tpl": "5e4d34ca86f774264f758330",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "1fffddf2426ada1efc09f219",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "babf78e5ce3cc3c66bfa84ee startedMessageText",
+    "successMessageText": "babf78e5ce3cc3c66bfa84ee successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "d8d0b52bdc3fda7e606fd4bf": {
+    "QuestName": "[Lab] Ultrasound: Walker's XCEL 500BT Digital headset Barter",
+    "_id": "d8d0b52bdc3fda7e606fd4bf",
+    "acceptPlayerMessage": "d8d0b52bdc3fda7e606fd4bf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d8d0b52bdc3fda7e606fd4bf changeQuestMessageText",
+    "completePlayerMessage": "d8d0b52bdc3fda7e606fd4bf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d3dadb4b1c594f0d2b4549ca",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "5f60cd6cf2bcbb675b00dac6"
+                  ],
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "7fe641ee8648d4524cf78bd0"
+              }
+            ],
+            "id": "dcc71afb3a402bbf91da6196"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d37a2fafc4ec0c2845b1d98b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbb8bad3a2f9fd60a9c99291",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "babf78e5ce3cc3c66bfa84ee"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d8d0b52bdc3fda7e606fd4bf declinePlayerMessage",
+    "description": "d8d0b52bdc3fda7e606fd4bf description",
+    "failMessageText": "d8d0b52bdc3fda7e606fd4bf failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d8d0b52bdc3fda7e606fd4bf name",
+    "note": "d8d0b52bdc3fda7e606fd4bf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cfde0e95e6c1b742dcae97fe",
+          "index": 3,
+          "type": "Experience",
+          "value": "24000"
+        },
+        {
+          "id": "93c2f7acefc6d96739dc6abd",
+          "index": 4,
+          "items": [
+            {
+              "_id": "bdaa0ab4a0f6becbbc04aed1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 160000
+              }
+            }
+          ],
+          "target": "bdaa0ab4a0f6becbbc04aed1",
+          "type": "Item",
+          "value": "160000"
+        },
+        {
+          "id": "4b42a822fa9025bfee05d2a8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "7f16f1ec3c4fdfd136beb9e4",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 400
+              }
+            }
+          ],
+          "target": "7f16f1ec3c4fdfd136beb9e4",
+          "type": "Item",
+          "value": "400"
+        },
+        {
+          "id": "8a9cb4821fccc6bb8385d72f",
+          "index": 6,
+          "items": [
+            {
+              "_id": "8b29f89a09ddbb9eaec01d24",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 320
+              }
+            }
+          ],
+          "target": "8b29f89a09ddbb9eaec01d24",
+          "type": "Item",
+          "value": "320"
+        },
+        {
+          "id": "6eaeea4eda0a2b4f125aae37",
+          "index": 7,
+          "items": [
+            {
+              "_id": "c27e4e7bb0cdc556dca031fc",
+              "_tpl": "5f60cd6cf2bcbb675b00dac6",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "c27e4e7bb0cdc556dca031fc",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d8d0b52bdc3fda7e606fd4bf startedMessageText",
+    "successMessageText": "d8d0b52bdc3fda7e606fd4bf successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "da2eab45ccacc9c402b3aeb7": {
+    "QuestName": "[Lab] Ultrasound: Peltor ComTac IV Hybrid headset (Coyote Brown) Barter",
+    "_id": "da2eab45ccacc9c402b3aeb7",
+    "acceptPlayerMessage": "da2eab45ccacc9c402b3aeb7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "da2eab45ccacc9c402b3aeb7 changeQuestMessageText",
+    "completePlayerMessage": "da2eab45ccacc9c402b3aeb7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ffceecb15dbcca80da2e86fe",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Equipment",
+                "equipmentExclusive": [
+                  [
+                    "628e4e576d783146b124c64d"
+                  ]
+                ],
+                "id": "defe3edbee16b00e5684725b"
+              }
+            ],
+            "id": "8eb7b8ba72decadee1e35e0f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f7bfcbb6fd773d8c7aabeddd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "153027a7ab058a2fb3bd1cbc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d8d0b52bdc3fda7e606fd4bf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "da2eab45ccacc9c402b3aeb7 declinePlayerMessage",
+    "description": "da2eab45ccacc9c402b3aeb7 description",
+    "failMessageText": "da2eab45ccacc9c402b3aeb7 failMessageText",
+    "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "da2eab45ccacc9c402b3aeb7 name",
+    "note": "da2eab45ccacc9c402b3aeb7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "286e9742c0c7b6fb4c98ceed",
+          "index": 3,
+          "type": "Experience",
+          "value": "24000"
+        },
+        {
+          "id": "1c685ada522da5efe9d93dae",
+          "index": 4,
+          "items": [
+            {
+              "_id": "54c31f3fa0e0f9b4fcae531e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 160000
+              }
+            }
+          ],
+          "target": "54c31f3fa0e0f9b4fcae531e",
+          "type": "Item",
+          "value": "160000"
+        },
+        {
+          "id": "fc90bf513ddafb5e9ea8a946",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dd0c8a1f2bf647da794bd51d",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 400
+              }
+            }
+          ],
+          "target": "dd0c8a1f2bf647da794bd51d",
+          "type": "Item",
+          "value": "400"
+        },
+        {
+          "id": "d1ed23b4e5b6a9e2acf66268",
+          "index": 6,
+          "items": [
+            {
+              "_id": "781f7c6d43ee2fc5bfcb9de4",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 320
+              }
+            }
+          ],
+          "target": "781f7c6d43ee2fc5bfcb9de4",
+          "type": "Item",
+          "value": "320"
+        },
+        {
+          "id": "4ce7bf1141cbaf52f696e6ef",
+          "index": 7,
+          "items": [
+            {
+              "_id": "931ad09dd17e74913aa1cbed",
+              "_tpl": "628e4e576d783146b124c64d",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "931ad09dd17e74913aa1cbed",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "da2eab45ccacc9c402b3aeb7 startedMessageText",
+    "successMessageText": "da2eab45ccacc9c402b3aeb7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "958ac00eddde25cd64eface0": {
+    "QuestName": "[Lab] Ultrasound: GSSh-01 active headset Trade",
+    "_id": "958ac00eddde25cd64eface0",
+    "acceptPlayerMessage": "958ac00eddde25cd64eface0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "958ac00eddde25cd64eface0 changeQuestMessageText",
+    "completePlayerMessage": "958ac00eddde25cd64eface0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ad8586efa16e26eaaf7c91b",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5b432b965acfc47a8774094e",
+            "6033fa48ffd42c541047f728",
+            "5c165d832e2216398b5a7e36",
+            "5645bcc04bdc2d363b8b4572",
+            "5aa2ba71e5b5b000137b758f",
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aec3cded4b70bcdf2ee0bf33",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0e36c704cbf221001fa29ecc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "958ac00eddde25cd64eface0 declinePlayerMessage",
+    "description": "958ac00eddde25cd64eface0 description",
+    "failMessageText": "958ac00eddde25cd64eface0 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "958ac00eddde25cd64eface0 name",
+    "note": "958ac00eddde25cd64eface0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d9c29cd4af2bc65ccccbcdb1",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "a27fa6dee20bcff3f093c1aa",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2f32ff17caccefdb0ac8fa53",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 47110
+              }
+            }
+          ],
+          "target": "2f32ff17caccefdb0ac8fa53",
+          "type": "Item",
+          "value": "47110"
+        },
+        {
+          "id": "0f4fcadea2bc1efaa4bb4c54",
+          "index": 5,
+          "items": [
+            {
+              "_id": "29cbf458a7d6e10bae6b8cff",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 100
+              }
+            }
+          ],
+          "target": "29cbf458a7d6e10bae6b8cff",
+          "type": "Item",
+          "value": "100"
+        },
+        {
+          "id": "dabeed7c027ebfd98a5ff1ba",
+          "index": 6,
+          "items": [
+            {
+              "_id": "bc693eba69fb1fa6df17f39e",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 80
+              }
+            }
+          ],
+          "target": "bc693eba69fb1fa6df17f39e",
+          "type": "Item",
+          "value": "80"
+        },
+        {
+          "id": "df8d54d42e5f3c70bfaeb4af",
+          "index": 7,
+          "items": [
+            {
+              "_id": "5a4f3ab67a1121acfe8a48b1",
+              "_tpl": "5b432b965acfc47a8774094e",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "5a4f3ab67a1121acfe8a48b1",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "958ac00eddde25cd64eface0 startedMessageText",
+    "successMessageText": "958ac00eddde25cd64eface0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "4377bb6e6b9a1dce8b6fee30": {
+    "QuestName": "[Lab] Ultrasound: OPSMEN Earmor M32 headset Trade",
+    "_id": "4377bb6e6b9a1dce8b6fee30",
+    "acceptPlayerMessage": "4377bb6e6b9a1dce8b6fee30 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4377bb6e6b9a1dce8b6fee30 changeQuestMessageText",
+    "completePlayerMessage": "4377bb6e6b9a1dce8b6fee30 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b2fad9b6ed47c7f85778ffc0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "6033fa48ffd42c541047f728",
+            "5c165d832e2216398b5a7e36",
+            "5645bcc04bdc2d363b8b4572",
+            "5aa2ba71e5b5b000137b758f",
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bb5effd3b38ff3c9fd1bc6cb",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b0d7666bba3beb7fd317215a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "274d280116cdf0bf5fad4e01",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "958ac00eddde25cd64eface0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4377bb6e6b9a1dce8b6fee30 declinePlayerMessage",
+    "description": "4377bb6e6b9a1dce8b6fee30 description",
+    "failMessageText": "4377bb6e6b9a1dce8b6fee30 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4377bb6e6b9a1dce8b6fee30 name",
+    "note": "4377bb6e6b9a1dce8b6fee30 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "395718c595a116cea74bef9e",
+          "index": 3,
+          "type": "Experience",
+          "value": "6000"
+        },
+        {
+          "id": "990eec636c15fd5e3d0e6aeb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "af80c9c10aea1942f20dbe0a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 76344
+              }
+            }
+          ],
+          "target": "af80c9c10aea1942f20dbe0a",
+          "type": "Item",
+          "value": "76344"
+        },
+        {
+          "id": "8ce6bf0bfc3def58f12fe5cf",
+          "index": 5,
+          "items": [
+            {
+              "_id": "c169cebed1a3acfbcaf68adc",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 200
+              }
+            }
+          ],
+          "target": "c169cebed1a3acfbcaf68adc",
+          "type": "Item",
+          "value": "200"
+        },
+        {
+          "id": "683c822d9603f2cc2db90c1d",
+          "index": 6,
+          "items": [
+            {
+              "_id": "e7b689c0aa61cf79ec17b2cd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 160
+              }
+            }
+          ],
+          "target": "e7b689c0aa61cf79ec17b2cd",
+          "type": "Item",
+          "value": "160"
+        },
+        {
+          "id": "37ecbb8c0befdbfdd72eab0d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "8958ba634c1bf3dd1d0ce6eb",
+              "_tpl": "6033fa48ffd42c541047f728",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "8958ba634c1bf3dd1d0ce6eb",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4377bb6e6b9a1dce8b6fee30 startedMessageText",
+    "successMessageText": "4377bb6e6b9a1dce8b6fee30 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "fedea5312c3e27fdcbf5b923": {
+    "QuestName": "[Lab] Ultrasound: Peltor Tactical Sport headset Trade",
+    "_id": "fedea5312c3e27fdcbf5b923",
+    "acceptPlayerMessage": "fedea5312c3e27fdcbf5b923 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fedea5312c3e27fdcbf5b923 changeQuestMessageText",
+    "completePlayerMessage": "fedea5312c3e27fdcbf5b923 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b4ff31c47ecdde647dc0a72d",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5c165d832e2216398b5a7e36",
+            "5645bcc04bdc2d363b8b4572",
+            "5aa2ba71e5b5b000137b758f",
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "582bb4db84efac5f528412dc",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "95bca8fafef0e73b2d40debc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "adcdf0a585fbbb7dcdd9e226",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4377bb6e6b9a1dce8b6fee30"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fedea5312c3e27fdcbf5b923 declinePlayerMessage",
+    "description": "fedea5312c3e27fdcbf5b923 description",
+    "failMessageText": "fedea5312c3e27fdcbf5b923 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fedea5312c3e27fdcbf5b923 name",
+    "note": "fedea5312c3e27fdcbf5b923 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "08dd5d40e4e06a71e98e3be0",
+          "index": 3,
+          "type": "Experience",
+          "value": "9000"
+        },
+        {
+          "id": "a36b135c6eb7653c4a06a5da",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7a6cf83cbe4d2d4ffa7dd35c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 105744
+              }
+            }
+          ],
+          "target": "7a6cf83cbe4d2d4ffa7dd35c",
+          "type": "Item",
+          "value": "105744"
+        },
+        {
+          "id": "d166c194aea7a0d2a6a262f7",
+          "index": 5,
+          "items": [
+            {
+              "_id": "0757bb20ec84b686fa1fcbae",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 300
+              }
+            }
+          ],
+          "target": "0757bb20ec84b686fa1fcbae",
+          "type": "Item",
+          "value": "300"
+        },
+        {
+          "id": "b6be10ef4b9fa198dea393dd",
+          "index": 6,
+          "items": [
+            {
+              "_id": "c539c5481f1b28e9e23e9cce",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 240
+              }
+            }
+          ],
+          "target": "c539c5481f1b28e9e23e9cce",
+          "type": "Item",
+          "value": "240"
+        },
+        {
+          "id": "cdd2aca39cffeef8eb0a00cb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "1ee092ec29c3cad8ebba19ca",
+              "_tpl": "5c165d832e2216398b5a7e36",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "1ee092ec29c3cad8ebba19ca",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fedea5312c3e27fdcbf5b923 startedMessageText",
+    "successMessageText": "fedea5312c3e27fdcbf5b923 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "d376caa119b277d2af2cff8c": {
+    "QuestName": "[Lab] Ultrasound: Peltor ComTac 2 headset Trade",
+    "_id": "d376caa119b277d2af2cff8c",
+    "acceptPlayerMessage": "d376caa119b277d2af2cff8c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d376caa119b277d2af2cff8c changeQuestMessageText",
+    "completePlayerMessage": "d376caa119b277d2af2cff8c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dc502e7b01acc0a7ef30bffc",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5645bcc04bdc2d363b8b4572",
+            "5aa2ba71e5b5b000137b758f",
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "6",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d8550c6fbe0e5ad9ae0bc4e1",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d7ada25e9e093cadcfd4a676"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5753a6ebed2d28e4cbbadccb",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fedea5312c3e27fdcbf5b923"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d376caa119b277d2af2cff8c declinePlayerMessage",
+    "description": "d376caa119b277d2af2cff8c description",
+    "failMessageText": "d376caa119b277d2af2cff8c failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d376caa119b277d2af2cff8c name",
+    "note": "d376caa119b277d2af2cff8c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "71cefcaac9e7e90f27cb9551",
+          "index": 3,
+          "type": "Experience",
+          "value": "12000"
+        },
+        {
+          "id": "ccde3ec9dfadeee32e5cc2ce",
+          "index": 4,
+          "items": [
+            {
+              "_id": "770b5be314eddaa9b4cf258e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 135050
+              }
+            }
+          ],
+          "target": "770b5be314eddaa9b4cf258e",
+          "type": "Item",
+          "value": "135050"
+        },
+        {
+          "id": "66aadeacb6dcdd4e60fabd6e",
+          "index": 5,
+          "items": [
+            {
+              "_id": "59eee5d77ca8eeb5eae5f1cc",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 400
+              }
+            }
+          ],
+          "target": "59eee5d77ca8eeb5eae5f1cc",
+          "type": "Item",
+          "value": "400"
+        },
+        {
+          "id": "eff5ceb3b6509ed727bf5aeb",
+          "index": 6,
+          "items": [
+            {
+              "_id": "1d1de560faf895d9bce1dfbd",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 320
+              }
+            }
+          ],
+          "target": "1d1de560faf895d9bce1dfbd",
+          "type": "Item",
+          "value": "320"
+        },
+        {
+          "id": "1facf2ec0bf14ed4e6513cec",
+          "index": 7,
+          "items": [
+            {
+              "_id": "b6ad0c8fee8849dfacdcad1b",
+              "_tpl": "5645bcc04bdc2d363b8b4572",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "b6ad0c8fee8849dfacdcad1b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d376caa119b277d2af2cff8c startedMessageText",
+    "successMessageText": "d376caa119b277d2af2cff8c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "970ee4d9bb4f1d6827e60a6d": {
+    "QuestName": "[Lab] Ultrasound: MSA Sordin Supreme PRO-X/L active headset Trade",
+    "_id": "970ee4d9bb4f1d6827e60a6d",
+    "acceptPlayerMessage": "970ee4d9bb4f1d6827e60a6d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "970ee4d9bb4f1d6827e60a6d changeQuestMessageText",
+    "completePlayerMessage": "970ee4d9bb4f1d6827e60a6d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed4872fdb28a7bc314d639ea",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5aa2ba71e5b5b000137b758f",
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed51b8e68dc2a712f5a1dfb7",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fdcc91cfe6eee756b4f397b5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bd9632bb6bcdb2c6aa0c6e2e",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d376caa119b277d2af2cff8c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "970ee4d9bb4f1d6827e60a6d declinePlayerMessage",
+    "description": "970ee4d9bb4f1d6827e60a6d description",
+    "failMessageText": "970ee4d9bb4f1d6827e60a6d failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "970ee4d9bb4f1d6827e60a6d name",
+    "note": "970ee4d9bb4f1d6827e60a6d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fc07a97debcb1f5e2f9beb9d",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "bf04e78e1dea5dab6ffa38ca",
+          "index": 4,
+          "items": [
+            {
+              "_id": "61b81ed46e5b628c4d7b6f9f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 157898
+              }
+            }
+          ],
+          "target": "61b81ed46e5b628c4d7b6f9f",
+          "type": "Item",
+          "value": "157898"
+        },
+        {
+          "id": "e4ee4fed18c26d672eceef0b",
+          "index": 5,
+          "items": [
+            {
+              "_id": "e97d8b0b51dbda98bbb6fbde",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "e97d8b0b51dbda98bbb6fbde",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "aa2fbec823cc3775d66abacf",
+          "index": 6,
+          "items": [
+            {
+              "_id": "7c5cd0cff2abd1d28633be1b",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 400
+              }
+            }
+          ],
+          "target": "7c5cd0cff2abd1d28633be1b",
+          "type": "Item",
+          "value": "400"
+        },
+        {
+          "id": "79c7c556be71b4e35ef3f6ff",
+          "index": 7,
+          "items": [
+            {
+              "_id": "f8a58f6dfde99fafaacfa7cd",
+              "_tpl": "5aa2ba71e5b5b000137b758f",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "f8a58f6dfde99fafaacfa7cd",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "970ee4d9bb4f1d6827e60a6d startedMessageText",
+    "successMessageText": "970ee4d9bb4f1d6827e60a6d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "21e1dcd49d017e247ab67601": {
+    "QuestName": "[Lab] Ultrasound: Ops-Core FAST RAC Headset Trade",
+    "_id": "21e1dcd49d017e247ab67601",
+    "acceptPlayerMessage": "21e1dcd49d017e247ab67601 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "21e1dcd49d017e247ab67601 changeQuestMessageText",
+    "completePlayerMessage": "21e1dcd49d017e247ab67601 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "faf0c5d0650c01fe8ea7b25f",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5a16b9fffcdbcb0176308b34",
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "8",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3dfffb98f7c98fc2bbdf2bde",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "862586164fbdea6c9ebca1ae"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9bdde04acac3f36d526e2fb7",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "970ee4d9bb4f1d6827e60a6d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "21e1dcd49d017e247ab67601 declinePlayerMessage",
+    "description": "21e1dcd49d017e247ab67601 description",
+    "failMessageText": "21e1dcd49d017e247ab67601 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "21e1dcd49d017e247ab67601 name",
+    "note": "21e1dcd49d017e247ab67601 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "dafb3cff6bb5f3816ede8725",
+          "index": 3,
+          "type": "Experience",
+          "value": "18000"
+        },
+        {
+          "id": "58e5ec2d6b4cb877bbe21b6c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "8abc334ce30d3de84825f88f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 176130
+              }
+            }
+          ],
+          "target": "8abc334ce30d3de84825f88f",
+          "type": "Item",
+          "value": "176130"
+        },
+        {
+          "id": "fe2ab6c3ea2db2a0afbd353b",
+          "index": 5,
+          "items": [
+            {
+              "_id": "d2cf4ef8a7e5618ac2d96a3d",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 600
+              }
+            }
+          ],
+          "target": "d2cf4ef8a7e5618ac2d96a3d",
+          "type": "Item",
+          "value": "600"
+        },
+        {
+          "id": "efce6ca4118bfbfbcbfd72da",
+          "index": 6,
+          "items": [
+            {
+              "_id": "7f252ed2abeb33d81f7dbcc8",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 480
+              }
+            }
+          ],
+          "target": "7f252ed2abeb33d81f7dbcc8",
+          "type": "Item",
+          "value": "480"
+        },
+        {
+          "id": "13949abae152c5ded5ba636f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "a7d97272bfab4233d4a7a61b",
+              "_tpl": "5a16b9fffcdbcb0176308b34",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "a7d97272bfab4233d4a7a61b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "21e1dcd49d017e247ab67601 startedMessageText",
+    "successMessageText": "21e1dcd49d017e247ab67601 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "fc7af39bd7c49fdaf85bf2e9": {
+    "QuestName": "[Lab] Ultrasound: Walker's Razor Digital headset Trade",
+    "_id": "fc7af39bd7c49fdaf85bf2e9",
+    "acceptPlayerMessage": "fc7af39bd7c49fdaf85bf2e9 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fc7af39bd7c49fdaf85bf2e9 changeQuestMessageText",
+    "completePlayerMessage": "fc7af39bd7c49fdaf85bf2e9 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aac13866caa918f22dbf1fca",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5e4d34ca86f774264f758330",
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a6b75d5fe14c6c6aaeac8237",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "babf78e5ce3cc3c66bfa84ee"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "afc6e28e809da61c49d645f1",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "21e1dcd49d017e247ab67601"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fc7af39bd7c49fdaf85bf2e9 declinePlayerMessage",
+    "description": "fc7af39bd7c49fdaf85bf2e9 description",
+    "failMessageText": "fc7af39bd7c49fdaf85bf2e9 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fc7af39bd7c49fdaf85bf2e9 name",
+    "note": "fc7af39bd7c49fdaf85bf2e9 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "75eeeff4c7abd15edbf73072",
+          "index": 3,
+          "type": "Experience",
+          "value": "21000"
+        },
+        {
+          "id": "bfee3cbd73ed4e0eaebfa7a2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "8f11320dfe5fcffaccd19a68",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 199012
+              }
+            }
+          ],
+          "target": "8f11320dfe5fcffaccd19a68",
+          "type": "Item",
+          "value": "199012"
+        },
+        {
+          "id": "97c47beb39bb3e06d1af0f96",
+          "index": 5,
+          "items": [
+            {
+              "_id": "bed3fffc7ed1e4cfcb49d6b6",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 700
+              }
+            }
+          ],
+          "target": "bed3fffc7ed1e4cfcb49d6b6",
+          "type": "Item",
+          "value": "700"
+        },
+        {
+          "id": "dcfe7fb2a34bdbff9bf0dbda",
+          "index": 6,
+          "items": [
+            {
+              "_id": "b69daabadeaf7df8eec0e623",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 560
+              }
+            }
+          ],
+          "target": "b69daabadeaf7df8eec0e623",
+          "type": "Item",
+          "value": "560"
+        },
+        {
+          "id": "0dd2cb239ebbdc4c6c41af7c",
+          "index": 7,
+          "items": [
+            {
+              "_id": "c07efaad20cede5b63b77b3a",
+              "_tpl": "5e4d34ca86f774264f758330",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "c07efaad20cede5b63b77b3a",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fc7af39bd7c49fdaf85bf2e9 startedMessageText",
+    "successMessageText": "fc7af39bd7c49fdaf85bf2e9 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "c835ffb69ad5fd799ed02ceb": {
+    "QuestName": "[Lab] Ultrasound: Walker's XCEL 500BT Digital headset Trade",
+    "_id": "c835ffb69ad5fd799ed02ceb",
+    "acceptPlayerMessage": "c835ffb69ad5fd799ed02ceb acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "c835ffb69ad5fd799ed02ceb changeQuestMessageText",
+    "completePlayerMessage": "c835ffb69ad5fd799ed02ceb completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "115de02ba2ab08d6df0e40b4",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5f60cd6cf2bcbb675b00dac6",
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f724c553dff32dd2af30ca0e",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d8d0b52bdc3fda7e606fd4bf"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f9887544226aee8dd7cd9d6b",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fc7af39bd7c49fdaf85bf2e9"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "c835ffb69ad5fd799ed02ceb declinePlayerMessage",
+    "description": "c835ffb69ad5fd799ed02ceb description",
+    "failMessageText": "c835ffb69ad5fd799ed02ceb failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "c835ffb69ad5fd799ed02ceb name",
+    "note": "c835ffb69ad5fd799ed02ceb note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "eea50a56ad0904a8fddec36d",
+          "index": 3,
+          "type": "Experience",
+          "value": "24000"
+        },
+        {
+          "id": "25b43c77aabbf73e8cdd67e7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "16a5c5233c223bcda708fa9b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 238320
+              }
+            }
+          ],
+          "target": "16a5c5233c223bcda708fa9b",
+          "type": "Item",
+          "value": "238320"
+        },
+        {
+          "id": "eaa06867a6fc3f15b0d66cf6",
+          "index": 5,
+          "items": [
+            {
+              "_id": "8d9ba1dca6fd74dbb792ccb8",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 800
+              }
+            }
+          ],
+          "target": "8d9ba1dca6fd74dbb792ccb8",
+          "type": "Item",
+          "value": "800"
+        },
+        {
+          "id": "d1fb88cdfdeb03be89dcb6af",
+          "index": 6,
+          "items": [
+            {
+              "_id": "ac6fc9bbb70e4a37daa7ac29",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 640
+              }
+            }
+          ],
+          "target": "ac6fc9bbb70e4a37daa7ac29",
+          "type": "Item",
+          "value": "640"
+        },
+        {
+          "id": "9f5e4fcbd5f983e2d73d5ecf",
+          "index": 7,
+          "items": [
+            {
+              "_id": "943b4c8e756cd15cdd8ed8b1",
+              "_tpl": "5f60cd6cf2bcbb675b00dac6",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "943b4c8e756cd15cdd8ed8b1",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "c835ffb69ad5fd799ed02ceb startedMessageText",
+    "successMessageText": "c835ffb69ad5fd799ed02ceb successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  },
+  "ebf7ea7dd78a7eab513d8d30": {
+    "QuestName": "[Lab] Ultrasound: Peltor ComTac IV Hybrid headset (Coyote Brown) Trade",
+    "_id": "ebf7ea7dd78a7eab513d8d30",
+    "acceptPlayerMessage": "ebf7ea7dd78a7eab513d8d30 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ebf7ea7dd78a7eab513d8d30 changeQuestMessageText",
+    "completePlayerMessage": "ebf7ea7dd78a7eab513d8d30 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ec78137a480c92aa9ea91d44",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "628e4e576d783146b124c64d"
+          ],
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bfce00bc35fcefc0dcfaea8a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "da2eab45ccacc9c402b3aeb7"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4b55fcd989f30d1adffa366c",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c835ffb69ad5fd799ed02ceb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ebf7ea7dd78a7eab513d8d30 declinePlayerMessage",
+    "description": "ebf7ea7dd78a7eab513d8d30 description",
+    "failMessageText": "ebf7ea7dd78a7eab513d8d30 failMessageText",
+    "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ebf7ea7dd78a7eab513d8d30 name",
+    "note": "ebf7ea7dd78a7eab513d8d30 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "db6af76670b10fa4aaf4b22f",
+          "index": 3,
+          "type": "Experience",
+          "value": "24000"
+        },
+        {
+          "id": "f23cafe8bea9ce8b35abbcb2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d245ecabd718cf1fc1ea9532",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 238320
+              }
+            }
+          ],
+          "target": "d245ecabd718cf1fc1ea9532",
+          "type": "Item",
+          "value": "238320"
+        },
+        {
+          "id": "fd0e5f7bd850ffb30da4d6f8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "0aa967e4f0aee685da7b6967",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 800
+              }
+            }
+          ],
+          "target": "0aa967e4f0aee685da7b6967",
+          "type": "Item",
+          "value": "800"
+        },
+        {
+          "id": "3f3a7bceade94becd5d2d7a5",
+          "index": 6,
+          "items": [
+            {
+              "_id": "2bbf4b2baebf94c6f7bec91b",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 640
+              }
+            }
+          ],
+          "target": "2bbf4b2baebf94c6f7bec91b",
+          "type": "Item",
+          "value": "640"
+        },
+        {
+          "id": "679574cd8637c1ece54cfe3f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "f202753efa000776a00fca31",
+              "_tpl": "628e4e576d783146b124c64d",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "f202753efa000776a00fca31",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ebf7ea7dd78a7eab513d8d30 startedMessageText",
+    "successMessageText": "ebf7ea7dd78a7eab513d8d30 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Completion"
+  }
+}

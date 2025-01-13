@@ -1,0 +1,979 @@
+{
+  "86f5ccb2f4da3808b56a7ca1": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 1 Rogue(s)",
+    "_id": "86f5ccb2f4da3808b56a7ca1",
+    "acceptPlayerMessage": "86f5ccb2f4da3808b56a7ca1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "86f5ccb2f4da3808b56a7ca1 changeQuestMessageText",
+    "completePlayerMessage": "86f5ccb2f4da3808b56a7ca1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "67c7427de82cd9b1a2c1384f",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "80f9d4caedeb599ead662a1f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "063b83a199f4ada0dbedb6c7",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "86f5ccb2f4da3808b56a7ca1 declinePlayerMessage",
+    "description": "86f5ccb2f4da3808b56a7ca1 description",
+    "failMessageText": "86f5ccb2f4da3808b56a7ca1 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "86f5ccb2f4da3808b56a7ca1 name",
+    "note": "86f5ccb2f4da3808b56a7ca1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c27f3cc8b83551ee82dca1ee",
+          "index": 3,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "5338adaab9abf46d041354fb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "426fcf2eb3565d7cd35a2a8b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "426fcf2eb3565d7cd35a2a8b",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "86f5ccb2f4da3808b56a7ca1 startedMessageText",
+    "successMessageText": "86f5ccb2f4da3808b56a7ca1 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "a2b4474cbed0fcb2193a1cef": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 3 Rogue(s)",
+    "_id": "a2b4474cbed0fcb2193a1cef",
+    "acceptPlayerMessage": "a2b4474cbed0fcb2193a1cef acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a2b4474cbed0fcb2193a1cef changeQuestMessageText",
+    "completePlayerMessage": "a2b4474cbed0fcb2193a1cef completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "094d81773ace9c4ebbab9aeb",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e0aef7eea30e66f137745a7b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f0920a63bf3a4c2fbcb4e12c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed0efd39bf5ab97eadb3dba7",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "86f5ccb2f4da3808b56a7ca1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a2b4474cbed0fcb2193a1cef declinePlayerMessage",
+    "description": "a2b4474cbed0fcb2193a1cef description",
+    "failMessageText": "a2b4474cbed0fcb2193a1cef failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a2b4474cbed0fcb2193a1cef name",
+    "note": "a2b4474cbed0fcb2193a1cef note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4b591ae6ed913f892cba29ee",
+          "index": 3,
+          "type": "Experience",
+          "value": "750"
+        },
+        {
+          "id": "27db764d4bf96ddcbfbcc67a",
+          "index": 4,
+          "items": [
+            {
+              "_id": "aadf09dadc26d90db9f7c8be",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "aadf09dadc26d90db9f7c8be",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a2b4474cbed0fcb2193a1cef startedMessageText",
+    "successMessageText": "a2b4474cbed0fcb2193a1cef successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "557d0aadfe7b5208de20cc01": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 5 Rogue(s)",
+    "_id": "557d0aadfe7b5208de20cc01",
+    "acceptPlayerMessage": "557d0aadfe7b5208de20cc01 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "557d0aadfe7b5208de20cc01 changeQuestMessageText",
+    "completePlayerMessage": "557d0aadfe7b5208de20cc01 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "319ddda43ae3cdbe58fadcae",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "808caab0c138f95e82edced1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bde341cc60bb8d8e94e17516",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ebb913cc1adcddebd64782b1",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a2b4474cbed0fcb2193a1cef"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "557d0aadfe7b5208de20cc01 declinePlayerMessage",
+    "description": "557d0aadfe7b5208de20cc01 description",
+    "failMessageText": "557d0aadfe7b5208de20cc01 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "557d0aadfe7b5208de20cc01 name",
+    "note": "557d0aadfe7b5208de20cc01 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f40c2a1e2ec66a7ee7b43bed",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "bedbe48af3cf9764f4f6d9ee",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7f4abe5b509ccbbfad7e666c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "7f4abe5b509ccbbfad7e666c",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "557d0aadfe7b5208de20cc01 startedMessageText",
+    "successMessageText": "557d0aadfe7b5208de20cc01 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "ca737ace3a20980fc1aee7ea": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 7 Rogue(s)",
+    "_id": "ca737ace3a20980fc1aee7ea",
+    "acceptPlayerMessage": "ca737ace3a20980fc1aee7ea acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ca737ace3a20980fc1aee7ea changeQuestMessageText",
+    "completePlayerMessage": "ca737ace3a20980fc1aee7ea completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "be9406d4d67ddfb4cc057c91",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "f61a8bec80c6ed44e5ca02e3"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "edcccad7c327c64f3472ae63",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "42453bdc8ff401adaccf0d3d",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "557d0aadfe7b5208de20cc01"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ca737ace3a20980fc1aee7ea declinePlayerMessage",
+    "description": "ca737ace3a20980fc1aee7ea description",
+    "failMessageText": "ca737ace3a20980fc1aee7ea failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ca737ace3a20980fc1aee7ea name",
+    "note": "ca737ace3a20980fc1aee7ea note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ced6bbd6b098ffeb4bab66da",
+          "index": 3,
+          "type": "Experience",
+          "value": "1750"
+        },
+        {
+          "id": "b9b8d57e7634f109db0fcda7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "631e11f01ddf74d8fa13fe2f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 70000
+              }
+            }
+          ],
+          "target": "631e11f01ddf74d8fa13fe2f",
+          "type": "Item",
+          "value": "70000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ca737ace3a20980fc1aee7ea startedMessageText",
+    "successMessageText": "ca737ace3a20980fc1aee7ea successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "dec725d1adafeb2c3ad44a02": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 9 Rogue(s)",
+    "_id": "dec725d1adafeb2c3ad44a02",
+    "acceptPlayerMessage": "dec725d1adafeb2c3ad44a02 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dec725d1adafeb2c3ad44a02 changeQuestMessageText",
+    "completePlayerMessage": "dec725d1adafeb2c3ad44a02 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "86716ececc604f2e4ea2bbaf",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "f5d8b886ce30dcd16d576f5f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d4ed6fa6bb02c8bf2acfde82",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e8dbcdce5eeafde3fba2f015",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ca737ace3a20980fc1aee7ea"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dec725d1adafeb2c3ad44a02 declinePlayerMessage",
+    "description": "dec725d1adafeb2c3ad44a02 description",
+    "failMessageText": "dec725d1adafeb2c3ad44a02 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dec725d1adafeb2c3ad44a02 name",
+    "note": "dec725d1adafeb2c3ad44a02 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a6be6ef05f588eb40253fe6d",
+          "index": 3,
+          "type": "Experience",
+          "value": "2250"
+        },
+        {
+          "id": "627adbb27ce0fa3027ae77e8",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dc2ce659eabdbcde14eacd7b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 90000
+              }
+            }
+          ],
+          "target": "dc2ce659eabdbcde14eacd7b",
+          "type": "Item",
+          "value": "90000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dec725d1adafeb2c3ad44a02 startedMessageText",
+    "successMessageText": "dec725d1adafeb2c3ad44a02 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "59ed4e722f3a7abcf9b7f9a5": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 12 Rogue(s)",
+    "_id": "59ed4e722f3a7abcf9b7f9a5",
+    "acceptPlayerMessage": "59ed4e722f3a7abcf9b7f9a5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "59ed4e722f3a7abcf9b7f9a5 changeQuestMessageText",
+    "completePlayerMessage": "59ed4e722f3a7abcf9b7f9a5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a8ea94667d35d9a6cedaaa6c",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2cddbcfc98cb52ab45ba8074"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9a6e9c94435e4ef5c4aba001",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f033b4b5aa28c12ebfcd3a83",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dec725d1adafeb2c3ad44a02"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "59ed4e722f3a7abcf9b7f9a5 declinePlayerMessage",
+    "description": "59ed4e722f3a7abcf9b7f9a5 description",
+    "failMessageText": "59ed4e722f3a7abcf9b7f9a5 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "59ed4e722f3a7abcf9b7f9a5 name",
+    "note": "59ed4e722f3a7abcf9b7f9a5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c37a1c930e0a6a64dcaba620",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "d07fbb0edef310ded9b98cd2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dee94387fd8d8e652700ebe7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "dee94387fd8d8e652700ebe7",
+          "type": "Item",
+          "value": "120000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "59ed4e722f3a7abcf9b7f9a5 startedMessageText",
+    "successMessageText": "59ed4e722f3a7abcf9b7f9a5 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "deba59ec74dfbb734df00546": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 15 Rogue(s)",
+    "_id": "deba59ec74dfbb734df00546",
+    "acceptPlayerMessage": "deba59ec74dfbb734df00546 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "deba59ec74dfbb734df00546 changeQuestMessageText",
+    "completePlayerMessage": "deba59ec74dfbb734df00546 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dc6ffd1a4df131cb6eacb7b7",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "6cafb91bff771f83bc3ace70"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "adaaad79ddfc67b9d4edc44b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbfbd6dbd56d10beac0ae6dd",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "59ed4e722f3a7abcf9b7f9a5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "deba59ec74dfbb734df00546 declinePlayerMessage",
+    "description": "deba59ec74dfbb734df00546 description",
+    "failMessageText": "deba59ec74dfbb734df00546 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "deba59ec74dfbb734df00546 name",
+    "note": "deba59ec74dfbb734df00546 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "efcebee944d8a739cf541dff",
+          "index": 3,
+          "type": "Experience",
+          "value": "3750"
+        },
+        {
+          "id": "ed4c2ff28856f772ab3cee2b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "61024daf7ebadaf66a07ed8a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "61024daf7ebadaf66a07ed8a",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "deba59ec74dfbb734df00546 startedMessageText",
+    "successMessageText": "deba59ec74dfbb734df00546 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "ff0ce8fbee1fcac6ac7ca8f4": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 20 Rogue(s)",
+    "_id": "ff0ce8fbee1fcac6ac7ca8f4",
+    "acceptPlayerMessage": "ff0ce8fbee1fcac6ac7ca8f4 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ff0ce8fbee1fcac6ac7ca8f4 changeQuestMessageText",
+    "completePlayerMessage": "ff0ce8fbee1fcac6ac7ca8f4 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "9aef656c5fb8fb9aa711bbd5",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2ea3eaebcd6fbe65d9376e5b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "82f4f4d8ebd35774dfaae748",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "31bfe4d11d79abb551bdada2",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "deba59ec74dfbb734df00546"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ff0ce8fbee1fcac6ac7ca8f4 declinePlayerMessage",
+    "description": "ff0ce8fbee1fcac6ac7ca8f4 description",
+    "failMessageText": "ff0ce8fbee1fcac6ac7ca8f4 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ff0ce8fbee1fcac6ac7ca8f4 name",
+    "note": "ff0ce8fbee1fcac6ac7ca8f4 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d0fb12c413caf141ed8a1ad6",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "3213032a3fcff2ecacce0d06",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ba0d1b62d4e630f6dbbee1df",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "ba0d1b62d4e630f6dbbee1df",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ff0ce8fbee1fcac6ac7ca8f4 startedMessageText",
+    "successMessageText": "ff0ce8fbee1fcac6ac7ca8f4 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "ad2dc6490a6611414a8b3738": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 50 Rogue(s)",
+    "_id": "ad2dc6490a6611414a8b3738",
+    "acceptPlayerMessage": "ad2dc6490a6611414a8b3738 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ad2dc6490a6611414a8b3738 changeQuestMessageText",
+    "completePlayerMessage": "ad2dc6490a6611414a8b3738 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3dda9bd57ee2392d0fad2b8b",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "b9c6bcbada59cbdbfd9587aa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "afbb74d4d4edc4d3a437ca44",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "af8dd2e866b3cd93cc6c03ac",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ff0ce8fbee1fcac6ac7ca8f4"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ad2dc6490a6611414a8b3738 declinePlayerMessage",
+    "description": "ad2dc6490a6611414a8b3738 description",
+    "failMessageText": "ad2dc6490a6611414a8b3738 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ad2dc6490a6611414a8b3738 name",
+    "note": "ad2dc6490a6611414a8b3738 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "dc9a8c84ace2ae16fb6ceba1",
+          "index": 3,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "5fdc7da3d9bdf1dcea9b2374",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0c0cdbde53032335cd65cafd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "0c0cdbde53032335cd65cafd",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ad2dc6490a6611414a8b3738 startedMessageText",
+    "successMessageText": "ad2dc6490a6611414a8b3738 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "3f6f7aeeacbda32dcb8cfea4": {
+    "QuestName": "[Fen] Rogue Hunt: Clear Tarkov from 100 Rogue(s)",
+    "_id": "3f6f7aeeacbda32dcb8cfea4",
+    "acceptPlayerMessage": "3f6f7aeeacbda32dcb8cfea4 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "3f6f7aeeacbda32dcb8cfea4 changeQuestMessageText",
+    "completePlayerMessage": "3f6f7aeeacbda32dcb8cfea4 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1431df6ff8f29a7bbbbe586e",
+                "savageRole": [
+                  "exUsec"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "3c311f7d0c1c2b2b0cebc8e0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffd0b90fa04eab0f5dc2dc1a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0da58edbf54e45f6dbd68d1b",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ad2dc6490a6611414a8b3738"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "3f6f7aeeacbda32dcb8cfea4 declinePlayerMessage",
+    "description": "3f6f7aeeacbda32dcb8cfea4 description",
+    "failMessageText": "3f6f7aeeacbda32dcb8cfea4 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "3f6f7aeeacbda32dcb8cfea4 name",
+    "note": "3f6f7aeeacbda32dcb8cfea4 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5a046afda3cdde3aecae384b",
+          "index": 3,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "855e2d8e2fedaeaf0ef5b304",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a3fbaf0dfd44e6eafc1eaa1b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1000000
+              }
+            }
+          ],
+          "target": "a3fbaf0dfd44e6eafc1eaa1b",
+          "type": "Item",
+          "value": "1000000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "3f6f7aeeacbda32dcb8cfea4 startedMessageText",
+    "successMessageText": "3f6f7aeeacbda32dcb8cfea4 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "bb0b1fc4fccffbe565cbb2ff": {
+    "QuestName": "[Kho] Survivalist: Streets of Tarkov x2",
+    "_id": "bb0b1fc4fccffbe565cbb2ff",
+    "acceptPlayerMessage": "bb0b1fc4fccffbe565cbb2ff acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bb0b1fc4fccffbe565cbb2ff changeQuestMessageText",
+    "completePlayerMessage": "bb0b1fc4fccffbe565cbb2ff completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "117da3b2cfa077ddaac89b44",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "56e4c0f1422e0b9d10e3e036",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "aa501c6ba553abf5df44e299"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbbdcad2ec08ecc45bba68cd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5ee8fb4c08aaff7dcbfa12ee",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bb0b1fc4fccffbe565cbb2ff declinePlayerMessage",
+    "description": "bb0b1fc4fccffbe565cbb2ff description",
+    "failMessageText": "bb0b1fc4fccffbe565cbb2ff failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bb0b1fc4fccffbe565cbb2ff name",
+    "note": "bb0b1fc4fccffbe565cbb2ff note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a6b2a2ecb2fa946bc62aa33e",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "7c72b195c1acf2db44b9dd4b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "75fced4e05378c07ef7da9be",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "75fced4e05378c07ef7da9be",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bb0b1fc4fccffbe565cbb2ff startedMessageText",
+    "successMessageText": "bb0b1fc4fccffbe565cbb2ff successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "PickUp"
+  },
+  "dfb4fa50ffceaac7ef49ff0a": {
+    "QuestName": "[Kho] Survivalist: Streets of Tarkov x5",
+    "_id": "dfb4fa50ffceaac7ef49ff0a",
+    "acceptPlayerMessage": "dfb4fa50ffceaac7ef49ff0a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "dfb4fa50ffceaac7ef49ff0a changeQuestMessageText",
+    "completePlayerMessage": "dfb4fa50ffceaac7ef49ff0a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "4cafbc2fbc87da12725ffcd8",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "ab62fb3d5c73fdac5beb19bd",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "c05de009e6fdf9afc39f3ded"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cc403febbbecdab6dda46ad6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3c565c5fbdb9bdbfdcd750cf",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "11ab2ab033efc700bf1aac26",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea2741f54fd938f22dfecace"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "049bfe5feb0cbe5baafe9b5d",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e1ee8e8a2285eb1da88f3cd8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e8495b4b15ac6c90d91b963c",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2beda36d4f0acdf781cceb59"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fa5cc9dfae07a7a9dd13a7d7",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0b0044be7829e6a6b3a73f4d"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0e1cffda55dd57f5c67b07bd",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ca4952c179fcd9cfc1a1d5b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2abdf9a83ef847070bafaa1e",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f1aa8dab92793e86a778eb39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b2d48a1ed829ffebc8c2b780",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c9a006c39f0a566daaa2f21f"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f1ce1b7f5f5766d31aee0cfb",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bb0b1fc4fccffbe565cbb2ff"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "dfb4fa50ffceaac7ef49ff0a declinePlayerMessage",
+    "description": "dfb4fa50ffceaac7ef49ff0a description",
+    "failMessageText": "dfb4fa50ffceaac7ef49ff0a failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "dfb4fa50ffceaac7ef49ff0a name",
+    "note": "dfb4fa50ffceaac7ef49ff0a note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7f247e8ae0c249c79ee1edac",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "16ad7e5b5dbffe1c39502f6c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "93c0fbfbd300ffbdf13b1faf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "93c0fbfbd300ffbdf13b1faf",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "dfb4fa50ffceaac7ef49ff0a startedMessageText",
+    "successMessageText": "dfb4fa50ffceaac7ef49ff0a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "PickUp"
+  },
+  "d6fabef5edb84fb1fbc23bda": {
+    "QuestName": "[Kho] Survivalist: Streets of Tarkov x10",
+    "_id": "d6fabef5edb84fb1fbc23bda",
+    "acceptPlayerMessage": "d6fabef5edb84fb1fbc23bda acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d6fabef5edb84fb1fbc23bda changeQuestMessageText",
+    "completePlayerMessage": "d6fabef5edb84fb1fbc23bda completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "4f1a4d18d1a6af44af9cdf16",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "fc53abaf587cc805b9e0a65b",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "ebbca6c9d53c448fe67d51cb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e6c80f9b0fe8a67c5cddc9ee",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6c22acd79b46acbe0fdce1bb",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5077adccd91dcf0bacb6ff3a",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6101e8bf229d74c2faca9b39"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffd2ffc1aeae5ffbdaedf5af",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "da077c0e5fff7ff39a2cde38"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3826d0e6962eeba5819ba15a",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e39face8e4772eb255da7ac5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5df90edeee5cccf1bee0ba11",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b6dce7d3751ea84990be7bb2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ce4e2727ae4ca535558d9f1",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fedacdaadcd9cfdac8c004f3"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4fcf445a444450dec1b983f8",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "52aaacb7cf6d028e32a2ea8a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cb6e470c7de24ae0b1f5ee0e",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6f048439d15dd21d7c2603da"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "affb4d00cc84180d16c1016c",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "dfb4fa50ffceaac7ef49ff0a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d6fabef5edb84fb1fbc23bda declinePlayerMessage",
+    "description": "d6fabef5edb84fb1fbc23bda description",
+    "failMessageText": "d6fabef5edb84fb1fbc23bda failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d6fabef5edb84fb1fbc23bda name",
+    "note": "d6fabef5edb84fb1fbc23bda note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c04fe23fb7dda1f6041bc6ae",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "5d4d43e3a8dba16febcbeeef",
+          "index": 4,
+          "items": [
+            {
+              "_id": "8dbfc69a4f24d13ab6ddedcc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "8dbfc69a4f24d13ab6ddedcc",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d6fabef5edb84fb1fbc23bda startedMessageText",
+    "successMessageText": "d6fabef5edb84fb1fbc23bda successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "PickUp"
+  },
+  "7d6f929e1c2bdbccf8bc576b": {
+    "QuestName": "[Kho] Survivalist: Streets of Tarkov x5",
+    "_id": "7d6f929e1c2bdbccf8bc576b",
+    "acceptPlayerMessage": "7d6f929e1c2bdbccf8bc576b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7d6f929e1c2bdbccf8bc576b changeQuestMessageText",
+    "completePlayerMessage": "7d6f929e1c2bdbccf8bc576b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "8136adb2d8abb1cdc7ac4ee5",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "3bfe0fa89109cf8cfb81a5b8",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "718a6bfcfbdf13dbff008f7a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a3b627ee430bf2db4e30b6af",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ddedd0a3b251f8fbd4cda772",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eeb7dc89e2cba846e78aefb8",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c960cb46c2ed44618cba6eda"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "de1cf12f6e9dd10f8c9f3b1f",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5eadc84b39fb601fe1dd061a"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bde8eccbbcce86cf8097e633",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "1e2d81816d37deaf43e1fbca"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aa7ef8219febf0f820bfceec",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "133b4c8ca5d4e9626a2124ac"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5b0bba0f862ddfad6eb7820a",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bc3ea75d553e05a5cec4bffc"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e3ef0fd281acef29c401bf17",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eab9e49ec8f2da122d4d59d6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8bbe1271f16f2ee9b1afbae",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6a32d4a00247cedaedffec0e"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "86f1adc50bbdca4b8f0842ee",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d6fabef5edb84fb1fbc23bda"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "4b37ecbef98e0acb6c6ebda8",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "d5cab292fbafc5ee53b5aade",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "10af626ca94e7eaabd19ecfd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "8d9d560fe2f2efff02efcaeb",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "7d6f929e1c2bdbccf8bc576b declinePlayerMessage",
+    "description": "7d6f929e1c2bdbccf8bc576b description",
+    "failMessageText": "7d6f929e1c2bdbccf8bc576b failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "7d6f929e1c2bdbccf8bc576b name",
+    "note": "7d6f929e1c2bdbccf8bc576b note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5fa129d2cc37a8e0bed88b5e",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "bdee4cbdfff7cb74981bdede",
+          "index": 5,
+          "items": [
+            {
+              "_id": "294bce22060f7ad28df7acb9",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "294bce22060f7ad28df7acb9",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "af5d9dfbdb6c2c3ae8dadeb2",
+          "index": 6,
+          "items": [
+            {
+              "_id": "dba42ac5fad686db445d33bb",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "dba42ac5fad686db445d33bb",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "fe6f98ef3c3818c9c6bf8d3e",
+          "index": 7,
+          "items": [
+            {
+              "_id": "0bfe2773fcba1ad3c6ba43fc",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "0bfe2773fcba1ad3c6ba43fc",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7d6f929e1c2bdbccf8bc576b startedMessageText",
+    "successMessageText": "7d6f929e1c2bdbccf8bc576b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "PickUp"
+  },
+  "0736fecf28c3bcd15efdf74a": {
+    "QuestName": "[Kho] Survivalist: Streets of Tarkov x10",
+    "_id": "0736fecf28c3bcd15efdf74a",
+    "acceptPlayerMessage": "0736fecf28c3bcd15efdf74a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0736fecf28c3bcd15efdf74a changeQuestMessageText",
+    "completePlayerMessage": "0736fecf28c3bcd15efdf74a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "c32bab07d29efa4b2bbcaafc",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "63f4a909a6eb8ae644dbe835",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "2a2cccdf5be97abbf2ab1ad4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "16b52abfba18b246ffefccb9",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "facf7ed68bcff33fdc896f39",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9b53b0802fd8265bff8eb9a7",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "caaa8addfd6c4f700c5efc42"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1dadb8e1ad0a9c1645c66cd",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "efb061ba8fa7de4501f9cfe9"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3e7fa5a4f03d478be2eeeac1",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4e596b76ea591d4dbb4d148b"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "acfdfb4690fefd7ebd8c2e2a",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a4efbaa5ec6ac68a4a9cd5b4"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2df5b8cdb71dac55e17a7f28",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fefbdaff1bae5f2c2d83dfcd"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "11b1ff97d28fafbde6eb4ca8",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "daf169fe1e14c4bd8fde27e8"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "02ddfbe75a95a40bfddbe407",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3d3b8dc5e3a4999b9a88e9b6"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c0866bca21c36d7fdafdff8d",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7d6f929e1c2bdbccf8bc576b"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "aaf1467d196f2e798e34521e",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "5c032dba5cda93cbd13686c1",
+                "target": [
+                  "TarkovStreets"
+                ]
+              }
+            ],
+            "id": "ee4ce1dc6a40a5d63beaf373"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "8cd2b4cc484f3d1db80fcabd",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "0736fecf28c3bcd15efdf74a declinePlayerMessage",
+    "description": "0736fecf28c3bcd15efdf74a description",
+    "failMessageText": "0736fecf28c3bcd15efdf74a failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0736fecf28c3bcd15efdf74a name",
+    "note": "0736fecf28c3bcd15efdf74a note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9bfbcabaa05976819ca325b0",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "0a16aaacdfb5cba6c66ca626",
+          "index": 5,
+          "items": [
+            {
+              "_id": "fbe344c12ceff5dfb9454358",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "fbe344c12ceff5dfb9454358",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "260f64cb68e7f03a7da1870b",
+          "index": 6,
+          "items": [
+            {
+              "_id": "8c941134ed7e381ef06498e8",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "8c941134ed7e381ef06498e8",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "fe54e654fcf52f712aac5ecd",
+          "index": 7,
+          "items": [
+            {
+              "_id": "d3d3ddbf6d9bf62929dc2795",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "d3d3ddbf6d9bf62929dc2795",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0736fecf28c3bcd15efdf74a startedMessageText",
+    "successMessageText": "0736fecf28c3bcd15efdf74a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "PickUp"
+  }
+}

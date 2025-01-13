@@ -1,0 +1,979 @@
+{
+  "bd40b5fdd946cbce5beef90d": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 1 Raider(s)",
+    "_id": "bd40b5fdd946cbce5beef90d",
+    "acceptPlayerMessage": "bd40b5fdd946cbce5beef90d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bd40b5fdd946cbce5beef90d changeQuestMessageText",
+    "completePlayerMessage": "bd40b5fdd946cbce5beef90d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0e2ac3de40be8e2cddecf6eb",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ba8a4f35c1603ae16b3f2bcb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "94f8db1a6e6d7f70d269bc2d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bd40b5fdd946cbce5beef90d declinePlayerMessage",
+    "description": "bd40b5fdd946cbce5beef90d description",
+    "failMessageText": "bd40b5fdd946cbce5beef90d failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bd40b5fdd946cbce5beef90d name",
+    "note": "bd40b5fdd946cbce5beef90d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "15bb092f8aa308ad524ce01c",
+          "index": 3,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "b6dbc29c2bccdf94a90deec7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2d2a65fcface9b4bd84b1e40",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "2d2a65fcface9b4bd84b1e40",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bd40b5fdd946cbce5beef90d startedMessageText",
+    "successMessageText": "bd40b5fdd946cbce5beef90d successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "e425206c4d31bfb74cf5dfc2": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 3 Raider(s)",
+    "_id": "e425206c4d31bfb74cf5dfc2",
+    "acceptPlayerMessage": "e425206c4d31bfb74cf5dfc2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e425206c4d31bfb74cf5dfc2 changeQuestMessageText",
+    "completePlayerMessage": "e425206c4d31bfb74cf5dfc2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4cedbfabb587a64f70c8691e",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "afe768fe34badbcddbc6aed0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9fd4f67b7bdfc7befd2f7db1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d8feeaaf9de59a9fd9b418a6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bd40b5fdd946cbce5beef90d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e425206c4d31bfb74cf5dfc2 declinePlayerMessage",
+    "description": "e425206c4d31bfb74cf5dfc2 description",
+    "failMessageText": "e425206c4d31bfb74cf5dfc2 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "e425206c4d31bfb74cf5dfc2 name",
+    "note": "e425206c4d31bfb74cf5dfc2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6e8c69ec0eb867cf6cb9c3bd",
+          "index": 3,
+          "type": "Experience",
+          "value": "750"
+        },
+        {
+          "id": "fabcb56cca08bdb285e5bcb5",
+          "index": 4,
+          "items": [
+            {
+              "_id": "665d7fdc8ffa81eda58049f0",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "665d7fdc8ffa81eda58049f0",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e425206c4d31bfb74cf5dfc2 startedMessageText",
+    "successMessageText": "e425206c4d31bfb74cf5dfc2 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "45bb6d5e0d8ed53c969bc8a4": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 5 Raider(s)",
+    "_id": "45bb6d5e0d8ed53c969bc8a4",
+    "acceptPlayerMessage": "45bb6d5e0d8ed53c969bc8a4 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "45bb6d5e0d8ed53c969bc8a4 changeQuestMessageText",
+    "completePlayerMessage": "45bb6d5e0d8ed53c969bc8a4 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "de89fe52fe33ae6f7bcc07cc",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "87745ba0bf5bffec7bf25de2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ebbcfc9dd1aa4be3e38eb8bf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "497c7f76674e1c8fae4ad43e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e425206c4d31bfb74cf5dfc2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "45bb6d5e0d8ed53c969bc8a4 declinePlayerMessage",
+    "description": "45bb6d5e0d8ed53c969bc8a4 description",
+    "failMessageText": "45bb6d5e0d8ed53c969bc8a4 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "45bb6d5e0d8ed53c969bc8a4 name",
+    "note": "45bb6d5e0d8ed53c969bc8a4 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ef2dde90eb6f5db6fea6caa6",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "84fb87d6f2b5b2ed1c4ae167",
+          "index": 4,
+          "items": [
+            {
+              "_id": "2dab94770788ebada85ffca1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "2dab94770788ebada85ffca1",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "45bb6d5e0d8ed53c969bc8a4 startedMessageText",
+    "successMessageText": "45bb6d5e0d8ed53c969bc8a4 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "bbad0e452aceae2a8adfff8b": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 7 Raider(s)",
+    "_id": "bbad0e452aceae2a8adfff8b",
+    "acceptPlayerMessage": "bbad0e452aceae2a8adfff8b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bbad0e452aceae2a8adfff8b changeQuestMessageText",
+    "completePlayerMessage": "bbad0e452aceae2a8adfff8b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "35efdd6ebe199de967443a24",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "6df2a94cf163f9a77dccde79"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aafe9361a264d4a68c1176b3",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "afcf65ac0bfde2ccff8aa41b",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "45bb6d5e0d8ed53c969bc8a4"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bbad0e452aceae2a8adfff8b declinePlayerMessage",
+    "description": "bbad0e452aceae2a8adfff8b description",
+    "failMessageText": "bbad0e452aceae2a8adfff8b failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bbad0e452aceae2a8adfff8b name",
+    "note": "bbad0e452aceae2a8adfff8b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cb6547bfb50fcd74f5fee2d4",
+          "index": 3,
+          "type": "Experience",
+          "value": "1750"
+        },
+        {
+          "id": "0b77d2f70614fb49a880153d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "583e8fbbc139c1cfabca1275",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 70000
+              }
+            }
+          ],
+          "target": "583e8fbbc139c1cfabca1275",
+          "type": "Item",
+          "value": "70000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bbad0e452aceae2a8adfff8b startedMessageText",
+    "successMessageText": "bbad0e452aceae2a8adfff8b successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "db10cdb14bb2ad4a211a1af5": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 9 Raider(s)",
+    "_id": "db10cdb14bb2ad4a211a1af5",
+    "acceptPlayerMessage": "db10cdb14bb2ad4a211a1af5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "db10cdb14bb2ad4a211a1af5 changeQuestMessageText",
+    "completePlayerMessage": "db10cdb14bb2ad4a211a1af5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e0e3dcea7bd873d0b9dcc7a4",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "3e8afa8cdc0e117a0dca7e98"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d27be5b55bf2865c2aefc7dc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2c7b063efee13c3bfc87edfb",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bbad0e452aceae2a8adfff8b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "db10cdb14bb2ad4a211a1af5 declinePlayerMessage",
+    "description": "db10cdb14bb2ad4a211a1af5 description",
+    "failMessageText": "db10cdb14bb2ad4a211a1af5 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "db10cdb14bb2ad4a211a1af5 name",
+    "note": "db10cdb14bb2ad4a211a1af5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e9e7b9fb6ef1c87713cf98f6",
+          "index": 3,
+          "type": "Experience",
+          "value": "2250"
+        },
+        {
+          "id": "2dff174c0206906aa8dfda6e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "40ea9756ca5f1a95bc3ab69b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 90000
+              }
+            }
+          ],
+          "target": "40ea9756ca5f1a95bc3ab69b",
+          "type": "Item",
+          "value": "90000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "db10cdb14bb2ad4a211a1af5 startedMessageText",
+    "successMessageText": "db10cdb14bb2ad4a211a1af5 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "9f95c10cea4091ab8d25ddea": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 12 Raider(s)",
+    "_id": "9f95c10cea4091ab8d25ddea",
+    "acceptPlayerMessage": "9f95c10cea4091ab8d25ddea acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9f95c10cea4091ab8d25ddea changeQuestMessageText",
+    "completePlayerMessage": "9f95c10cea4091ab8d25ddea completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4eb6bcee1b46c99fd9c35bf5",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c235dd1751d5b8b0edad6ada"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6e9cd4a4b22ebcad507bc09f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b1daa6bf876eccfcb0ab83e1",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "db10cdb14bb2ad4a211a1af5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9f95c10cea4091ab8d25ddea declinePlayerMessage",
+    "description": "9f95c10cea4091ab8d25ddea description",
+    "failMessageText": "9f95c10cea4091ab8d25ddea failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "9f95c10cea4091ab8d25ddea name",
+    "note": "9f95c10cea4091ab8d25ddea note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "768cefcf15fecb4d8d7cef49",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "ccbf78fc4f5cd5a6aa0225e9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "32ddc4ae6bc010bdb5dbe6ff",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "32ddc4ae6bc010bdb5dbe6ff",
+          "type": "Item",
+          "value": "120000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9f95c10cea4091ab8d25ddea startedMessageText",
+    "successMessageText": "9f95c10cea4091ab8d25ddea successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "a56cfbc1d5a48ebe24f698f1": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 15 Raider(s)",
+    "_id": "a56cfbc1d5a48ebe24f698f1",
+    "acceptPlayerMessage": "a56cfbc1d5a48ebe24f698f1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a56cfbc1d5a48ebe24f698f1 changeQuestMessageText",
+    "completePlayerMessage": "a56cfbc1d5a48ebe24f698f1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d1196cdbb64a4bd8c773a5e8",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "11fbcfb7c97df1bd81d0cd4c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffad7ca0afc52a9d5e70fa6c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cb9092506efe69ffa489cc79",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9f95c10cea4091ab8d25ddea"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a56cfbc1d5a48ebe24f698f1 declinePlayerMessage",
+    "description": "a56cfbc1d5a48ebe24f698f1 description",
+    "failMessageText": "a56cfbc1d5a48ebe24f698f1 failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a56cfbc1d5a48ebe24f698f1 name",
+    "note": "a56cfbc1d5a48ebe24f698f1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "14be75fd83fcde6cecd325c9",
+          "index": 3,
+          "type": "Experience",
+          "value": "3750"
+        },
+        {
+          "id": "33d4d90f0a1f8fbaac89aa6e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ddbdca2c40ade0b0cd3b0dea",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "ddbdca2c40ade0b0cd3b0dea",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a56cfbc1d5a48ebe24f698f1 startedMessageText",
+    "successMessageText": "a56cfbc1d5a48ebe24f698f1 successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "d7acf2b6d8e410797bec4aae": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 20 Raider(s)",
+    "_id": "d7acf2b6d8e410797bec4aae",
+    "acceptPlayerMessage": "d7acf2b6d8e410797bec4aae acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d7acf2b6d8e410797bec4aae changeQuestMessageText",
+    "completePlayerMessage": "d7acf2b6d8e410797bec4aae completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8b9df7b71b4f9abb373b5c37",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "515db2e02d5abfaff520c0fc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "836dd0faea5682633f8de79a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9fdeedb4fb52fdebecacfbe6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a56cfbc1d5a48ebe24f698f1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d7acf2b6d8e410797bec4aae declinePlayerMessage",
+    "description": "d7acf2b6d8e410797bec4aae description",
+    "failMessageText": "d7acf2b6d8e410797bec4aae failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "d7acf2b6d8e410797bec4aae name",
+    "note": "d7acf2b6d8e410797bec4aae note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "620fc20d33c87ca7aa8a979f",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "bcdaea2002fb5fd1a7cba2ae",
+          "index": 4,
+          "items": [
+            {
+              "_id": "edc4f5a19e603545ab399e2c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "edc4f5a19e603545ab399e2c",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d7acf2b6d8e410797bec4aae startedMessageText",
+    "successMessageText": "d7acf2b6d8e410797bec4aae successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "2ab3f618b0500da4f78c51cf": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 50 Raider(s)",
+    "_id": "2ab3f618b0500da4f78c51cf",
+    "acceptPlayerMessage": "2ab3f618b0500da4f78c51cf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2ab3f618b0500da4f78c51cf changeQuestMessageText",
+    "completePlayerMessage": "2ab3f618b0500da4f78c51cf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ccf1bf2e73dea8aabbed8f9a",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "5ed41faf47d36cdba6afe85c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8c7b8b7bf8635ba2abd1fca",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bf546bfb79eae65d12f51e0a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "d7acf2b6d8e410797bec4aae"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2ab3f618b0500da4f78c51cf declinePlayerMessage",
+    "description": "2ab3f618b0500da4f78c51cf description",
+    "failMessageText": "2ab3f618b0500da4f78c51cf failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "2ab3f618b0500da4f78c51cf name",
+    "note": "2ab3f618b0500da4f78c51cf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "72d1ca7adafb23a46d0ea6ba",
+          "index": 3,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "7fee3a7deef21e7ebe60dcab",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0ee4e2d1b3e5b072daeaeb49",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "0ee4e2d1b3e5b072daeaeb49",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2ab3f618b0500da4f78c51cf startedMessageText",
+    "successMessageText": "2ab3f618b0500da4f78c51cf successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  },
+  "adbe5d40b0d56cc7b3c43e7d": {
+    "QuestName": "[Fen] Raider Hunt: Clear Tarkov from 100 Raider(s)",
+    "_id": "adbe5d40b0d56cc7b3c43e7d",
+    "acceptPlayerMessage": "adbe5d40b0d56cc7b3c43e7d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "adbe5d40b0d56cc7b3c43e7d changeQuestMessageText",
+    "completePlayerMessage": "adbe5d40b0d56cc7b3c43e7d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d84f5fe4aca5ccede1fbdea6",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e7f8811a4752d0741b7fd5df"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3e3ef9476cbeae0a040aa228",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab7f05deb5b2d794a6933eeb",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2ab3f618b0500da4f78c51cf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "adbe5d40b0d56cc7b3c43e7d declinePlayerMessage",
+    "description": "adbe5d40b0d56cc7b3c43e7d description",
+    "failMessageText": "adbe5d40b0d56cc7b3c43e7d failMessageText",
+    "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "adbe5d40b0d56cc7b3c43e7d name",
+    "note": "adbe5d40b0d56cc7b3c43e7d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ce6af74e256dbe1a64fcb9fa",
+          "index": 3,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "efedf45aa27d076dbbc4dd3d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "17ef3c79ddcc48aaaf5d8e5a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1000000
+              }
+            }
+          ],
+          "target": "17ef3c79ddcc48aaaf5d8e5a",
+          "type": "Item",
+          "value": "1000000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "adbe5d40b0d56cc7b3c43e7d startedMessageText",
+    "successMessageText": "adbe5d40b0d56cc7b3c43e7d successMessageText",
+    "traderId": "579dc571d53a0658a154fbec",
+    "type": "Elimination"
+  }
+}

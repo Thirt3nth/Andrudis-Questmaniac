@@ -1,0 +1,1259 @@
+{
+  "85f5ff23fecc8dd4cbcfc07b": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 1 Cultists",
+    "_id": "85f5ff23fecc8dd4cbcfc07b",
+    "acceptPlayerMessage": "85f5ff23fecc8dd4cbcfc07b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "85f5ff23fecc8dd4cbcfc07b changeQuestMessageText",
+    "completePlayerMessage": "85f5ff23fecc8dd4cbcfc07b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ca9cc3380ac74456dddab22c",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "5c1c1a012dfcb8ffcad0f2a6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "edcbd62aeb6c3aa62dfbc13d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a7cbe9e2831dbdcdef82bfe1",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "45eb1d8fcec16400eb86f85e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e890f03cbdea14e981d5ad1b",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "85f5ff23fecc8dd4cbcfc07b declinePlayerMessage",
+    "description": "85f5ff23fecc8dd4cbcfc07b description",
+    "failMessageText": "85f5ff23fecc8dd4cbcfc07b failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "85f5ff23fecc8dd4cbcfc07b name",
+    "note": "85f5ff23fecc8dd4cbcfc07b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bedadcfcc7deff9cf0feecb2",
+          "index": 4,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "246cc56add6f27e1a679bbd0",
+          "index": 5,
+          "items": [
+            {
+              "_id": "2c0d9109a08cff3e0b2a6d45",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "2c0d9109a08cff3e0b2a6d45",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "85f5ff23fecc8dd4cbcfc07b startedMessageText",
+    "successMessageText": "85f5ff23fecc8dd4cbcfc07b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "18d75545fce5c2bfcdc54ade": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 2 Cultists",
+    "_id": "18d75545fce5c2bfcdc54ade",
+    "acceptPlayerMessage": "18d75545fce5c2bfcdc54ade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "18d75545fce5c2bfcdc54ade changeQuestMessageText",
+    "completePlayerMessage": "18d75545fce5c2bfcdc54ade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f5fa9c9cdd7bbc92cbb2af8c",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "dff4da821b93489e6ecf3da5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cebe5da8b0fcd4b56a7f9af0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d38aec6fda6eafbec6ddb42d",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e8f67297b92a2cbbbfccfcdf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e9c9d61130adb8cdcd13ecae",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "25b8be2aabfccbc6d6fdd2db",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "85f5ff23fecc8dd4cbcfc07b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "18d75545fce5c2bfcdc54ade declinePlayerMessage",
+    "description": "18d75545fce5c2bfcdc54ade description",
+    "failMessageText": "18d75545fce5c2bfcdc54ade failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "18d75545fce5c2bfcdc54ade name",
+    "note": "18d75545fce5c2bfcdc54ade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "69a46b52722a1bead1ded699",
+          "index": 4,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "dded1ec5ec63c36d0ee20e5f",
+          "index": 5,
+          "items": [
+            {
+              "_id": "eb4cdde6a6baf8ef2aad02b3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "eb4cdde6a6baf8ef2aad02b3",
+          "type": "Item",
+          "value": "20000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "18d75545fce5c2bfcdc54ade startedMessageText",
+    "successMessageText": "18d75545fce5c2bfcdc54ade successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "cf6fcadb0ce8ec6db5bffbcd": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 5 Cultists",
+    "_id": "cf6fcadb0ce8ec6db5bffbcd",
+    "acceptPlayerMessage": "cf6fcadb0ce8ec6db5bffbcd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "cf6fcadb0ce8ec6db5bffbcd changeQuestMessageText",
+    "completePlayerMessage": "cf6fcadb0ce8ec6db5bffbcd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d5298d7f3e59b9a3caa138a5",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "0effab82912bc7e1ed85f1e4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9dcfb624f4f4d06cb95adb81",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0eade5eeb5b2ffc6dafcc7c5",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e9dbb9accfcc5afef5bd07af"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2618e754b29ee7c95fd5ef4f",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "258c22ecbadaafbe3444c79f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "18d75545fce5c2bfcdc54ade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "cf6fcadb0ce8ec6db5bffbcd declinePlayerMessage",
+    "description": "cf6fcadb0ce8ec6db5bffbcd description",
+    "failMessageText": "cf6fcadb0ce8ec6db5bffbcd failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "cf6fcadb0ce8ec6db5bffbcd name",
+    "note": "cf6fcadb0ce8ec6db5bffbcd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ff19feca0f7c7b3ae1ccd396",
+          "index": 4,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "8aa39050cec5b6b6aa324a66",
+          "index": 5,
+          "items": [
+            {
+              "_id": "7fdd0fcfa54bb0eecbb10bd4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "7fdd0fcfa54bb0eecbb10bd4",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "cf6fcadb0ce8ec6db5bffbcd startedMessageText",
+    "successMessageText": "cf6fcadb0ce8ec6db5bffbcd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "0ad20e781dfc2934ec6cfed2": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 10 Cultists",
+    "_id": "0ad20e781dfc2934ec6cfed2",
+    "acceptPlayerMessage": "0ad20e781dfc2934ec6cfed2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0ad20e781dfc2934ec6cfed2 changeQuestMessageText",
+    "completePlayerMessage": "0ad20e781dfc2934ec6cfed2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a3bfc81a88948e1f1b33c78d",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "4eaedae009b6cbd3ead395bd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bcf4ae3e67e4a7b4c133abaa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "becd87d3cb73adfcc74c2d2b",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "524bb8f3ae05efcadf1bec9e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eaa9c0ed6faf4da0d0ac0a15",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ede0b8bb066dd4ed5ccecb2",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cf6fcadb0ce8ec6db5bffbcd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0ad20e781dfc2934ec6cfed2 declinePlayerMessage",
+    "description": "0ad20e781dfc2934ec6cfed2 description",
+    "failMessageText": "0ad20e781dfc2934ec6cfed2 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0ad20e781dfc2934ec6cfed2 name",
+    "note": "0ad20e781dfc2934ec6cfed2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2afa5b6e47b1213d2d4dcfbf",
+          "index": 4,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "b4ccd3cd750cac13aabcfe23",
+          "index": 5,
+          "items": [
+            {
+              "_id": "cfde95c05c8aff94eeeb6fbd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "cfde95c05c8aff94eeeb6fbd",
+          "type": "Item",
+          "value": "100000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0ad20e781dfc2934ec6cfed2 startedMessageText",
+    "successMessageText": "0ad20e781dfc2934ec6cfed2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "3fd3b75e2aefba89fbefaab2": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 15 Cultists",
+    "_id": "3fd3b75e2aefba89fbefaab2",
+    "acceptPlayerMessage": "3fd3b75e2aefba89fbefaab2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "3fd3b75e2aefba89fbefaab2 changeQuestMessageText",
+    "completePlayerMessage": "3fd3b75e2aefba89fbefaab2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c20ee28c4a6ccbfdebdf4818",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e8cdd05d716edacff4857c82"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dfaf042f9d22cda7ccec0a9d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dda6c481b7b7c2bf8dec23bc",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "08bfc2f9eeee3a7299e256cc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab7a4d7f984aacfc27a182db",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0d25f8acc97f7d4ff0590916",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0ad20e781dfc2934ec6cfed2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "3fd3b75e2aefba89fbefaab2 declinePlayerMessage",
+    "description": "3fd3b75e2aefba89fbefaab2 description",
+    "failMessageText": "3fd3b75e2aefba89fbefaab2 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "3fd3b75e2aefba89fbefaab2 name",
+    "note": "3fd3b75e2aefba89fbefaab2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "7f2f28e8cd7325be43017761",
+          "index": 4,
+          "type": "Experience",
+          "value": "3750"
+        },
+        {
+          "id": "cfe9bdb3cb69e2aaeab76eb9",
+          "index": 5,
+          "items": [
+            {
+              "_id": "328ed9c8bbb0e2416bbfda38",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "328ed9c8bbb0e2416bbfda38",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "3fd3b75e2aefba89fbefaab2 startedMessageText",
+    "successMessageText": "3fd3b75e2aefba89fbefaab2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "35aa6a08ad0eadde17f7bf0a": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 20 Cultists",
+    "_id": "35aa6a08ad0eadde17f7bf0a",
+    "acceptPlayerMessage": "35aa6a08ad0eadde17f7bf0a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "35aa6a08ad0eadde17f7bf0a changeQuestMessageText",
+    "completePlayerMessage": "35aa6a08ad0eadde17f7bf0a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e91cbb5a86cd4d1aa2a99c9a",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "dec46511dcbfdaace7aa7eef"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dda7fba5edb91bf0ccf74b4b",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "184cda23e6ed5a60cf7c4cd7",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "0ca3f498fd1eec89073bdfa3"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f839ed24b48cb8ebdab4e663",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b5383d02ff066e6d27657b9e",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "3fd3b75e2aefba89fbefaab2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "35aa6a08ad0eadde17f7bf0a declinePlayerMessage",
+    "description": "35aa6a08ad0eadde17f7bf0a description",
+    "failMessageText": "35aa6a08ad0eadde17f7bf0a failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "35aa6a08ad0eadde17f7bf0a name",
+    "note": "35aa6a08ad0eadde17f7bf0a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cab6fbab6e5eebb9dfac5f1d",
+          "index": 4,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "e2f76aba63ece2ac1d3bc7eb",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6dcc4b53b36ded92fe28260b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "6dcc4b53b36ded92fe28260b",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "35aa6a08ad0eadde17f7bf0a startedMessageText",
+    "successMessageText": "35aa6a08ad0eadde17f7bf0a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "ea77a9d6b9893c14bbed36d3": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 27 Cultists",
+    "_id": "ea77a9d6b9893c14bbed36d3",
+    "acceptPlayerMessage": "ea77a9d6b9893c14bbed36d3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ea77a9d6b9893c14bbed36d3 changeQuestMessageText",
+    "completePlayerMessage": "ea77a9d6b9893c14bbed36d3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2ca368658c27e22e1bdfffbf",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "1bbfa285dbed3aa7340a22be"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9baecd6ae20abe5fca0ae695",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "27",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7a13830a372bad3d5cf98abd",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "46d9ac79c50d3beb9f0a92ed"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ce29ebca905b6dbde1f1dde",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "27",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cf65bdfbc0823b1cca50530f",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "35aa6a08ad0eadde17f7bf0a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ea77a9d6b9893c14bbed36d3 declinePlayerMessage",
+    "description": "ea77a9d6b9893c14bbed36d3 description",
+    "failMessageText": "ea77a9d6b9893c14bbed36d3 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ea77a9d6b9893c14bbed36d3 name",
+    "note": "ea77a9d6b9893c14bbed36d3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b5f9abc8ca0a6dec68e0c91d",
+          "index": 4,
+          "type": "Experience",
+          "value": "6750"
+        },
+        {
+          "id": "b4faededaff76dcb2aa10e6f",
+          "index": 5,
+          "items": [
+            {
+              "_id": "eaaa2f7f7b2987bec6bb1976",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 270000
+              }
+            }
+          ],
+          "target": "eaaa2f7f7b2987bec6bb1976",
+          "type": "Item",
+          "value": "270000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ea77a9d6b9893c14bbed36d3 startedMessageText",
+    "successMessageText": "ea77a9d6b9893c14bbed36d3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "bbac7f2c2c353ac9c1dac96c": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 35 Cultists",
+    "_id": "bbac7f2c2c353ac9c1dac96c",
+    "acceptPlayerMessage": "bbac7f2c2c353ac9c1dac96c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bbac7f2c2c353ac9c1dac96c changeQuestMessageText",
+    "completePlayerMessage": "bbac7f2c2c353ac9c1dac96c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2b1cd8e7db213abdaf1e68b7",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ef10f0fcd2dbe528a60c4dff"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1bc0dfaaafe3ced11886ffee",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "00420c8ad71a2d7ceb5cda8b",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "99e77ddfe4fdd74f92d56c21"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "73358b1e16a9252623984888",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "66ecbc3e65b5af9dbe1820da",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ea77a9d6b9893c14bbed36d3"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bbac7f2c2c353ac9c1dac96c declinePlayerMessage",
+    "description": "bbac7f2c2c353ac9c1dac96c description",
+    "failMessageText": "bbac7f2c2c353ac9c1dac96c failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bbac7f2c2c353ac9c1dac96c name",
+    "note": "bbac7f2c2c353ac9c1dac96c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b1dcce8c16c2ece3fcef641b",
+          "index": 4,
+          "type": "Experience",
+          "value": "8750"
+        },
+        {
+          "id": "172fe580aeaedffeec834950",
+          "index": 5,
+          "items": [
+            {
+              "_id": "fd837ccae67dece967af44e6",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 350000
+              }
+            }
+          ],
+          "target": "fd837ccae67dece967af44e6",
+          "type": "Item",
+          "value": "350000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bbac7f2c2c353ac9c1dac96c startedMessageText",
+    "successMessageText": "bbac7f2c2c353ac9c1dac96c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "6eaa08fcdeebecb722ac51f0": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 50 Cultists",
+    "_id": "6eaa08fcdeebecb722ac51f0",
+    "acceptPlayerMessage": "6eaa08fcdeebecb722ac51f0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6eaa08fcdeebecb722ac51f0 changeQuestMessageText",
+    "completePlayerMessage": "6eaa08fcdeebecb722ac51f0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ccde1bd1bd209b2e95f5caab",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "d0c8aa360db0d4f39ef66c1f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7a9095aacf4ffca0cecc3b7f",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ae7d7f1bc3dbe5ecee24fed9",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c2b1f8a0fb62d2fbb0c7617d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d5ae6266bcf8d61ab8efaaaa",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bdbe5c3b857c60fc3aca17ec",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bbac7f2c2c353ac9c1dac96c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6eaa08fcdeebecb722ac51f0 declinePlayerMessage",
+    "description": "6eaa08fcdeebecb722ac51f0 description",
+    "failMessageText": "6eaa08fcdeebecb722ac51f0 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "6eaa08fcdeebecb722ac51f0 name",
+    "note": "6eaa08fcdeebecb722ac51f0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "dfccb8aa2ecd4ad35a8ebeaa",
+          "index": 4,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "fcdcbc3d7cab5af39aa8d171",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dca9620cacc14be869e0ff93",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "dca9620cacc14be869e0ff93",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6eaa08fcdeebecb722ac51f0 startedMessageText",
+    "successMessageText": "6eaa08fcdeebecb722ac51f0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "99e7cafde27e20888685eab2": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 75 Cultists",
+    "_id": "99e7cafde27e20888685eab2",
+    "acceptPlayerMessage": "99e7cafde27e20888685eab2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "99e7cafde27e20888685eab2 changeQuestMessageText",
+    "completePlayerMessage": "99e7cafde27e20888685eab2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fe47bff18be9dd75e5ddeac1",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "eed8875fd9d16dbda94aa62c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0bb903404ca0dd3cafc507fa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7e525113bf01d048bbdfbaeb",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "afaef3ef93e3ac13ff41251c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "08793a56a7d1fdffaafe95d1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "212db4d2cd3bbcb70c4c4cc7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6eaa08fcdeebecb722ac51f0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "99e7cafde27e20888685eab2 declinePlayerMessage",
+    "description": "99e7cafde27e20888685eab2 description",
+    "failMessageText": "99e7cafde27e20888685eab2 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "99e7cafde27e20888685eab2 name",
+    "note": "99e7cafde27e20888685eab2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ea0e8ff48cde2ab6d6a697e1",
+          "index": 4,
+          "type": "Experience",
+          "value": "18750"
+        },
+        {
+          "id": "fba4dffa1fc7f3cfe42d6a83",
+          "index": 5,
+          "items": [
+            {
+              "_id": "1babf29c5fabc54b2acb6d7f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "1babf29c5fabc54b2acb6d7f",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "99e7cafde27e20888685eab2 startedMessageText",
+    "successMessageText": "99e7cafde27e20888685eab2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  }
+}

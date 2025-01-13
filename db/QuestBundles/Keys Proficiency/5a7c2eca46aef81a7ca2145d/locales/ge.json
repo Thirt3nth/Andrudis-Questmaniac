@@ -1,0 +1,14 @@
+{
+    "a4de75c32db70fbbaf4dcd30 name": "[Mec] Schlüsselbeherrschung: Fabrik Schlosser",
+    "a4de75c32db70fbbaf4dcd30 note": "",
+    "a4de75c32db70fbbaf4dcd30 description": "Du willst Behälter für Schlüssel? Für was brauchst du sie, wenn du noch überhaupt keine Schlüssel hast? Finde sie alle!",
+    "a4de75c32db70fbbaf4dcd30 startedMessageText": "[Mec] Quest angenommen: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "a4de75c32db70fbbaf4dcd30 failMessageText": "[Mec] Quest fehlgeschlagen: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "a4de75c32db70fbbaf4dcd30 successMessageText": "[Mec] Quest beendet: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 declinePlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 completePlayerMessage": "",
+    "67ea305f94b3c1dc54de997f": "Finde Türschlüssel",
+    "bafce78f880183b5e71ab1ea": "Finde Türschlüssel",
+    "c28edcca6cece5d5cea5e988": "Finde Fabrik Ausgangsschlüssel"
+}

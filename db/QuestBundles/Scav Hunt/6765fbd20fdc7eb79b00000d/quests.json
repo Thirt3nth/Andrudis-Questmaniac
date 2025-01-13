@@ -1,0 +1,1029 @@
+{
+  "52cd789bbbbfc4db9b24080b": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 2 Scav(s)",
+    "_id": "52cd789bbbbfc4db9b24080b",
+    "acceptPlayerMessage": "52cd789bbbbfc4db9b24080b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "52cd789bbbbfc4db9b24080b changeQuestMessageText",
+    "completePlayerMessage": "52cd789bbbbfc4db9b24080b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a6f7c58ff15cf9bfcc82a21a",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "8b9134cc309fbec8fe5daf3e",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "b35ee3efcfad334708e2b2bb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ce621b985bcb92b93fde4ebb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "52cd789bbbbfc4db9b24080b declinePlayerMessage",
+    "description": "52cd789bbbbfc4db9b24080b description",
+    "failMessageText": "52cd789bbbbfc4db9b24080b failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "52cd789bbbbfc4db9b24080b name",
+    "note": "52cd789bbbbfc4db9b24080b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ccdafb86579b2ef1c007e439",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "fe5be498d9bd1fce72be11c9",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6ba91e442c0e0f1cfb98f0a4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "6ba91e442c0e0f1cfb98f0a4",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "52cd789bbbbfc4db9b24080b startedMessageText",
+    "successMessageText": "52cd789bbbbfc4db9b24080b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "da5a0a72aef943760ee2adcd": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 10 Scav(s)",
+    "_id": "da5a0a72aef943760ee2adcd",
+    "acceptPlayerMessage": "da5a0a72aef943760ee2adcd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "da5a0a72aef943760ee2adcd changeQuestMessageText",
+    "completePlayerMessage": "da5a0a72aef943760ee2adcd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "664ec3e6c0c4d33ecbb6acc7",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "aacd27be5edf11afabff3de5",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "bc8ce6bec52f47dead2be6ee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3f9446e716fbdc0c20e86e86",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a6b21ea120cbdabca5ccf15e",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "52cd789bbbbfc4db9b24080b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "da5a0a72aef943760ee2adcd declinePlayerMessage",
+    "description": "da5a0a72aef943760ee2adcd description",
+    "failMessageText": "da5a0a72aef943760ee2adcd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "da5a0a72aef943760ee2adcd name",
+    "note": "da5a0a72aef943760ee2adcd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ebab979e2e0ea2da4dd08f35",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "fd9099fde355dbd08fa5cb29",
+          "index": 4,
+          "items": [
+            {
+              "_id": "dbdd5ed0d52ddb2fbbd1e197",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "dbdd5ed0d52ddb2fbbd1e197",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "da5a0a72aef943760ee2adcd startedMessageText",
+    "successMessageText": "da5a0a72aef943760ee2adcd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "b56eb1ddc34c1e6ed8fb0ad3": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 25 Scav(s)",
+    "_id": "b56eb1ddc34c1e6ed8fb0ad3",
+    "acceptPlayerMessage": "b56eb1ddc34c1e6ed8fb0ad3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b56eb1ddc34c1e6ed8fb0ad3 changeQuestMessageText",
+    "completePlayerMessage": "b56eb1ddc34c1e6ed8fb0ad3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "5eb3ebf52026cfab6bed2aa7",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bd34c123aa2f1e4cfe16b8a2",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "a7ca2ca2c84c5bd15c24c1bd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "de3387b55bca9d36d7dc8afa",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "46241aa15b1fc90139fe1cfa",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "da5a0a72aef943760ee2adcd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b56eb1ddc34c1e6ed8fb0ad3 declinePlayerMessage",
+    "description": "b56eb1ddc34c1e6ed8fb0ad3 description",
+    "failMessageText": "b56eb1ddc34c1e6ed8fb0ad3 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "b56eb1ddc34c1e6ed8fb0ad3 name",
+    "note": "b56eb1ddc34c1e6ed8fb0ad3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d8cdf01f4e5bdb8f9d7f6dcb",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "ba89dd6adf5d05ff4ddb79e4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "add41d25e3e992bccfed7d0d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 37500
+              }
+            }
+          ],
+          "target": "add41d25e3e992bccfed7d0d",
+          "type": "Item",
+          "value": "37500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b56eb1ddc34c1e6ed8fb0ad3 startedMessageText",
+    "successMessageText": "b56eb1ddc34c1e6ed8fb0ad3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "23ce8bae5cc26edfa517afca": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 50 Scav(s)",
+    "_id": "23ce8bae5cc26edfa517afca",
+    "acceptPlayerMessage": "23ce8bae5cc26edfa517afca acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "23ce8bae5cc26edfa517afca changeQuestMessageText",
+    "completePlayerMessage": "23ce8bae5cc26edfa517afca completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "78cedd70dbba8d495bfaccaf",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "a6effbe773f947cf90c6a0c3",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "d239759bdfabc8a682bd23ad"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c72dcc453bfcabe03509632c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c1e67e1de78defe0beb19aa5",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b56eb1ddc34c1e6ed8fb0ad3"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "23ce8bae5cc26edfa517afca declinePlayerMessage",
+    "description": "23ce8bae5cc26edfa517afca description",
+    "failMessageText": "23ce8bae5cc26edfa517afca failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "23ce8bae5cc26edfa517afca name",
+    "note": "23ce8bae5cc26edfa517afca note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "faf48eecedf6ccaf63399d4b",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "c6ceef8e9d0df69c22f01c0e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "710b1db961fe4effffdfd31e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "710b1db961fe4effffdfd31e",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "23ce8bae5cc26edfa517afca startedMessageText",
+    "successMessageText": "23ce8bae5cc26edfa517afca successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "40de73c7e8cdda021bfc03af": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 75 Scav(s)",
+    "_id": "40de73c7e8cdda021bfc03af",
+    "acceptPlayerMessage": "40de73c7e8cdda021bfc03af acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "40de73c7e8cdda021bfc03af changeQuestMessageText",
+    "completePlayerMessage": "40de73c7e8cdda021bfc03af completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c5d72d8c7d51ec08779bdb99",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "36dbf4fad01986686ec2be19",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "5db6a91cc8dff5301aaaf79d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b8737e9c47b36a642c36e449",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cbdf239aa927c73e8b7b44ae",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "23ce8bae5cc26edfa517afca"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "40de73c7e8cdda021bfc03af declinePlayerMessage",
+    "description": "40de73c7e8cdda021bfc03af description",
+    "failMessageText": "40de73c7e8cdda021bfc03af failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "40de73c7e8cdda021bfc03af name",
+    "note": "40de73c7e8cdda021bfc03af note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "72b1eaeaca6b0c749ad20ad3",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "7cbfba91433af21c0aa77f0d",
+          "index": 4,
+          "items": [
+            {
+              "_id": "b2dce528bc3eeaccefbec7cf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "b2dce528bc3eeaccefbec7cf",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "40de73c7e8cdda021bfc03af startedMessageText",
+    "successMessageText": "40de73c7e8cdda021bfc03af successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "c54bcc451f9efeeeedded9cd": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 100 Scav(s)",
+    "_id": "c54bcc451f9efeeeedded9cd",
+    "acceptPlayerMessage": "c54bcc451f9efeeeedded9cd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "c54bcc451f9efeeeedded9cd changeQuestMessageText",
+    "completePlayerMessage": "c54bcc451f9efeeeedded9cd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b8a20a1c19daedc03cf7dca8",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "2caf0d2dfdfe0828d6e63e7e",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "02a0db5b6574dcffe0d30a4c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fb338ceb9d31be5765fccc29",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "86ba2683cdcfc1d82218d44e",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "40de73c7e8cdda021bfc03af"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "c54bcc451f9efeeeedded9cd declinePlayerMessage",
+    "description": "c54bcc451f9efeeeedded9cd description",
+    "failMessageText": "c54bcc451f9efeeeedded9cd failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "c54bcc451f9efeeeedded9cd name",
+    "note": "c54bcc451f9efeeeedded9cd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "32adf03f85740d0f54bb684a",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "5b3ac9421adc920a1ecbaacb",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d1a69ffe27aa49a388d1619f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "d1a69ffe27aa49a388d1619f",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "c54bcc451f9efeeeedded9cd startedMessageText",
+    "successMessageText": "c54bcc451f9efeeeedded9cd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "6b8eaffb9fa6a69a7e61fb6b": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 150 Scav(s)",
+    "_id": "6b8eaffb9fa6a69a7e61fb6b",
+    "acceptPlayerMessage": "6b8eaffb9fa6a69a7e61fb6b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6b8eaffb9fa6a69a7e61fb6b changeQuestMessageText",
+    "completePlayerMessage": "6b8eaffb9fa6a69a7e61fb6b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dba205eb169da5a8a6ab7eaa",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "83e6ae70ff66cc03c2acdc03",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "20a7f27d0a9597ced6ea9eec"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d977d5dbdbb3e74b17ebe712",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "150",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8dfdc5d6234f6e3d4bc5cde",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c54bcc451f9efeeeedded9cd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6b8eaffb9fa6a69a7e61fb6b declinePlayerMessage",
+    "description": "6b8eaffb9fa6a69a7e61fb6b description",
+    "failMessageText": "6b8eaffb9fa6a69a7e61fb6b failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "6b8eaffb9fa6a69a7e61fb6b name",
+    "note": "6b8eaffb9fa6a69a7e61fb6b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e562da08ecc43bf7a8e1baca",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "10c86b2beeaed6e5f8fbcdec",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eec5ad7ac2a9aaaf1adca8ba",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "eec5ad7ac2a9aaaf1adca8ba",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6b8eaffb9fa6a69a7e61fb6b startedMessageText",
+    "successMessageText": "6b8eaffb9fa6a69a7e61fb6b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "edb2b9fe3eebef9e7bbae756": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 200 Scav(s)",
+    "_id": "edb2b9fe3eebef9e7bbae756",
+    "acceptPlayerMessage": "edb2b9fe3eebef9e7bbae756 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "edb2b9fe3eebef9e7bbae756 changeQuestMessageText",
+    "completePlayerMessage": "edb2b9fe3eebef9e7bbae756 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dbd83c6ab7589259dddfcd83",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "f51ad8ff8cfe2e99142ebad5",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "6e13760abdc3e6bbdab044a6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "687bf96263cbf060123f5df1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9eec2ecef4e144bb6afca1db",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6b8eaffb9fa6a69a7e61fb6b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "edb2b9fe3eebef9e7bbae756 declinePlayerMessage",
+    "description": "edb2b9fe3eebef9e7bbae756 description",
+    "failMessageText": "edb2b9fe3eebef9e7bbae756 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "edb2b9fe3eebef9e7bbae756 name",
+    "note": "edb2b9fe3eebef9e7bbae756 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bc79efb4d065eafeba96ece8",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "a0e99e8ab24033b6f52bda12",
+          "index": 4,
+          "items": [
+            {
+              "_id": "6fc959ffe08e0ada1f79648d",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "6fc959ffe08e0ada1f79648d",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "edb2b9fe3eebef9e7bbae756 startedMessageText",
+    "successMessageText": "edb2b9fe3eebef9e7bbae756 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "a8bab8c942eede64c04a675c": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 500 Scav(s)",
+    "_id": "a8bab8c942eede64c04a675c",
+    "acceptPlayerMessage": "a8bab8c942eede64c04a675c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a8bab8c942eede64c04a675c changeQuestMessageText",
+    "completePlayerMessage": "a8bab8c942eede64c04a675c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "cbcb2acf8ba1aff122bac9df",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cecad1b2c885c8d87e7e16b7",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "ab1dfab6b5e07b9bbccdddd5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9d18a8ab65fdfb4cbacd6ee1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "95b5ddaeaaea300a1e8bbf4d",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "edb2b9fe3eebef9e7bbae756"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a8bab8c942eede64c04a675c declinePlayerMessage",
+    "description": "a8bab8c942eede64c04a675c description",
+    "failMessageText": "a8bab8c942eede64c04a675c failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "a8bab8c942eede64c04a675c name",
+    "note": "a8bab8c942eede64c04a675c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "12aeecfa2147e02afd4824d8",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "a9824371ce9f91b5dffe6db2",
+          "index": 4,
+          "items": [
+            {
+              "_id": "f4cca285bdeedcdaa2679fcf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "f4cca285bdeedcdaa2679fcf",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a8bab8c942eede64c04a675c startedMessageText",
+    "successMessageText": "a8bab8c942eede64c04a675c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "ead706baad4dcabb7176eede": {
+    "QuestName": "[Eld] Scav Hunt: Clear Ground Zero from 1000 Scav(s)",
+    "_id": "ead706baad4dcabb7176eede",
+    "acceptPlayerMessage": "ead706baad4dcabb7176eede acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ead706baad4dcabb7176eede changeQuestMessageText",
+    "completePlayerMessage": "ead706baad4dcabb7176eede completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "735e63dfafcce6e75774973e",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "93ddd0ad190f7abe69e01c09",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "2b4a4e4a2a62cac512abdd3d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8bcd31faf2e406212aad03f2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c1bdfa31af77e3a0f8a0fd80",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a8bab8c942eede64c04a675c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ead706baad4dcabb7176eede declinePlayerMessage",
+    "description": "ead706baad4dcabb7176eede description",
+    "failMessageText": "ead706baad4dcabb7176eede failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "ead706baad4dcabb7176eede name",
+    "note": "ead706baad4dcabb7176eede note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6045dd04f2c090f30db2daef",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "1da12700fe357f7ab510f7a3",
+          "index": 4,
+          "items": [
+            {
+              "_id": "8bfa6f6494adaf1df22077c8",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "8bfa6f6494adaf1df22077c8",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ead706baad4dcabb7176eede startedMessageText",
+    "successMessageText": "ead706baad4dcabb7176eede successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  }
+}

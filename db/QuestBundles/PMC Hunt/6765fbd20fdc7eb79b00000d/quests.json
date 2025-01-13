@@ -1,0 +1,1029 @@
+{
+  "fbfcebb951c9a8efe7ee7434": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 1 PMC(s)",
+    "_id": "fbfcebb951c9a8efe7ee7434",
+    "acceptPlayerMessage": "fbfcebb951c9a8efe7ee7434 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fbfcebb951c9a8efe7ee7434 changeQuestMessageText",
+    "completePlayerMessage": "fbfcebb951c9a8efe7ee7434 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f1ed2d613c89f5aecbbdc37d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "aadfbaae1eca1a2bc38a7aef",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "269decb8f9b115396a0a41a6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d8fcf6a10bdc29a35a9bcae7",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fbfcebb951c9a8efe7ee7434 declinePlayerMessage",
+    "description": "fbfcebb951c9a8efe7ee7434 description",
+    "failMessageText": "fbfcebb951c9a8efe7ee7434 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "fbfcebb951c9a8efe7ee7434 name",
+    "note": "fbfcebb951c9a8efe7ee7434 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6addfbac0638b7bdc4dfebce",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "0ce0abf4da71d2b06de52b1f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "f1918fa204ad5cd6b1fa121e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "f1918fa204ad5cd6b1fa121e",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fbfcebb951c9a8efe7ee7434 startedMessageText",
+    "successMessageText": "fbfcebb951c9a8efe7ee7434 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "9dc5c9252624159afeeb8c2e": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 5 PMC(s)",
+    "_id": "9dc5c9252624159afeeb8c2e",
+    "acceptPlayerMessage": "9dc5c9252624159afeeb8c2e acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9dc5c9252624159afeeb8c2e changeQuestMessageText",
+    "completePlayerMessage": "9dc5c9252624159afeeb8c2e completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dd61ceeed0181b6cf44c7d7d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "1eb3789f4bd8313de95adce7",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "979ee6bc7214eeca377094d8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "84d188da2c4e12fdebf0b60a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e02e51de0cac0bd179adfeda",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fbfcebb951c9a8efe7ee7434"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9dc5c9252624159afeeb8c2e declinePlayerMessage",
+    "description": "9dc5c9252624159afeeb8c2e description",
+    "failMessageText": "9dc5c9252624159afeeb8c2e failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "9dc5c9252624159afeeb8c2e name",
+    "note": "9dc5c9252624159afeeb8c2e note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9bfb39ccf6a6c0d1e9763a20",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "f4188a947b76d6a4abb8a45c",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0e9de847b8cdddcc4ce83e69",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "0e9de847b8cdddcc4ce83e69",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9dc5c9252624159afeeb8c2e startedMessageText",
+    "successMessageText": "9dc5c9252624159afeeb8c2e successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "ecbcd4767fc0607a34c1bef7": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 10 PMC(s)",
+    "_id": "ecbcd4767fc0607a34c1bef7",
+    "acceptPlayerMessage": "ecbcd4767fc0607a34c1bef7 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ecbcd4767fc0607a34c1bef7 changeQuestMessageText",
+    "completePlayerMessage": "ecbcd4767fc0607a34c1bef7 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0fcaaf2cccca7e1641e27d80",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "7e4cd7b43115cf0bf1f016bd",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "ba8bffcaefac7bacec31d7d8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aa96beeeb6c36f2f96ef35ec",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aebc82fbb9c6efdad6001f5d",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9dc5c9252624159afeeb8c2e"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ecbcd4767fc0607a34c1bef7 declinePlayerMessage",
+    "description": "ecbcd4767fc0607a34c1bef7 description",
+    "failMessageText": "ecbcd4767fc0607a34c1bef7 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "ecbcd4767fc0607a34c1bef7 name",
+    "note": "ecbcd4767fc0607a34c1bef7 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "11d4151d7e9e0630269ecd92",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "b58add77aa4b5717edabdcde",
+          "index": 4,
+          "items": [
+            {
+              "_id": "859202bdc2483e78d368dccb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "859202bdc2483e78d368dccb",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ecbcd4767fc0607a34c1bef7 startedMessageText",
+    "successMessageText": "ecbcd4767fc0607a34c1bef7 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "7aff2bd162fec1a3c4c3dccf": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 20 PMC(s)",
+    "_id": "7aff2bd162fec1a3c4c3dccf",
+    "acceptPlayerMessage": "7aff2bd162fec1a3c4c3dccf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7aff2bd162fec1a3c4c3dccf changeQuestMessageText",
+    "completePlayerMessage": "7aff2bd162fec1a3c4c3dccf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bdc8df44bc5acc9d16c376fa",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "35a31b0a6bbd774bcf3d31bb",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "9ccaf1f7d326c7ba909640bf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ae91a6f8bc8aa1de13bfeb1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2f4dd4fe04531112ecacdb5e",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ecbcd4767fc0607a34c1bef7"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "7aff2bd162fec1a3c4c3dccf declinePlayerMessage",
+    "description": "7aff2bd162fec1a3c4c3dccf description",
+    "failMessageText": "7aff2bd162fec1a3c4c3dccf failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "7aff2bd162fec1a3c4c3dccf name",
+    "note": "7aff2bd162fec1a3c4c3dccf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bfa62a9adcbff4450c4bc1cb",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "9ad44ca1042003dba916ee2b",
+          "index": 4,
+          "items": [
+            {
+              "_id": "de29f6b3efdff4870171cdff",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "de29f6b3efdff4870171cdff",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7aff2bd162fec1a3c4c3dccf startedMessageText",
+    "successMessageText": "7aff2bd162fec1a3c4c3dccf successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "2de8dd0ff0becc85beffab68": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 35 PMC(s)",
+    "_id": "2de8dd0ff0becc85beffab68",
+    "acceptPlayerMessage": "2de8dd0ff0becc85beffab68 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2de8dd0ff0becc85beffab68 changeQuestMessageText",
+    "completePlayerMessage": "2de8dd0ff0becc85beffab68 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "12ebe4ab220ea0beef53ac4d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ce61bbfb1e8ec7dd5e9daf2d",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "f7d3b22ff057bc917a619dec"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3235317fa4e8fdf20389cdcf",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "83bff56bb92bb09feba66f8e",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7aff2bd162fec1a3c4c3dccf"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2de8dd0ff0becc85beffab68 declinePlayerMessage",
+    "description": "2de8dd0ff0becc85beffab68 description",
+    "failMessageText": "2de8dd0ff0becc85beffab68 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "2de8dd0ff0becc85beffab68 name",
+    "note": "2de8dd0ff0becc85beffab68 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "b4a53a8394cbebb8ffde0cb2",
+          "index": 3,
+          "type": "Experience",
+          "value": "7000"
+        },
+        {
+          "id": "6edb1aded4dd6b1f41bb62ec",
+          "index": 4,
+          "items": [
+            {
+              "_id": "22737d832e8a63ea9acf6433",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 105000
+              }
+            }
+          ],
+          "target": "22737d832e8a63ea9acf6433",
+          "type": "Item",
+          "value": "105000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2de8dd0ff0becc85beffab68 startedMessageText",
+    "successMessageText": "2de8dd0ff0becc85beffab68 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "66cdab49a2e5caeeec1a5caa": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 50 PMC(s)",
+    "_id": "66cdab49a2e5caeeec1a5caa",
+    "acceptPlayerMessage": "66cdab49a2e5caeeec1a5caa acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "66cdab49a2e5caeeec1a5caa changeQuestMessageText",
+    "completePlayerMessage": "66cdab49a2e5caeeec1a5caa completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3decdab4eb1a2534dfdd745a",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "aab23ebcf1ab8c9fd053b8b7",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "fc9c7ea9cde30bcef2bec5ec"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aa4cedb4e882fcce0ff5eada",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ccdecfa179f8ef5edbad880f",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2de8dd0ff0becc85beffab68"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "66cdab49a2e5caeeec1a5caa declinePlayerMessage",
+    "description": "66cdab49a2e5caeeec1a5caa description",
+    "failMessageText": "66cdab49a2e5caeeec1a5caa failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "66cdab49a2e5caeeec1a5caa name",
+    "note": "66cdab49a2e5caeeec1a5caa note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a696c0f64a0f6dc10cec1840",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "6f0e45482c4e08abc8f43a22",
+          "index": 4,
+          "items": [
+            {
+              "_id": "0fcbeef2a2e312e39b3b484e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "0fcbeef2a2e312e39b3b484e",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "66cdab49a2e5caeeec1a5caa startedMessageText",
+    "successMessageText": "66cdab49a2e5caeeec1a5caa successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "e681abf2fefc08f9e32af0fc": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 75 PMC(s)",
+    "_id": "e681abf2fefc08f9e32af0fc",
+    "acceptPlayerMessage": "e681abf2fefc08f9e32af0fc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e681abf2fefc08f9e32af0fc changeQuestMessageText",
+    "completePlayerMessage": "e681abf2fefc08f9e32af0fc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7614458c20c7dbfb8c3fea50",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "5e2ab2adbf71f56e95755fdd",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "aef8c79a20821b7cd12e5db5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "48cdabaf8a3be752c7145c02",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bba8ea731dcb63feffdbef5e",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "66cdab49a2e5caeeec1a5caa"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e681abf2fefc08f9e32af0fc declinePlayerMessage",
+    "description": "e681abf2fefc08f9e32af0fc description",
+    "failMessageText": "e681abf2fefc08f9e32af0fc failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "e681abf2fefc08f9e32af0fc name",
+    "note": "e681abf2fefc08f9e32af0fc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "3bdd0478adf25cc7f6761faf",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "de606bb5f50eadccebcfbf72",
+          "index": 4,
+          "items": [
+            {
+              "_id": "7db527f5906f23a81d6ec1d2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "7db527f5906f23a81d6ec1d2",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e681abf2fefc08f9e32af0fc startedMessageText",
+    "successMessageText": "e681abf2fefc08f9e32af0fc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "87ea0add36ecc7b3a737edf0": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 100 PMC(s)",
+    "_id": "87ea0add36ecc7b3a737edf0",
+    "acceptPlayerMessage": "87ea0add36ecc7b3a737edf0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "87ea0add36ecc7b3a737edf0 changeQuestMessageText",
+    "completePlayerMessage": "87ea0add36ecc7b3a737edf0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "5f0dc9ffff965e4892d3a5f4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "eeca13a1c6b60abad8c480f9",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "9fa27b751ead8acaefb0de35"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ee31fbf7c76f5bdaa1e5a1dd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1ed62b984aedf0cbecdd1ff",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e681abf2fefc08f9e32af0fc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "87ea0add36ecc7b3a737edf0 declinePlayerMessage",
+    "description": "87ea0add36ecc7b3a737edf0 description",
+    "failMessageText": "87ea0add36ecc7b3a737edf0 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "87ea0add36ecc7b3a737edf0 name",
+    "note": "87ea0add36ecc7b3a737edf0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "89a89f84baedd0cbeaad3fda",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "a6f5c4eafd29d3bfde2c65ad",
+          "index": 4,
+          "items": [
+            {
+              "_id": "1a90e9bfc005f9d1edef84c7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "1a90e9bfc005f9d1edef84c7",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "87ea0add36ecc7b3a737edf0 startedMessageText",
+    "successMessageText": "87ea0add36ecc7b3a737edf0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "cece0d59154dfbf0e4b5ccfc": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 250 PMC(s)",
+    "_id": "cece0d59154dfbf0e4b5ccfc",
+    "acceptPlayerMessage": "cece0d59154dfbf0e4b5ccfc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "cece0d59154dfbf0e4b5ccfc changeQuestMessageText",
+    "completePlayerMessage": "cece0d59154dfbf0e4b5ccfc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "da2ed67cbd3048d06e0339b9",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bfe921d1bcc088ed99e186f3",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "d5ee0354c6be5ae21296bafa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c5f7d4c1dd63773ed81db435",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "250",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9dece67f558c31ce8d5cbcb2",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "87ea0add36ecc7b3a737edf0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "cece0d59154dfbf0e4b5ccfc declinePlayerMessage",
+    "description": "cece0d59154dfbf0e4b5ccfc description",
+    "failMessageText": "cece0d59154dfbf0e4b5ccfc failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "cece0d59154dfbf0e4b5ccfc name",
+    "note": "cece0d59154dfbf0e4b5ccfc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fa00acdfbcdd3e37b6b523a7",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "0ea5fbdc2bbba7d73f0cc0ae",
+          "index": 4,
+          "items": [
+            {
+              "_id": "467be55e6bfaa1172b6fbce9",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "467be55e6bfaa1172b6fbce9",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "cece0d59154dfbf0e4b5ccfc startedMessageText",
+    "successMessageText": "cece0d59154dfbf0e4b5ccfc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  },
+  "d275bb385bff8cce29abb8e0": {
+    "QuestName": "[Eld] PMC Hunt: Clear Ground Zero from 500 PMC(s)",
+    "_id": "d275bb385bff8cce29abb8e0",
+    "acceptPlayerMessage": "d275bb385bff8cce29abb8e0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "d275bb385bff8cce29abb8e0 changeQuestMessageText",
+    "completePlayerMessage": "d275bb385bff8cce29abb8e0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e873fdc41e48dcadec84cf38",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ec2d9e3d7597ac4ee9e4a0ef",
+                "target": [
+                  "Sandbox",
+                  "Sandbox_high"
+                ]
+              }
+            ],
+            "id": "ff65ffc52da2cfd148a5a189"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8d64bcfbd5d9eebbbbdc7f2e",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1dbfa6ed309cb9bcae4ee6dd",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "cece0d59154dfbf0e4b5ccfc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "d275bb385bff8cce29abb8e0 declinePlayerMessage",
+    "description": "d275bb385bff8cce29abb8e0 description",
+    "failMessageText": "d275bb385bff8cce29abb8e0 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "653e6760052c01c1c805532f",
+    "name": "d275bb385bff8cce29abb8e0 name",
+    "note": "d275bb385bff8cce29abb8e0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5c7bde81cbeba0cf9bbc163b",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "6d27b7aabd7bccbe7b5df62f",
+          "index": 4,
+          "items": [
+            {
+              "_id": "3fe5be2b0ca2dcdee8b8faae",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "3fe5be2b0ca2dcdee8b8faae",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "d275bb385bff8cce29abb8e0 startedMessageText",
+    "successMessageText": "d275bb385bff8cce29abb8e0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000d",
+    "type": "Elimination"
+  }
+}

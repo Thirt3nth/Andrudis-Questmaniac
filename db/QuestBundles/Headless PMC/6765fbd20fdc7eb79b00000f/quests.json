@@ -1,0 +1,1049 @@
+{
+  "72134fccf7dfbbd236ca52ce": {
+    "QuestName": "[Lab] Headless PMC: Headshot 1 PMC(s) at The Lab",
+    "_id": "72134fccf7dfbbd236ca52ce",
+    "acceptPlayerMessage": "72134fccf7dfbbd236ca52ce acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "72134fccf7dfbbd236ca52ce changeQuestMessageText",
+    "completePlayerMessage": "72134fccf7dfbbd236ca52ce completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fd486a6147bec8eb77bc78b4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "06adcebf3bb46ddf4ae66ec3",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "aaed8a43f13f8bc6b9b9823b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "83ecef23e18331ec9cef748a",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "72134fccf7dfbbd236ca52ce declinePlayerMessage",
+    "description": "72134fccf7dfbbd236ca52ce description",
+    "failMessageText": "72134fccf7dfbbd236ca52ce failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "72134fccf7dfbbd236ca52ce name",
+    "note": "72134fccf7dfbbd236ca52ce note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bcea8e6efd6fb296b34c73ea",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "86999c386613a6a4326c7a15",
+          "index": 4,
+          "items": [
+            {
+              "_id": "fa26e4e233a97168beeed5af",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "fa26e4e233a97168beeed5af",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "72134fccf7dfbbd236ca52ce startedMessageText",
+    "successMessageText": "72134fccf7dfbbd236ca52ce successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "a90296e90ffc8ac8e0b7d28b": {
+    "QuestName": "[Lab] Headless PMC: Headshot 2 PMC(s) at The Lab",
+    "_id": "a90296e90ffc8ac8e0b7d28b",
+    "acceptPlayerMessage": "a90296e90ffc8ac8e0b7d28b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a90296e90ffc8ac8e0b7d28b changeQuestMessageText",
+    "completePlayerMessage": "a90296e90ffc8ac8e0b7d28b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8c8053dacb82a8b9d61308a6",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "cfa31a3f91afd97aa832eb6f",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "ae6aa9e4ba2a35abc3d91cfc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7eac53802927a0d59cdee695",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c94e75dd18d9e4ce6311b62b",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "72134fccf7dfbbd236ca52ce"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a90296e90ffc8ac8e0b7d28b declinePlayerMessage",
+    "description": "a90296e90ffc8ac8e0b7d28b description",
+    "failMessageText": "a90296e90ffc8ac8e0b7d28b failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "a90296e90ffc8ac8e0b7d28b name",
+    "note": "a90296e90ffc8ac8e0b7d28b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9ab3e028c33ac4b505a5fd0c",
+          "index": 3,
+          "type": "Experience",
+          "value": "400"
+        },
+        {
+          "id": "bfcfe6020dadbe993bbbaeaf",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d1bfc9d5cf31bf4d4ced2ac3",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 6000
+              }
+            }
+          ],
+          "target": "d1bfc9d5cf31bf4d4ced2ac3",
+          "type": "Item",
+          "value": "6000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a90296e90ffc8ac8e0b7d28b startedMessageText",
+    "successMessageText": "a90296e90ffc8ac8e0b7d28b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "6db5faf3d19ffe3da2aae94e": {
+    "QuestName": "[Lab] Headless PMC: Headshot 5 PMC(s) at The Lab",
+    "_id": "6db5faf3d19ffe3da2aae94e",
+    "acceptPlayerMessage": "6db5faf3d19ffe3da2aae94e acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "6db5faf3d19ffe3da2aae94e changeQuestMessageText",
+    "completePlayerMessage": "6db5faf3d19ffe3da2aae94e completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7ba00eb7bfa0ff2bc3e12fa1",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ced209be8d6adb0eb9db04ba",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "d5953e5c2e67bc04560acca1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bb50c598e9f92a275fec5591",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2ebcff5d8f32fceccdb1aa4f",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a90296e90ffc8ac8e0b7d28b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "6db5faf3d19ffe3da2aae94e declinePlayerMessage",
+    "description": "6db5faf3d19ffe3da2aae94e description",
+    "failMessageText": "6db5faf3d19ffe3da2aae94e failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "6db5faf3d19ffe3da2aae94e name",
+    "note": "6db5faf3d19ffe3da2aae94e note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "2c6fe783d2497758bbfba4ac",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "ba0da120cdeac9b3bb5d0b17",
+          "index": 4,
+          "items": [
+            {
+              "_id": "eccaeb08b2ddff68df6fffdf",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "eccaeb08b2ddff68df6fffdf",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "6db5faf3d19ffe3da2aae94e startedMessageText",
+    "successMessageText": "6db5faf3d19ffe3da2aae94e successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "7aff8bc61b3aaca2d1798a2d": {
+    "QuestName": "[Lab] Headless PMC: Headshot 10 PMC(s) at The Lab",
+    "_id": "7aff8bc61b3aaca2d1798a2d",
+    "acceptPlayerMessage": "7aff8bc61b3aaca2d1798a2d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7aff8bc61b3aaca2d1798a2d changeQuestMessageText",
+    "completePlayerMessage": "7aff8bc61b3aaca2d1798a2d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "abc041edbca7fb82c65586fd",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "b87e1ef42edb5cdc1f5f1852",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "7fcd37b0b7cedbcd03cebdc4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f539e743e7ccce87cf84c7af",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a0054de560928296e7dcefbf",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "6db5faf3d19ffe3da2aae94e"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "7aff8bc61b3aaca2d1798a2d declinePlayerMessage",
+    "description": "7aff8bc61b3aaca2d1798a2d description",
+    "failMessageText": "7aff8bc61b3aaca2d1798a2d failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "7aff8bc61b3aaca2d1798a2d name",
+    "note": "7aff8bc61b3aaca2d1798a2d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "fc41e5ae4b0a94e9be6641c2",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "016bb09c9810bf2e8a15ff10",
+          "index": 4,
+          "items": [
+            {
+              "_id": "a88445cc35775fb64f052bfb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "a88445cc35775fb64f052bfb",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7aff8bc61b3aaca2d1798a2d startedMessageText",
+    "successMessageText": "7aff8bc61b3aaca2d1798a2d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "45eec0ff50cfb0186cba58f3": {
+    "QuestName": "[Lab] Headless PMC: Headshot 15 PMC(s) at The Lab",
+    "_id": "45eec0ff50cfb0186cba58f3",
+    "acceptPlayerMessage": "45eec0ff50cfb0186cba58f3 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "45eec0ff50cfb0186cba58f3 changeQuestMessageText",
+    "completePlayerMessage": "45eec0ff50cfb0186cba58f3 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "6f6fe2cd22effc43b0e6309c",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "ef2d68aa9cd1acc3f7acdded",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "a7dfe216bb80afb3d03ffbd1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dec3efdf46e001cadf4a40a1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "db6f23d46c3ee14c57da8005",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "7aff8bc61b3aaca2d1798a2d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "45eec0ff50cfb0186cba58f3 declinePlayerMessage",
+    "description": "45eec0ff50cfb0186cba58f3 description",
+    "failMessageText": "45eec0ff50cfb0186cba58f3 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "45eec0ff50cfb0186cba58f3 name",
+    "note": "45eec0ff50cfb0186cba58f3 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6fc6dfdede0eb30832cf3dcf",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "fbec2aa98ccfb47ad27fcb72",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ded35c97c8ca4bddfe9fa6e5",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 45000
+              }
+            }
+          ],
+          "target": "ded35c97c8ca4bddfe9fa6e5",
+          "type": "Item",
+          "value": "45000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "45eec0ff50cfb0186cba58f3 startedMessageText",
+    "successMessageText": "45eec0ff50cfb0186cba58f3 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "fbf15d61052cf65cc520af14": {
+    "QuestName": "[Lab] Headless PMC: Headshot 20 PMC(s) at The Lab",
+    "_id": "fbf15d61052cf65cc520af14",
+    "acceptPlayerMessage": "fbf15d61052cf65cc520af14 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fbf15d61052cf65cc520af14 changeQuestMessageText",
+    "completePlayerMessage": "fbf15d61052cf65cc520af14 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8e82875a22cd9a98e06efa74",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "eeb55a683e7debc1b9dbdc1b",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "29c6daed9cee2eda20c0cade"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ebfa136aae79a3eedaec4a6",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b77e7c0208c9f9270acbdcca",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "45eec0ff50cfb0186cba58f3"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fbf15d61052cf65cc520af14 declinePlayerMessage",
+    "description": "fbf15d61052cf65cc520af14 description",
+    "failMessageText": "fbf15d61052cf65cc520af14 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "fbf15d61052cf65cc520af14 name",
+    "note": "fbf15d61052cf65cc520af14 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "9dcf12affa7bd5f5d1efa4c9",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "be4bede34baa5bfc4558baa7",
+          "index": 4,
+          "items": [
+            {
+              "_id": "ababfafa6cf56cbaaebdbe29",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "ababfafa6cf56cbaaebdbe29",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fbf15d61052cf65cc520af14 startedMessageText",
+    "successMessageText": "fbf15d61052cf65cc520af14 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "b2d00c178aaa7076e7f6ea7b": {
+    "QuestName": "[Lab] Headless PMC: Headshot 33 PMC(s) at The Lab",
+    "_id": "b2d00c178aaa7076e7f6ea7b",
+    "acceptPlayerMessage": "b2d00c178aaa7076e7f6ea7b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b2d00c178aaa7076e7f6ea7b changeQuestMessageText",
+    "completePlayerMessage": "b2d00c178aaa7076e7f6ea7b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ee7a06f716c70fffc9c7df64",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "bce053c82cf97fbdbe6dbeca",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "d4e9b1c0b9aa09c059a1fdf9"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d30350ad5ef1e5f463ece4ca",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "33",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ffacf4dac46ab0dfafea554c",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fbf15d61052cf65cc520af14"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b2d00c178aaa7076e7f6ea7b declinePlayerMessage",
+    "description": "b2d00c178aaa7076e7f6ea7b description",
+    "failMessageText": "b2d00c178aaa7076e7f6ea7b failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "b2d00c178aaa7076e7f6ea7b name",
+    "note": "b2d00c178aaa7076e7f6ea7b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "5faf53bb5a7e1ec0604e7fb3",
+          "index": 3,
+          "type": "Experience",
+          "value": "6600"
+        },
+        {
+          "id": "fa21cabd2fd2c7fc3c3cff1e",
+          "index": 4,
+          "items": [
+            {
+              "_id": "f9491abc049502e07f83cf56",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 99000
+              }
+            }
+          ],
+          "target": "f9491abc049502e07f83cf56",
+          "type": "Item",
+          "value": "99000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b2d00c178aaa7076e7f6ea7b startedMessageText",
+    "successMessageText": "b2d00c178aaa7076e7f6ea7b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "26cf5b157cd6e9fa938360c8": {
+    "QuestName": "[Lab] Headless PMC: Headshot 50 PMC(s) at The Lab",
+    "_id": "26cf5b157cd6e9fa938360c8",
+    "acceptPlayerMessage": "26cf5b157cd6e9fa938360c8 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "26cf5b157cd6e9fa938360c8 changeQuestMessageText",
+    "completePlayerMessage": "26cf5b157cd6e9fa938360c8 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "75d0738e981abc6ee016ecde",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "e7cbaa2d9d58fba2eb334a2e",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "aac7baf9b0c8a19a798277ba"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9254cd20ba464cb0e6ee041c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c4e595d96490b3a98b4cfbb2",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b2d00c178aaa7076e7f6ea7b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "26cf5b157cd6e9fa938360c8 declinePlayerMessage",
+    "description": "26cf5b157cd6e9fa938360c8 description",
+    "failMessageText": "26cf5b157cd6e9fa938360c8 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "26cf5b157cd6e9fa938360c8 name",
+    "note": "26cf5b157cd6e9fa938360c8 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e8ddf546bed3bfcc9fd721af",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "c8840e8e8cbacefe21bfd210",
+          "index": 4,
+          "items": [
+            {
+              "_id": "942d9429e9bedc54eaeb2057",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "942d9429e9bedc54eaeb2057",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "26cf5b157cd6e9fa938360c8 startedMessageText",
+    "successMessageText": "26cf5b157cd6e9fa938360c8 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "abc981de98b24aaf93b9ef0d": {
+    "QuestName": "[Lab] Headless PMC: Headshot 100 PMC(s) at The Lab",
+    "_id": "abc981de98b24aaf93b9ef0d",
+    "acceptPlayerMessage": "abc981de98b24aaf93b9ef0d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "abc981de98b24aaf93b9ef0d changeQuestMessageText",
+    "completePlayerMessage": "abc981de98b24aaf93b9ef0d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a55d0adc78bbbce1f67f2094",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "051d358b7fec0ee21886cade",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "fc1bc2f3e6d7bf69e50c9bcb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dffcea91fab9bf5de22deda3",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a8f3ce12a32dfe3de5b82470",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "26cf5b157cd6e9fa938360c8"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "abc981de98b24aaf93b9ef0d declinePlayerMessage",
+    "description": "abc981de98b24aaf93b9ef0d description",
+    "failMessageText": "abc981de98b24aaf93b9ef0d failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "abc981de98b24aaf93b9ef0d name",
+    "note": "abc981de98b24aaf93b9ef0d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "dfb0f5bf9bcca1a0faa58d44",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "92fc0ceedafca4ea60cbf4c5",
+          "index": 4,
+          "items": [
+            {
+              "_id": "d9d12adadcc44cd0e13abdc7",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "d9d12adadcc44cd0e13abdc7",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "abc981de98b24aaf93b9ef0d startedMessageText",
+    "successMessageText": "abc981de98b24aaf93b9ef0d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "37cf9ee26fff9df4da5dcad4": {
+    "QuestName": "[Lab] Headless PMC: Headshot 200 PMC(s) at The Lab",
+    "_id": "37cf9ee26fff9df4da5dcad4",
+    "acceptPlayerMessage": "37cf9ee26fff9df4da5dcad4 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "37cf9ee26fff9df4da5dcad4 changeQuestMessageText",
+    "completePlayerMessage": "37cf9ee26fff9df4da5dcad4 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e4ea045b180effe3a3136477",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "a38e3ffc0cbe88fcbc7ec3aa",
+                "target": [
+                  "laboratory"
+                ]
+              }
+            ],
+            "id": "d0b8ef58b0fc44bddcff8ba0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7eed4b495113add85fc6bc04",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8cbce3cccbbef3ae2fb4cc7a",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "abc981de98b24aaf93b9ef0d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "37cf9ee26fff9df4da5dcad4 declinePlayerMessage",
+    "description": "37cf9ee26fff9df4da5dcad4 description",
+    "failMessageText": "37cf9ee26fff9df4da5dcad4 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5b0fc42d86f7744a585f9105",
+    "name": "37cf9ee26fff9df4da5dcad4 name",
+    "note": "37cf9ee26fff9df4da5dcad4 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "927b0f9f52cf87bbdd23b45c",
+          "index": 3,
+          "type": "Experience",
+          "value": "40000"
+        },
+        {
+          "id": "c1701c64fa9f5d6faed144bc",
+          "index": 4,
+          "items": [
+            {
+              "_id": "9c0dab94e8b9f2dda43cbde2",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 600000
+              }
+            }
+          ],
+          "target": "9c0dab94e8b9f2dda43cbde2",
+          "type": "Item",
+          "value": "600000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "37cf9ee26fff9df4da5dcad4 startedMessageText",
+    "successMessageText": "37cf9ee26fff9df4da5dcad4 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  }
+}

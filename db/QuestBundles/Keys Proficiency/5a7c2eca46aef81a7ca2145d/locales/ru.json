@@ -1,0 +1,14 @@
+{
+    "a4de75c32db70fbbaf4dcd30 name": "[Мех] Знание ключей: Завод Слесарь",
+    "a4de75c32db70fbbaf4dcd30 note": "",
+    "a4de75c32db70fbbaf4dcd30 description": "Нужны контейнеры для ключей? На кой хрен они тебе сдались если у тебя и ключей-то толком нет? Должен найти их все!",
+    "a4de75c32db70fbbaf4dcd30 startedMessageText": "[Мех] Задание принято: '[Мех] Знание ключей: Завод Слесарь'!",
+    "a4de75c32db70fbbaf4dcd30 failMessageText": "[Мех] Задание провалено: '[Мех] Знание ключей: Завод Слесарь'!",
+    "a4de75c32db70fbbaf4dcd30 successMessageText": "[Мех] Задание завершено: '[Мех] Знание ключей: Завод Слесарь'!",
+    "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 declinePlayerMessage": "",
+    "a4de75c32db70fbbaf4dcd30 completePlayerMessage": "",
+    "67ea305f94b3c1dc54de997f": "Найди Ключ от передней двери насосной станции",
+    "bafce78f880183b5e71ab1ea": "Найди Ключ от задней двери насосной станции",
+    "c28edcca6cece5d5cea5e988": "Найди Ключ от выхода с Завода"
+}

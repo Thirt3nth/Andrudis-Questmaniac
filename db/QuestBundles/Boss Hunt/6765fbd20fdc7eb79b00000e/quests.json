@@ -1,0 +1,2099 @@
+{
+  "f869d1d1dbc7327df4dfccdc": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x1",
+    "_id": "f869d1d1dbc7327df4dfccdc",
+    "acceptPlayerMessage": "f869d1d1dbc7327df4dfccdc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "f869d1d1dbc7327df4dfccdc changeQuestMessageText",
+    "completePlayerMessage": "f869d1d1dbc7327df4dfccdc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "acdb7c1353f161efdc0526bf",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "638b9e30ba0cabece3dd2b7f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a12d85053a5eaa9f650ef6d3",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "736bf351df5f19c66b0e4ab5",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2bacadbfb402bf861c69abee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b315fac7f9e3d3606cc03de5",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "9dccadff1fe587e26c9adddf",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c041c6d21afbfd126d55ce09"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "babd7ae58dff64aedc063b77",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ef5e1da58cbc0cacb0eebffd",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "7ceeade3426ebebd760c3844"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7a754c27fec48bbfa0c44e70",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a3320d3aab1ef0f51c38d17b",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "fd29abe6fbb288aeb9e86bfc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9fdea313edebed0e1bea101d",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "f869d1d1dbc7327df4dfccdc declinePlayerMessage",
+    "description": "f869d1d1dbc7327df4dfccdc description",
+    "failMessageText": "f869d1d1dbc7327df4dfccdc failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "f869d1d1dbc7327df4dfccdc name",
+    "note": "f869d1d1dbc7327df4dfccdc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bd16cdc82890a87d7a19adce",
+          "index": 7,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "c9bc930b1bebc4e770e44cfd",
+          "index": 8,
+          "items": [
+            {
+              "_id": "efadcb69c42aefddbbe3e0f1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "efadcb69c42aefddbbe3e0f1",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "f869d1d1dbc7327df4dfccdc startedMessageText",
+    "successMessageText": "f869d1d1dbc7327df4dfccdc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "b2eaf5768b94abcac34a14ed": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x2",
+    "_id": "b2eaf5768b94abcac34a14ed",
+    "acceptPlayerMessage": "b2eaf5768b94abcac34a14ed acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b2eaf5768b94abcac34a14ed changeQuestMessageText",
+    "completePlayerMessage": "b2eaf5768b94abcac34a14ed completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d3cb5fc74bd7c5fedfc95e75",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "3d44dd2ddd4dfdde244c0e47"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2adde0f41f927f24c5c4d7da",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4ffbbf04eb7a70e44ce78edd",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "bab287f301f78a6eaafd03b5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b1bf6dff294ac719cf6bfb86",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b110d122b6fe14c7bfcafa2b",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "bd933f6ca8badcfb6ca089b4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9ce56889098d2628edd0b4a1",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f53b90efaacd78ae74d518b7",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "29105ea0de4676dd00c2b8cb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0e38c925d2bdccb3cddc0e7a",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "5c2f20d5217dc2b8784f9323",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "bcb56ab9980cdacbfff3259e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a93f6aa00ec9b35cc13df63d",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbc9cb3edee9eb41f1f5ecce",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "f869d1d1dbc7327df4dfccdc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b2eaf5768b94abcac34a14ed declinePlayerMessage",
+    "description": "b2eaf5768b94abcac34a14ed description",
+    "failMessageText": "b2eaf5768b94abcac34a14ed failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b2eaf5768b94abcac34a14ed name",
+    "note": "b2eaf5768b94abcac34a14ed note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4cd7cc14248dd12bff04af2d",
+          "index": 7,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "dca40670d31ff2be49d1eade",
+          "index": 8,
+          "items": [
+            {
+              "_id": "f53deba07079f9edb0bb35dd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "f53deba07079f9edb0bb35dd",
+          "type": "Item",
+          "value": "20000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b2eaf5768b94abcac34a14ed startedMessageText",
+    "successMessageText": "b2eaf5768b94abcac34a14ed successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "fb3bafb1ad0fae4df3466ee0": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x3",
+    "_id": "fb3bafb1ad0fae4df3466ee0",
+    "acceptPlayerMessage": "fb3bafb1ad0fae4df3466ee0 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fb3bafb1ad0fae4df3466ee0 changeQuestMessageText",
+    "completePlayerMessage": "fb3bafb1ad0fae4df3466ee0 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "38d58a381ed972ae0fcbd5ef",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "be84faa4efff8ad08ecda3bb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c497bbd4ad2dc0fbcce53df5",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7291b1e4d2f3e27e1f487ecf",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "9f69d4fa3ec0359f5def14c7"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b7b1cba71305f51712a3baef",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8a8d93f45d54952acecbd7e1",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "3eacd18ce7bb8ed02ef53f2f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "781f11b6be0bdfaf8df97d2a",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fab47cf97dd4fbfd94abd756",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "1285eaadc0ca82b2bdada0c4"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b50cbbebb09db5cac3f6aa85",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7e8f9f0bd70d3f94cffb0abd",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "773dbabdbeece8b59f7d1ef6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6fa9a0ad93a11113acb5b08a",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c8fce1e76b4ad1e41bbfa37f",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b2eaf5768b94abcac34a14ed"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fb3bafb1ad0fae4df3466ee0 declinePlayerMessage",
+    "description": "fb3bafb1ad0fae4df3466ee0 description",
+    "failMessageText": "fb3bafb1ad0fae4df3466ee0 failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fb3bafb1ad0fae4df3466ee0 name",
+    "note": "fb3bafb1ad0fae4df3466ee0 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bcb2f5ee7bdcd7ead8bddb35",
+          "index": 7,
+          "type": "Experience",
+          "value": "750"
+        },
+        {
+          "id": "23f1fa4c1c376b53b97fcd96",
+          "index": 8,
+          "items": [
+            {
+              "_id": "ec94bd05afc9cdaecd4f3fbc",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "ec94bd05afc9cdaecd4f3fbc",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fb3bafb1ad0fae4df3466ee0 startedMessageText",
+    "successMessageText": "fb3bafb1ad0fae4df3466ee0 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "5155abbd4d861e2e75fe57ae": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x4",
+    "_id": "5155abbd4d861e2e75fe57ae",
+    "acceptPlayerMessage": "5155abbd4d861e2e75fe57ae acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "5155abbd4d861e2e75fe57ae changeQuestMessageText",
+    "completePlayerMessage": "5155abbd4d861e2e75fe57ae completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "eacaec22f693e4afc9d13c3b",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "4a767e6bf93b829b0391c4ea"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "de4b2ecdeacb882dbbdbccf1",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3ebf17390d49438a9ff42eed",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "4eb49fb30aa2188e3c77b70a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9d9d04fc8ecaffc0e1b212aa",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "71bc3afebd7cbf78caafdd4e",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "9162c6ba6b3fcadff6aa3495"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8d12ece4f09fd17bfefbbf5b",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "dfbeaece6f5c134b92bdc2c5",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "2becaf8b3c41fb12e4e394d5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f7e7bf24f2ff2ff4eeaeb470",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7ec6a01b2868eb805e4db4d6",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "f32c7c9c0f4f7030ba1a6e4e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bbee19a756b1e0ee4ff131dc",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "4",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aea398cff5bf7ab1eda06ebe",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fb3bafb1ad0fae4df3466ee0"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "5155abbd4d861e2e75fe57ae declinePlayerMessage",
+    "description": "5155abbd4d861e2e75fe57ae description",
+    "failMessageText": "5155abbd4d861e2e75fe57ae failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "5155abbd4d861e2e75fe57ae name",
+    "note": "5155abbd4d861e2e75fe57ae note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f2da06aeda2ebd7ced7ea9f4",
+          "index": 7,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "7cef341d41aef13b0b98eeb2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "fdbf8aee0c73da51fc7da35e",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 40000
+              }
+            }
+          ],
+          "target": "fdbf8aee0c73da51fc7da35e",
+          "type": "Item",
+          "value": "40000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "5155abbd4d861e2e75fe57ae startedMessageText",
+    "successMessageText": "5155abbd4d861e2e75fe57ae successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "0f929bbbd1ebf97e84912e80": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x5",
+    "_id": "0f929bbbd1ebf97e84912e80",
+    "acceptPlayerMessage": "0f929bbbd1ebf97e84912e80 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0f929bbbd1ebf97e84912e80 changeQuestMessageText",
+    "completePlayerMessage": "0f929bbbd1ebf97e84912e80 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e1df98f06cbd5cb9f8ba56d1",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "1abb8ca587e68eeba3bbdfbb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "86dd0b7c5a1d4e9eeb8d2eb2",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7de0bb1baa59c9a7bb4d0faf",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e92e4ea1efafc3a70f3fdc17"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "19a5e9ef1939db84f29da74c",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fba85b9c085f2ece0ce0de69",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c65effb5ac21bcaa47d8a8aa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "83f9f14eedcf0fa6e40dbcca",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1013a9bfaebaa1c0a3baa878",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "b40c6eece12a717b2beadeea"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "59b275072bffec3d6adbdada",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fd33a9bdceae69854ebda0bb",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "cd93a42b98b5dce4fbc67877"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "adde6a7acaab6cbe6914f6f6",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e3c9f9b9c5f53f4fabea63c8",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "5155abbd4d861e2e75fe57ae"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0f929bbbd1ebf97e84912e80 declinePlayerMessage",
+    "description": "0f929bbbd1ebf97e84912e80 description",
+    "failMessageText": "0f929bbbd1ebf97e84912e80 failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0f929bbbd1ebf97e84912e80 name",
+    "note": "0f929bbbd1ebf97e84912e80 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "a23685cfad5e2f21770abc28",
+          "index": 7,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "d8495aed659f00683daafda6",
+          "index": 8,
+          "items": [
+            {
+              "_id": "6db4d5544438d1e0edc3a11b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "6db4d5544438d1e0edc3a11b",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0f929bbbd1ebf97e84912e80 startedMessageText",
+    "successMessageText": "0f929bbbd1ebf97e84912e80 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "b75dea8ed2b6efd137aab9cb": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x7",
+    "_id": "b75dea8ed2b6efd137aab9cb",
+    "acceptPlayerMessage": "b75dea8ed2b6efd137aab9cb acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "b75dea8ed2b6efd137aab9cb changeQuestMessageText",
+    "completePlayerMessage": "b75dea8ed2b6efd137aab9cb completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b4ac381a2cfba739fa04ed13",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "326e5a5ae0eebc46866313cf"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c2da9ac14e85bde0c4c21dcc",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "77598ad00ba6eeead97f4bbd",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "be7f4bed0fd57fe4d9bffbd0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1b1ca7e9aa3fcedf3b270ca",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "6cab85c3ef4a5174cd45a0cc",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "e44f4d741b8abfccdd5b0be9"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f730dbd0caf4bb3dba4a1bd4",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "addcece0fd5bae85aea1c5bc",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ea658baf6a6438a9a479574f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "133676dc1cd07ee7e962a301",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d79df95e5de8cabb9e81dc81",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "cb6b0db1e4f8847d8147fbc8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e2ea0bb0387daefcd95bdcdf",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "7",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "1a8fcb56bacb0a4e5678ef0b",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0f929bbbd1ebf97e84912e80"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "b75dea8ed2b6efd137aab9cb declinePlayerMessage",
+    "description": "b75dea8ed2b6efd137aab9cb description",
+    "failMessageText": "b75dea8ed2b6efd137aab9cb failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "b75dea8ed2b6efd137aab9cb name",
+    "note": "b75dea8ed2b6efd137aab9cb note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "62a90cf7f9c4a4668bf0b7bc",
+          "index": 7,
+          "type": "Experience",
+          "value": "1750"
+        },
+        {
+          "id": "bbaabf84b7cfadd9d0fbd4cf",
+          "index": 8,
+          "items": [
+            {
+              "_id": "e7005eaa28e1e3693237e3fd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 70000
+              }
+            }
+          ],
+          "target": "e7005eaa28e1e3693237e3fd",
+          "type": "Item",
+          "value": "70000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "b75dea8ed2b6efd137aab9cb startedMessageText",
+    "successMessageText": "b75dea8ed2b6efd137aab9cb successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "2cf0e0d334e7fe240d65dd8f": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x9",
+    "_id": "2cf0e0d334e7fe240d65dd8f",
+    "acceptPlayerMessage": "2cf0e0d334e7fe240d65dd8f acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2cf0e0d334e7fe240d65dd8f changeQuestMessageText",
+    "completePlayerMessage": "2cf0e0d334e7fe240d65dd8f completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e3dffb36a8f447a1aaca0039",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c42e17d669cdebae6b6f39f0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d83ccc90b336ceb1ddcbafbe",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "a3c77de84d2ffebee9e1fbec",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ed87184bb5be0ffbce5dc7fc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "efe132df5cda3dbf9af8d190",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fef6caada58cdcddbf6ecae9",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "679deceaccff867dce6ab981"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "eefa6e7025dce5f8d2529afc",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "15e9aeecfd6cfbda58fbadf1",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "50811e8ff30074d8fefb35ee"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9c6b07ae12ddc20266235eb3",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c6fea024fd846f43cd969815",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "de6d7d7cf5ce4df5b678a2dd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1439da4bffc0eaba1bc0e13",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "9",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d2fd3ddb6fe3ac638a2ddc5a",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b75dea8ed2b6efd137aab9cb"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2cf0e0d334e7fe240d65dd8f declinePlayerMessage",
+    "description": "2cf0e0d334e7fe240d65dd8f description",
+    "failMessageText": "2cf0e0d334e7fe240d65dd8f failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "2cf0e0d334e7fe240d65dd8f name",
+    "note": "2cf0e0d334e7fe240d65dd8f note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "ebe23debcb22cdba893b5b30",
+          "index": 7,
+          "type": "Experience",
+          "value": "2250"
+        },
+        {
+          "id": "e4ad86ce6caa1fae5d283ccf",
+          "index": 8,
+          "items": [
+            {
+              "_id": "4da4ca58a8d1b7cd00e2aa86",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 90000
+              }
+            }
+          ],
+          "target": "4da4ca58a8d1b7cd00e2aa86",
+          "type": "Item",
+          "value": "90000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2cf0e0d334e7fe240d65dd8f startedMessageText",
+    "successMessageText": "2cf0e0d334e7fe240d65dd8f successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "ff51e2781a427e52ac51eccc": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x12",
+    "_id": "ff51e2781a427e52ac51eccc",
+    "acceptPlayerMessage": "ff51e2781a427e52ac51eccc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ff51e2781a427e52ac51eccc changeQuestMessageText",
+    "completePlayerMessage": "ff51e2781a427e52ac51eccc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ea5c81aeacaafa416031cac5",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "c5be95faad9e9b01f3f19ded"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ed63035ed643cfaeae1fea31",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f6d9deeaba5ff7cd7ee72f4f",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "84aebc40579c0efb71e43b0e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3385e08cdb64a1f6e9e582ad",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7bcadf82ef17202f0baed1dd",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "be1c3a6c974844fb3b8312cd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cc87beeec8e79937305700f5",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "8dfc5bd2ef633d5c2fdb3feb",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "64857a5ae134f7fb2980ba7c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f11917fea4f2cc4f1adc2cd2",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d79dd7f9d7a27bf9d6c0209a",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "eead89d6d80fabbcfe8a7ce9"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "cda319ebcc6c8613fdae02d6",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "12",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "acbf6d9dbec79cbc356f1aed",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2cf0e0d334e7fe240d65dd8f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ff51e2781a427e52ac51eccc declinePlayerMessage",
+    "description": "ff51e2781a427e52ac51eccc description",
+    "failMessageText": "ff51e2781a427e52ac51eccc failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ff51e2781a427e52ac51eccc name",
+    "note": "ff51e2781a427e52ac51eccc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1c2ed7befbfcf8dcd4dbded4",
+          "index": 7,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "f012fd82b07ed25eea58c3ba",
+          "index": 8,
+          "items": [
+            {
+              "_id": "d0dd97ebbcceee3ffbdd6539",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 120000
+              }
+            }
+          ],
+          "target": "d0dd97ebbcceee3ffbdd6539",
+          "type": "Item",
+          "value": "120000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ff51e2781a427e52ac51eccc startedMessageText",
+    "successMessageText": "ff51e2781a427e52ac51eccc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "2ff37fd5fcddec0fdec0a7bc": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x20",
+    "_id": "2ff37fd5fcddec0fdec0a7bc",
+    "acceptPlayerMessage": "2ff37fd5fcddec0fdec0a7bc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "2ff37fd5fcddec0fdec0a7bc changeQuestMessageText",
+    "completePlayerMessage": "2ff37fd5fcddec0fdec0a7bc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b0be8fb99184a6bdd7496dbb",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ece4ff9ccfdcdbabcbcccea8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4b113403dcfc11882ce9ce70",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "19a9cbb67cef66b9f1eefbf8",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "bce0fa043a5d3ae7349bcf37"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "2cf47eeed2f1b955e04deab4",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "cdf03a0074bba2fc646017c8",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "30badc0e38a8c3aba3b75dc0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "21dbd59cf5aedbacf10ebdbf",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4e6fabb3edad30ba0cd7d6c6",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "db88cbf5a8b9aaaa627427fc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0b9abbded8ff3eefb2b07fda",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ebb7dfaf30fecea53dd3c036",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "8aa0beb32878fefed480deab"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e5701d307aa40da9a2dfa1f2",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5dc63c6e3f005677da60f20a",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ff51e2781a427e52ac51eccc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "2ff37fd5fcddec0fdec0a7bc declinePlayerMessage",
+    "description": "2ff37fd5fcddec0fdec0a7bc description",
+    "failMessageText": "2ff37fd5fcddec0fdec0a7bc failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "2ff37fd5fcddec0fdec0a7bc name",
+    "note": "2ff37fd5fcddec0fdec0a7bc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e155b22cce4d50daed749d82",
+          "index": 7,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "feb3bcdab87bf5641b6f5dbe",
+          "index": 8,
+          "items": [
+            {
+              "_id": "9122d358ebc6dfcaff7ccad1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "9122d358ebc6dfcaff7ccad1",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "2ff37fd5fcddec0fdec0a7bc startedMessageText",
+    "successMessageText": "2ff37fd5fcddec0fdec0a7bc successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  },
+  "7cdd3e14a31c8dbca98f41ee": {
+    "QuestName": "[Kho] Boss Hunt: Dominate Bosses x50",
+    "_id": "7cdd3e14a31c8dbca98f41ee",
+    "acceptPlayerMessage": "7cdd3e14a31c8dbca98f41ee acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "7cdd3e14a31c8dbca98f41ee changeQuestMessageText",
+    "completePlayerMessage": "7cdd3e14a31c8dbca98f41ee completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "9bf5490f81cba3c135eec08b",
+                "savageRole": [
+                  "bossGluhar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "14fbe0bcfcceccad333a29cb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1e7e2cde8dd0b9fc69fca5d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "26ea3a65b05cfdb5b0969ea6",
+                "savageRole": [
+                  "bossKilla"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "ce2864546cacd7d47c13dbeb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "fc2acba7fba4ef690685a2af",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "e55dda0b3fc6a5dcb86466b5",
+                "savageRole": [
+                  "bossBully"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "12f1cacb43bf1a1903bcc415"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "faf290d2eb2de1526901b639",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bca81f53ceccadfce5e06f77",
+                "savageRole": [
+                  "bossKojaniy"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "f5fd9c23f9e7bfff3eb40ecb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f8983ee5a2bbe2c80dafc4aa",
+          "index": 3,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b57e65a1833b3a27a82c8a2d",
+                "savageRole": [
+                  "bossSanitar"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "6ddbbbadb81076cbfcab342e"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8edd3bcc9de3ecca0bbb1796",
+          "index": 4,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bf07ccc3e0ddbfd5dafba383",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "2ff37fd5fcddec0fdec0a7bc"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "7cdd3e14a31c8dbca98f41ee declinePlayerMessage",
+    "description": "7cdd3e14a31c8dbca98f41ee description",
+    "failMessageText": "7cdd3e14a31c8dbca98f41ee failMessageText",
+    "image": "/files/quest/icon/5d69468a86f77452aa51d79d.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "7cdd3e14a31c8dbca98f41ee name",
+    "note": "7cdd3e14a31c8dbca98f41ee note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "0933abca7e8c0ebde1f59ae8",
+          "index": 7,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "d7cde4c5db1fcddaf8eebce2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "b694efaee3c67b3d7cdfae11",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "b694efaee3c67b3d7cdfae11",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "7cdd3e14a31c8dbca98f41ee startedMessageText",
+    "successMessageText": "7cdd3e14a31c8dbca98f41ee successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000e",
+    "type": "Elimination"
+  }
+}

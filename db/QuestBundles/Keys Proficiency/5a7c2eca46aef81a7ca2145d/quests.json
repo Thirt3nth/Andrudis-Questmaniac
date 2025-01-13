@@ -1,0 +1,143 @@
+{
+  "a4de75c32db70fbbaf4dcd30": {
+    "QuestName": "[Mec] Key Proficiency: Factory Locksmith",
+    "_id": "a4de75c32db70fbbaf4dcd30",
+    "acceptPlayerMessage": "a4de75c32db70fbbaf4dcd30 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a4de75c32db70fbbaf4dcd30 changeQuestMessageText",
+    "completePlayerMessage": "a4de75c32db70fbbaf4dcd30 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "67ea305f94b3c1dc54de997f",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "57a349b2245977762b199ec7"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bafce78f880183b5e71ab1ea",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "593858c486f774253a24cb52"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c28edcca6cece5d5cea5e988",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f8d68dcf2b8b83e45ce14bff",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "b953f47abe86cad41ccb4fa5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a4de75c32db70fbbaf4dcd30 declinePlayerMessage",
+    "description": "a4de75c32db70fbbaf4dcd30 description",
+    "failMessageText": "a4de75c32db70fbbaf4dcd30 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a4de75c32db70fbbaf4dcd30 name",
+    "note": "a4de75c32db70fbbaf4dcd30 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "d94eec1f3cabb8fc56b1eceb",
+          "index": 5,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "8afebb40fd266fee3c233ebc",
+          "index": 6,
+          "items": [
+            {
+              "_id": "97a3db9eadba7e14f7efe044",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "97a3db9eadba7e14f7efe044",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "86e183b6164017e47d3ae0fb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "aec26fdb99de3d35ef15e253",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "aec26fdb99de3d35ef15e253",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a4de75c32db70fbbaf4dcd30 startedMessageText",
+    "successMessageText": "a4de75c32db70fbbaf4dcd30 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  }
+}

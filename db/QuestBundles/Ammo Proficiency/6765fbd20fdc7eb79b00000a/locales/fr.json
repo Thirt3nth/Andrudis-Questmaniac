@@ -1,0 +1,12 @@
+{
+    "c2a70d1a5491c819aaea0d7d name": "[War] Compétence en munitions: Introduction",
+    "c2a70d1a5491c819aaea0d7d note": "",
+    "c2a70d1a5491c819aaea0d7d description": "Psss ! Vous ressemblez à un type qui pourrait utiliser des munitions, n'est-ce pas ? Mais personne ne veut vous en vendre, hein ? Je peux vous aider, mais ma recommandation ne sera pas bon marché... Êtes-vous intéressé ?",
+    "c2a70d1a5491c819aaea0d7d startedMessageText": "[War] Quête acceptée: '[War] Compétence en munitions: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d failMessageText": "[War] Échec de la quête: '[War] Compétence en munitions: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d successMessageText": "[War] Quête terminée: '[War] Compétence en munitions: Introduction'!",
+    "c2a70d1a5491c819aaea0d7d acceptPlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d declinePlayerMessage": "",
+    "c2a70d1a5491c819aaea0d7d completePlayerMessage": "",
+    "ac3999cea367de016176dd71": "Remettre 1000 types de Munitions confondues."
+}

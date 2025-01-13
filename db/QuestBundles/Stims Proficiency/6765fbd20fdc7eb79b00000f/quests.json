@@ -1,0 +1,3949 @@
+{
+  "ddf739bcd409a4bdd38e272d": {
+    "QuestName": "[Lab] Stims Proficiency: Stims Barter",
+    "_id": "ddf739bcd409a4bdd38e272d",
+    "acceptPlayerMessage": "ddf739bcd409a4bdd38e272d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ddf739bcd409a4bdd38e272d changeQuestMessageText",
+    "completePlayerMessage": "ddf739bcd409a4bdd38e272d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d05716d9feeebfccd9a7c9fd",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ed515f6915ec335206e4152",
+            "5c10c8fd86f7743d7d706df3",
+            "5ed51652f6c34d2cc26336a1",
+            "5c0e530286f7747fa1419862",
+            "5ed515e03a40a50460332579",
+            "5ed515ece452db0eb56fc028",
+            "5ed5160a87bb8443d10680b5",
+            "5ed515c8d380ab312177c0fa",
+            "5ed5166ad380ab312177c100",
+            "5fca13ca637ee0341a484f46",
+            "5c0e534186f7747fa1419867",
+            "5c0e533786f7747fa23f4d47",
+            "5c0e531d86f7747fa23f4d42",
+            "5fca138c2a7b221b2852a5c6",
+            "5c0e531286f7747fa54205c2"
+          ],
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ddf739bcd409a4bdd38e272d declinePlayerMessage",
+    "description": "ddf739bcd409a4bdd38e272d description",
+    "failMessageText": "ddf739bcd409a4bdd38e272d failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ddf739bcd409a4bdd38e272d name",
+    "note": "ddf739bcd409a4bdd38e272d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "82c7fadd1beda3ec811bba08",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "cee7eb08179e4ea47fca1fbf",
+          "index": 4,
+          "items": [
+            {
+              "_id": "5bbb18c1c1a51fed4da5da23",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "5bbb18c1c1a51fed4da5da23",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "d3feb5a26f9a4d9d9a8f8e11",
+          "index": 5,
+          "items": [
+            {
+              "_id": "dfcbaa5cbd6dbfafd710ea1e",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "dfcbaa5cbd6dbfafd710ea1e",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "ca5bfd77bc6f0b9e48a5fa7a",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a3ff9ddbf17ccff0ccbcabf6",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "a3ff9ddbf17ccff0ccbcabf6",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "edd4ea94e67c0eccd29a009d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "ccd22eab14690f93ec55d3e5",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "ccd22eab14690f93ec55d3e5",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "faefe9cd5dabeb571a2bdbd2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "a4ae7a8ae4c2bdf37a0fac7a",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "a4ae7a8ae4c2bdf37a0fac7a",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "1c158abdedcaed6d2a065ade",
+          "index": 9,
+          "items": [
+            {
+              "_id": "c8bfed8ef1d4a986a957a89b",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "c8bfed8ef1d4a986a957a89b",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "a5bec95d9cebe8a7b3530fdc",
+          "index": 10,
+          "items": [
+            {
+              "_id": "6cfcc930d406fe48ee6fbf0a",
+              "_tpl": "5ed515e03a40a50460332579",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "6cfcc930d406fe48ee6fbf0a",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "e055f0cf270aca030f6ecd35",
+          "index": 11,
+          "items": [
+            {
+              "_id": "bddbca96a5aeac92b5cbaf1c",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "bddbca96a5aeac92b5cbaf1c",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "eca12aab8fbfb1c7a9b904e2",
+          "index": 12,
+          "items": [
+            {
+              "_id": "2ffdd18cfcd5f67eb2af66aa",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "2ffdd18cfcd5f67eb2af66aa",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "f8d87d9e0fb9aabb75aa1dcf",
+          "index": 13,
+          "items": [
+            {
+              "_id": "a99af0937adc60b851bc1ebf",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "a99af0937adc60b851bc1ebf",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "481f2b88a4bec919b13d728e",
+          "index": 14,
+          "items": [
+            {
+              "_id": "9d9fec51b07de3ecac49ba16",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "9d9fec51b07de3ecac49ba16",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "3059d64b0606cc0f6e0dfb7a",
+          "index": 15,
+          "items": [
+            {
+              "_id": "3bcfbe9e0c5a1aa4bbbede4e",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "3bcfbe9e0c5a1aa4bbbede4e",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "04efac79c91167dabef5aeed",
+          "index": 16,
+          "items": [
+            {
+              "_id": "164b7bddebdb4e3cc016f1e0",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "164b7bddebdb4e3cc016f1e0",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "002edb7ebc39c3f18a8b4446",
+          "index": 17,
+          "items": [
+            {
+              "_id": "94efbeeaee45ba278ae62ba2",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "94efbeeaee45ba278ae62ba2",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "2beac1d2a01413da490c34a8",
+          "index": 18,
+          "items": [
+            {
+              "_id": "ba82bbfeb0cba5a09da188cc",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "ba82bbfeb0cba5a09da188cc",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "b20ba06d905a45d0c5adc1c4",
+          "index": 19,
+          "items": [
+            {
+              "_id": "f32bbcdc3fc9e7b318f5bfb4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 250000
+              }
+            }
+          ],
+          "target": "f32bbcdc3fc9e7b318f5bfb4",
+          "type": "Item",
+          "value": "250000"
+        },
+        {
+          "id": "de42fd5ec1af9f5c1f04c970",
+          "index": 20,
+          "items": [
+            {
+              "_id": "fccc6e572fff00dd65ded56d",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "fccc6e572fff00dd65ded56d",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "2185b93cb18c0a7b5cbdb4a7",
+          "index": 21,
+          "items": [
+            {
+              "_id": "6cd7044d175c7b889d1dbbfa",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "6cd7044d175c7b889d1dbbfa",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "9a5a40ea76e8cf9350bacf03",
+          "index": 22,
+          "items": [
+            {
+              "_id": "feccd499ae83cffc8fde0fa6",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "feccd499ae83cffc8fde0fa6",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "09f9cffdc4f22de5fa0c1d9c",
+          "index": 23,
+          "items": [
+            {
+              "_id": "9a6c9b7a1b763f3a054b266e",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "9a6c9b7a1b763f3a054b266e",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "fcaae9a87cc776eef240d644",
+          "index": 24,
+          "items": [
+            {
+              "_id": "65fc7dd29df6cebfc0de8c27",
+              "_tpl": "5ed515ece452db0eb56fc028",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "65fc7dd29df6cebfc0de8c27",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "5ea850158d3bebef7fc0fbfe",
+          "index": 25,
+          "items": [
+            {
+              "_id": "09de143beaf8ded85d2130bc",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "09de143beaf8ded85d2130bc",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "e9c67eba84b85ddfdcdeeb90",
+          "index": 26,
+          "items": [
+            {
+              "_id": "5a3deddebcddac8a1feadba3",
+              "_tpl": "5ed515f6915ec335206e4152",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "5a3deddebcddac8a1feadba3",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "f8fecf6d52ad2d0fb7656105",
+          "index": 27,
+          "items": [
+            {
+              "_id": "36e467f8c6e72e8abafe64f3",
+              "_tpl": "5c0e530286f7747fa1419862",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "36e467f8c6e72e8abafe64f3",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "2c3ca4edc4dbc3b04d116fc9",
+          "index": 28,
+          "items": [
+            {
+              "_id": "a8f087a77b26cba3e1d8f1d9",
+              "_tpl": "5ed515e03a40a50460332579",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "a8f087a77b26cba3e1d8f1d9",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "65ad3cabd6b7f622d28a754d",
+          "index": 29,
+          "items": [
+            {
+              "_id": "f196cf65e92c1f9c59b578fc",
+              "_tpl": "5ed5166ad380ab312177c100",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "f196cf65e92c1f9c59b578fc",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "7ff09cec7db66fa45c9402ad",
+          "index": 30,
+          "items": [
+            {
+              "_id": "c9b91dc803d3d547bada5a2f",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "c9b91dc803d3d547bada5a2f",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "4f5c745d9aefcd9f2b8a00c7",
+          "index": 31,
+          "items": [
+            {
+              "_id": "a3ddd8acba327e0affbefbc3",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "a3ddd8acba327e0affbefbc3",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "b9d4b8a6608aeb26aedeba6d",
+          "index": 32,
+          "items": [
+            {
+              "_id": "ef6eff9ff72cf1af022856fc",
+              "_tpl": "5c0e531286f7747fa54205c2",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ef6eff9ff72cf1af022856fc",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "0aea5be3c7184279b890a4a9",
+          "index": 33,
+          "items": [
+            {
+              "_id": "6df71db9db1adceeffa3fbeb",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "6df71db9db1adceeffa3fbeb",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "a9dafe97ff9d92cf0c58b17d",
+          "index": 34,
+          "items": [
+            {
+              "_id": "eabfedc9aae68d071e3bba45",
+              "_tpl": "5fca13ca637ee0341a484f46",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "eabfedc9aae68d071e3bba45",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "b20ac44c2f1d6fde9ceeaf39",
+          "index": 35,
+          "items": [
+            {
+              "_id": "cfabff3a2c751c1efd4f6483",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "cfabff3a2c751c1efd4f6483",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "d50e8079ae2dfefbc32f7eeb",
+          "index": 36,
+          "items": [
+            {
+              "_id": "e037c43eff00f637dbd4c5df",
+              "_tpl": "5c0e534186f7747fa1419867",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e037c43eff00f637dbd4c5df",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ddf739bcd409a4bdd38e272d startedMessageText",
+    "successMessageText": "ddf739bcd409a4bdd38e272d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "Elimination"
+  },
+  "eac443d04ebd492efaf8dd6f": {
+    "QuestName": "[Lab] Stims Proficiency: Adrenaline injector Trade",
+    "_id": "eac443d04ebd492efaf8dd6f",
+    "acceptPlayerMessage": "eac443d04ebd492efaf8dd6f acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "eac443d04ebd492efaf8dd6f changeQuestMessageText",
+    "completePlayerMessage": "eac443d04ebd492efaf8dd6f completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "aeb74d4b5b86a7af8f79f21e",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "aa11cf18a5744ccd9cbedf2d"
+              }
+            ],
+            "id": "1f65b23e2dbaad320bb1fafb"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e55f3b0a81f6cdf4acc50b21",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "599eeffeca6ccae9d85275b5",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "56afcbc04b9dabd6e2dbd082"
+              }
+            ],
+            "id": "f71aeaffa8ff30ae7b485ab5"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "3ccf8a04e2f4abc7cef0c097",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "02c4ffbb9dd3d76c5dc3f423",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ddf739bcd409a4bdd38e272d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "eac443d04ebd492efaf8dd6f declinePlayerMessage",
+    "description": "eac443d04ebd492efaf8dd6f description",
+    "failMessageText": "eac443d04ebd492efaf8dd6f failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "eac443d04ebd492efaf8dd6f name",
+    "note": "eac443d04ebd492efaf8dd6f note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "581c76ee5199dade6c12ec0b",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "d1da77db24ce1e9b0ca5ab1f",
+          "index": 5,
+          "items": [
+            {
+              "_id": "f1c1ea2eb5e25d984dacbde5",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "f1c1ea2eb5e25d984dacbde5",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "1cc2b5dad6c3c03fccdf4bbf",
+          "index": 6,
+          "items": [
+            {
+              "_id": "4ae1a6e32c4a1ac964debcec",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "4ae1a6e32c4a1ac964debcec",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "0fdb1a63d3c0cacf17d4d89f",
+          "index": 7,
+          "items": [
+            {
+              "_id": "69899384cfbe7ecd493ed042",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "69899384cfbe7ecd493ed042",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "4eaad55fdafe3e0d67c5afd5",
+          "index": 8,
+          "items": [
+            {
+              "_id": "377dbcbfcad5d9fee27a7e93",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "377dbcbfcad5d9fee27a7e93",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "bf2ef5f8aec4f2abb7aee874",
+          "index": 9,
+          "items": [
+            {
+              "_id": "ad638edd7a1aa4c278bae3de",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ad638edd7a1aa4c278bae3de",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "eac443d04ebd492efaf8dd6f startedMessageText",
+    "successMessageText": "eac443d04ebd492efaf8dd6f successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "4feea5969f0ac9183b8b6c8b": {
+    "QuestName": "[Lab] Stims Proficiency: Zagustin hemostatic drug injector Trade",
+    "_id": "4feea5969f0ac9183b8b6c8b",
+    "acceptPlayerMessage": "4feea5969f0ac9183b8b6c8b acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "4feea5969f0ac9183b8b6c8b changeQuestMessageText",
+    "completePlayerMessage": "4feea5969f0ac9183b8b6c8b completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "286f782d6bdb8a456de4a0d2",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "e412b416ebd0bbba6996ad30"
+              }
+            ],
+            "id": "ced0c424908eb3eabbacadbd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e401b7f8c9affa6b5e55d16d",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ebc2ea3f6089d924533e0fa4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "9dbaf98ec24f1d943bebbb3a"
+              }
+            ],
+            "id": "fb6d5eebfbcbafa7ed21406b"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "433bf064c68aef65ffbceaa0",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "be2e57eeaf8938b4a2cde87a",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "eac443d04ebd492efaf8dd6f"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "4feea5969f0ac9183b8b6c8b declinePlayerMessage",
+    "description": "4feea5969f0ac9183b8b6c8b description",
+    "failMessageText": "4feea5969f0ac9183b8b6c8b failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "4feea5969f0ac9183b8b6c8b name",
+    "note": "4feea5969f0ac9183b8b6c8b note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1ea2b6d2e8ce4157a38f6fff",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "9ffcfdb72add3ed0f9b7ae3d",
+          "index": 5,
+          "items": [
+            {
+              "_id": "e09ac9b1be6809f1add2eba9",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "e09ac9b1be6809f1add2eba9",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "63f04f3b31e9b9fa8e7e12fb",
+          "index": 6,
+          "items": [
+            {
+              "_id": "86b4c9eba8e7db9cd70f63be",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "86b4c9eba8e7db9cd70f63be",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "cb59b3be8d6ea9f4cdedb39d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "a8ca793fbad9bb2bb1ae0506",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "a8ca793fbad9bb2bb1ae0506",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "ee2cb48ab1cecf74c61afed2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "90ccedbdcdbc8c1f25a65407",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "90ccedbdcdbc8c1f25a65407",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "3cb152bdab50cdcee45db39e",
+          "index": 9,
+          "items": [
+            {
+              "_id": "2dade6b16c22b26cfb488668",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "2dade6b16c22b26cfb488668",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "4feea5969f0ac9183b8b6c8b startedMessageText",
+    "successMessageText": "4feea5969f0ac9183b8b6c8b successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "fe90cf0b7bbf7fbca4cd6cc1": {
+    "QuestName": "[Lab] Stims Proficiency: P22 injector Trade",
+    "_id": "fe90cf0b7bbf7fbca4cd6cc1",
+    "acceptPlayerMessage": "fe90cf0b7bbf7fbca4cd6cc1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fe90cf0b7bbf7fbca4cd6cc1 changeQuestMessageText",
+    "completePlayerMessage": "fe90cf0b7bbf7fbca4cd6cc1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "b9eb0fbdb9ba795743dca6dc",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "d84db9ab0926106c6eef036f"
+              }
+            ],
+            "id": "80fda5b953bdd25f92a7cc5a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bfeecaadc947adb7b2b1befd",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "0b2b6d26af9f1d8fb547b8ec",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "ece4aa70cb1f11edccdbfb0a"
+              }
+            ],
+            "id": "dad28c2f1a516d33b6e076f6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c06d6f4ae25a0c9e3fa6bdb8",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ebe8350a50c071ffba8b1d3",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "4feea5969f0ac9183b8b6c8b"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fe90cf0b7bbf7fbca4cd6cc1 declinePlayerMessage",
+    "description": "fe90cf0b7bbf7fbca4cd6cc1 description",
+    "failMessageText": "fe90cf0b7bbf7fbca4cd6cc1 failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fe90cf0b7bbf7fbca4cd6cc1 name",
+    "note": "fe90cf0b7bbf7fbca4cd6cc1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "f885d5e6cfba8effbdebe9f6",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "dfc68ec6bc8050f5e1c9ece3",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6dbedbfa96ceedc998e21fa6",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "6dbedbfa96ceedc998e21fa6",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "bae1b675521067aaeadc16d7",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a85debee9bcbaebe5b922f7a",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "a85debee9bcbaebe5b922f7a",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "9ffbce3ae454f972d24f4e49",
+          "index": 7,
+          "items": [
+            {
+              "_id": "59bf67a1cebce82f9bbc7ce4",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "59bf67a1cebce82f9bbc7ce4",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "30b7806b1eb6cfe3cf4c0aed",
+          "index": 8,
+          "items": [
+            {
+              "_id": "ac3fe2a51e6beccb7def2c10",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "ac3fe2a51e6beccb7def2c10",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "fff421f98feba31bcafeab8f",
+          "index": 9,
+          "items": [
+            {
+              "_id": "b8e69a07ef9effe19a22ffdd",
+              "_tpl": "5ed515ece452db0eb56fc028",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "b8e69a07ef9effe19a22ffdd",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fe90cf0b7bbf7fbca4cd6cc1 startedMessageText",
+    "successMessageText": "fe90cf0b7bbf7fbca4cd6cc1 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "ddffee07d833391f2604c3c2": {
+    "QuestName": "[Lab] Stims Proficiency: 3-(b-TG) stimulant injector Trade",
+    "_id": "ddffee07d833391f2604c3c2",
+    "acceptPlayerMessage": "ddffee07d833391f2604c3c2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ddffee07d833391f2604c3c2 changeQuestMessageText",
+    "completePlayerMessage": "ddffee07d833391f2604c3c2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "ca7fbacebd79defb4aa36d57",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "4cbe8a3f5c52d1e3bfa811ea"
+              }
+            ],
+            "id": "6f5e4cbfd8a2d13a146d2df0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "aa13df6cde8de0b70775a1c9",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "4b8b2607be8cfd05bcd9f70e",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "d4b108121bdf73d9ea49f7c9"
+              }
+            ],
+            "id": "303cca5d0c46ae8dfc95bbb3"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b89bffd1caaeb6bebbd42b61",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "bccdb96dcc0cbb5f14ab0eb6",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fe90cf0b7bbf7fbca4cd6cc1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ddffee07d833391f2604c3c2 declinePlayerMessage",
+    "description": "ddffee07d833391f2604c3c2 description",
+    "failMessageText": "ddffee07d833391f2604c3c2 failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ddffee07d833391f2604c3c2 name",
+    "note": "ddffee07d833391f2604c3c2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "bcd90ab8bac05d847dfed847",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "fbbda0e2ff31c785b96bcf15",
+          "index": 5,
+          "items": [
+            {
+              "_id": "6c0efcdcfedb160fbcd5bafc",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "6c0efcdcfedb160fbcd5bafc",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "632f088feef7fc4aa1ce73be",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a49d514c5dbefdf40cf6d48c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "a49d514c5dbefdf40cf6d48c",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "ad1d32d72ed97ced9a8eecdc",
+          "index": 7,
+          "items": [
+            {
+              "_id": "db21bf9d79396490a4c56ba0",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "db21bf9d79396490a4c56ba0",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "bfe2a35d9ad557fc312c4dfa",
+          "index": 8,
+          "items": [
+            {
+              "_id": "79e86c5c7e0504f3b2d89582",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "79e86c5c7e0504f3b2d89582",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "3bca9cededff1d9eea4d9bfa",
+          "index": 9,
+          "items": [
+            {
+              "_id": "fa0ef0acde8adb6aaf9a8cda",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "fa0ef0acde8adb6aaf9a8cda",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ddffee07d833391f2604c3c2 startedMessageText",
+    "successMessageText": "ddffee07d833391f2604c3c2 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "e58b71d812eaade915ee664e": {
+    "QuestName": "[Lab] Stims Proficiency: AHF1-M stimulant injector Trade",
+    "_id": "e58b71d812eaade915ee664e",
+    "acceptPlayerMessage": "e58b71d812eaade915ee664e acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "e58b71d812eaade915ee664e changeQuestMessageText",
+    "completePlayerMessage": "e58b71d812eaade915ee664e completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "56b0fcbaa6ebdf7ef6f11af1",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "a05ec5fae4ef8be0b56c9f33"
+              }
+            ],
+            "id": "efcdfca6aefaffa926f14fb8"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ab61e1e85aefdcfcd56b2a58",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "57ea52f863e037dc82caca9d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "b3c328d670fe601fbd8f6b99"
+              }
+            ],
+            "id": "fa01d8c79bbd1d4a948cd312"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "ae04a6ef53ae0deaad44cf12",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "41fdfeeed9f245cbcafceacb",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ddffee07d833391f2604c3c2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "e58b71d812eaade915ee664e declinePlayerMessage",
+    "description": "e58b71d812eaade915ee664e description",
+    "failMessageText": "e58b71d812eaade915ee664e failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "e58b71d812eaade915ee664e name",
+    "note": "e58b71d812eaade915ee664e note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "1a6f84edcabccc3da0dc3daa",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "fcf14fceaab3baa9ac92d67d",
+          "index": 5,
+          "items": [
+            {
+              "_id": "bb10c101e019fc1b0aae2be3",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "bb10c101e019fc1b0aae2be3",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "669bd6dd19c26dcaedcafdfc",
+          "index": 6,
+          "items": [
+            {
+              "_id": "2fbc5bfafb6fdbdfd722bfb5",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "2fbc5bfafb6fdbdfd722bfb5",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "54fbc5cb5aee8107cc4ebaa9",
+          "index": 7,
+          "items": [
+            {
+              "_id": "db4e9f78b7cbdd5fff14c1f2",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "db4e9f78b7cbdd5fff14c1f2",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "ceacadccc7acdda1da97a1e6",
+          "index": 8,
+          "items": [
+            {
+              "_id": "4b5814dea148fd7ef4f74087",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "4b5814dea148fd7ef4f74087",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "92fd1117cfafb5aafa4a2343",
+          "index": 9,
+          "items": [
+            {
+              "_id": "ff8a0fbadfeaa1c454b4105d",
+              "_tpl": "5ed515f6915ec335206e4152",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "ff8a0fbadfeaa1c454b4105d",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "e58b71d812eaade915ee664e startedMessageText",
+    "successMessageText": "e58b71d812eaade915ee664e successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "add47a8e4bddde7c80f61e29": {
+    "QuestName": "[Lab] Stims Proficiency: Propital regenerative stimulant injector Trade",
+    "_id": "add47a8e4bddde7c80f61e29",
+    "acceptPlayerMessage": "add47a8e4bddde7c80f61e29 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "add47a8e4bddde7c80f61e29 changeQuestMessageText",
+    "completePlayerMessage": "add47a8e4bddde7c80f61e29 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "1a70eb3b89bfe03c8caeaebf",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "0ea0c3caedb9b42df4332cfd"
+              }
+            ],
+            "id": "8faa966f79afddcf30b6cd38"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d4af1c61b2f67202b1dc3e28",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d5fd16acabadb29d17cc45a4",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "32dbdab6f483ddfc74ffe386"
+              }
+            ],
+            "id": "1c4a7dafe21decdd5dc2ef8d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "a1dbaaf828d1f2df0aad7077",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9aee80bae1becee5ed9adddc",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "e58b71d812eaade915ee664e"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "add47a8e4bddde7c80f61e29 declinePlayerMessage",
+    "description": "add47a8e4bddde7c80f61e29 description",
+    "failMessageText": "add47a8e4bddde7c80f61e29 failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "add47a8e4bddde7c80f61e29 name",
+    "note": "add47a8e4bddde7c80f61e29 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "198d3cea1b8b340b960ca4fe",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "a447e18095be6decf5ba18ae",
+          "index": 5,
+          "items": [
+            {
+              "_id": "2e906df538c30cada847edaa",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "2e906df538c30cada847edaa",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "cfecf381413087b14acf083e",
+          "index": 6,
+          "items": [
+            {
+              "_id": "fb9243feddc8bfe7dbfac24f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "fb9243feddc8bfe7dbfac24f",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "6abc953fd7e0edcbda14dbc7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "eed1c29bc61ef6f99483e617",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "eed1c29bc61ef6f99483e617",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "cfaa22a6e0afb38c523f7ee2",
+          "index": 8,
+          "items": [
+            {
+              "_id": "bda7c3c14347108a83aafb62",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "bda7c3c14347108a83aafb62",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "af226fde9cda2ed5e710a5ab",
+          "index": 9,
+          "items": [
+            {
+              "_id": "5b3ab061d60fd7fc173aaf3b",
+              "_tpl": "5c0e530286f7747fa1419862",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "5b3ab061d60fd7fc173aaf3b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "add47a8e4bddde7c80f61e29 startedMessageText",
+    "successMessageText": "add47a8e4bddde7c80f61e29 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "ae2f1f01ace0522024152bbd": {
+    "QuestName": "[Lab] Stims Proficiency: L1 (Norepinephrine) injector Trade",
+    "_id": "ae2f1f01ace0522024152bbd",
+    "acceptPlayerMessage": "ae2f1f01ace0522024152bbd acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "ae2f1f01ace0522024152bbd changeQuestMessageText",
+    "completePlayerMessage": "ae2f1f01ace0522024152bbd completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "12bedd89fdfaf51febadc75b",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "e8a4aeeefdd796ac64feac59"
+              }
+            ],
+            "id": "c2173b1e4ae8b0aa4f1fb0fd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e29ea0aaa60af4fcbb855462",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "bf3ea4f8fd7fc172bcebabf1",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "f56ea955dd7ca8bbb0536e59"
+              }
+            ],
+            "id": "feb8a3d6c480d46dddace2d6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c8263fbfb38fc40f729b7d2c",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "e93344d3dd956724a06e8fa4",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "add47a8e4bddde7c80f61e29"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "ae2f1f01ace0522024152bbd declinePlayerMessage",
+    "description": "ae2f1f01ace0522024152bbd description",
+    "failMessageText": "ae2f1f01ace0522024152bbd failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "ae2f1f01ace0522024152bbd name",
+    "note": "ae2f1f01ace0522024152bbd note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "75859caae54ad581a0a4af28",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "0e1c003feaeb70daac1b9efd",
+          "index": 5,
+          "items": [
+            {
+              "_id": "248e5d16df0afa4b133d1ebd",
+              "_tpl": "5ed515e03a40a50460332579",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "248e5d16df0afa4b133d1ebd",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "9d449b2e1ef2fcfb6ebc09eb",
+          "index": 6,
+          "items": [
+            {
+              "_id": "06aeb1de8fead8f6dfe87285",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "06aeb1de8fead8f6dfe87285",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "5d2f6d0beeeebb8a93dc445d",
+          "index": 7,
+          "items": [
+            {
+              "_id": "eb2cd5bfeeb6130f5868ab78",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "eb2cd5bfeeb6130f5868ab78",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "c7cdbcc5ff5be44d1a0cc9ea",
+          "index": 8,
+          "items": [
+            {
+              "_id": "91ba483a6adc8e0167fbf787",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "91ba483a6adc8e0167fbf787",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "eeec0fe22d9ee2c2d2427dce",
+          "index": 9,
+          "items": [
+            {
+              "_id": "7d827f002dceb39a9ed88a3a",
+              "_tpl": "5ed515e03a40a50460332579",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "7d827f002dceb39a9ed88a3a",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "ae2f1f01ace0522024152bbd startedMessageText",
+    "successMessageText": "ae2f1f01ace0522024152bbd successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "c527ceafceed6f4a02b5dabe": {
+    "QuestName": "[Lab] Stims Proficiency: 'Obdolbos' cocktail injector Trade",
+    "_id": "c527ceafceed6f4a02b5dabe",
+    "acceptPlayerMessage": "c527ceafceed6f4a02b5dabe acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "c527ceafceed6f4a02b5dabe changeQuestMessageText",
+    "completePlayerMessage": "c527ceafceed6f4a02b5dabe completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "91bebaa3ed0be0a73c0b13a3",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "1c0372eafbc977fe4c2c5bed"
+              }
+            ],
+            "id": "ad0cd4e325a68d89fcad3323"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "c008078f2edbfe20efdecaca",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "035516508d22760d1dd95acf",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "f584af0b6f41aa9eb7cc75f3"
+              }
+            ],
+            "id": "d2dd3f5df3b766e1b5cfff7f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "def3382f3cddccbeceedfd22",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "b01781bdbb4d25c47bd05daf",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "ae2f1f01ace0522024152bbd"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "c527ceafceed6f4a02b5dabe declinePlayerMessage",
+    "description": "c527ceafceed6f4a02b5dabe description",
+    "failMessageText": "c527ceafceed6f4a02b5dabe failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "c527ceafceed6f4a02b5dabe name",
+    "note": "c527ceafceed6f4a02b5dabe note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "95faff37f4625df53a72be64",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "dd265e0f6c2b9e31ecf23dfd",
+          "index": 5,
+          "items": [
+            {
+              "_id": "ccffb3c3ecedf9d7ffbdfa86",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "ccffb3c3ecedf9d7ffbdfa86",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "2c421fd557cf4cae22b6cd0f",
+          "index": 6,
+          "items": [
+            {
+              "_id": "2cf56f7cb7d3d7d8ac4b1fb4",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "2cf56f7cb7d3d7d8ac4b1fb4",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "27ebbfe93ff24eece8b4c4f2",
+          "index": 7,
+          "items": [
+            {
+              "_id": "1e8b1bdcf0eecbeb97aa06df",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "1e8b1bdcf0eecbeb97aa06df",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "fa5fa4b2477f9befd95a8e04",
+          "index": 8,
+          "items": [
+            {
+              "_id": "b98a2d8cdcbce1075dcce923",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "b98a2d8cdcbce1075dcce923",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "c3658de0a3df1c3ce76a9bce",
+          "index": 9,
+          "items": [
+            {
+              "_id": "3e46eb2ceedee4916cfafd6b",
+              "_tpl": "5ed5166ad380ab312177c100",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "3e46eb2ceedee4916cfafd6b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "c527ceafceed6f4a02b5dabe startedMessageText",
+    "successMessageText": "c527ceafceed6f4a02b5dabe successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "fa29ae521d4ccf73ed1babce": {
+    "QuestName": "[Lab] Stims Proficiency: xTG-12 antidote injector Trade",
+    "_id": "fa29ae521d4ccf73ed1babce",
+    "acceptPlayerMessage": "fa29ae521d4ccf73ed1babce acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "fa29ae521d4ccf73ed1babce changeQuestMessageText",
+    "completePlayerMessage": "fa29ae521d4ccf73ed1babce completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2aa226d48ddc19db132f48ea",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "cb9a76fbddc5bfddedbd1fca"
+              }
+            ],
+            "id": "ef9ff8d12f5e6dda11efb065"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "accdbf92f6b65c8ae8fafe18",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c579cd72ab3a83a8a5caab68",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "03db8eb6f1756b3cc94b5f6b"
+              }
+            ],
+            "id": "baef6c815b4f28e7ad2bf2d6"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4d1f2df7ca874764efead7dd",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "32bec54ff994af35d8dcbde9",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c527ceafceed6f4a02b5dabe"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "fa29ae521d4ccf73ed1babce declinePlayerMessage",
+    "description": "fa29ae521d4ccf73ed1babce description",
+    "failMessageText": "fa29ae521d4ccf73ed1babce failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "fa29ae521d4ccf73ed1babce name",
+    "note": "fa29ae521d4ccf73ed1babce note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "4e2eaedbc7e34bbf49fc18be",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "56c03302e29abeac7b6afbc8",
+          "index": 5,
+          "items": [
+            {
+              "_id": "eadbbdab85fb6e06dcfc49d6",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "eadbbdab85fb6e06dcfc49d6",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "6dde8fb9ff65be00ea1edbdf",
+          "index": 6,
+          "items": [
+            {
+              "_id": "bc39fb9c0ef402871ceb22cd",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "bc39fb9c0ef402871ceb22cd",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "0bd6c438e13a4cfae9b89d5a",
+          "index": 7,
+          "items": [
+            {
+              "_id": "ab2eb167197ee894c2adcb9f",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "ab2eb167197ee894c2adcb9f",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "d3d6bd7de54a8b12adbb1ed6",
+          "index": 8,
+          "items": [
+            {
+              "_id": "8ba5c0cb5d45ccea1b60e3f3",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "8ba5c0cb5d45ccea1b60e3f3",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "c01cc2aefcded686d7e7a5f0",
+          "index": 9,
+          "items": [
+            {
+              "_id": "7f1f7bdf3aac7ea2effe7a5d",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "7f1f7bdf3aac7ea2effe7a5d",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "fa29ae521d4ccf73ed1babce startedMessageText",
+    "successMessageText": "fa29ae521d4ccf73ed1babce successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "bf1e4d6ccffb9fefe5a6a93d": {
+    "QuestName": "[Lab] Stims Proficiency: Meldonin injector Trade",
+    "_id": "bf1e4d6ccffb9fefe5a6a93d",
+    "acceptPlayerMessage": "bf1e4d6ccffb9fefe5a6a93d acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "bf1e4d6ccffb9fefe5a6a93d changeQuestMessageText",
+    "completePlayerMessage": "bf1e4d6ccffb9fefe5a6a93d completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "de426da5de5469bb7ca5df48",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "6dcc1ddce89cbfbfefdc663f"
+              }
+            ],
+            "id": "adb74fb3919cf83c0c136a07"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "7ebe4911aaf2bd5f8e9879df",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "c79a21a3e7f6d01c9d3c8afc",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "217f5b7fef715b2c319d24cf"
+              }
+            ],
+            "id": "eb6ebaeec61fbc5f7fed5ccc"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "73cfca77c983a3d91ca6d646",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "f75c75265f21e0bdf96f053c",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "fa29ae521d4ccf73ed1babce"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "bf1e4d6ccffb9fefe5a6a93d declinePlayerMessage",
+    "description": "bf1e4d6ccffb9fefe5a6a93d description",
+    "failMessageText": "bf1e4d6ccffb9fefe5a6a93d failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "bf1e4d6ccffb9fefe5a6a93d name",
+    "note": "bf1e4d6ccffb9fefe5a6a93d note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "c6fa3a09ca037cc9ef0fe1a3",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "fa4becaf87c8ee9ac729de32",
+          "index": 5,
+          "items": [
+            {
+              "_id": "ff3ffde2fcdfeffeebff286d",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "ff3ffde2fcdfeffeebff286d",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "f233fd03d0e50eb4ca4aceba",
+          "index": 6,
+          "items": [
+            {
+              "_id": "91d22e5ae071aaf552df1ebb",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "91d22e5ae071aaf552df1ebb",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "fa4c4ac6adafa8eefc67b4b3",
+          "index": 7,
+          "items": [
+            {
+              "_id": "fea14a6bb0d1aa4272a68da4",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "fea14a6bb0d1aa4272a68da4",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "e9d0c7dbebbd19e4db4c1b64",
+          "index": 8,
+          "items": [
+            {
+              "_id": "81f3ca8c0dc0fe9d81d6eb8a",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "81f3ca8c0dc0fe9d81d6eb8a",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "dfaea6de2dfbb5634f4810fb",
+          "index": 9,
+          "items": [
+            {
+              "_id": "cdf7f18ffe59d5d44ecacc40",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "cdf7f18ffe59d5d44ecacc40",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "bf1e4d6ccffb9fefe5a6a93d startedMessageText",
+    "successMessageText": "bf1e4d6ccffb9fefe5a6a93d successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "0fcde7e4b745bffbcef82c81": {
+    "QuestName": "[Lab] Stims Proficiency: SJ1 TGLabs combat stimulant injector Trade",
+    "_id": "0fcde7e4b745bffbcef82c81",
+    "acceptPlayerMessage": "0fcde7e4b745bffbcef82c81 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "0fcde7e4b745bffbcef82c81 changeQuestMessageText",
+    "completePlayerMessage": "0fcde7e4b745bffbcef82c81 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "69d19b0e9eda83d9f40ceeda",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "aaa1fb0e4d2333bd26bbfab5"
+              }
+            ],
+            "id": "a43faff70ddecdaacc2db2aa"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0096236bc0c77dabbdfacdf4",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "d2ce3ecbeaf5d0b6b6ef085d",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "cacefbbfc59fe2efad2709da"
+              }
+            ],
+            "id": "be9131fbad422c6756faa91d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "8ee34bbab498fec7edcb2c5c",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "94fe6861d6a7c1288bb9208b",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "bf1e4d6ccffb9fefe5a6a93d"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "0fcde7e4b745bffbcef82c81 declinePlayerMessage",
+    "description": "0fcde7e4b745bffbcef82c81 description",
+    "failMessageText": "0fcde7e4b745bffbcef82c81 failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "0fcde7e4b745bffbcef82c81 name",
+    "note": "0fcde7e4b745bffbcef82c81 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "afc9ae3b058efbc5fb5eeafd",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "efde1ffe1aaadecf3b494ed2",
+          "index": 5,
+          "items": [
+            {
+              "_id": "63024eea206be210efb278ef",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "63024eea206be210efb278ef",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "fb0ea3dcfcb8c6df0a744a5b",
+          "index": 6,
+          "items": [
+            {
+              "_id": "da94eea961ca7b5cf54e1fd1",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "da94eea961ca7b5cf54e1fd1",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "8573dadb85cadf42b355c6fb",
+          "index": 7,
+          "items": [
+            {
+              "_id": "d75bdfeffac382c5b3d5b7fa",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "d75bdfeffac382c5b3d5b7fa",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "ecaedbef58deceba5d3a3acb",
+          "index": 8,
+          "items": [
+            {
+              "_id": "5d1578171ecb8cffc0fabf71",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "5d1578171ecb8cffc0fabf71",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "8c4e052c7253f1e99c78d5f5",
+          "index": 9,
+          "items": [
+            {
+              "_id": "e6d31bb2dbe57dfca6ecb31b",
+              "_tpl": "5c0e531286f7747fa54205c2",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e6d31bb2dbe57dfca6ecb31b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "0fcde7e4b745bffbcef82c81 startedMessageText",
+    "successMessageText": "0fcde7e4b745bffbcef82c81 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "a57e924a2d9c1fdf3d1c9d1c": {
+    "QuestName": "[Lab] Stims Proficiency: SJ6 TGLabs combat stimulant injector Trade",
+    "_id": "a57e924a2d9c1fdf3d1c9d1c",
+    "acceptPlayerMessage": "a57e924a2d9c1fdf3d1c9d1c acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "a57e924a2d9c1fdf3d1c9d1c changeQuestMessageText",
+    "completePlayerMessage": "a57e924a2d9c1fdf3d1c9d1c completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "f9bc5da1d461abba7b1fbdcc",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "d5f5ebba2bcfc8e46bbbbe1d"
+              }
+            ],
+            "id": "e7b2d302c37fd00c3e5ba53a"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "834b43ee7a3d9eec6f7d0d0c",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "3cb1ff99b9ead98d6c1bd6f0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "a81d058de8a3218c197f8edf"
+              }
+            ],
+            "id": "bde52bce3c7eea85ec623e83"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "d53f9b4f3ce0ac3e0a1f7858",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5cca480b4e0973b7a465ad3d",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "0fcde7e4b745bffbcef82c81"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "a57e924a2d9c1fdf3d1c9d1c declinePlayerMessage",
+    "description": "a57e924a2d9c1fdf3d1c9d1c description",
+    "failMessageText": "a57e924a2d9c1fdf3d1c9d1c failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "a57e924a2d9c1fdf3d1c9d1c name",
+    "note": "a57e924a2d9c1fdf3d1c9d1c note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "e7dbe4cd82cff4baada3de11",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "3b9bbe60ccd8f43ce8c7c1eb",
+          "index": 5,
+          "items": [
+            {
+              "_id": "fe950bdadc9f4bff51badd2a",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "fe950bdadc9f4bff51badd2a",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "c3baddbddded5fe3b21159b6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "b37c27fca6bd486edbedea8f",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "b37c27fca6bd486edbedea8f",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "b0f1a4126ddd3adbc0fb2fbf",
+          "index": 7,
+          "items": [
+            {
+              "_id": "c1c8f21c263df7eed317496f",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "c1c8f21c263df7eed317496f",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "14e12fb1ededdd51eac7b4cf",
+          "index": 8,
+          "items": [
+            {
+              "_id": "efeeabad9c9e2c6f7dcd9dd1",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "efeeabad9c9e2c6f7dcd9dd1",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "2247ade0ea5e8ebf6a0ffb6b",
+          "index": 9,
+          "items": [
+            {
+              "_id": "10a63721a6f9f3410de7b4cf",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "10a63721a6f9f3410de7b4cf",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "a57e924a2d9c1fdf3d1c9d1c startedMessageText",
+    "successMessageText": "a57e924a2d9c1fdf3d1c9d1c successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "c2bdabcf1ba54bfba154d585": {
+    "QuestName": "[Lab] Stims Proficiency: SJ9 TGLabs combat stimulant injector Trade",
+    "_id": "c2bdabcf1ba54bfba154d585",
+    "acceptPlayerMessage": "c2bdabcf1ba54bfba154d585 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "c2bdabcf1ba54bfba154d585 changeQuestMessageText",
+    "completePlayerMessage": "c2bdabcf1ba54bfba154d585 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "fdc2daa633cefe2439addeea",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "bb624c4cdf0fdd8cc6c44b3e"
+              }
+            ],
+            "id": "9b6ee69f9df7fa3ed7a7f7dd"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4bdacbeaea5abae3bcfa9c93",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "eea32b3ffd6116593fd94fb0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "b17dc5ba87c2e16c1c7d3ae2"
+              }
+            ],
+            "id": "a86bc15bd8fcb510ca575a58"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "4d47dfc9445f5a96d117cbd3",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5e345076387d69388cb771b1",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "a57e924a2d9c1fdf3d1c9d1c"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "c2bdabcf1ba54bfba154d585 declinePlayerMessage",
+    "description": "c2bdabcf1ba54bfba154d585 description",
+    "failMessageText": "c2bdabcf1ba54bfba154d585 failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "c2bdabcf1ba54bfba154d585 name",
+    "note": "c2bdabcf1ba54bfba154d585 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "cfdc0eb3f3a9dc64d5ad9fe4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "8f9f1fdac98bea05be375d95",
+          "index": 5,
+          "items": [
+            {
+              "_id": "4a334cdeec0efee77adf2e9e",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "4a334cdeec0efee77adf2e9e",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "d04b1eb9a59a8bb67aeb6adf",
+          "index": 6,
+          "items": [
+            {
+              "_id": "a038dedb72f0adc97422ec16",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "a038dedb72f0adc97422ec16",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "d109bbcc4fce3ed3c241bac7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "bdfbe631eba4d1b09c37ab2a",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "bdfbe631eba4d1b09c37ab2a",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "3beaab924dfbcba5dce4dea4",
+          "index": 8,
+          "items": [
+            {
+              "_id": "ee5bbbedbe2fde36fb87e564",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "ee5bbbedbe2fde36fb87e564",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "d20b09c1392fd7b0aef3c7dd",
+          "index": 9,
+          "items": [
+            {
+              "_id": "eaf7c2c7bbaf1bb808a84a0b",
+              "_tpl": "5fca13ca637ee0341a484f46",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "eaf7c2c7bbaf1bb808a84a0b",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "c2bdabcf1ba54bfba154d585 startedMessageText",
+    "successMessageText": "c2bdabcf1ba54bfba154d585 successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "9cbb43c104551f33eebd1f9a": {
+    "QuestName": "[Lab] Stims Proficiency: M.U.L.E. stimulant injector Trade",
+    "_id": "9cbb43c104551f33eebd1f9a",
+    "acceptPlayerMessage": "9cbb43c104551f33eebd1f9a acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "9cbb43c104551f33eebd1f9a changeQuestMessageText",
+    "completePlayerMessage": "9cbb43c104551f33eebd1f9a completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "98d9ae1fe07dbfc7bdd2af68",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "cdab7a195cc83b92525b5fbc"
+              }
+            ],
+            "id": "4bfddffdb3fcc3db4dabd332"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5f6663b9c5eecd3b28eda5fb",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "2f3cfcacf9ef80eb0f2dbc32",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "b5f5be1eccc1f74e77f5d64a"
+              }
+            ],
+            "id": "4ffbe03690f0fdb857cb8f5d"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "0081b9a0e304cd464c4f5efb",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "9129cebd3bed8bb2d2ccb736",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "c2bdabcf1ba54bfba154d585"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "9cbb43c104551f33eebd1f9a declinePlayerMessage",
+    "description": "9cbb43c104551f33eebd1f9a description",
+    "failMessageText": "9cbb43c104551f33eebd1f9a failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "9cbb43c104551f33eebd1f9a name",
+    "note": "9cbb43c104551f33eebd1f9a note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "6bbbb7486e2d4adfd5a97e8e",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "5ed4db7e82efdf6b8f4afa07",
+          "index": 5,
+          "items": [
+            {
+              "_id": "20efa6a39ecdbc8b9977c48b",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "20efa6a39ecdbc8b9977c48b",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "f19c046be4d2ea123fd687d7",
+          "index": 6,
+          "items": [
+            {
+              "_id": "bbca9fec5ac4b68cde03396b",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "bbca9fec5ac4b68cde03396b",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "6ec000cfc0d6ff7bb8b3cae6",
+          "index": 7,
+          "items": [
+            {
+              "_id": "4fa4daad8dfc9501d7c69a75",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "4fa4daad8dfc9501d7c69a75",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "bbfec9b65bfbae49ffbb98dd",
+          "index": 8,
+          "items": [
+            {
+              "_id": "6a959a6edfd3bd82734d2c8a",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "6a959a6edfd3bd82734d2c8a",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "b46c0c6d4cb3d03ba408cbaa",
+          "index": 9,
+          "items": [
+            {
+              "_id": "6116dd5beadd48eadbc4a2a7",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "6116dd5beadd48eadbc4a2a7",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "9cbb43c104551f33eebd1f9a startedMessageText",
+    "successMessageText": "9cbb43c104551f33eebd1f9a successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  },
+  "8ba84a46cfb21cf8d25a8bbf": {
+    "QuestName": "[Lab] Stims Proficiency: eTG-change regenerative stimulant injector Trade",
+    "_id": "8ba84a46cfb21cf8d25a8bbf",
+    "acceptPlayerMessage": "8ba84a46cfb21cf8d25a8bbf acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "8ba84a46cfb21cf8d25a8bbf changeQuestMessageText",
+    "completePlayerMessage": "8ba84a46cfb21cf8d25a8bbf completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "7cb3dca73cea2fdf30ac0afd",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "e0b24c543c951fedb2eafedb"
+              }
+            ],
+            "id": "0236a9adc2458ddd6ffbd66c"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "5d0fb6b3adffe28a9cf39ced",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "65c31cf20b34955beae9e6cf",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "b3df30cf1f113a0bfb16ebf7"
+              }
+            ],
+            "id": "f9eaf99fdcca61b37578d50f"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "dde5ecccfa8c2624a989d07a",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "25bd6cda5732df84ef1debc9",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "9cbb43c104551f33eebd1f9a"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "8ba84a46cfb21cf8d25a8bbf declinePlayerMessage",
+    "description": "8ba84a46cfb21cf8d25a8bbf description",
+    "failMessageText": "8ba84a46cfb21cf8d25a8bbf failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "8ba84a46cfb21cf8d25a8bbf name",
+    "note": "8ba84a46cfb21cf8d25a8bbf note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "3fbedafabcea4166be1dc9bf",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "be1bc3da6d1ad385497adbfc",
+          "index": 5,
+          "items": [
+            {
+              "_id": "b0eceeac1ba7fa4c8bfae9c9",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "b0eceeac1ba7fa4c8bfae9c9",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "e44ccfc32e9bd619d3d32bab",
+          "index": 6,
+          "items": [
+            {
+              "_id": "be6c5cdc49dc5e49464b7b5c",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "be6c5cdc49dc5e49464b7b5c",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "cfd22c0bfff8f604f0b9e0db",
+          "index": 7,
+          "items": [
+            {
+              "_id": "20c736ff4de6fad45e0e69bb",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "20c736ff4de6fad45e0e69bb",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "aebceeeea215dd221d3516cd",
+          "index": 8,
+          "items": [
+            {
+              "_id": "c7dfa6b4d4d8face45bb64cb",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "c7dfa6b4d4d8face45bb64cb",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "3f89271eb68cbeb26ea64dd1",
+          "index": 9,
+          "items": [
+            {
+              "_id": "e6bfec0008abd6e15b069fdf",
+              "_tpl": "5c0e534186f7747fa1419867",
+                            "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "e6bfec0008abd6e15b069fdf",
+          "traderId": "6765fbd20fdc7eb79b00000f",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "8ba84a46cfb21cf8d25a8bbf startedMessageText",
+    "successMessageText": "8ba84a46cfb21cf8d25a8bbf successMessageText",
+    "traderId": "6765fbd20fdc7eb79b00000f",
+    "type": "PickUp"
+  }
+}

@@ -147,8 +147,7 @@
           "items": [
             {
               "_id": "f7a696d2fe8a349d56b34ec9",
-              "_tpl": "5cc86840d7f00c002412c56c",
-                            "slotId": "hideout"
+              "_tpl": "5cc86840d7f00c002412c56c"
             }
           ],
           "loyaltyLevel": 1,
@@ -288,8 +287,7 @@
           "items": [
             {
               "_id": "bbcf627a3011fb7a9609a4bf",
-              "_tpl": "5cc86832d7f00c000d3a6e6c",
-                            "slotId": "hideout"
+              "_tpl": "5cc86832d7f00c000d3a6e6c"
             }
           ],
           "loyaltyLevel": 1,
@@ -428,8 +426,7 @@
           "items": [
             {
               "_id": "b9ce119cb82d40e1ad2b9dfb",
-              "_tpl": "5cc80f79e4a949033c7343b2",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f79e4a949033c7343b2"
             }
           ],
           "loyaltyLevel": 1,
@@ -567,8 +564,7 @@
           "items": [
             {
               "_id": "7d9f1fbf02eb1b63ef9a91cf",
-              "_tpl": "5cc80f8fe4a949033b0224a2",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f8fe4a949033b0224a2"
             }
           ],
           "loyaltyLevel": 1,
@@ -705,8 +701,7 @@
           "items": [
             {
               "_id": "6f3bcaf9be7efb5a9cc6386e",
-              "_tpl": "5cc80f53e4a949000e1ea4f8",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f53e4a949000e1ea4f8"
             }
           ],
           "loyaltyLevel": 1,
@@ -842,8 +837,7 @@
           "items": [
             {
               "_id": "9ffbbd4bd1cd72aae9ce79fa",
-              "_tpl": "5cc80f67e4a949035e43bbba",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f67e4a949035e43bbba"
             }
           ],
           "loyaltyLevel": 1,
@@ -978,8 +972,7 @@
           "items": [
             {
               "_id": "67194e1598bd9759b9eba1c2",
-              "_tpl": "5cc80f38e4a949001152b560",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f38e4a949001152b560"
             }
           ],
           "loyaltyLevel": 1,
@@ -1126,8 +1119,7 @@
           "items": [
             {
               "_id": "a0d4a64e2c2d3eccb3bd41fe",
-              "_tpl": "5cc86840d7f00c002412c56c",
-                            "slotId": "hideout"
+              "_tpl": "5cc86840d7f00c002412c56c"
             }
           ],
           "loyaltyLevel": 1,
@@ -1286,8 +1278,7 @@
           "items": [
             {
               "_id": "8deef6d1b3234e09971c1fab",
-              "_tpl": "5cc86832d7f00c000d3a6e6c",
-                            "slotId": "hideout"
+              "_tpl": "5cc86832d7f00c000d3a6e6c"
             }
           ],
           "loyaltyLevel": 1,
@@ -1446,8 +1437,7 @@
           "items": [
             {
               "_id": "d64e76d3adb9dee66fdcf4a0",
-              "_tpl": "5cc80f79e4a949033c7343b2",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f79e4a949033c7343b2"
             }
           ],
           "loyaltyLevel": 1,
@@ -1606,8 +1596,7 @@
           "items": [
             {
               "_id": "a77a1d44b124aaf78bf413cb",
-              "_tpl": "5cc80f8fe4a949033b0224a2",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f8fe4a949033b0224a2"
             }
           ],
           "loyaltyLevel": 1,
@@ -1766,8 +1755,7 @@
           "items": [
             {
               "_id": "bbfdbf7e8c829bdaf01a24e2",
-              "_tpl": "5cc80f53e4a949000e1ea4f8",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f53e4a949000e1ea4f8"
             }
           ],
           "loyaltyLevel": 1,
@@ -1926,8 +1914,7 @@
           "items": [
             {
               "_id": "a6db1c5dabbed0cb1da38f36",
-              "_tpl": "5cc80f67e4a949035e43bbba",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f67e4a949035e43bbba"
             }
           ],
           "loyaltyLevel": 1,
@@ -2086,8 +2073,7 @@
           "items": [
             {
               "_id": "bc4191a2caeb2274eaee31ca",
-              "_tpl": "5cc80f38e4a949001152b560",
-                            "slotId": "hideout"
+              "_tpl": "5cc80f38e4a949001152b560"
             }
           ],
           "loyaltyLevel": 1,
@@ -2240,8 +2226,7 @@
           "items": [
             {
               "_id": "fb1a52f738e38a1cefe9c4db",
-              "_tpl": "5735fdcd2459776445391d61",
-                            "slotId": "hideout"
+              "_tpl": "5735fdcd2459776445391d61"
             }
           ],
           "loyaltyLevel": 1,
@@ -2381,8 +2366,7 @@
           "items": [
             {
               "_id": "915aeeb8c2ffdacff1bb0d20",
-              "_tpl": "5735ff5c245977640e39ba7e",
-                            "slotId": "hideout"
+              "_tpl": "5735ff5c245977640e39ba7e"
             }
           ],
           "loyaltyLevel": 1,
@@ -2521,8 +2505,7 @@
           "items": [
             {
               "_id": "8dd4bb045cd23b6cae8626d4",
-              "_tpl": "5736026a245977644601dc61",
-                            "slotId": "hideout"
+              "_tpl": "5736026a245977644601dc61"
             }
           ],
           "loyaltyLevel": 1,
@@ -2660,8 +2643,7 @@
           "items": [
             {
               "_id": "8e6b439cb29ff8c6f2e39ad1",
-              "_tpl": "573603c924597764442bd9cb",
-                            "slotId": "hideout"
+              "_tpl": "573603c924597764442bd9cb"
             }
           ],
           "loyaltyLevel": 1,
@@ -2675,8 +2657,7 @@
           "items": [
             {
               "_id": "ecaa6a29b754356b07eb0286",
-              "_tpl": "5ea034f65aad6446a939737e",
-                            "slotId": "hideout"
+              "_tpl": "5ea034f65aad6446a939737e"
             }
           ],
           "loyaltyLevel": 1,
@@ -2813,8 +2794,7 @@
           "items": [
             {
               "_id": "bfb8abf507ada6d60d8fbc07",
-              "_tpl": "573602322459776445391df1",
-                            "slotId": "hideout"
+              "_tpl": "573602322459776445391df1"
             }
           ],
           "loyaltyLevel": 1,
@@ -2950,8 +2930,7 @@
           "items": [
             {
               "_id": "ca14ca194a60716cafa23f02",
-              "_tpl": "573601b42459776410737435",
-                            "slotId": "hideout"
+              "_tpl": "573601b42459776410737435"
             }
           ],
           "loyaltyLevel": 1,
@@ -3086,8 +3065,7 @@
           "items": [
             {
               "_id": "f8c1b5b1cea294edd8aae8ce",
-              "_tpl": "573603562459776430731618",
-                            "slotId": "hideout"
+              "_tpl": "573603562459776430731618"
             }
           ],
           "loyaltyLevel": 1,
@@ -3234,8 +3212,7 @@
           "items": [
             {
               "_id": "e7198dc8ba1dd4d8be5de271",
-              "_tpl": "5735fdcd2459776445391d61",
-                            "slotId": "hideout"
+              "_tpl": "5735fdcd2459776445391d61"
             }
           ],
           "loyaltyLevel": 1,
@@ -3394,8 +3371,7 @@
           "items": [
             {
               "_id": "5a5d16fd31babae6facbbd33",
-              "_tpl": "5735ff5c245977640e39ba7e",
-                            "slotId": "hideout"
+              "_tpl": "5735ff5c245977640e39ba7e"
             }
           ],
           "loyaltyLevel": 1,
@@ -3554,8 +3530,7 @@
           "items": [
             {
               "_id": "d2b3dbbffc6d93efc5aadee7",
-              "_tpl": "5736026a245977644601dc61",
-                            "slotId": "hideout"
+              "_tpl": "5736026a245977644601dc61"
             }
           ],
           "loyaltyLevel": 1,
@@ -3714,8 +3689,7 @@
           "items": [
             {
               "_id": "d7a03b44cbedfb164faa6568",
-              "_tpl": "573603c924597764442bd9cb",
-                            "slotId": "hideout"
+              "_tpl": "573603c924597764442bd9cb"
             }
           ],
           "loyaltyLevel": 1,
@@ -3874,8 +3848,7 @@
           "items": [
             {
               "_id": "df0feb4c5e5ec8bda641de13",
-              "_tpl": "573602322459776445391df1",
-                            "slotId": "hideout"
+              "_tpl": "573602322459776445391df1"
             }
           ],
           "loyaltyLevel": 1,
@@ -4034,8 +4007,7 @@
           "items": [
             {
               "_id": "de2be0eb3ac652ce4fbc145d",
-              "_tpl": "573601b42459776410737435",
-                            "slotId": "hideout"
+              "_tpl": "573601b42459776410737435"
             }
           ],
           "loyaltyLevel": 1,
@@ -4194,8 +4166,7 @@
           "items": [
             {
               "_id": "086ee00585e6fffe9c49a94e",
-              "_tpl": "573603562459776430731618",
-                            "slotId": "hideout"
+              "_tpl": "573603562459776430731618"
             }
           ],
           "loyaltyLevel": 1,
@@ -4355,8 +4326,7 @@
           "items": [
             {
               "_id": "b70ea8cfd98f44efddcb7ec9",
-              "_tpl": "573719762459775a626ccbc1",
-                            "slotId": "hideout"
+              "_tpl": "573719762459775a626ccbc1"
             }
           ],
           "loyaltyLevel": 1,
@@ -4370,8 +4340,7 @@
           "items": [
             {
               "_id": "e311ead52063d21d4d7cedcd",
-              "_tpl": "573724b42459776125652ac2",
-                            "slotId": "hideout"
+              "_tpl": "573724b42459776125652ac2"
             },
             {
               "_id": "a67fc7c3bdacc083023cba0a",
@@ -4524,8 +4493,7 @@
           "items": [
             {
               "_id": "ceae16d808bbe67f0fa7b6a0",
-              "_tpl": "57371f8d24597761006c6a81",
-                            "slotId": "hideout"
+              "_tpl": "57371f8d24597761006c6a81"
             }
           ],
           "loyaltyLevel": 1,
@@ -4539,8 +4507,7 @@
           "items": [
             {
               "_id": "f447b102bd5acfbc207eb149",
-              "_tpl": "5737273924597765dd374461",
-                            "slotId": "hideout"
+              "_tpl": "5737273924597765dd374461"
             },
             {
               "_id": "e88baa68c97af2ccece35bde",
@@ -4692,8 +4659,7 @@
           "items": [
             {
               "_id": "bbfadaa86f4cdbd0c086dadb",
-              "_tpl": "57371f2b24597761224311f1",
-                            "slotId": "hideout"
+              "_tpl": "57371f2b24597761224311f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -4707,8 +4673,7 @@
           "items": [
             {
               "_id": "2efde2abb2baf3ae1ff2ff4a",
-              "_tpl": "573726d824597765d96be361",
-                            "slotId": "hideout"
+              "_tpl": "573726d824597765d96be361"
             },
             {
               "_id": "b55fb66ba6edbe04cd477ab7",
@@ -4859,8 +4824,7 @@
           "items": [
             {
               "_id": "1fb4b1cf54aca1271f0894b5",
-              "_tpl": "57371eb62459776125652ac1",
-                            "slotId": "hideout"
+              "_tpl": "57371eb62459776125652ac1"
             }
           ],
           "loyaltyLevel": 1,
@@ -4874,8 +4838,7 @@
           "items": [
             {
               "_id": "b42cc6376a1904a1febe235a",
-              "_tpl": "5737266524597761006c6a8c",
-                            "slotId": "hideout"
+              "_tpl": "5737266524597761006c6a8c"
             },
             {
               "_id": "fddd521cbb50c0beffbc75e8",
@@ -5025,8 +4988,7 @@
           "items": [
             {
               "_id": "fb6d6d563facc7f8b9e633bd",
-              "_tpl": "57371e4124597760ff7b25f1",
-                            "slotId": "hideout"
+              "_tpl": "57371e4124597760ff7b25f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -5040,8 +5002,7 @@
           "items": [
             {
               "_id": "e1bbeed79f7fea0dfa12d80b",
-              "_tpl": "5737260b24597761224311f2",
-                            "slotId": "hideout"
+              "_tpl": "5737260b24597761224311f2"
             },
             {
               "_id": "46cfee7d4becddfb2adc8aaf",
@@ -5190,8 +5151,7 @@
           "items": [
             {
               "_id": "44dc7035bc97bc6cc5dcc383",
-              "_tpl": "57371b192459775a9f58a5e0",
-                            "slotId": "hideout"
+              "_tpl": "57371b192459775a9f58a5e0"
             }
           ],
           "loyaltyLevel": 1,
@@ -5205,8 +5165,7 @@
           "items": [
             {
               "_id": "dfc0bc12fc570ccec1ffabbd",
-              "_tpl": "573725b0245977612125bae2",
-                            "slotId": "hideout"
+              "_tpl": "573725b0245977612125bae2"
             },
             {
               "_id": "a0d3a13f4daf8c829d42e073",
@@ -5354,8 +5313,7 @@
           "items": [
             {
               "_id": "c5e8f7eff6cdb0bf95ddadc2",
-              "_tpl": "5737201124597760fc4431f1",
-                            "slotId": "hideout"
+              "_tpl": "5737201124597760fc4431f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -5369,8 +5327,7 @@
           "items": [
             {
               "_id": "c2ae85b817d44dbeccd1f8ee",
-              "_tpl": "573727c624597765cc785b5b",
-                            "slotId": "hideout"
+              "_tpl": "573727c624597765cc785b5b"
             },
             {
               "_id": "9b9cebaa12cba1fcbf17c986",
@@ -5517,8 +5474,7 @@
           "items": [
             {
               "_id": "c0cd0cd5d6fc2bca97e78fac",
-              "_tpl": "5737218f245977612125ba51",
-                            "slotId": "hideout"
+              "_tpl": "5737218f245977612125ba51"
             }
           ],
           "loyaltyLevel": 1,
@@ -5532,8 +5488,7 @@
           "items": [
             {
               "_id": "3581cfb9a4b12786e6edec65",
-              "_tpl": "573728f324597765e5728561",
-                            "slotId": "hideout"
+              "_tpl": "573728f324597765e5728561"
             },
             {
               "_id": "75429bba600f19fcbfb1bc6b",
@@ -5553,8 +5508,7 @@
           "items": [
             {
               "_id": "8d7203ba6b66cc3c4b201ff5",
-              "_tpl": "57d1519e24597714373db79d",
-                            "slotId": "hideout"
+              "_tpl": "57d1519e24597714373db79d"
             }
           ],
           "loyaltyLevel": 1,
@@ -5694,8 +5648,7 @@
           "items": [
             {
               "_id": "470bae3f55f0debfbb94a46b",
-              "_tpl": "5737207f24597760ff7b25f2",
-                            "slotId": "hideout"
+              "_tpl": "5737207f24597760ff7b25f2"
             }
           ],
           "loyaltyLevel": 1,
@@ -5709,8 +5662,7 @@
           "items": [
             {
               "_id": "d0ebab7adbcd6e4abd3e0b6a",
-              "_tpl": "5737280e24597765cc785b5c",
-                            "slotId": "hideout"
+              "_tpl": "5737280e24597765cc785b5c"
             },
             {
               "_id": "d869fbeda45f6da5d4e8bf0b",
@@ -5855,8 +5807,7 @@
           "items": [
             {
               "_id": "0edcf83e0494db293b0417fd",
-              "_tpl": "573720e02459776143012541",
-                            "slotId": "hideout"
+              "_tpl": "573720e02459776143012541"
             }
           ],
           "loyaltyLevel": 1,
@@ -5870,8 +5821,7 @@
           "items": [
             {
               "_id": "7acfff1f46adfbcef1e5f760",
-              "_tpl": "5737287724597765e1625ae2",
-                            "slotId": "hideout"
+              "_tpl": "5737287724597765e1625ae2"
             },
             {
               "_id": "22cc0416b5d9aa81c20ba5ef",
@@ -6015,8 +5965,7 @@
           "items": [
             {
               "_id": "fefe0d415e3f871fc23539fa",
-              "_tpl": "57372140245977611f70ee91",
-                            "slotId": "hideout"
+              "_tpl": "57372140245977611f70ee91"
             }
           ],
           "loyaltyLevel": 1,
@@ -6030,8 +5979,7 @@
           "items": [
             {
               "_id": "dcf10a6a92e1a9b36540f0e3",
-              "_tpl": "573728cc24597765cc785b5d",
-                            "slotId": "hideout"
+              "_tpl": "573728cc24597765cc785b5d"
             },
             {
               "_id": "9573cec812b4ce0eb0d7e1cc",
@@ -6174,8 +6122,7 @@
           "items": [
             {
               "_id": "bcefecbc9938df34a4b9ccca",
-              "_tpl": "573718ba2459775a75491131",
-                            "slotId": "hideout"
+              "_tpl": "573718ba2459775a75491131"
             }
           ],
           "loyaltyLevel": 1,
@@ -6189,8 +6136,7 @@
           "items": [
             {
               "_id": "2bf6fa9ebcfa2fa7a597aa89",
-              "_tpl": "573722e82459776104581c21",
-                            "slotId": "hideout"
+              "_tpl": "573722e82459776104581c21"
             },
             {
               "_id": "68ec8105cedc2875d08dc20e",
@@ -6210,8 +6156,7 @@
           "items": [
             {
               "_id": "fed0f57ea117d4dfd7ebaf0e",
-              "_tpl": "55d485be4bdc2d962f8b456f",
-                            "slotId": "hideout"
+              "_tpl": "55d485be4bdc2d962f8b456f"
             }
           ],
           "loyaltyLevel": 1,
@@ -6347,8 +6292,7 @@
           "items": [
             {
               "_id": "3d3aff70ebf8fcee2feaef19",
-              "_tpl": "57371aab2459775a77142f22",
-                            "slotId": "hideout"
+              "_tpl": "57371aab2459775a77142f22"
             }
           ],
           "loyaltyLevel": 1,
@@ -6362,8 +6306,7 @@
           "items": [
             {
               "_id": "a31fdb5d730cc4abc1359222",
-              "_tpl": "5737256c2459776125652acd",
-                            "slotId": "hideout"
+              "_tpl": "5737256c2459776125652acd"
             },
             {
               "_id": "ddbc0e5daef9b13bb2cb5401",
@@ -6504,8 +6447,7 @@
           "items": [
             {
               "_id": "b09decf5006aef30bc6b81d9",
-              "_tpl": "573719df2459775a626ccbc2",
-                            "slotId": "hideout"
+              "_tpl": "573719df2459775a626ccbc2"
             }
           ],
           "loyaltyLevel": 1,
@@ -6519,8 +6461,7 @@
           "items": [
             {
               "_id": "94ab28efe9871ded5c716c82",
-              "_tpl": "5737250c2459776125652acc",
-                            "slotId": "hideout"
+              "_tpl": "5737250c2459776125652acc"
             },
             {
               "_id": "c1ae74dfd3013ff9caac782b",
@@ -6722,8 +6663,7 @@
           "items": [
             {
               "_id": "cd74e02d515cbceddedbe4d0",
-              "_tpl": "573719762459775a626ccbc1",
-                            "slotId": "hideout"
+              "_tpl": "573719762459775a626ccbc1"
             }
           ],
           "loyaltyLevel": 1,
@@ -6931,8 +6871,7 @@
           "items": [
             {
               "_id": "e224f506ebadcb69be0f0c09",
-              "_tpl": "57371f8d24597761006c6a81",
-                            "slotId": "hideout"
+              "_tpl": "57371f8d24597761006c6a81"
             }
           ],
           "loyaltyLevel": 1,
@@ -7140,8 +7079,7 @@
           "items": [
             {
               "_id": "65b379bb5c3fe44c00e9fbd9",
-              "_tpl": "57371f2b24597761224311f1",
-                            "slotId": "hideout"
+              "_tpl": "57371f2b24597761224311f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -7349,8 +7287,7 @@
           "items": [
             {
               "_id": "11f451f96ec3bf5bcfbbb40d",
-              "_tpl": "57371eb62459776125652ac1",
-                            "slotId": "hideout"
+              "_tpl": "57371eb62459776125652ac1"
             }
           ],
           "loyaltyLevel": 1,
@@ -7558,8 +7495,7 @@
           "items": [
             {
               "_id": "4dc2c96e5d3e3231f51e7df6",
-              "_tpl": "57371e4124597760ff7b25f1",
-                            "slotId": "hideout"
+              "_tpl": "57371e4124597760ff7b25f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -7767,8 +7703,7 @@
           "items": [
             {
               "_id": "dca3fc1a711ba7321847b21a",
-              "_tpl": "57371b192459775a9f58a5e0",
-                            "slotId": "hideout"
+              "_tpl": "57371b192459775a9f58a5e0"
             }
           ],
           "loyaltyLevel": 1,
@@ -7976,8 +7911,7 @@
           "items": [
             {
               "_id": "fdbfda26046c99eacda24230",
-              "_tpl": "5737201124597760fc4431f1",
-                            "slotId": "hideout"
+              "_tpl": "5737201124597760fc4431f1"
             }
           ],
           "loyaltyLevel": 1,
@@ -8185,8 +8119,7 @@
           "items": [
             {
               "_id": "58a9aafc80d40a7eb0fc02bd",
-              "_tpl": "5737218f245977612125ba51",
-                            "slotId": "hideout"
+              "_tpl": "5737218f245977612125ba51"
             }
           ],
           "loyaltyLevel": 1,
@@ -8394,8 +8327,7 @@
           "items": [
             {
               "_id": "df65013e31dffb8dfad3536f",
-              "_tpl": "5737207f24597760ff7b25f2",
-                            "slotId": "hideout"
+              "_tpl": "5737207f24597760ff7b25f2"
             }
           ],
           "loyaltyLevel": 1,
@@ -8603,8 +8535,7 @@
           "items": [
             {
               "_id": "dcfe5a0eea4daf9dd0c322be",
-              "_tpl": "573720e02459776143012541",
-                            "slotId": "hideout"
+              "_tpl": "573720e02459776143012541"
             }
           ],
           "loyaltyLevel": 1,
@@ -8812,8 +8743,7 @@
           "items": [
             {
               "_id": "d5fac2c7a2188bae4313e918",
-              "_tpl": "57372140245977611f70ee91",
-                            "slotId": "hideout"
+              "_tpl": "57372140245977611f70ee91"
             }
           ],
           "loyaltyLevel": 1,
@@ -9021,8 +8951,7 @@
           "items": [
             {
               "_id": "44ed1accafdaaed4ee3a0e16",
-              "_tpl": "573718ba2459775a75491131",
-                            "slotId": "hideout"
+              "_tpl": "573718ba2459775a75491131"
             }
           ],
           "loyaltyLevel": 1,
@@ -9230,8 +9159,7 @@
           "items": [
             {
               "_id": "ebde2ceaef7d9ebbee06aa7d",
-              "_tpl": "57371aab2459775a77142f22",
-                            "slotId": "hideout"
+              "_tpl": "57371aab2459775a77142f22"
             }
           ],
           "loyaltyLevel": 1,
@@ -9439,8 +9367,7 @@
           "items": [
             {
               "_id": "fbb8cf1dff9bec9bbedd88f1",
-              "_tpl": "573719df2459775a626ccbc2",
-                            "slotId": "hideout"
+              "_tpl": "573719df2459775a626ccbc2"
             }
           ],
           "loyaltyLevel": 1,
@@ -9592,8 +9519,7 @@
           "items": [
             {
               "_id": "eeddbaba031b3f96b74dba96",
-              "_tpl": "5a26abfac4a28232980eabff",
-                            "slotId": "hideout"
+              "_tpl": "5a26abfac4a28232980eabff"
             }
           ],
           "loyaltyLevel": 1,
@@ -9732,8 +9658,7 @@
           "items": [
             {
               "_id": "cae5752aa3ecab6b9ccd89a4",
-              "_tpl": "5a26ac06c4a282000c5a90a8",
-                            "slotId": "hideout"
+              "_tpl": "5a26ac06c4a282000c5a90a8"
             }
           ],
           "loyaltyLevel": 1,
@@ -9871,8 +9796,7 @@
           "items": [
             {
               "_id": "db5ff86b7b75e2dde1047c3a",
-              "_tpl": "5a269f97c4a282000b151807",
-                            "slotId": "hideout"
+              "_tpl": "5a269f97c4a282000b151807"
             }
           ],
           "loyaltyLevel": 1,
@@ -10009,8 +9933,7 @@
           "items": [
             {
               "_id": "ecc7c755adf0faa2eecd3aee",
-              "_tpl": "6576f93989f0062e741ba952",
-                            "slotId": "hideout"
+              "_tpl": "6576f93989f0062e741ba952"
             }
           ],
           "loyaltyLevel": 1,
@@ -10146,8 +10069,7 @@
           "items": [
             {
               "_id": "42bb63dfc8c40462c49fcec7",
-              "_tpl": "5a26ac0ec4a28200741e1e18",
-                            "slotId": "hideout"
+              "_tpl": "5a26ac0ec4a28200741e1e18"
             }
           ],
           "loyaltyLevel": 1,
@@ -10282,8 +10204,7 @@
           "items": [
             {
               "_id": "f9aae57fcbece367d1736061",
-              "_tpl": "6576f4708ca9c4381d16cd9d",
-                            "slotId": "hideout"
+              "_tpl": "6576f4708ca9c4381d16cd9d"
             }
           ],
           "loyaltyLevel": 1,
@@ -10429,8 +10350,7 @@
           "items": [
             {
               "_id": "335d2dbc72ece7c0536baeca",
-              "_tpl": "5a26abfac4a28232980eabff",
-                            "slotId": "hideout"
+              "_tpl": "5a26abfac4a28232980eabff"
             }
           ],
           "loyaltyLevel": 1,
@@ -10588,8 +10508,7 @@
           "items": [
             {
               "_id": "fa74ecbfebcfcb32fe692dbd",
-              "_tpl": "5a26ac06c4a282000c5a90a8",
-                            "slotId": "hideout"
+              "_tpl": "5a26ac06c4a282000c5a90a8"
             }
           ],
           "loyaltyLevel": 1,
@@ -10747,8 +10666,7 @@
           "items": [
             {
               "_id": "f6a8a28ebfb759e0fc37bfd4",
-              "_tpl": "5a269f97c4a282000b151807",
-                            "slotId": "hideout"
+              "_tpl": "5a269f97c4a282000b151807"
             }
           ],
           "loyaltyLevel": 1,
@@ -10906,8 +10824,7 @@
           "items": [
             {
               "_id": "ae684f0007f84bc01b82f9ca",
-              "_tpl": "6576f93989f0062e741ba952",
-                            "slotId": "hideout"
+              "_tpl": "6576f93989f0062e741ba952"
             }
           ],
           "loyaltyLevel": 1,
@@ -11065,8 +10982,7 @@
           "items": [
             {
               "_id": "b41a0bad056354fdd14de2e5",
-              "_tpl": "5a26ac0ec4a28200741e1e18",
-                            "slotId": "hideout"
+              "_tpl": "5a26ac0ec4a28200741e1e18"
             }
           ],
           "loyaltyLevel": 1,
@@ -11224,8 +11140,7 @@
           "items": [
             {
               "_id": "7ca7aa12aeb5d9eac16762e5",
-              "_tpl": "6576f4708ca9c4381d16cd9d",
-                            "slotId": "hideout"
+              "_tpl": "6576f4708ca9c4381d16cd9d"
             }
           ],
           "loyaltyLevel": 1,
@@ -11376,8 +11291,7 @@
           "items": [
             {
               "_id": "9f2b65add7a7286acdd6c5f5",
-              "_tpl": "62330c40bdd19b369e1e53d1",
-                            "slotId": "hideout"
+              "_tpl": "62330c40bdd19b369e1e53d1"
             }
           ],
           "loyaltyLevel": 1,
@@ -11514,8 +11428,7 @@
           "items": [
             {
               "_id": "dd2c394a33df33a9ab02d4ba",
-              "_tpl": "62330bfadc5883093563729b",
-                            "slotId": "hideout"
+              "_tpl": "62330bfadc5883093563729b"
             }
           ],
           "loyaltyLevel": 1,
@@ -11651,8 +11564,7 @@
           "items": [
             {
               "_id": "0f4dd0176004f90d09f9fec7",
-              "_tpl": "62330c18744e5e31df12f516",
-                            "slotId": "hideout"
+              "_tpl": "62330c18744e5e31df12f516"
             }
           ],
           "loyaltyLevel": 1,
@@ -11787,8 +11699,7 @@
           "items": [
             {
               "_id": "bbcc98abb8cf958dff59dabf",
-              "_tpl": "62330b3ed4dc74626d570b95",
-                            "slotId": "hideout"
+              "_tpl": "62330b3ed4dc74626d570b95"
             }
           ],
           "loyaltyLevel": 1,
@@ -11933,8 +11844,7 @@
           "items": [
             {
               "_id": "dcbce2cd8d82cade6ab01a75",
-              "_tpl": "62330c40bdd19b369e1e53d1",
-                            "slotId": "hideout"
+              "_tpl": "62330c40bdd19b369e1e53d1"
             }
           ],
           "loyaltyLevel": 1,
@@ -12091,8 +12001,7 @@
           "items": [
             {
               "_id": "bcfeebcba4bcc6a76c73ed27",
-              "_tpl": "62330bfadc5883093563729b",
-                            "slotId": "hideout"
+              "_tpl": "62330bfadc5883093563729b"
             }
           ],
           "loyaltyLevel": 1,
@@ -12249,8 +12158,7 @@
           "items": [
             {
               "_id": "ca3cc8458daeb8e42a44bedc",
-              "_tpl": "62330c18744e5e31df12f516",
-                            "slotId": "hideout"
+              "_tpl": "62330c18744e5e31df12f516"
             }
           ],
           "loyaltyLevel": 1,
@@ -12407,8 +12315,7 @@
           "items": [
             {
               "_id": "a826dd99cc0fc4fa7aaefc60",
-              "_tpl": "62330b3ed4dc74626d570b95",
-                            "slotId": "hideout"
+              "_tpl": "62330b3ed4dc74626d570b95"
             }
           ],
           "loyaltyLevel": 1,

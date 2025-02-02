@@ -2286,7 +2286,11 @@
             "_id": "364bcd572edfcc0eede35b82",
             "_tpl": "56d59d3ad2720bdb418b4577",
             "parentId": "9c57bd1cd8bfa381ce391fcd",
-            "slotId": "cartridges"
+            "slotId": "cartridges",
+            "location": 0,
+            "upd": {
+                "StackObjectsCount": 16
+            }
         },
         {
             "_id": "aa8cfaf93a0a12f3a61fa33b",
@@ -2412,7 +2416,11 @@
             "_id": "00983daaac2acfdb2c45be0d",
             "_tpl": "5c0d56a986f774449d5de529",
             "parentId": "b8aa67394c3c826a5c20b8c4",
-            "slotId": "cartridges"
+            "slotId": "cartridges",
+            "location": 0,
+            "upd": {
+                "StackObjectsCount": 20
+            }
         },
         {
             "_id": "9d2e7ec756fb719f65440bb1",
@@ -2763,22 +2771,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b31",
-          "_tpl": "6571199565daf6aa960c9b10",
-          "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b31",
+            "_tpl": "6571199565daf6aa960c9b10",
+            "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b32",
-          "_tpl": "657119d49eb8c145180dbb95",
-          "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b32",
+            "_tpl": "657119d49eb8c145180dbb95",
+            "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b33",
-          "_tpl": "657119fea330b8c9060f7afc",
-          "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b33",
+            "_tpl": "657119fea330b8c9060f7afc",
+            "parentId": "cfc41c8b0ad9d8f2ea8e8e6a",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "dfeae76c2aed94ebee2db4e8",
@@ -2793,22 +2801,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b34",
-          "_tpl": "657bae18b7e9ca9a02045c0a",
-          "parentId": "dfeae76c2aed94ebee2db4e8",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b34",
+            "_tpl": "657bae18b7e9ca9a02045c0a",
+            "parentId": "dfeae76c2aed94ebee2db4e8",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b35",
-          "_tpl": "657baeaacfcf63c951052db3",
-          "parentId": "dfeae76c2aed94ebee2db4e8",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b35",
+            "_tpl": "657baeaacfcf63c951052db3",
+            "parentId": "dfeae76c2aed94ebee2db4e8",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b36",
-          "_tpl": "657baecbc6f689d3a205b863",
-          "parentId": "dfeae76c2aed94ebee2db4e8",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b36",
+            "_tpl": "657baecbc6f689d3a205b863",
+            "parentId": "dfeae76c2aed94ebee2db4e8",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "d57eed678ae9bfef5d13efab",
@@ -2823,16 +2831,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b37",
-          "_tpl": "657bb92fa1c61ee0c303631f",
-          "parentId": "d57eed678ae9bfef5d13efab",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b37",
+            "_tpl": "657bb92fa1c61ee0c303631f",
+            "parentId": "d57eed678ae9bfef5d13efab",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b38",
-          "_tpl": "657bb99db30eca976305117f",
-          "parentId": "d57eed678ae9bfef5d13efab",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b38",
+            "_tpl": "657bb99db30eca976305117f",
+            "parentId": "d57eed678ae9bfef5d13efab",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "dbf7e6c04b7b0dd1e90b3e0e",
@@ -2847,22 +2855,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b39",
-          "_tpl": "657bb70486c7f9ef7a009936",
-          "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b39",
+            "_tpl": "657bb70486c7f9ef7a009936",
+            "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b3a",
-          "_tpl": "657bb79ba1c61ee0c303631a",
-          "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b3a",
+            "_tpl": "657bb79ba1c61ee0c303631a",
+            "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b3b",
-          "_tpl": "657bb7d7b30eca9763051176",
-          "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b3b",
+            "_tpl": "657bb7d7b30eca9763051176",
+            "parentId": "dbf7e6c04b7b0dd1e90b3e0e",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "c39ea5eedfd45a72e9b1ffb3",
@@ -2877,22 +2885,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b3c",
-          "_tpl": "654a90aff4f81a421b0a7c86",
-          "parentId": "c39ea5eedfd45a72e9b1ffb3",
-          "slotId": "helmet_top"
+            "_id": "666fad3005a4eac710002b3c",
+            "_tpl": "654a90aff4f81a421b0a7c86",
+            "parentId": "c39ea5eedfd45a72e9b1ffb3",
+            "slotId": "helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b3d",
-          "_tpl": "654a91068e1ce698150fd1e2",
-          "parentId": "c39ea5eedfd45a72e9b1ffb3",
-          "slotId": "helmet_back"
+            "_id": "666fad3005a4eac710002b3d",
+            "_tpl": "654a91068e1ce698150fd1e2",
+            "parentId": "c39ea5eedfd45a72e9b1ffb3",
+            "slotId": "helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b3e",
-          "_tpl": "654a9189bcc67a392b056c79",
-          "parentId": "c39ea5eedfd45a72e9b1ffb3",
-          "slotId": "helmet_ears"
+            "_id": "666fad3005a4eac710002b3e",
+            "_tpl": "654a9189bcc67a392b056c79",
+            "parentId": "c39ea5eedfd45a72e9b1ffb3",
+            "slotId": "helmet_ears"
         },
         {
             "_id": "134cbe54aabbe3b49ede24fd",
@@ -2907,22 +2915,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b3f",
-          "_tpl": "657baaf0b7e9ca9a02045c02",
-          "parentId": "134cbe54aabbe3b49ede24fd",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b3f",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "parentId": "134cbe54aabbe3b49ede24fd",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b40",
-          "_tpl": "657bab6ec6f689d3a205b85f",
-          "parentId": "134cbe54aabbe3b49ede24fd",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b40",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "parentId": "134cbe54aabbe3b49ede24fd",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b41",
-          "_tpl": "657babc6f58ba5a6250107a2",
-          "parentId": "134cbe54aabbe3b49ede24fd",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b41",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "parentId": "134cbe54aabbe3b49ede24fd",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "ddc32da7abafdeaca4e62c74",
@@ -2937,16 +2945,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b42",
-          "_tpl": "657bbcc9a1c61ee0c3036327",
-          "parentId": "ddc32da7abafdeaca4e62c74",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b42",
+            "_tpl": "657bbcc9a1c61ee0c3036327",
+            "parentId": "ddc32da7abafdeaca4e62c74",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b43",
-          "_tpl": "657bbcffbbd440df880b2dd5",
-          "parentId": "ddc32da7abafdeaca4e62c74",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b43",
+            "_tpl": "657bbcffbbd440df880b2dd5",
+            "parentId": "ddc32da7abafdeaca4e62c74",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "fbc0a8d0fc3ac65aa3bba661",
@@ -2961,34 +2969,34 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b44",
-          "_tpl": "65711b07a330b8c9060f7b01",
-          "parentId": "fbc0a8d0fc3ac65aa3bba661",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b44",
+            "_tpl": "65711b07a330b8c9060f7b01",
+            "parentId": "fbc0a8d0fc3ac65aa3bba661",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b45",
-          "_tpl": "65711b489eb8c145180dbb9d",
-          "parentId": "fbc0a8d0fc3ac65aa3bba661",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b45",
+            "_tpl": "65711b489eb8c145180dbb9d",
+            "parentId": "fbc0a8d0fc3ac65aa3bba661",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b46",
-          "_tpl": "65711b9b65daf6aa960c9b1b",
-          "parentId": "fbc0a8d0fc3ac65aa3bba661",
-          "slotId": "helmet_eyes"
+            "_id": "666fad3005a4eac710002b46",
+            "_tpl": "65711b9b65daf6aa960c9b1b",
+            "parentId": "fbc0a8d0fc3ac65aa3bba661",
+            "slotId": "helmet_eyes"
         },
         {
-          "_id": "666fad3005a4eac710002b47",
-          "_tpl": "65711bc79eb8c145180dbba1",
-          "parentId": "fbc0a8d0fc3ac65aa3bba661",
-          "slotId": "helmet_jaw"
+            "_id": "666fad3005a4eac710002b47",
+            "_tpl": "65711bc79eb8c145180dbba1",
+            "parentId": "fbc0a8d0fc3ac65aa3bba661",
+            "slotId": "helmet_jaw"
         },
         {
-          "_id": "666fad3005a4eac710002b48",
-          "_tpl": "65711b706d197c216005b31c",
-          "parentId": "fbc0a8d0fc3ac65aa3bba661",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b48",
+            "_tpl": "65711b706d197c216005b31c",
+            "parentId": "fbc0a8d0fc3ac65aa3bba661",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "cf3a1965f725ecbc81c7545d",
@@ -3003,22 +3011,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b49",
-          "_tpl": "657f925dada5fadd1f07a57a",
-          "parentId": "cf3a1965f725ecbc81c7545d",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b49",
+            "_tpl": "657f925dada5fadd1f07a57a",
+            "parentId": "cf3a1965f725ecbc81c7545d",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b4a",
-          "_tpl": "657f92acada5fadd1f07a57e",
-          "parentId": "cf3a1965f725ecbc81c7545d",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b4a",
+            "_tpl": "657f92acada5fadd1f07a57e",
+            "parentId": "cf3a1965f725ecbc81c7545d",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b4b",
-          "_tpl": "657f92e7f4c82973640b2354",
-          "parentId": "cf3a1965f725ecbc81c7545d",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b4b",
+            "_tpl": "657f92e7f4c82973640b2354",
+            "parentId": "cf3a1965f725ecbc81c7545d",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "fd5dc6c29021fbfcdd29bce2",
@@ -3033,16 +3041,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b4c",
-          "_tpl": "657f8a8d7db258e5600fe33d",
-          "parentId": "fd5dc6c29021fbfcdd29bce2",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b4c",
+            "_tpl": "657f8a8d7db258e5600fe33d",
+            "parentId": "fd5dc6c29021fbfcdd29bce2",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b4d",
-          "_tpl": "657f8b05f4c82973640b2348",
-          "parentId": "fd5dc6c29021fbfcdd29bce2",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b4d",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "parentId": "fd5dc6c29021fbfcdd29bce2",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "d5bba9bd21b779abfdddbe9e",
@@ -3057,16 +3065,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b4e",
-          "_tpl": "657f8b94f92cd718b70154ff",
-          "parentId": "d5bba9bd21b779abfdddbe9e",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b4e",
+            "_tpl": "657f8b94f92cd718b70154ff",
+            "parentId": "d5bba9bd21b779abfdddbe9e",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b4f",
-          "_tpl": "657f8b43f92cd718b70154fb",
-          "parentId": "d5bba9bd21b779abfdddbe9e",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b4f",
+            "_tpl": "657f8b43f92cd718b70154fb",
+            "parentId": "d5bba9bd21b779abfdddbe9e",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "9e1a1c3faeefb88c67846aaf",
@@ -3081,16 +3089,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b50",
-          "_tpl": "657f95bff92cd718b701550c",
-          "parentId": "9e1a1c3faeefb88c67846aaf",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b50",
+            "_tpl": "657f95bff92cd718b701550c",
+            "parentId": "9e1a1c3faeefb88c67846aaf",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b51",
-          "_tpl": "657f9605f4c82973640b2358",
-          "parentId": "9e1a1c3faeefb88c67846aaf",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b51",
+            "_tpl": "657f9605f4c82973640b2358",
+            "parentId": "9e1a1c3faeefb88c67846aaf",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "8fa9494e26ae6b5c68fccd20",
@@ -3105,16 +3113,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b52",
-          "_tpl": "657f9c78ada5fadd1f07a58d",
-          "parentId": "8fa9494e26ae6b5c68fccd20",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b52",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "parentId": "8fa9494e26ae6b5c68fccd20",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b53",
-          "_tpl": "657f9cb587e11c61f70bfaca",
-          "parentId": "8fa9494e26ae6b5c68fccd20",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b53",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "parentId": "8fa9494e26ae6b5c68fccd20",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "72fdb7f3a277dfd6eabfafe3",
@@ -3153,22 +3161,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b54",
-          "_tpl": "657fa009d4caf976440afe3a",
-          "parentId": "a3760f2fe7af2ced96fdda0f",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b54",
+            "_tpl": "657fa009d4caf976440afe3a",
+            "parentId": "a3760f2fe7af2ced96fdda0f",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b55",
-          "_tpl": "657fa04ac6679fefb3051e24",
-          "parentId": "a3760f2fe7af2ced96fdda0f",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b55",
+            "_tpl": "657fa04ac6679fefb3051e24",
+            "parentId": "a3760f2fe7af2ced96fdda0f",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b56",
-          "_tpl": "657fa07387e11c61f70bface",
-          "parentId": "a3760f2fe7af2ced96fdda0f",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b56",
+            "_tpl": "657fa07387e11c61f70bface",
+            "parentId": "a3760f2fe7af2ced96fdda0f",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "1da5efc9bd2954b0ffd862c8",
@@ -3183,22 +3191,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b57",
-          "_tpl": "6571133d22996eaf11088200",
-          "parentId": "1da5efc9bd2954b0ffd862c8",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b57",
+            "_tpl": "6571133d22996eaf11088200",
+            "parentId": "1da5efc9bd2954b0ffd862c8",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b58",
-          "_tpl": "6571138e818110db4600aa71",
-          "parentId": "1da5efc9bd2954b0ffd862c8",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b58",
+            "_tpl": "6571138e818110db4600aa71",
+            "parentId": "1da5efc9bd2954b0ffd862c8",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b59",
-          "_tpl": "657112fa818110db4600aa6b",
-          "parentId": "1da5efc9bd2954b0ffd862c8",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b59",
+            "_tpl": "657112fa818110db4600aa6b",
+            "parentId": "1da5efc9bd2954b0ffd862c8",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "dcbe6dd65b0fad9af9613ebc",
@@ -3213,16 +3221,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b5a",
-          "_tpl": "657f9a55c6679fefb3051e19",
-          "parentId": "dcbe6dd65b0fad9af9613ebc",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b5a",
+            "_tpl": "657f9a55c6679fefb3051e19",
+            "parentId": "dcbe6dd65b0fad9af9613ebc",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b5b",
-          "_tpl": "657f9a94ada5fadd1f07a589",
-          "parentId": "dcbe6dd65b0fad9af9613ebc",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b5b",
+            "_tpl": "657f9a94ada5fadd1f07a589",
+            "parentId": "dcbe6dd65b0fad9af9613ebc",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "faf2b1d5e543abb9b72966ab",
@@ -3237,22 +3245,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b5c",
-          "_tpl": "657112234269e9a568089eac",
-          "parentId": "faf2b1d5e543abb9b72966ab",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b5c",
+            "_tpl": "657112234269e9a568089eac",
+            "parentId": "faf2b1d5e543abb9b72966ab",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b5d",
-          "_tpl": "657112a4818110db4600aa66",
-          "parentId": "faf2b1d5e543abb9b72966ab",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b5d",
+            "_tpl": "657112a4818110db4600aa66",
+            "parentId": "faf2b1d5e543abb9b72966ab",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b5e",
-          "_tpl": "657112ce22996eaf110881fb",
-          "parentId": "faf2b1d5e543abb9b72966ab",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b5e",
+            "_tpl": "657112ce22996eaf110881fb",
+            "parentId": "faf2b1d5e543abb9b72966ab",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "7f8f9e5befc5c2301aacf31d",
@@ -3267,16 +3275,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b5f",
-          "_tpl": "657bbad7a1c61ee0c3036323",
-          "parentId": "7f8f9e5befc5c2301aacf31d",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b5f",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "parentId": "7f8f9e5befc5c2301aacf31d",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b60",
-          "_tpl": "657bbb31b30eca9763051183",
-          "parentId": "7f8f9e5befc5c2301aacf31d",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b60",
+            "_tpl": "657bbb31b30eca9763051183",
+            "parentId": "7f8f9e5befc5c2301aacf31d",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "d4dece77c70ad1dedde21fee",
@@ -3291,16 +3299,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b61",
-          "_tpl": "657f8ec5f4c82973640b234c",
-          "parentId": "d4dece77c70ad1dedde21fee",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b61",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "parentId": "d4dece77c70ad1dedde21fee",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b62",
-          "_tpl": "657f8f10f4c82973640b2350",
-          "parentId": "d4dece77c70ad1dedde21fee",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b62",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "d4dece77c70ad1dedde21fee",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "e83ddc049dee9f799566c41a",
@@ -3315,16 +3323,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b63",
-          "_tpl": "657f9897f4c82973640b235e",
-          "parentId": "e83ddc049dee9f799566c41a",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b63",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "e83ddc049dee9f799566c41a",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b64",
-          "_tpl": "657f98fbada5fadd1f07a585",
-          "parentId": "e83ddc049dee9f799566c41a",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b64",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "e83ddc049dee9f799566c41a",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "3d950b64d16c7c245d6b5f9e",
@@ -3339,22 +3347,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b65",
-          "_tpl": "657bc06daab96fccee08be9b",
-          "parentId": "3d950b64d16c7c245d6b5f9e",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b65",
+            "_tpl": "657bc06daab96fccee08be9b",
+            "parentId": "3d950b64d16c7c245d6b5f9e",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b66",
-          "_tpl": "657bc0d8a1c61ee0c303632f",
-          "parentId": "3d950b64d16c7c245d6b5f9e",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b66",
+            "_tpl": "657bc0d8a1c61ee0c303632f",
+            "parentId": "3d950b64d16c7c245d6b5f9e",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b67",
-          "_tpl": "657bc107aab96fccee08be9f",
-          "parentId": "3d950b64d16c7c245d6b5f9e",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b67",
+            "_tpl": "657bc107aab96fccee08be9f",
+            "parentId": "3d950b64d16c7c245d6b5f9e",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "1254d5ccefdaf9a3d3bd1a32",
@@ -3369,22 +3377,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b68",
-          "_tpl": "657bc285aab96fccee08bea3",
-          "parentId": "1254d5ccefdaf9a3d3bd1a32",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b68",
+            "_tpl": "657bc285aab96fccee08bea3",
+            "parentId": "1254d5ccefdaf9a3d3bd1a32",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b69",
-          "_tpl": "657bc2c5a1c61ee0c3036333",
-          "parentId": "1254d5ccefdaf9a3d3bd1a32",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b69",
+            "_tpl": "657bc2c5a1c61ee0c3036333",
+            "parentId": "1254d5ccefdaf9a3d3bd1a32",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b6a",
-          "_tpl": "657bc2e7b30eca976305118d",
-          "parentId": "1254d5ccefdaf9a3d3bd1a32",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b6a",
+            "_tpl": "657bc2e7b30eca976305118d",
+            "parentId": "1254d5ccefdaf9a3d3bd1a32",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "1ecbdfb87cb0ffca0c546c62",
@@ -3399,16 +3407,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b6b",
-          "_tpl": "6551fec55d0cf82e51014288",
-          "parentId": "1ecbdfb87cb0ffca0c546c62",
-          "slotId": "helmet_top"
+            "_id": "666fad3005a4eac710002b6b",
+            "_tpl": "6551fec55d0cf82e51014288",
+            "parentId": "1ecbdfb87cb0ffca0c546c62",
+            "slotId": "helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b6c",
-          "_tpl": "655200ba0ef76cf7be09d528",
-          "parentId": "1ecbdfb87cb0ffca0c546c62",
-          "slotId": "helmet_back"
+            "_id": "666fad3005a4eac710002b6c",
+            "_tpl": "655200ba0ef76cf7be09d528",
+            "parentId": "1ecbdfb87cb0ffca0c546c62",
+            "slotId": "helmet_back"
         },
         {
             "_id": "6aae6b7bb7b4312faabefc51",
@@ -3423,22 +3431,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b6d",
-          "_tpl": "657bbe73a1c61ee0c303632b",
-          "parentId": "6aae6b7bb7b4312faabefc51",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b6d",
+            "_tpl": "657bbe73a1c61ee0c303632b",
+            "parentId": "6aae6b7bb7b4312faabefc51",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b6e",
-          "_tpl": "657bbed0aab96fccee08be96",
-          "parentId": "6aae6b7bb7b4312faabefc51",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b6e",
+            "_tpl": "657bbed0aab96fccee08be96",
+            "parentId": "6aae6b7bb7b4312faabefc51",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b6f",
-          "_tpl": "657bbefeb30eca9763051189",
-          "parentId": "6aae6b7bb7b4312faabefc51",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b6f",
+            "_tpl": "657bbefeb30eca9763051189",
+            "parentId": "6aae6b7bb7b4312faabefc51",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "1eaaadbbd63ebd7cb88ccc7e",
@@ -3453,22 +3461,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b70",
-          "_tpl": "657ba50c23918923cb0df56c",
-          "parentId": "1eaaadbbd63ebd7cb88ccc7e",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b70",
+            "_tpl": "657ba50c23918923cb0df56c",
+            "parentId": "1eaaadbbd63ebd7cb88ccc7e",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b71",
-          "_tpl": "657ba5439ba22f103e08139f",
-          "parentId": "1eaaadbbd63ebd7cb88ccc7e",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b71",
+            "_tpl": "657ba5439ba22f103e08139f",
+            "parentId": "1eaaadbbd63ebd7cb88ccc7e",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b72",
-          "_tpl": "657ba57af58ba5a62501079e",
-          "parentId": "1eaaadbbd63ebd7cb88ccc7e",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b72",
+            "_tpl": "657ba57af58ba5a62501079e",
+            "parentId": "1eaaadbbd63ebd7cb88ccc7e",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "63cd7aaedb0bbec7e50fbb25",
@@ -3495,28 +3503,28 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b73",
-          "_tpl": "657ba85ecfcf63c951052da7",
-          "parentId": "8bcea9cbaa2f75ff22abafe7",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b73",
+            "_tpl": "657ba85ecfcf63c951052da7",
+            "parentId": "8bcea9cbaa2f75ff22abafe7",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b74",
-          "_tpl": "657ba8bccfcf63c951052dab",
-          "parentId": "8bcea9cbaa2f75ff22abafe7",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b74",
+            "_tpl": "657ba8bccfcf63c951052dab",
+            "parentId": "8bcea9cbaa2f75ff22abafe7",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b75",
-          "_tpl": "65818e4e566d2de69901b1b1",
-          "parentId": "8bcea9cbaa2f75ff22abafe7",
-          "slotId": "helmet_eyes"
+            "_id": "666fad3005a4eac710002b75",
+            "_tpl": "65818e4e566d2de69901b1b1",
+            "parentId": "8bcea9cbaa2f75ff22abafe7",
+            "slotId": "helmet_eyes"
         },
         {
-          "_id": "666fad3005a4eac710002b76",
-          "_tpl": "657ba8eab7e9ca9a02045bfd",
-          "parentId": "8bcea9cbaa2f75ff22abafe7",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b76",
+            "_tpl": "657ba8eab7e9ca9a02045bfd",
+            "parentId": "8bcea9cbaa2f75ff22abafe7",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "d69977a2fdb1cc6c4d771bee",
@@ -3531,28 +3539,28 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b77",
-          "_tpl": "657ba6c3c6f689d3a205b857",
-          "parentId": "d69977a2fdb1cc6c4d771bee",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b77",
+            "_tpl": "657ba6c3c6f689d3a205b857",
+            "parentId": "d69977a2fdb1cc6c4d771bee",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b78",
-          "_tpl": "657ba737b7e9ca9a02045bf6",
-          "parentId": "d69977a2fdb1cc6c4d771bee",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b78",
+            "_tpl": "657ba737b7e9ca9a02045bf6",
+            "parentId": "d69977a2fdb1cc6c4d771bee",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b79",
-          "_tpl": "658188edf026a90c1708c827",
-          "parentId": "d69977a2fdb1cc6c4d771bee",
-          "slotId": "helmet_eyes"
+            "_id": "666fad3005a4eac710002b79",
+            "_tpl": "658188edf026a90c1708c827",
+            "parentId": "d69977a2fdb1cc6c4d771bee",
+            "slotId": "helmet_eyes"
         },
         {
-          "_id": "666fad3005a4eac710002b7a",
-          "_tpl": "657ba75e23918923cb0df573",
-          "parentId": "d69977a2fdb1cc6c4d771bee",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b7a",
+            "_tpl": "657ba75e23918923cb0df573",
+            "parentId": "d69977a2fdb1cc6c4d771bee",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "9f80addca7aa1dcd0beef6ef",
@@ -3615,22 +3623,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b7b",
-          "_tpl": "657ba096e57570b7f80a17fb",
-          "parentId": "1f416a7c5a7c6ddeaeebd5ff",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b7b",
+            "_tpl": "657ba096e57570b7f80a17fb",
+            "parentId": "1f416a7c5a7c6ddeaeebd5ff",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b7c",
-          "_tpl": "657ba145e57570b7f80a17ff",
-          "parentId": "1f416a7c5a7c6ddeaeebd5ff",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b7c",
+            "_tpl": "657ba145e57570b7f80a17ff",
+            "parentId": "1f416a7c5a7c6ddeaeebd5ff",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b7d",
-          "_tpl": "657ba18923918923cb0df568",
-          "parentId": "1f416a7c5a7c6ddeaeebd5ff",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b7d",
+            "_tpl": "657ba18923918923cb0df568",
+            "parentId": "1f416a7c5a7c6ddeaeebd5ff",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "637eace9ce063ef4905bfe1b",
@@ -3645,16 +3653,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b7e",
-          "_tpl": "657ba2eef58ba5a625010798",
-          "parentId": "637eace9ce063ef4905bfe1b",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b7e",
+            "_tpl": "657ba2eef58ba5a625010798",
+            "parentId": "637eace9ce063ef4905bfe1b",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b7f",
-          "_tpl": "657ba34b9ba22f103e08139b",
-          "parentId": "637eace9ce063ef4905bfe1b",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b7f",
+            "_tpl": "657ba34b9ba22f103e08139b",
+            "parentId": "637eace9ce063ef4905bfe1b",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "5eb4baf778cc3de2e4b3a655",
@@ -3717,22 +3725,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b80",
-          "_tpl": "6571199565daf6aa960c9b10",
-          "parentId": "ccccfde8dbcaec0cdaecbe47",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b80",
+            "_tpl": "6571199565daf6aa960c9b10",
+            "parentId": "ccccfde8dbcaec0cdaecbe47",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b81",
-          "_tpl": "657119d49eb8c145180dbb95",
-          "parentId": "ccccfde8dbcaec0cdaecbe47",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b81",
+            "_tpl": "657119d49eb8c145180dbb95",
+            "parentId": "ccccfde8dbcaec0cdaecbe47",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b82",
-          "_tpl": "657119fea330b8c9060f7afc",
-          "parentId": "ccccfde8dbcaec0cdaecbe47",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b82",
+            "_tpl": "657119fea330b8c9060f7afc",
+            "parentId": "ccccfde8dbcaec0cdaecbe47",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "1cce5068f5ddbcaadac3ee4d",
@@ -3747,22 +3755,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b83",
-          "_tpl": "657bae18b7e9ca9a02045c0a",
-          "parentId": "1cce5068f5ddbcaadac3ee4d",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b83",
+            "_tpl": "657bae18b7e9ca9a02045c0a",
+            "parentId": "1cce5068f5ddbcaadac3ee4d",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b84",
-          "_tpl": "657baeaacfcf63c951052db3",
-          "parentId": "1cce5068f5ddbcaadac3ee4d",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b84",
+            "_tpl": "657baeaacfcf63c951052db3",
+            "parentId": "1cce5068f5ddbcaadac3ee4d",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b85",
-          "_tpl": "657baecbc6f689d3a205b863",
-          "parentId": "1cce5068f5ddbcaadac3ee4d",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b85",
+            "_tpl": "657baecbc6f689d3a205b863",
+            "parentId": "1cce5068f5ddbcaadac3ee4d",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "89ff7373b1fb0ec4c705db2d",
@@ -3789,16 +3797,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b86",
-          "_tpl": "657bb92fa1c61ee0c303631f",
-          "parentId": "c96f3e5d2360105f8bebcc9d",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b86",
+            "_tpl": "657bb92fa1c61ee0c303631f",
+            "parentId": "c96f3e5d2360105f8bebcc9d",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b87",
-          "_tpl": "657bb99db30eca976305117f",
-          "parentId": "c96f3e5d2360105f8bebcc9d",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b87",
+            "_tpl": "657bb99db30eca976305117f",
+            "parentId": "c96f3e5d2360105f8bebcc9d",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "735805162eaad4267bf6edfa",
@@ -3861,22 +3869,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b88",
-          "_tpl": "657bb70486c7f9ef7a009936",
-          "parentId": "ddd6a65fdf9f16d83b318daa",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b88",
+            "_tpl": "657bb70486c7f9ef7a009936",
+            "parentId": "ddd6a65fdf9f16d83b318daa",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b89",
-          "_tpl": "657bb79ba1c61ee0c303631a",
-          "parentId": "ddd6a65fdf9f16d83b318daa",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b89",
+            "_tpl": "657bb79ba1c61ee0c303631a",
+            "parentId": "ddd6a65fdf9f16d83b318daa",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b8a",
-          "_tpl": "657bb7d7b30eca9763051176",
-          "parentId": "ddd6a65fdf9f16d83b318daa",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b8a",
+            "_tpl": "657bb7d7b30eca9763051176",
+            "parentId": "ddd6a65fdf9f16d83b318daa",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "f334efa7eed9b05fa4c5f0be",
@@ -3891,22 +3899,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b8b",
-          "_tpl": "654a90aff4f81a421b0a7c86",
-          "parentId": "f334efa7eed9b05fa4c5f0be",
-          "slotId": "helmet_top"
+            "_id": "666fad3005a4eac710002b8b",
+            "_tpl": "654a90aff4f81a421b0a7c86",
+            "parentId": "f334efa7eed9b05fa4c5f0be",
+            "slotId": "helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b8c",
-          "_tpl": "654a91068e1ce698150fd1e2",
-          "parentId": "f334efa7eed9b05fa4c5f0be",
-          "slotId": "helmet_back"
+            "_id": "666fad3005a4eac710002b8c",
+            "_tpl": "654a91068e1ce698150fd1e2",
+            "parentId": "f334efa7eed9b05fa4c5f0be",
+            "slotId": "helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b8d",
-          "_tpl": "654a9189bcc67a392b056c79",
-          "parentId": "f334efa7eed9b05fa4c5f0be",
-          "slotId": "helmet_ears"
+            "_id": "666fad3005a4eac710002b8d",
+            "_tpl": "654a9189bcc67a392b056c79",
+            "parentId": "f334efa7eed9b05fa4c5f0be",
+            "slotId": "helmet_ears"
         },
         {
             "_id": "f1af81dc1dff3ea1b5ac6e4e",
@@ -3921,22 +3929,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b8e",
-          "_tpl": "657baaf0b7e9ca9a02045c02",
-          "parentId": "f1af81dc1dff3ea1b5ac6e4e",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b8e",
+            "_tpl": "657baaf0b7e9ca9a02045c02",
+            "parentId": "f1af81dc1dff3ea1b5ac6e4e",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b8f",
-          "_tpl": "657bab6ec6f689d3a205b85f",
-          "parentId": "f1af81dc1dff3ea1b5ac6e4e",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b8f",
+            "_tpl": "657bab6ec6f689d3a205b85f",
+            "parentId": "f1af81dc1dff3ea1b5ac6e4e",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b90",
-          "_tpl": "657babc6f58ba5a6250107a2",
-          "parentId": "f1af81dc1dff3ea1b5ac6e4e",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b90",
+            "_tpl": "657babc6f58ba5a6250107a2",
+            "parentId": "f1af81dc1dff3ea1b5ac6e4e",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "fd942eafa8b2f18a42cc56d3",
@@ -3963,16 +3971,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b91",
-          "_tpl": "657bbcc9a1c61ee0c3036327",
-          "parentId": "df41faf3dec812bb69aece6d",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b91",
+            "_tpl": "657bbcc9a1c61ee0c3036327",
+            "parentId": "df41faf3dec812bb69aece6d",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b92",
-          "_tpl": "657bbcffbbd440df880b2dd5",
-          "parentId": "df41faf3dec812bb69aece6d",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b92",
+            "_tpl": "657bbcffbbd440df880b2dd5",
+            "parentId": "df41faf3dec812bb69aece6d",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "df6bde5f07ac961aa9da4b8b",
@@ -3987,34 +3995,34 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b93",
-          "_tpl": "65711b07a330b8c9060f7b01",
-          "parentId": "df6bde5f07ac961aa9da4b8b",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b93",
+            "_tpl": "65711b07a330b8c9060f7b01",
+            "parentId": "df6bde5f07ac961aa9da4b8b",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b94",
-          "_tpl": "65711b489eb8c145180dbb9d",
-          "parentId": "df6bde5f07ac961aa9da4b8b",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b94",
+            "_tpl": "65711b489eb8c145180dbb9d",
+            "parentId": "df6bde5f07ac961aa9da4b8b",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b95",
-          "_tpl": "65711b9b65daf6aa960c9b1b",
-          "parentId": "df6bde5f07ac961aa9da4b8b",
-          "slotId": "helmet_eyes"
+            "_id": "666fad3005a4eac710002b95",
+            "_tpl": "65711b9b65daf6aa960c9b1b",
+            "parentId": "df6bde5f07ac961aa9da4b8b",
+            "slotId": "helmet_eyes"
         },
         {
-          "_id": "666fad3005a4eac710002b96",
-          "_tpl": "65711bc79eb8c145180dbba1",
-          "parentId": "df6bde5f07ac961aa9da4b8b",
-          "slotId": "helmet_jaw"
+            "_id": "666fad3005a4eac710002b96",
+            "_tpl": "65711bc79eb8c145180dbba1",
+            "parentId": "df6bde5f07ac961aa9da4b8b",
+            "slotId": "helmet_jaw"
         },
         {
-          "_id": "666fad3005a4eac710002b97",
-          "_tpl": "65711b706d197c216005b31c",
-          "parentId": "df6bde5f07ac961aa9da4b8b",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b97",
+            "_tpl": "65711b706d197c216005b31c",
+            "parentId": "df6bde5f07ac961aa9da4b8b",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "fdfc68e5aecfe2d355e05df4",
@@ -4029,22 +4037,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b98",
-          "_tpl": "657f925dada5fadd1f07a57a",
-          "parentId": "fdfc68e5aecfe2d355e05df4",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b98",
+            "_tpl": "657f925dada5fadd1f07a57a",
+            "parentId": "fdfc68e5aecfe2d355e05df4",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b99",
-          "_tpl": "657f92acada5fadd1f07a57e",
-          "parentId": "fdfc68e5aecfe2d355e05df4",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b99",
+            "_tpl": "657f92acada5fadd1f07a57e",
+            "parentId": "fdfc68e5aecfe2d355e05df4",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002b9a",
-          "_tpl": "657f92e7f4c82973640b2354",
-          "parentId": "fdfc68e5aecfe2d355e05df4",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002b9a",
+            "_tpl": "657f92e7f4c82973640b2354",
+            "parentId": "fdfc68e5aecfe2d355e05df4",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "7fd3bed1c9fcf118b00cbbea",
@@ -4071,16 +4079,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b9b",
-          "_tpl": "657f8a8d7db258e5600fe33d",
-          "parentId": "8bcc62f3374c3a29696f40e8",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b9b",
+            "_tpl": "657f8a8d7db258e5600fe33d",
+            "parentId": "8bcc62f3374c3a29696f40e8",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b9c",
-          "_tpl": "657f8b05f4c82973640b2348",
-          "parentId": "8bcc62f3374c3a29696f40e8",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b9c",
+            "_tpl": "657f8b05f4c82973640b2348",
+            "parentId": "8bcc62f3374c3a29696f40e8",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "19311f9cdd8b19dc4af8de71",
@@ -4131,16 +4139,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002b9d",
-          "_tpl": "657f8b94f92cd718b70154ff",
-          "parentId": "133526a998c8ba1c22c5e8f8",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002b9d",
+            "_tpl": "657f8b94f92cd718b70154ff",
+            "parentId": "133526a998c8ba1c22c5e8f8",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002b9e",
-          "_tpl": "657f8b43f92cd718b70154fb",
-          "parentId": "133526a998c8ba1c22c5e8f8",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002b9e",
+            "_tpl": "657f8b43f92cd718b70154fb",
+            "parentId": "133526a998c8ba1c22c5e8f8",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "e0efb555332fde2bdeb1bc7a",
@@ -4167,16 +4175,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bc0",
-          "_tpl": "657f95bff92cd718b701550c",
-          "parentId": "8f538ebbd5a3ddf1d3b47d62",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bc0",
+            "_tpl": "657f95bff92cd718b701550c",
+            "parentId": "8f538ebbd5a3ddf1d3b47d62",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bc1",
-          "_tpl": "657f9605f4c82973640b2358",
-          "parentId": "8f538ebbd5a3ddf1d3b47d62",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bc1",
+            "_tpl": "657f9605f4c82973640b2358",
+            "parentId": "8f538ebbd5a3ddf1d3b47d62",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "64156ef7a70e700a91fa1b8a",
@@ -4191,16 +4199,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002ba2",
-          "_tpl": "657f9c78ada5fadd1f07a58d",
-          "parentId": "64156ef7a70e700a91fa1b8a",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002ba2",
+            "_tpl": "657f9c78ada5fadd1f07a58d",
+            "parentId": "64156ef7a70e700a91fa1b8a",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002ba3",
-          "_tpl": "657f9cb587e11c61f70bfaca",
-          "parentId": "64156ef7a70e700a91fa1b8a",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002ba3",
+            "_tpl": "657f9cb587e11c61f70bfaca",
+            "parentId": "64156ef7a70e700a91fa1b8a",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "6afcbe2a67c6fb9e424da5de",
@@ -4263,22 +4271,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002ba4",
-          "_tpl": "657fa009d4caf976440afe3a",
-          "parentId": "86add03867ecbb5adc6ad520",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002ba4",
+            "_tpl": "657fa009d4caf976440afe3a",
+            "parentId": "86add03867ecbb5adc6ad520",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002ba5",
-          "_tpl": "657fa04ac6679fefb3051e24",
-          "parentId": "86add03867ecbb5adc6ad520",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002ba5",
+            "_tpl": "657fa04ac6679fefb3051e24",
+            "parentId": "86add03867ecbb5adc6ad520",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002ba6",
-          "_tpl": "657fa07387e11c61f70bface",
-          "parentId": "86add03867ecbb5adc6ad520",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002ba6",
+            "_tpl": "657fa07387e11c61f70bface",
+            "parentId": "86add03867ecbb5adc6ad520",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "f556c7af8ac720eb0e21d3e0",
@@ -4329,22 +4337,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002ba7",
-          "_tpl": "6571133d22996eaf11088200",
-          "parentId": "ecde82bb1f509f9bb9dabd38",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002ba7",
+            "_tpl": "6571133d22996eaf11088200",
+            "parentId": "ecde82bb1f509f9bb9dabd38",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002ba8",
-          "_tpl": "6571138e818110db4600aa71",
-          "parentId": "ecde82bb1f509f9bb9dabd38",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002ba8",
+            "_tpl": "6571138e818110db4600aa71",
+            "parentId": "ecde82bb1f509f9bb9dabd38",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002ba9",
-          "_tpl": "657112fa818110db4600aa6b",
-          "parentId": "ecde82bb1f509f9bb9dabd38",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002ba9",
+            "_tpl": "657112fa818110db4600aa6b",
+            "parentId": "ecde82bb1f509f9bb9dabd38",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "db3939bbe8bd0b4b678d7aed",
@@ -4371,16 +4379,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002baa",
-          "_tpl": "657f9a55c6679fefb3051e19",
-          "parentId": "a455ef9e2c766cc4eadce8b6",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002baa",
+            "_tpl": "657f9a55c6679fefb3051e19",
+            "parentId": "a455ef9e2c766cc4eadce8b6",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bab",
-          "_tpl": "657f9a94ada5fadd1f07a589",
-          "parentId": "a455ef9e2c766cc4eadce8b6",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bab",
+            "_tpl": "657f9a94ada5fadd1f07a589",
+            "parentId": "a455ef9e2c766cc4eadce8b6",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "ede0c041f1745b50d6aeee8c",
@@ -4407,22 +4415,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bac",
-          "_tpl": "657112234269e9a568089eac",
-          "parentId": "fbeaec0f91c1204fac95e7a0",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bac",
+            "_tpl": "657112234269e9a568089eac",
+            "parentId": "fbeaec0f91c1204fac95e7a0",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bad",
-          "_tpl": "657112a4818110db4600aa66",
-          "parentId": "fbeaec0f91c1204fac95e7a0",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bad",
+            "_tpl": "657112a4818110db4600aa66",
+            "parentId": "fbeaec0f91c1204fac95e7a0",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002bae",
-          "_tpl": "657112ce22996eaf110881fb",
-          "parentId": "fbeaec0f91c1204fac95e7a0",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002bae",
+            "_tpl": "657112ce22996eaf110881fb",
+            "parentId": "fbeaec0f91c1204fac95e7a0",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "055f0b1adae017b34e200261",
@@ -4437,16 +4445,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002baf",
-          "_tpl": "657bbad7a1c61ee0c3036323",
-          "parentId": "055f0b1adae017b34e200261",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002baf",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "parentId": "055f0b1adae017b34e200261",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bb0",
-          "_tpl": "657bbb31b30eca9763051183",
-          "parentId": "055f0b1adae017b34e200261",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bb0",
+            "_tpl": "657bbb31b30eca9763051183",
+            "parentId": "055f0b1adae017b34e200261",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "0f60b93c29a52aaa6d1aadb2",
@@ -4497,16 +4505,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bb1",
-          "_tpl": "657f8ec5f4c82973640b234c",
-          "parentId": "f47e63136d9e2e21d9b9bdfc",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bb1",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "parentId": "f47e63136d9e2e21d9b9bdfc",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bb2",
-          "_tpl": "657f8f10f4c82973640b2350",
-          "parentId": "f47e63136d9e2e21d9b9bdfc",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bb2",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "f47e63136d9e2e21d9b9bdfc",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "8bf71225f5321d4a20ab6e0c",
@@ -4545,16 +4553,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bb3",
-          "_tpl": "657f9897f4c82973640b235e",
-          "parentId": "f0afb4c0c05bfd31ce85e0ea",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bb3",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "f0afb4c0c05bfd31ce85e0ea",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bb4",
-          "_tpl": "657f98fbada5fadd1f07a585",
-          "parentId": "f0afb4c0c05bfd31ce85e0ea",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bb4",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "f0afb4c0c05bfd31ce85e0ea",
+            "slotId": "Helmet_back"
         },
         {
             "_id": "4c185bc28fa79ef071e7a73c",
@@ -4593,22 +4601,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bb5",
-          "_tpl": "657bc06daab96fccee08be9b",
-          "parentId": "68bbbdaee53cad9c6a01d0ac",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bb5",
+            "_tpl": "657bc06daab96fccee08be9b",
+            "parentId": "68bbbdaee53cad9c6a01d0ac",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bb6",
-          "_tpl": "657bc0d8a1c61ee0c303632f",
-          "parentId": "68bbbdaee53cad9c6a01d0ac",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bb6",
+            "_tpl": "657bc0d8a1c61ee0c303632f",
+            "parentId": "68bbbdaee53cad9c6a01d0ac",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002bb7",
-          "_tpl": "657bc107aab96fccee08be9f",
-          "parentId": "68bbbdaee53cad9c6a01d0ac",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002bb7",
+            "_tpl": "657bc107aab96fccee08be9f",
+            "parentId": "68bbbdaee53cad9c6a01d0ac",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "886d1e5ad9842e5bc40e1143",
@@ -4635,22 +4643,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bb8",
-          "_tpl": "657bc285aab96fccee08bea3",
-          "parentId": "706bbc2e7e6f0aa5cbb739d6",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bb8",
+            "_tpl": "657bc285aab96fccee08bea3",
+            "parentId": "706bbc2e7e6f0aa5cbb739d6",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bb9",
-          "_tpl": "657bc2c5a1c61ee0c3036333",
-          "parentId": "706bbc2e7e6f0aa5cbb739d6",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bb9",
+            "_tpl": "657bc2c5a1c61ee0c3036333",
+            "parentId": "706bbc2e7e6f0aa5cbb739d6",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002bba",
-          "_tpl": "657bc2e7b30eca976305118d",
-          "parentId": "706bbc2e7e6f0aa5cbb739d6",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002bba",
+            "_tpl": "657bc2e7b30eca976305118d",
+            "parentId": "706bbc2e7e6f0aa5cbb739d6",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "b9cc2b686082dd7875d7eef4",
@@ -4677,16 +4685,16 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bbb",
-          "_tpl": "6551fec55d0cf82e51014288",
-          "parentId": "6a28a2a53e78d37ea166e2e3",
-          "slotId": "helmet_top"
+            "_id": "666fad3005a4eac710002bbb",
+            "_tpl": "6551fec55d0cf82e51014288",
+            "parentId": "6a28a2a53e78d37ea166e2e3",
+            "slotId": "helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bbc",
-          "_tpl": "655200ba0ef76cf7be09d528",
-          "parentId": "6a28a2a53e78d37ea166e2e3",
-          "slotId": "helmet_back"
+            "_id": "666fad3005a4eac710002bbc",
+            "_tpl": "655200ba0ef76cf7be09d528",
+            "parentId": "6a28a2a53e78d37ea166e2e3",
+            "slotId": "helmet_back"
         },
         {
             "_id": "5207bc9fcaf7cf96a7aa1d7f",
@@ -4749,22 +4757,22 @@
             }
         },
         {
-          "_id": "666fad3005a4eac710002bbd",
-          "_tpl": "657bbe73a1c61ee0c303632b",
-          "parentId": "bafb4f2becff3fa1edd0c9df",
-          "slotId": "Helmet_top"
+            "_id": "666fad3005a4eac710002bbd",
+            "_tpl": "657bbe73a1c61ee0c303632b",
+            "parentId": "bafb4f2becff3fa1edd0c9df",
+            "slotId": "Helmet_top"
         },
         {
-          "_id": "666fad3005a4eac710002bbe",
-          "_tpl": "657bbed0aab96fccee08be96",
-          "parentId": "bafb4f2becff3fa1edd0c9df",
-          "slotId": "Helmet_back"
+            "_id": "666fad3005a4eac710002bbe",
+            "_tpl": "657bbed0aab96fccee08be96",
+            "parentId": "bafb4f2becff3fa1edd0c9df",
+            "slotId": "Helmet_back"
         },
         {
-          "_id": "666fad3005a4eac710002bbf",
-          "_tpl": "657bbefeb30eca9763051189",
-          "parentId": "bafb4f2becff3fa1edd0c9df",
-          "slotId": "Helmet_ears"
+            "_id": "666fad3005a4eac710002bbf",
+            "_tpl": "657bbefeb30eca9763051189",
+            "parentId": "bafb4f2becff3fa1edd0c9df",
+            "slotId": "Helmet_ears"
         },
         {
             "_id": "d8fe280b7eddf7cdea85fbbc",

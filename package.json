@@ -1,7 +1,7 @@
 {
     "name": "Andrudis-QuestManiac",
     "author": "Andrudis",
-    "version": "2.4.2",
+    "version": "2.4.32",
     "license": "NCSA Open Source",
     "main": "src/mod.js",
     "sptVersion": "3.11.x",

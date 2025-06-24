@@ -1,6 +1,6 @@
 {
   "b2a7701f8e17feae66488cfe": {
-    "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Rookie",
+    "QuestName": "[Kos] Weapon Proficiency: SMGs Barter - Rookie",
     "_id": "b2a7701f8e17feae66488cfe",
     "acceptPlayerMessage": "b2a7701f8e17feae66488cfe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -344,7 +344,7 @@
     "type": "PickUp"
   },
   "6aaa9d5a60398eb0fffdeb01": {
-    "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Seasoned",
+    "QuestName": "[Kos] Weapon Proficiency: SMGs Barter - Seasoned",
     "_id": "6aaa9d5a60398eb0fffdeb01",
     "acceptPlayerMessage": "6aaa9d5a60398eb0fffdeb01 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -726,7 +726,7 @@
     "type": "PickUp"
   },
   "d770dea1466de995abae28fd": {
-    "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: SMGs Barter - Veteran",
     "_id": "d770dea1466de995abae28fd",
     "acceptPlayerMessage": "d770dea1466de995abae28fd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1363,7 +1363,7 @@
     "type": "PickUp"
   },
   "d1ffdfcfeb45edb2ea8d0dab": {
-    "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Elite",
+    "QuestName": "[Kos] Weapon Proficiency: SMGs Barter - Elite",
     "_id": "d1ffdfcfeb45edb2ea8d0dab",
     "acceptPlayerMessage": "d1ffdfcfeb45edb2ea8d0dab acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1846,7 +1846,7 @@
     "type": "PickUp"
   },
   "dd4cffa48c98eceaa26e136b": {
-    "QuestName": "[Kho] Weapon Proficiency: HK MP5 9x19 submachine gun (Navy 3 Round Burst) Trade - Rookie",
+    "QuestName": "[Kos] Weapon Proficiency: HK MP5 9x19 submachine gun (Navy 3 Round Burst) Trade - Rookie",
     "_id": "dd4cffa48c98eceaa26e136b",
     "acceptPlayerMessage": "dd4cffa48c98eceaa26e136b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2227,7 +2227,7 @@
     "type": "Elimination"
   },
   "fa20bfa8ee64ae1da60ad8eb": {
-    "QuestName": "[Kho] Weapon Proficiency: Saiga-9 9x19 carbine Trade - Rookie",
+    "QuestName": "[Kos] Weapon Proficiency: Saiga-9 9x19 carbine Trade - Rookie",
     "_id": "fa20bfa8ee64ae1da60ad8eb",
     "acceptPlayerMessage": "fa20bfa8ee64ae1da60ad8eb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2582,7 +2582,7 @@
     "type": "Elimination"
   },
   "8df6d9ab4ee45c9b8ff87c41": {
-    "QuestName": "[Kho] Weapon Proficiency: PPSh-41 7.62x25 submachine gun Trade - Rookie",
+    "QuestName": "[Kos] Weapon Proficiency: PPSh-41 7.62x25 submachine gun Trade - Rookie",
     "_id": "8df6d9ab4ee45c9b8ff87c41",
     "acceptPlayerMessage": "8df6d9ab4ee45c9b8ff87c41 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2889,7 +2889,7 @@
     "type": "Elimination"
   },
   "3288dfe425e1a990372d4bf4": {
-    "QuestName": "[Kho] Weapon Proficiency: PP-91-01 'Kedr-B' 9x18PM submachine gun Trade - Seasoned",
+    "QuestName": "[Kos] Weapon Proficiency: PP-91-01 'Kedr-B' 9x18PM submachine gun Trade - Seasoned",
     "_id": "3288dfe425e1a990372d4bf4",
     "acceptPlayerMessage": "3288dfe425e1a990372d4bf4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3248,7 +3248,7 @@
     "type": "Elimination"
   },
   "48562ababe9eabd7d016aadd": {
-    "QuestName": "[Kho] Weapon Proficiency: B&T MP9-N 9x19 submachine gun Trade - Seasoned",
+    "QuestName": "[Kos] Weapon Proficiency: B&T MP9-N 9x19 submachine gun Trade - Seasoned",
     "_id": "48562ababe9eabd7d016aadd",
     "acceptPlayerMessage": "48562ababe9eabd7d016aadd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3641,7 +3641,7 @@
     "type": "Elimination"
   },
   "a0ebf5f51f2fbae85beb18be": {
-    "QuestName": "[Kho] Weapon Proficiency: PP-19-01 'Vityaz' 9x19 submachine gun Trade - Seasoned",
+    "QuestName": "[Kos] Weapon Proficiency: PP-19-01 'Vityaz' 9x19 submachine gun Trade - Seasoned",
     "_id": "a0ebf5f51f2fbae85beb18be",
     "acceptPlayerMessage": "a0ebf5f51f2fbae85beb18be acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4056,7 +4056,7 @@
     "type": "Elimination"
   },
   "c2cf4bb4c8e7eba9bad132ae": {
-    "QuestName": "[Kho] Weapon Proficiency: SIG MPX 9x19 submachine gun Trade - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: SIG MPX 9x19 submachine gun Trade - Veteran",
     "_id": "c2cf4bb4c8e7eba9bad132ae",
     "acceptPlayerMessage": "c2cf4bb4c8e7eba9bad132ae acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4535,7 +4535,7 @@
     "type": "Elimination"
   },
   "afce44274bb4a27cfbef00c8": {
-    "QuestName": "[Kho] Weapon Proficiency: Soyuz-TM STM-9 Gen.2 9x19 carbine Trade - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: Soyuz-TM STM-9 Gen.2 9x19 carbine Trade - Veteran",
     "_id": "afce44274bb4a27cfbef00c8",
     "acceptPlayerMessage": "afce44274bb4a27cfbef00c8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4966,7 +4966,7 @@
     "type": "Elimination"
   },
   "e356b8a44f005dff0ca1ca92": {
-    "QuestName": "[Kho] Weapon Proficiency: SR-2M Veresk 9x21 submachine gun Trade - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: SR-2M Veresk 9x21 submachine gun Trade - Veteran",
     "_id": "e356b8a44f005dff0ca1ca92",
     "acceptPlayerMessage": "e356b8a44f005dff0ca1ca92 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5362,7 +5362,7 @@
     "type": "Elimination"
   },
   "b1b6f30ddcc2a1b5e2b2b4dc": {
-    "QuestName": "[Kho] Weapon Proficiency: HK UMP .45 ACP submachine gun Trade - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: HK UMP .45 ACP submachine gun Trade - Veteran",
     "_id": "b1b6f30ddcc2a1b5e2b2b4dc",
     "acceptPlayerMessage": "b1b6f30ddcc2a1b5e2b2b4dc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5745,7 +5745,7 @@
     "type": "Elimination"
   },
   "81d5bc9ffbb82062fddb46d6": {
-    "QuestName": "[Kho] Weapon Proficiency: TDI KRISS Vector Gen.2 .45 ACP submachine gun Trade - Veteran",
+    "QuestName": "[Kos] Weapon Proficiency: TDI KRISS Vector Gen.2 .45 ACP submachine gun Trade - Veteran",
     "_id": "81d5bc9ffbb82062fddb46d6",
     "acceptPlayerMessage": "81d5bc9ffbb82062fddb46d6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6164,7 +6164,7 @@
     "type": "Elimination"
   },
   "c4f348178c521f2a4f29cdb7": {
-    "QuestName": "[Kho] Weapon Proficiency: TDI KRISS Vector Gen.2 9x19 submachine gun Trade - Elite",
+    "QuestName": "[Kos] Weapon Proficiency: TDI KRISS Vector Gen.2 9x19 submachine gun Trade - Elite",
     "_id": "c4f348178c521f2a4f29cdb7",
     "acceptPlayerMessage": "c4f348178c521f2a4f29cdb7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6583,7 +6583,7 @@
     "type": "Elimination"
   },
   "7ad2fcfbfdca3e9fba0c245a": {
-    "QuestName": "[Kho] Weapon Proficiency: FN P90 5.7x28 submachine gun Trade - Elite",
+    "QuestName": "[Kos] Weapon Proficiency: FN P90 5.7x28 submachine gun Trade - Elite",
     "_id": "7ad2fcfbfdca3e9fba0c245a",
     "acceptPlayerMessage": "7ad2fcfbfdca3e9fba0c245a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7002,7 +7002,7 @@
     "type": "Elimination"
   },
   "a7ddbf3b87806bdaad825c73": {
-    "QuestName": "[Kho] Weapon Proficiency: HK MP7A2 4.6x30 submachine gun Trade - Elite",
+    "QuestName": "[Kos] Weapon Proficiency: HK MP7A2 4.6x30 submachine gun Trade - Elite",
     "_id": "a7ddbf3b87806bdaad825c73",
     "acceptPlayerMessage": "a7ddbf3b87806bdaad825c73 acceptPlayerMessage",
     "canShowNotificationsInGame": true,

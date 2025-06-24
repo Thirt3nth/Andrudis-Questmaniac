@@ -30,7 +30,7 @@ const Traders_1 = require("C:/snapshot/project/obj/models/enums/Traders");
 const bashkirBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000b/base.json"));
 const colonelBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000c/base.json"));
 const elderBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000d/base.json"));
-const khokholBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000e/base.json"));
+const kosoyBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000e/base.json"));
 const labratBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000f/base.json"));
 const wardenBaseJson = __importStar(require("../db/traders/6765fbd20fdc7eb79b00000a/base.json"));
 const config = __importStar(require("../src/config.json"));
@@ -234,7 +234,7 @@ class QuestManiac {
             database.traders[bashkirBaseJson._id].base.discount = config.TradersDiscounts.Bashkir;
             database.traders[colonelBaseJson._id].base.discount = config.TradersDiscounts.Colonel;
             database.traders[elderBaseJson._id].base.discount = config.TradersDiscounts.Elder;
-            database.traders[khokholBaseJson._id].base.discount = config.TradersDiscounts.Khokhol;
+            database.traders[kosoyBaseJson._id].base.discount = config.TradersDiscounts.Kosoy;
             database.traders[labratBaseJson._id].base.discount = config.TradersDiscounts.LabRat;
             database.traders[wardenBaseJson._id].base.discount = config.TradersDiscounts.Warden;
         }
@@ -324,7 +324,7 @@ class QuestManiac {
         imageRouter.addRoute(bashkirBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Bashkir}.jpg`);
         imageRouter.addRoute(colonelBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Colonel}.jpg`);
         imageRouter.addRoute(elderBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Elder}.jpg`);
-        imageRouter.addRoute(khokholBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Khokhol}.jpg`);
+        imageRouter.addRoute(kosoyBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Kosoy}.jpg`);
         imageRouter.addRoute(labratBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.LabRat}.jpg`);
         imageRouter.addRoute(wardenBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Warden}.jpg`);
     }
@@ -335,13 +335,13 @@ class QuestManiac {
         const bashkirRefreshConfig = { traderId: bashkirBaseJson._id, seconds: { min: 1000, max: 6000 } };
         const colonelRefreshConfig = { traderId: colonelBaseJson._id, seconds: { min: 1000, max: 6000 } };
         const elderRefreshConfig = { traderId: elderBaseJson._id, seconds: { min: 1000, max: 6000 } };
-        const khokholRefreshConfig = { traderId: khokholBaseJson._id, seconds: { min: 1000, max: 6000 } };
+        const kosoyRefreshConfig = { traderId: kosoyBaseJson._id, seconds: { min: 1000, max: 6000 } };
         const labratRefreshConfig = { traderId: labratBaseJson._id, seconds: { min: 1000, max: 6000 } };
         const wardenRefreshConfig = { traderId: wardenBaseJson._id, seconds: { min: 1000, max: 6000 } };
         traderConfig.updateTime.push(bashkirRefreshConfig);
         traderConfig.updateTime.push(colonelRefreshConfig);
         traderConfig.updateTime.push(elderRefreshConfig);
-        traderConfig.updateTime.push(khokholRefreshConfig);
+        traderConfig.updateTime.push(kosoyRefreshConfig);
         traderConfig.updateTime.push(labratRefreshConfig);
         traderConfig.updateTime.push(wardenRefreshConfig);
     }
@@ -349,7 +349,7 @@ class QuestManiac {
         Bashkir: "6765fbd20fdc7eb79b00000b",
         Colonel: "6765fbd20fdc7eb79b00000c",
         Elder: "6765fbd20fdc7eb79b00000d",
-        Khokhol: "6765fbd20fdc7eb79b00000e",
+        Kosoy: "6765fbd20fdc7eb79b00000e",
         LabRat: "6765fbd20fdc7eb79b00000f",
         Warden: "6765fbd20fdc7eb79b00000a"
     };

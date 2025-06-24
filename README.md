@@ -43,11 +43,11 @@ Install:
 
 * Ammo Proficiency (283) - [requires "Weapon Proficiency" bundle] Chains of quests to unlock barter/purchase trades for each ammunition type (except grenades) and better magazines. Introduction quest is started by Warden, and 5.45x39 chain will become available right after introduction quest. Rest of chains will become available once you unlock barters for weapons of that caliber in "Weapon Proficiency" bundle.?
 
-* Boss Follower Hunt (10) - Chain of quests to kill each boss follower 1, 3, 5, 7, 9, 12, 15, 20, 50, 100 anywhere. Chain is started by Khokhol
+* Boss Follower Hunt (10) - Chain of quests to kill each boss follower 1, 3, 5, 7, 9, 12, 15, 20, 50, 100 anywhere. Chain is started by Kosoy
 
-* Boss Hunt (10) - Chain of quests to kill each boss 1, 2, 3, 4, 5, 7, 9, 12, 20, 50 anywhere. Chain is started by Khokhol
+* Boss Hunt (10) - Chain of quests to kill each boss 1, 2, 3, 4, 5, 7, 9, 12, 20, 50 anywhere. Chain is started by Kosoy
 
-* Cultists Hunt (10) - Chain of quests to kill any 1, 2, 5, 10, 15, 20, 27, 35, 50, 75 Cultists anywhere. Chain is started by Khokhol
+* Cultists Hunt (10) - Chain of quests to kill any 1, 2, 5, 10, 15, 20, 27, 35, 50, 75 Cultists anywhere. Chain is started by Kosoy
 
 * Deep Pockets (70) - Chains of complex quests to unlock barter/purchase trades for Chest Rigs. All Quests are started by Elder.
 
@@ -63,7 +63,7 @@ Install:
 
 * Headless Scav (60) - Chains of quests to headshot 1, 5, 10, 20, 35, 50, 75, 100, 250, 500 Scavs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs and Ground Zero).
 
-* Iron Head (62) - Chains of complex quests to unlock barter/purchase trades for Helmets. All Quests are started by Khokhol.
+* Iron Head (62) - Chains of complex quests to unlock barter/purchase trades for Helmets. All Quests are started by Kosoy.
 
 * Iron Head Legend (229) - Chains of quests to kill specific target while wearing specific gear. Each quest in chain target only 1 type of enemies and 1 gear piece.
 
@@ -95,7 +95,7 @@ Install:
 
 * Ultrasound Legend (72) - Chains of quests to kill specific target while wearing specific gear. Each quest in chain target only 1 type of enemies. Each quests chain will become available when Ultrasound Trade quest for corresponding headset is completed.
 
-* Weapon Proficiency (92) - Chain of complex quests for weapons mastery. Elder = Shotguns, LabRat = Handguns, Colonel = Assault Rifles, Khokhol = SMGs, Bashkir = Marksman Rifles. Each category is split in 4 Tiers: Rookie, Seasoned, Veteran, Elite. Complete Barter quest for each weapon type and category to unlock Proficiency quests for weapons in that category.
+* Weapon Proficiency (92) - Chain of complex quests for weapons mastery. Elder = Shotguns, LabRat = Handguns, Colonel = Assault Rifles, Kosoy = SMGs, Bashkir = Marksman Rifles. Each category is split in 4 Tiers: Rookie, Seasoned, Veteran, Elite. Complete Barter quest for each weapon type and category to unlock Proficiency quests for weapons in that category.
 
 * Weapon Mastery (1702) - Series of quests started by Fence and location traders for eliminations with specific weapons. Each chain is started by Fence.
 
@@ -153,7 +153,7 @@ Install:
 
 ~~* Gear Mastery (99) - series of quests started by Peacekeeper, Mechanic, Ragman, Jaeger to do series of eliminations with specific gear. This is alternative version for ###Legend quests, still can be used alongside with new version, but basically do the same.~~
 
-~~* Honor Skills (280) - Quest chains for progression with each skill at levels 5, 10, 15, 20, 25, 30, 35, 40, 45, 50. Grouped by skill category per trader: Khokhol - Physical, Elder - Mental, Warden - Combat, Bashkir - Practical~~
+~~* Honor Skills (280) - Quest chains for progression with each skill at levels 5, 10, 15, 20, 25, 30, 35, 40, 45, 50. Grouped by skill category per trader: Kosoy - Physical, Elder - Mental, Warden - Combat, Bashkir - Practical~~
 
 ~~* Skills Guru (16) - 4 Chans of 4 quests each from Fence for mastering all skills grouped by skill category~~
 
@@ -171,7 +171,7 @@ Install:
 
 * Bashkir - Shoreline, specializes in Marksman Rifles, Backpacks, Shoreline quests
 
-* Khokhol - Suburbs, specializes in SMGs, Cultists and Bosses, Helmets, Streets quests
+* Kosoy - Suburbs, specializes in SMGs, Cultists and Bosses, Helmets, Streets quests
 
 * Lab Rat - The Lab, specializes in Handguns, Stims, Headphones, The Lab quests
 

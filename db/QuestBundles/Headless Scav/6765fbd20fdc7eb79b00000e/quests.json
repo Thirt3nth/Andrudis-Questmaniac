@@ -1,6 +1,6 @@
 {
   "aba2d7d4981caab1a60fbbd3": {
-    "QuestName": "[Kho] Headless Scav: Headshot 2 Scav(s) at Streets of Tarkov",
+    "QuestName": "[Kos] Headless Scav: Headshot 2 Scav(s) at Streets of Tarkov",
     "_id": "aba2d7d4981caab1a60fbbd3",
     "acceptPlayerMessage": "aba2d7d4981caab1a60fbbd3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -93,7 +93,7 @@
     "type": "Elimination"
   },
   "55ecf1badef9ad9ecb8e010a": {
-    "QuestName": "[Kho] Headless Scav: Headshot 5 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 5 Scav(s) at Ground Zero",
     "_id": "55ecf1badef9ad9ecb8e010a",
     "acceptPlayerMessage": "55ecf1badef9ad9ecb8e010a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -199,7 +199,7 @@
     "type": "Elimination"
   },
   "97635b2dbffbf3d0f36b0908": {
-    "QuestName": "[Kho] Headless Scav: Headshot 10 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 10 Scav(s) at Ground Zero",
     "_id": "97635b2dbffbf3d0f36b0908",
     "acceptPlayerMessage": "97635b2dbffbf3d0f36b0908 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -389,7 +389,7 @@
     "type": "Elimination"
   },
   "1e439ae66d9665b441adc9c0": {
-    "QuestName": "[Kho] Headless Scav: Headshot 20 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 20 Scav(s) at Ground Zero",
     "_id": "1e439ae66d9665b441adc9c0",
     "acceptPlayerMessage": "1e439ae66d9665b441adc9c0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -579,7 +579,7 @@
     "type": "Elimination"
   },
   "619616f4b4bdc9d53197853d": {
-    "QuestName": "[Kho] Headless Scav: Headshot 35 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 35 Scav(s) at Ground Zero",
     "_id": "619616f4b4bdc9d53197853d",
     "acceptPlayerMessage": "619616f4b4bdc9d53197853d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -769,7 +769,7 @@
     "type": "Elimination"
   },
   "a1eef7ae5dd9fcf5acac922e": {
-    "QuestName": "[Kho] Headless Scav: Headshot 50 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 50 Scav(s) at Ground Zero",
     "_id": "a1eef7ae5dd9fcf5acac922e",
     "acceptPlayerMessage": "a1eef7ae5dd9fcf5acac922e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -959,7 +959,7 @@
     "type": "Elimination"
   },
   "c62804cfad609a7d0fe9cceb": {
-    "QuestName": "[Kho] Headless Scav: Headshot 75 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 75 Scav(s) at Ground Zero",
     "_id": "c62804cfad609a7d0fe9cceb",
     "acceptPlayerMessage": "c62804cfad609a7d0fe9cceb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1149,7 +1149,7 @@
     "type": "Elimination"
   },
   "97baef46efd003b50e1cdadd": {
-    "QuestName": "[Kho] Headless Scav: Headshot 100 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 100 Scav(s) at Ground Zero",
     "_id": "97baef46efd003b50e1cdadd",
     "acceptPlayerMessage": "97baef46efd003b50e1cdadd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1339,7 +1339,7 @@
     "type": "Elimination"
   },
   "dd1c7eb2e29e41cb12f1a3db": {
-    "QuestName": "[Kho] Headless Scav: Headshot 250 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 250 Scav(s) at Ground Zero",
     "_id": "dd1c7eb2e29e41cb12f1a3db",
     "acceptPlayerMessage": "dd1c7eb2e29e41cb12f1a3db acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1529,7 +1529,7 @@
     "type": "Elimination"
   },
   "dfb18e6c182cd2fa1cdfe5e3": {
-    "QuestName": "[Kho] Headless Scav: Headshot 500 Scav(s) at Ground Zero",
+    "QuestName": "[Kos] Headless Scav: Headshot 500 Scav(s) at Ground Zero",
     "_id": "dfb18e6c182cd2fa1cdfe5e3",
     "acceptPlayerMessage": "dfb18e6c182cd2fa1cdfe5e3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,

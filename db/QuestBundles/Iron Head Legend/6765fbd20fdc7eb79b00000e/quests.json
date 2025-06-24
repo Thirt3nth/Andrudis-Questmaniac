@@ -1,6 +1,6 @@
 {
   "0f65a4fe76dc5e5efa312ccf": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 1",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 1",
     "_id": "0f65a4fe76dc5e5efa312ccf",
     "acceptPlayerMessage": "0f65a4fe76dc5e5efa312ccf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -140,7 +140,7 @@
     "type": "Elimination"
   },
   "babb2deaf0cc752dcf070ca1": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 2",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 2",
     "_id": "babb2deaf0cc752dcf070ca1",
     "acceptPlayerMessage": "babb2deaf0cc752dcf070ca1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -277,7 +277,7 @@
     "type": "Elimination"
   },
   "2afd5e9efa64afec6ac8ef85": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 3",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 3",
     "_id": "2afd5e9efa64afec6ac8ef85",
     "acceptPlayerMessage": "2afd5e9efa64afec6ac8ef85 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -430,7 +430,7 @@
     "type": "Elimination"
   },
   "5b4f20fdef8a87f9cd8050bf": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 4",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 4",
     "_id": "5b4f20fdef8a87f9cd8050bf",
     "acceptPlayerMessage": "5b4f20fdef8a87f9cd8050bf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -567,7 +567,7 @@
     "type": "Elimination"
   },
   "ab983eab155acbc9ce6b0d7a": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 5",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 5",
     "_id": "ab983eab155acbc9ce6b0d7a",
     "acceptPlayerMessage": "ab983eab155acbc9ce6b0d7a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -704,7 +704,7 @@
     "type": "Elimination"
   },
   "e0ee02dc0ea9dd301bbaec3e": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 6",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 6",
     "_id": "e0ee02dc0ea9dd301bbaec3e",
     "acceptPlayerMessage": "e0ee02dc0ea9dd301bbaec3e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -889,7 +889,7 @@
     "type": "Elimination"
   },
   "90e753b0998701edb757f7d5": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 7",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 7",
     "_id": "90e753b0998701edb757f7d5",
     "acceptPlayerMessage": "90e753b0998701edb757f7d5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1026,7 +1026,7 @@
     "type": "Elimination"
   },
   "8c76a74beeed7cd71150d1be": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 8",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 8",
     "_id": "8c76a74beeed7cd71150d1be",
     "acceptPlayerMessage": "8c76a74beeed7cd71150d1be acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1163,7 +1163,7 @@
     "type": "Elimination"
   },
   "ae3b4f45ad4eb00ef999bf89": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 9",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 9",
     "_id": "ae3b4f45ad4eb00ef999bf89",
     "acceptPlayerMessage": "ae3b4f45ad4eb00ef999bf89 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1348,7 +1348,7 @@
     "type": "Elimination"
   },
   "2df13ac4ff5a2b6addce1bdf": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 10",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 10",
     "_id": "2df13ac4ff5a2b6addce1bdf",
     "acceptPlayerMessage": "2df13ac4ff5a2b6addce1bdf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1549,7 +1549,7 @@
     "type": "Elimination"
   },
   "06b4bbeafd9f54fb6ecf6a6a": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 11",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 11",
     "_id": "06b4bbeafd9f54fb6ecf6a6a",
     "acceptPlayerMessage": "06b4bbeafd9f54fb6ecf6a6a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1686,7 +1686,7 @@
     "type": "Elimination"
   },
   "cf7edfb1ff2caa8717fa2a50": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 12",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 12",
     "_id": "cf7edfb1ff2caa8717fa2a50",
     "acceptPlayerMessage": "cf7edfb1ff2caa8717fa2a50 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1823,7 +1823,7 @@
     "type": "Elimination"
   },
   "affa0ba4366c1d52b1ba1f19": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 13",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 13",
     "_id": "affa0ba4366c1d52b1ba1f19",
     "acceptPlayerMessage": "affa0ba4366c1d52b1ba1f19 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2024,7 +2024,7 @@
     "type": "Elimination"
   },
   "1fd35f75d37bc7172379ba1b": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 14",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 14",
     "_id": "1fd35f75d37bc7172379ba1b",
     "acceptPlayerMessage": "1fd35f75d37bc7172379ba1b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2177,7 +2177,7 @@
     "type": "Elimination"
   },
   "6d4626ebdedaea1bfc9ac9b2": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 15",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 15",
     "_id": "6d4626ebdedaea1bfc9ac9b2",
     "acceptPlayerMessage": "6d4626ebdedaea1bfc9ac9b2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2314,7 +2314,7 @@
     "type": "Elimination"
   },
   "3d9fd451faa6fc4e56da61bb": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 16",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 16",
     "_id": "3d9fd451faa6fc4e56da61bb",
     "acceptPlayerMessage": "3d9fd451faa6fc4e56da61bb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2515,7 +2515,7 @@
     "type": "Elimination"
   },
   "ee1d89fbc8dde9ddadbfaae0": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 17",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 17",
     "_id": "ee1d89fbc8dde9ddadbfaae0",
     "acceptPlayerMessage": "ee1d89fbc8dde9ddadbfaae0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2668,7 +2668,7 @@
     "type": "Elimination"
   },
   "b6cbc4c78dafdeab8a981fee": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 18",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 18",
     "_id": "b6cbc4c78dafdeab8a981fee",
     "acceptPlayerMessage": "b6cbc4c78dafdeab8a981fee acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2808,7 +2808,7 @@
     "type": "Elimination"
   },
   "eab994eb89fc0e603bfaf842": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 19",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 19",
     "_id": "eab994eb89fc0e603bfaf842",
     "acceptPlayerMessage": "eab994eb89fc0e603bfaf842 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2945,7 +2945,7 @@
     "type": "Elimination"
   },
   "cbf4f200ba8c660e533a223e": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 20",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 20",
     "_id": "cbf4f200ba8c660e533a223e",
     "acceptPlayerMessage": "cbf4f200ba8c660e533a223e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3146,7 +3146,7 @@
     "type": "Elimination"
   },
   "fa7af41deb08dbf8a356ea9a": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 21",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 21",
     "_id": "fa7af41deb08dbf8a356ea9a",
     "acceptPlayerMessage": "fa7af41deb08dbf8a356ea9a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3302,7 +3302,7 @@
     "type": "Elimination"
   },
   "c89ff18cec1fd06b397cbee9": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 22",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 22",
     "_id": "c89ff18cec1fd06b397cbee9",
     "acceptPlayerMessage": "c89ff18cec1fd06b397cbee9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3442,7 +3442,7 @@
     "type": "Elimination"
   },
   "cb5eab67fd28dda20ffcfadb": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 23",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 23",
     "_id": "cb5eab67fd28dda20ffcfadb",
     "acceptPlayerMessage": "cb5eab67fd28dda20ffcfadb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3579,7 +3579,7 @@
     "type": "Elimination"
   },
   "d1fdeb9f341c306c36a680e0": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 24",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 24",
     "_id": "d1fdeb9f341c306c36a680e0",
     "acceptPlayerMessage": "d1fdeb9f341c306c36a680e0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3716,7 +3716,7 @@
     "type": "Elimination"
   },
   "32a302dce41baea5d9ea170d": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 25",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 25",
     "_id": "32a302dce41baea5d9ea170d",
     "acceptPlayerMessage": "32a302dce41baea5d9ea170d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3920,7 +3920,7 @@
     "type": "Elimination"
   },
   "ca336aeaf1f90a2daaec5d38": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 26",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 26",
     "_id": "ca336aeaf1f90a2daaec5d38",
     "acceptPlayerMessage": "ca336aeaf1f90a2daaec5d38 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4076,7 +4076,7 @@
     "type": "Elimination"
   },
   "62afd7cacf11656da1bc16c8": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 27",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 27",
     "_id": "62afd7cacf11656da1bc16c8",
     "acceptPlayerMessage": "62afd7cacf11656da1bc16c8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4216,7 +4216,7 @@
     "type": "Elimination"
   },
   "9a250416b0ba0dfeb4ec9cd1": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 28",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 28",
     "_id": "9a250416b0ba0dfeb4ec9cd1",
     "acceptPlayerMessage": "9a250416b0ba0dfeb4ec9cd1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4369,7 +4369,7 @@
     "type": "Elimination"
   },
   "e52d6c5c6a29ecb5598cf44e": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 29",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 29",
     "_id": "e52d6c5c6a29ecb5598cf44e",
     "acceptPlayerMessage": "e52d6c5c6a29ecb5598cf44e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4506,7 +4506,7 @@
     "type": "Elimination"
   },
   "4305ea2f92e8c1a02db3ccb4": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 30",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 30",
     "_id": "4305ea2f92e8c1a02db3ccb4",
     "acceptPlayerMessage": "4305ea2f92e8c1a02db3ccb4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4646,7 +4646,7 @@
     "type": "Elimination"
   },
   "2e727f9e70f5fef848acaf83": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 31",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 31",
     "_id": "2e727f9e70f5fef848acaf83",
     "acceptPlayerMessage": "2e727f9e70f5fef848acaf83 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4850,7 +4850,7 @@
     "type": "Elimination"
   },
   "af5c12420294ffcfddcdf3bc": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 32",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 32",
     "_id": "af5c12420294ffcfddcdf3bc",
     "acceptPlayerMessage": "af5c12420294ffcfddcdf3bc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5006,7 +5006,7 @@
     "type": "Elimination"
   },
   "41b9cb1ee611b4fb0af0e2a9": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 33",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 33",
     "_id": "41b9cb1ee611b4fb0af0e2a9",
     "acceptPlayerMessage": "41b9cb1ee611b4fb0af0e2a9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5143,7 +5143,7 @@
     "type": "Elimination"
   },
   "f8a05d87fdef33a64d222e41": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 34",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 34",
     "_id": "f8a05d87fdef33a64d222e41",
     "acceptPlayerMessage": "f8a05d87fdef33a64d222e41 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5296,7 +5296,7 @@
     "type": "Elimination"
   },
   "ebb891fb5bfb041114ecaffc": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 35",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 35",
     "_id": "ebb891fb5bfb041114ecaffc",
     "acceptPlayerMessage": "ebb891fb5bfb041114ecaffc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5436,7 +5436,7 @@
     "type": "Elimination"
   },
   "bdf1dd5f6a462ace3ea997ed": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 36",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 36",
     "_id": "bdf1dd5f6a462ace3ea997ed",
     "acceptPlayerMessage": "bdf1dd5f6a462ace3ea997ed acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5576,7 +5576,7 @@
     "type": "Elimination"
   },
   "fdca0240fad8bca2fadab21e": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 37",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 37",
     "_id": "fdca0240fad8bca2fadab21e",
     "acceptPlayerMessage": "fdca0240fad8bca2fadab21e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5780,7 +5780,7 @@
     "type": "Elimination"
   },
   "bdd8386fdfa5dc4d33ce4473": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 38",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 38",
     "_id": "bdd8386fdfa5dc4d33ce4473",
     "acceptPlayerMessage": "bdd8386fdfa5dc4d33ce4473 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5920,7 +5920,7 @@
     "type": "Elimination"
   },
   "240e6bf549aebbbbafbcae49": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 39",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 39",
     "_id": "240e6bf549aebbbbafbcae49",
     "acceptPlayerMessage": "240e6bf549aebbbbafbcae49 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6073,7 +6073,7 @@
     "type": "Elimination"
   },
   "0e1cfa5a3facfc4ca0ed3f57": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 40",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 40",
     "_id": "0e1cfa5a3facfc4ca0ed3f57",
     "acceptPlayerMessage": "0e1cfa5a3facfc4ca0ed3f57 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6210,7 +6210,7 @@
     "type": "Elimination"
   },
   "cc9cfb99215dd1d8eedcca0d": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 41",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 41",
     "_id": "cc9cfb99215dd1d8eedcca0d",
     "acceptPlayerMessage": "cc9cfb99215dd1d8eedcca0d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6366,7 +6366,7 @@
     "type": "Elimination"
   },
   "aa423fa97a85cbeddddeaad4": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 42",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 42",
     "_id": "aa423fa97a85cbeddddeaad4",
     "acceptPlayerMessage": "aa423fa97a85cbeddddeaad4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6506,7 +6506,7 @@
     "type": "Elimination"
   },
   "1ccf1ea407efbe6633f47bf5": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 43",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 43",
     "_id": "1ccf1ea407efbe6633f47bf5",
     "acceptPlayerMessage": "1ccf1ea407efbe6633f47bf5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6646,7 +6646,7 @@
     "type": "Elimination"
   },
   "0961c9a24baff0c598bf83f2": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 44",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 44",
     "_id": "0961c9a24baff0c598bf83f2",
     "acceptPlayerMessage": "0961c9a24baff0c598bf83f2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6802,7 +6802,7 @@
     "type": "Elimination"
   },
   "fb3564d66fffecc85340fff7": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 45",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 45",
     "_id": "fb3564d66fffecc85340fff7",
     "acceptPlayerMessage": "fb3564d66fffecc85340fff7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7016,7 +7016,7 @@
     "type": "Elimination"
   },
   "c1f3ec8bdccd5c8a073fd0c5": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 46",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 46",
     "_id": "c1f3ec8bdccd5c8a073fd0c5",
     "acceptPlayerMessage": "c1f3ec8bdccd5c8a073fd0c5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7169,7 +7169,7 @@
     "type": "Elimination"
   },
   "caa75edadd1e81db5646bae3": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 47",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 47",
     "_id": "caa75edadd1e81db5646bae3",
     "acceptPlayerMessage": "caa75edadd1e81db5646bae3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7322,7 +7322,7 @@
     "type": "Elimination"
   },
   "dcbe3f7d9c13d8cd0d86bd5c": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 48",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 48",
     "_id": "dcbe3f7d9c13d8cd0d86bd5c",
     "acceptPlayerMessage": "dcbe3f7d9c13d8cd0d86bd5c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7462,7 +7462,7 @@
     "type": "Elimination"
   },
   "43f9e1c00c957b596df701e8": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 49",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 49",
     "_id": "43f9e1c00c957b596df701e8",
     "acceptPlayerMessage": "43f9e1c00c957b596df701e8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7618,7 +7618,7 @@
     "type": "Elimination"
   },
   "da1d27ffe9c2676ddc6656b2": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 50",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 50",
     "_id": "da1d27ffe9c2676ddc6656b2",
     "acceptPlayerMessage": "da1d27ffe9c2676ddc6656b2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7758,7 +7758,7 @@
     "type": "Elimination"
   },
   "d7badbc2caf470db6e18d6cf": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 51",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 51",
     "_id": "d7badbc2caf470db6e18d6cf",
     "acceptPlayerMessage": "d7badbc2caf470db6e18d6cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7962,7 +7962,7 @@
     "type": "Elimination"
   },
   "7eb47d91cd518c8b2cb6bbdd": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 52",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 52",
     "_id": "7eb47d91cd518c8b2cb6bbdd",
     "acceptPlayerMessage": "7eb47d91cd518c8b2cb6bbdd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8192,7 +8192,7 @@
     "type": "Elimination"
   },
   "dbbda3a125efa0fc1a16a88d": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 53",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 53",
     "_id": "dbbda3a125efa0fc1a16a88d",
     "acceptPlayerMessage": "dbbda3a125efa0fc1a16a88d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8332,7 +8332,7 @@
     "type": "Elimination"
   },
   "efe8becc2d814e1bdbdea622": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 54",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 54",
     "_id": "efe8becc2d814e1bdbdea622",
     "acceptPlayerMessage": "efe8becc2d814e1bdbdea622 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8517,7 +8517,7 @@
     "type": "Elimination"
   },
   "89a532a3aeda85dcc6a661cb": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 55",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 55",
     "_id": "89a532a3aeda85dcc6a661cb",
     "acceptPlayerMessage": "89a532a3aeda85dcc6a661cb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8670,7 +8670,7 @@
     "type": "Elimination"
   },
   "be7b2f2d2ce1ddecc0e7efd6": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 56",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 56",
     "_id": "be7b2f2d2ce1ddecc0e7efd6",
     "acceptPlayerMessage": "be7b2f2d2ce1ddecc0e7efd6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8826,7 +8826,7 @@
     "type": "Elimination"
   },
   "acece1abdfddcae9be193fed": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 57",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 57",
     "_id": "acece1abdfddcae9be193fed",
     "acceptPlayerMessage": "acece1abdfddcae9be193fed acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8966,7 +8966,7 @@
     "type": "Elimination"
   },
   "5ace08b48d95d9ce735a965e": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 58",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 58",
     "_id": "5ace08b48d95d9ce735a965e",
     "acceptPlayerMessage": "5ace08b48d95d9ce735a965e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9122,7 +9122,7 @@
     "type": "Elimination"
   },
   "d7fdc55c3b2f743df9f7eef0": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 59",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 59",
     "_id": "d7fdc55c3b2f743df9f7eef0",
     "acceptPlayerMessage": "d7fdc55c3b2f743df9f7eef0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9262,7 +9262,7 @@
     "type": "Elimination"
   },
   "01bd700e9fa0dc89ea6deccd": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 60",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 60",
     "_id": "01bd700e9fa0dc89ea6deccd",
     "acceptPlayerMessage": "01bd700e9fa0dc89ea6deccd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9540,7 +9540,7 @@
     "type": "Elimination"
   },
   "2dfaa4b3bd15e5ef7e33d535": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 61",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 61",
     "_id": "2dfaa4b3bd15e5ef7e33d535",
     "acceptPlayerMessage": "2dfaa4b3bd15e5ef7e33d535 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9696,7 +9696,7 @@
     "type": "Elimination"
   },
   "fe719daddef1cfcbb17afdda": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 62",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 62",
     "_id": "fe719daddef1cfcbb17afdda",
     "acceptPlayerMessage": "fe719daddef1cfcbb17afdda acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9849,7 +9849,7 @@
     "type": "Elimination"
   },
   "8eb3043b4c0edaeb231b8144": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 63",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 63",
     "_id": "8eb3043b4c0edaeb231b8144",
     "acceptPlayerMessage": "8eb3043b4c0edaeb231b8144 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10034,7 +10034,7 @@
     "type": "Elimination"
   },
   "65cfd57b60dbd8cedae0baa1": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 64",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 64",
     "_id": "65cfd57b60dbd8cedae0baa1",
     "acceptPlayerMessage": "65cfd57b60dbd8cedae0baa1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10190,7 +10190,7 @@
     "type": "Elimination"
   },
   "fe095064409f5ccee2dc0235": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 65",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 65",
     "_id": "fe095064409f5ccee2dc0235",
     "acceptPlayerMessage": "fe095064409f5ccee2dc0235 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10346,7 +10346,7 @@
     "type": "Elimination"
   },
   "41daec7127ea7003bbdeaf8b": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 66",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 66",
     "_id": "41daec7127ea7003bbdeaf8b",
     "acceptPlayerMessage": "41daec7127ea7003bbdeaf8b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10486,7 +10486,7 @@
     "type": "Elimination"
   },
   "aaadef2d979cbcaeef6dd146": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 67",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 67",
     "_id": "aaadef2d979cbcaeef6dd146",
     "acceptPlayerMessage": "aaadef2d979cbcaeef6dd146 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10626,7 +10626,7 @@
     "type": "Elimination"
   },
   "1c14dc3f0845cdbddef4babb": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 68",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 68",
     "_id": "1c14dc3f0845cdbddef4babb",
     "acceptPlayerMessage": "1c14dc3f0845cdbddef4babb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10840,7 +10840,7 @@
     "type": "Elimination"
   },
   "4b68de47addc477acb31fde9": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 69",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 69",
     "_id": "4b68de47addc477acb31fde9",
     "acceptPlayerMessage": "4b68de47addc477acb31fde9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11044,7 +11044,7 @@
     "type": "Elimination"
   },
   "cd9d3a44bed3b98cd0c15a13": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 70",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 70",
     "_id": "cd9d3a44bed3b98cd0c15a13",
     "acceptPlayerMessage": "cd9d3a44bed3b98cd0c15a13 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11181,7 +11181,7 @@
     "type": "Elimination"
   },
   "f9ef386dd1ad311fd5f7a8ac": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 71",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 71",
     "_id": "f9ef386dd1ad311fd5f7a8ac",
     "acceptPlayerMessage": "f9ef386dd1ad311fd5f7a8ac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11334,7 +11334,7 @@
     "type": "Elimination"
   },
   "6fdbb90cec5e15727fddd14a": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 72",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 72",
     "_id": "6fdbb90cec5e15727fddd14a",
     "acceptPlayerMessage": "6fdbb90cec5e15727fddd14a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11522,7 +11522,7 @@
     "type": "Elimination"
   },
   "d8dfe205c3a9e4efabccdcfe": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 73",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 73",
     "_id": "d8dfe205c3a9e4efabccdcfe",
     "acceptPlayerMessage": "d8dfe205c3a9e4efabccdcfe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11715,7 +11715,7 @@
     "type": "Elimination"
   },
   "c87be64ca8deb9a473ae5cd6": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 74",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 74",
     "_id": "c87be64ca8deb9a473ae5cd6",
     "acceptPlayerMessage": "c87be64ca8deb9a473ae5cd6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11871,7 +11871,7 @@
     "type": "Elimination"
   },
   "f2c41e043e9893774a8fbbce": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 75",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 75",
     "_id": "f2c41e043e9893774a8fbbce",
     "acceptPlayerMessage": "f2c41e043e9893774a8fbbce acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12027,7 +12027,7 @@
     "type": "Elimination"
   },
   "140fadedbabd0deedea4da2c": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 76",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 76",
     "_id": "140fadedbabd0deedea4da2c",
     "acceptPlayerMessage": "140fadedbabd0deedea4da2c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12241,7 +12241,7 @@
     "type": "Elimination"
   },
   "dd3b8c94db759e59505f34e5": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 77",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 77",
     "_id": "dd3b8c94db759e59505f34e5",
     "acceptPlayerMessage": "dd3b8c94db759e59505f34e5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12381,7 +12381,7 @@
     "type": "Elimination"
   },
   "3fcfbfddb0c864670aeba736": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 78",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 78",
     "_id": "3fcfbfddb0c864670aeba736",
     "acceptPlayerMessage": "3fcfbfddb0c864670aeba736 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12550,7 +12550,7 @@
     "type": "Elimination"
   },
   "69eea5e9adca0cb90aa4718c": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 79",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 79",
     "_id": "69eea5e9adca0cb90aa4718c",
     "acceptPlayerMessage": "69eea5e9adca0cb90aa4718c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12687,7 +12687,7 @@
     "type": "Elimination"
   },
   "b82cd324bea86d0d50fd3dae": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 80",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 80",
     "_id": "b82cd324bea86d0d50fd3dae",
     "acceptPlayerMessage": "b82cd324bea86d0d50fd3dae acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12843,7 +12843,7 @@
     "type": "Elimination"
   },
   "7881e7f28360d25d8b8ea0fe": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 81",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 81",
     "_id": "7881e7f28360d25d8b8ea0fe",
     "acceptPlayerMessage": "7881e7f28360d25d8b8ea0fe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13068,7 +13068,7 @@
     "type": "Elimination"
   },
   "6ed76f6e849c2a72e19c009b": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 82",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 82",
     "_id": "6ed76f6e849c2a72e19c009b",
     "acceptPlayerMessage": "6ed76f6e849c2a72e19c009b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13261,7 +13261,7 @@
     "type": "Elimination"
   },
   "976c4b9b813f5defbfc2dad5": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 83",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 83",
     "_id": "976c4b9b813f5defbfc2dad5",
     "acceptPlayerMessage": "976c4b9b813f5defbfc2dad5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13401,7 +13401,7 @@
     "type": "Elimination"
   },
   "ade123e042c3d75578da9d6e": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 84",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 84",
     "_id": "ade123e042c3d75578da9d6e",
     "acceptPlayerMessage": "ade123e042c3d75578da9d6e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13631,7 +13631,7 @@
     "type": "Elimination"
   },
   "c562c5efd7123ddc87c1d5cc": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 85",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 85",
     "_id": "c562c5efd7123ddc87c1d5cc",
     "acceptPlayerMessage": "c562c5efd7123ddc87c1d5cc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13771,7 +13771,7 @@
     "type": "Elimination"
   },
   "8c8d4df6eaa0509f11e5afed": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 86",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 86",
     "_id": "8c8d4df6eaa0509f11e5afed",
     "acceptPlayerMessage": "8c8d4df6eaa0509f11e5afed acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13924,7 +13924,7 @@
     "type": "Elimination"
   },
   "1aec50cd74ca8a1cf8d667c7": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 87",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 87",
     "_id": "1aec50cd74ca8a1cf8d667c7",
     "acceptPlayerMessage": "1aec50cd74ca8a1cf8d667c7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14093,7 +14093,7 @@
     "type": "Elimination"
   },
   "fce9badd5469e7f42fba4eaf": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 88",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 88",
     "_id": "fce9badd5469e7f42fba4eaf",
     "acceptPlayerMessage": "fce9badd5469e7f42fba4eaf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14233,7 +14233,7 @@
     "type": "Elimination"
   },
   "3c58f97c49530bcfc07d1461": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 89",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 89",
     "_id": "3c58f97c49530bcfc07d1461",
     "acceptPlayerMessage": "3c58f97c49530bcfc07d1461 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14426,7 +14426,7 @@
     "type": "Elimination"
   },
   "2baee5f0c2e71d0abafe79cf": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 90",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 90",
     "_id": "2baee5f0c2e71d0abafe79cf",
     "acceptPlayerMessage": "2baee5f0c2e71d0abafe79cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14651,7 +14651,7 @@
     "type": "Elimination"
   },
   "ede7cfd036b4f696ffc9b60d": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 91",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 91",
     "_id": "ede7cfd036b4f696ffc9b60d",
     "acceptPlayerMessage": "ede7cfd036b4f696ffc9b60d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14807,7 +14807,7 @@
     "type": "Elimination"
   },
   "9f068fbc2edfc9bfe2beeec3": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 92",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 92",
     "_id": "9f068fbc2edfc9bfe2beeec3",
     "acceptPlayerMessage": "9f068fbc2edfc9bfe2beeec3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14963,7 +14963,7 @@
     "type": "Elimination"
   },
   "8ba6bcab73a4cfc9cb9e0c4d": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 93",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 93",
     "_id": "8ba6bcab73a4cfc9cb9e0c4d",
     "acceptPlayerMessage": "8ba6bcab73a4cfc9cb9e0c4d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15177,7 +15177,7 @@
     "type": "Elimination"
   },
   "3c9aa1823fefe4f9da1a83f8": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 94",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 94",
     "_id": "3c9aa1823fefe4f9da1a83f8",
     "acceptPlayerMessage": "3c9aa1823fefe4f9da1a83f8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15333,7 +15333,7 @@
     "type": "Elimination"
   },
   "0babd9fffba89dfcb7fc3286": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 95",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 95",
     "_id": "0babd9fffba89dfcb7fc3286",
     "acceptPlayerMessage": "0babd9fffba89dfcb7fc3286 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15518,7 +15518,7 @@
     "type": "Elimination"
   },
   "f71d792f3ac2f9d0eeaf4145": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 96",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 96",
     "_id": "f71d792f3ac2f9d0eeaf4145",
     "acceptPlayerMessage": "f71d792f3ac2f9d0eeaf4145 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15671,7 +15671,7 @@
     "type": "Elimination"
   },
   "bbdf9af7d0ad3faefe61acff": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 97",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 97",
     "_id": "bbdf9af7d0ad3faefe61acff",
     "acceptPlayerMessage": "bbdf9af7d0ad3faefe61acff acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15843,7 +15843,7 @@
     "type": "Elimination"
   },
   "d8fe9c42b0fe9bc4edb1c77a": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 98",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 98",
     "_id": "d8fe9c42b0fe9bc4edb1c77a",
     "acceptPlayerMessage": "d8fe9c42b0fe9bc4edb1c77a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16020,7 +16020,7 @@
     "type": "Elimination"
   },
   "0b9faffdd3cddde205b0ee3d": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 99",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 99",
     "_id": "0b9faffdd3cddde205b0ee3d",
     "acceptPlayerMessage": "0b9faffdd3cddde205b0ee3d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16213,7 +16213,7 @@
     "type": "Elimination"
   },
   "c6c72378aafcaf6581b697e8": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 100",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 100",
     "_id": "c6c72378aafcaf6581b697e8",
     "acceptPlayerMessage": "c6c72378aafcaf6581b697e8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16401,7 +16401,7 @@
     "type": "Elimination"
   },
   "0febe8c80caaafb43cfdb597": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 101",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 101",
     "_id": "0febe8c80caaafb43cfdb597",
     "acceptPlayerMessage": "0febe8c80caaafb43cfdb597 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16594,7 +16594,7 @@
     "type": "Elimination"
   },
   "86336c3efebbaeac27ea20a4": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 102",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 102",
     "_id": "86336c3efebbaeac27ea20a4",
     "acceptPlayerMessage": "86336c3efebbaeac27ea20a4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16824,7 +16824,7 @@
     "type": "Elimination"
   },
   "ef70fcebae3f711c539d13ad": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 103",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 103",
     "_id": "ef70fcebae3f711c539d13ad",
     "acceptPlayerMessage": "ef70fcebae3f711c539d13ad acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16964,7 +16964,7 @@
     "type": "Elimination"
   },
   "4c6c5e92fd5c0fcd301ebffb": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 104",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 104",
     "_id": "4c6c5e92fd5c0fcd301ebffb",
     "acceptPlayerMessage": "4c6c5e92fd5c0fcd301ebffb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17117,7 +17117,7 @@
     "type": "Elimination"
   },
   "b6a4e25dbc8ce0aca856f12b": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 105",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 105",
     "_id": "b6a4e25dbc8ce0aca856f12b",
     "acceptPlayerMessage": "b6a4e25dbc8ce0aca856f12b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17302,7 +17302,7 @@
     "type": "Elimination"
   },
   "8409a821349af4e4ca0d6dcf": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 106",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 106",
     "_id": "8409a821349af4e4ca0d6dcf",
     "acceptPlayerMessage": "8409a821349af4e4ca0d6dcf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17458,7 +17458,7 @@
     "type": "Elimination"
   },
   "b0b3274ff1d42af9cd304dd0": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 107",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 107",
     "_id": "b0b3274ff1d42af9cd304dd0",
     "acceptPlayerMessage": "b0b3274ff1d42af9cd304dd0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17667,7 +17667,7 @@
     "type": "Elimination"
   },
   "bfb11a4e42fb6cb1977bdaa8": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 108",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 108",
     "_id": "bfb11a4e42fb6cb1977bdaa8",
     "acceptPlayerMessage": "bfb11a4e42fb6cb1977bdaa8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17844,7 +17844,7 @@
     "type": "Elimination"
   },
   "c4dba4657534e0b9d4aeeacc": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 109",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 109",
     "_id": "c4dba4657534e0b9d4aeeacc",
     "acceptPlayerMessage": "c4dba4657534e0b9d4aeeacc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18000,7 +18000,7 @@
     "type": "Elimination"
   },
   "7e9ead7a6b20946faccbd6fc": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 110",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 110",
     "_id": "7e9ead7a6b20946faccbd6fc",
     "acceptPlayerMessage": "7e9ead7a6b20946faccbd6fc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18225,7 +18225,7 @@
     "type": "Elimination"
   },
   "95bd1c14e67afacedfaffcb8": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 111",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 111",
     "_id": "95bd1c14e67afacedfaffcb8",
     "acceptPlayerMessage": "95bd1c14e67afacedfaffcb8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18492,7 +18492,7 @@
     "type": "Elimination"
   },
   "5faa68ea3cf5a6cc7f8ea086": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 112",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 112",
     "_id": "5faa68ea3cf5a6cc7f8ea086",
     "acceptPlayerMessage": "5faa68ea3cf5a6cc7f8ea086 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18648,7 +18648,7 @@
     "type": "Elimination"
   },
   "4b3f3fefe166fc09dad6aef9": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 113",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 113",
     "_id": "4b3f3fefe166fc09dad6aef9",
     "acceptPlayerMessage": "4b3f3fefe166fc09dad6aef9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18801,7 +18801,7 @@
     "type": "Elimination"
   },
   "e3b0b6f194d76d617dfa12ba": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 114",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 114",
     "_id": "e3b0b6f194d76d617dfa12ba",
     "acceptPlayerMessage": "e3b0b6f194d76d617dfa12ba acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18954,7 +18954,7 @@
     "type": "Elimination"
   },
   "53bf3450c6f3c5fffa404f7d": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 115",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 115",
     "_id": "53bf3450c6f3c5fffa404f7d",
     "acceptPlayerMessage": "53bf3450c6f3c5fffa404f7d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19142,7 +19142,7 @@
     "type": "Elimination"
   },
   "d2cbce97dcfa290c25d1bb40": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 116",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 116",
     "_id": "d2cbce97dcfa290c25d1bb40",
     "acceptPlayerMessage": "d2cbce97dcfa290c25d1bb40 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19335,7 +19335,7 @@
     "type": "Elimination"
   },
   "4452dc9af6729039fa9adfeb": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 117",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 117",
     "_id": "4452dc9af6729039fa9adfeb",
     "acceptPlayerMessage": "4452dc9af6729039fa9adfeb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19544,7 +19544,7 @@
     "type": "Elimination"
   },
   "cd6f50b6d4fba7090bc7a1df": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 118",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 118",
     "_id": "cd6f50b6d4fba7090bc7a1df",
     "acceptPlayerMessage": "cd6f50b6d4fba7090bc7a1df acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19684,7 +19684,7 @@
     "type": "Elimination"
   },
   "fbfadddde00f5df1cded46bc": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 119",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 119",
     "_id": "fbfadddde00f5df1cded46bc",
     "acceptPlayerMessage": "fbfadddde00f5df1cded46bc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19877,7 +19877,7 @@
     "type": "Elimination"
   },
   "2c47537f550d7c109cecbc97": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 120",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 120",
     "_id": "2c47537f550d7c109cecbc97",
     "acceptPlayerMessage": "2c47537f550d7c109cecbc97 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20176,7 +20176,7 @@
     "type": "Elimination"
   },
   "79470bfe8e3a7a3eae60b3bb": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 121",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 121",
     "_id": "79470bfe8e3a7a3eae60b3bb",
     "acceptPlayerMessage": "79470bfe8e3a7a3eae60b3bb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20369,7 +20369,7 @@
     "type": "Elimination"
   },
   "cba3dc8f47ad56df4ec2eefa": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 122",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 122",
     "_id": "cba3dc8f47ad56df4ec2eefa",
     "acceptPlayerMessage": "cba3dc8f47ad56df4ec2eefa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20506,7 +20506,7 @@
     "type": "Elimination"
   },
   "2a24fec92aefea51acae3102": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 123",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 123",
     "_id": "2a24fec92aefea51acae3102",
     "acceptPlayerMessage": "2a24fec92aefea51acae3102 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20659,7 +20659,7 @@
     "type": "Elimination"
   },
   "ca4779ff3bdd6fddfe3eb4cd": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 124",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 124",
     "_id": "ca4779ff3bdd6fddfe3eb4cd",
     "acceptPlayerMessage": "ca4779ff3bdd6fddfe3eb4cd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20815,7 +20815,7 @@
     "type": "Elimination"
   },
   "e78e15cfdab63e5ed5ab0cb8": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 125",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 125",
     "_id": "e78e15cfdab63e5ed5ab0cb8",
     "acceptPlayerMessage": "e78e15cfdab63e5ed5ab0cb8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21040,7 +21040,7 @@
     "type": "Elimination"
   },
   "ea9270eb8e1ab826fe0247ee": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 126",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 126",
     "_id": "ea9270eb8e1ab826fe0247ee",
     "acceptPlayerMessage": "ea9270eb8e1ab826fe0247ee acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21233,7 +21233,7 @@
     "type": "Elimination"
   },
   "ceded8ff62eb266a76d7ff2b": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 127",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 127",
     "_id": "ceded8ff62eb266a76d7ff2b",
     "acceptPlayerMessage": "ceded8ff62eb266a76d7ff2b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21405,7 +21405,7 @@
     "type": "Elimination"
   },
   "c826f0c96a329eb71c0f7baa": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 128",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 128",
     "_id": "c826f0c96a329eb71c0f7baa",
     "acceptPlayerMessage": "c826f0c96a329eb71c0f7baa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21582,7 +21582,7 @@
     "type": "Elimination"
   },
   "ee0cede86cc5aea2bcdfae51": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 129",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 129",
     "_id": "ee0cede86cc5aea2bcdfae51",
     "acceptPlayerMessage": "ee0cede86cc5aea2bcdfae51 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21849,7 +21849,7 @@
     "type": "Elimination"
   },
   "4115eeb117e378dfb6fe5a94": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 130",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 130",
     "_id": "4115eeb117e378dfb6fe5a94",
     "acceptPlayerMessage": "4115eeb117e378dfb6fe5a94 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22074,7 +22074,7 @@
     "type": "Elimination"
   },
   "fefb4fee64bf36fb8a98beff": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 131",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 131",
     "_id": "fefb4fee64bf36fb8a98beff",
     "acceptPlayerMessage": "fefb4fee64bf36fb8a98beff acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22259,7 +22259,7 @@
     "type": "Elimination"
   },
   "ad567c48aaadcfba879b5eca": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 132",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 132",
     "_id": "ad567c48aaadcfba879b5eca",
     "acceptPlayerMessage": "ad567c48aaadcfba879b5eca acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22396,7 +22396,7 @@
     "type": "Elimination"
   },
   "fccf3cfaaddbc53cf7218cbd": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 133",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 133",
     "_id": "fccf3cfaaddbc53cf7218cbd",
     "acceptPlayerMessage": "fccf3cfaaddbc53cf7218cbd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22552,7 +22552,7 @@
     "type": "Elimination"
   },
   "ab0c8cfa432ae95eadbf6dbe": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 134",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 134",
     "_id": "ab0c8cfa432ae95eadbf6dbe",
     "acceptPlayerMessage": "ab0c8cfa432ae95eadbf6dbe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22745,7 +22745,7 @@
     "type": "Elimination"
   },
   "ab2421c6e654cbdf04b43afa": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 135",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 135",
     "_id": "ab2421c6e654cbdf04b43afa",
     "acceptPlayerMessage": "ab2421c6e654cbdf04b43afa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22970,7 +22970,7 @@
     "type": "Elimination"
   },
   "408cdaca4c52c459fcffcd9f": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 136",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 136",
     "_id": "408cdaca4c52c459fcffcd9f",
     "acceptPlayerMessage": "408cdaca4c52c459fcffcd9f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23126,7 +23126,7 @@
     "type": "Elimination"
   },
   "433d7d60c6f2f5ac5a0a4a43": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 137",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 137",
     "_id": "433d7d60c6f2f5ac5a0a4a43",
     "acceptPlayerMessage": "433d7d60c6f2f5ac5a0a4a43 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23335,7 +23335,7 @@
     "type": "Elimination"
   },
   "23e0cfd5c198a28704cc5ee4": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 138",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 138",
     "_id": "23e0cfd5c198a28704cc5ee4",
     "acceptPlayerMessage": "23e0cfd5c198a28704cc5ee4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23586,7 +23586,7 @@
     "type": "Elimination"
   },
   "35d6bb91dbbabeceadff2a65": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 139",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 139",
     "_id": "35d6bb91dbbabeceadff2a65",
     "acceptPlayerMessage": "35d6bb91dbbabeceadff2a65 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23779,7 +23779,7 @@
     "type": "Elimination"
   },
   "24ffd8d7f7bd06db32addc1b": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 140",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 140",
     "_id": "24ffd8d7f7bd06db32addc1b",
     "acceptPlayerMessage": "24ffd8d7f7bd06db32addc1b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23948,7 +23948,7 @@
     "type": "Elimination"
   },
   "e93a934cad571cf6abd4c923": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 141",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 141",
     "_id": "e93a934cad571cf6abd4c923",
     "acceptPlayerMessage": "e93a934cad571cf6abd4c923 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24133,7 +24133,7 @@
     "type": "Elimination"
   },
   "c8f5cc6b32573eacd692f02d": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 142",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 142",
     "_id": "c8f5cc6b32573eacd692f02d",
     "acceptPlayerMessage": "c8f5cc6b32573eacd692f02d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24273,7 +24273,7 @@
     "type": "Elimination"
   },
   "c2dffaea7c7bfdadbebdb430": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 143",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 143",
     "_id": "c2dffaea7c7bfdadbebdb430",
     "acceptPlayerMessage": "c2dffaea7c7bfdadbebdb430 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24466,7 +24466,7 @@
     "type": "Elimination"
   },
   "0ae372eaa44dacbee99bbab9": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 144",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 144",
     "_id": "0ae372eaa44dacbee99bbab9",
     "acceptPlayerMessage": "0ae372eaa44dacbee99bbab9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24659,7 +24659,7 @@
     "type": "Elimination"
   },
   "79636733e58844f3f28f3a5b": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 145",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 145",
     "_id": "79636733e58844f3f28f3a5b",
     "acceptPlayerMessage": "79636733e58844f3f28f3a5b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24847,7 +24847,7 @@
     "type": "Elimination"
   },
   "c24b5b918af2905bd0e3c445": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 146",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 146",
     "_id": "c24b5b918af2905bd0e3c445",
     "acceptPlayerMessage": "c24b5b918af2905bd0e3c445 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25040,7 +25040,7 @@
     "type": "Elimination"
   },
   "ed281ce3a10c9df0d05e4f7f": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 147",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 147",
     "_id": "ed281ce3a10c9df0d05e4f7f",
     "acceptPlayerMessage": "ed281ce3a10c9df0d05e4f7f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25323,7 +25323,7 @@
     "type": "Elimination"
   },
   "caa2c190ea8ba4ca4b94bfcd": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 148",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 148",
     "_id": "caa2c190ea8ba4ca4b94bfcd",
     "acceptPlayerMessage": "caa2c190ea8ba4ca4b94bfcd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25500,7 +25500,7 @@
     "type": "Elimination"
   },
   "c12ffacb7700f429a6c88dbb": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 149",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 149",
     "_id": "c12ffacb7700f429a6c88dbb",
     "acceptPlayerMessage": "c12ffacb7700f429a6c88dbb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25669,7 +25669,7 @@
     "type": "Elimination"
   },
   "3db432af4b5b5a4911cdd68b": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 150",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 150",
     "_id": "3db432af4b5b5a4911cdd68b",
     "acceptPlayerMessage": "3db432af4b5b5a4911cdd68b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25838,7 +25838,7 @@
     "type": "Elimination"
   },
   "012bb37aee7fcabb1229dbb2": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 151",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 151",
     "_id": "012bb37aee7fcabb1229dbb2",
     "acceptPlayerMessage": "012bb37aee7fcabb1229dbb2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26026,7 +26026,7 @@
     "type": "Elimination"
   },
   "1014a4a6884fceb246bcd1cb": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 152",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 152",
     "_id": "1014a4a6884fceb246bcd1cb",
     "acceptPlayerMessage": "1014a4a6884fceb246bcd1cb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26203,7 +26203,7 @@
     "type": "Elimination"
   },
   "8e1bfb571fbc530c02c2bcfc": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 153",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 153",
     "_id": "8e1bfb571fbc530c02c2bcfc",
     "acceptPlayerMessage": "8e1bfb571fbc530c02c2bcfc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26396,7 +26396,7 @@
     "type": "Elimination"
   },
   "cfabfe2ebaefcfd4c2cc7e50": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 154",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 154",
     "_id": "cfabfe2ebaefcfd4c2cc7e50",
     "acceptPlayerMessage": "cfabfe2ebaefcfd4c2cc7e50 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26552,7 +26552,7 @@
     "type": "Elimination"
   },
   "67baebff7ba50adab13ac5a8": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 155",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 155",
     "_id": "67baebff7ba50adab13ac5a8",
     "acceptPlayerMessage": "67baebff7ba50adab13ac5a8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26777,7 +26777,7 @@
     "type": "Elimination"
   },
   "95abbb90bfaeddbcf98572f3": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 156",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 156",
     "_id": "95abbb90bfaeddbcf98572f3",
     "acceptPlayerMessage": "95abbb90bfaeddbcf98572f3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27044,7 +27044,7 @@
     "type": "Elimination"
   },
   "c89fc52f698500f5fcba5e9f": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 157",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 157",
     "_id": "c89fc52f698500f5fcba5e9f",
     "acceptPlayerMessage": "c89fc52f698500f5fcba5e9f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27253,7 +27253,7 @@
     "type": "Elimination"
   },
   "cffcbc1eb89d5c5e0eb53dac": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 158",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 158",
     "_id": "cffcbc1eb89d5c5e0eb53dac",
     "acceptPlayerMessage": "cffcbc1eb89d5c5e0eb53dac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27406,7 +27406,7 @@
     "type": "Elimination"
   },
   "483f7cda9e6de2f9e640ca6f": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 159",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 159",
     "_id": "483f7cda9e6de2f9e640ca6f",
     "acceptPlayerMessage": "483f7cda9e6de2f9e640ca6f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27575,7 +27575,7 @@
     "type": "Elimination"
   },
   "8341aff4c5fdcbededa9ea79": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 160",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 160",
     "_id": "8341aff4c5fdcbededa9ea79",
     "acceptPlayerMessage": "8341aff4c5fdcbededa9ea79 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27747,7 +27747,7 @@
     "type": "Elimination"
   },
   "308efa6dbf4fc5035ac265ad": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 161",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 161",
     "_id": "308efa6dbf4fc5035ac265ad",
     "acceptPlayerMessage": "308efa6dbf4fc5035ac265ad acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27972,7 +27972,7 @@
     "type": "Elimination"
   },
   "0f560cca4fbb18d0d1ec3190": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 162",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 162",
     "_id": "0f560cca4fbb18d0d1ec3190",
     "acceptPlayerMessage": "0f560cca4fbb18d0d1ec3190 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28149,7 +28149,7 @@
     "type": "Elimination"
   },
   "ac3a45d1eaf4e3fdafa99c48": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 163",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 163",
     "_id": "ac3a45d1eaf4e3fdafa99c48",
     "acceptPlayerMessage": "ac3a45d1eaf4e3fdafa99c48 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28305,7 +28305,7 @@
     "type": "Elimination"
   },
   "baf88e85b1ace0921df3e860": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 164",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 164",
     "_id": "baf88e85b1ace0921df3e860",
     "acceptPlayerMessage": "baf88e85b1ace0921df3e860 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28498,7 +28498,7 @@
     "type": "Elimination"
   },
   "0a090facedb8bc61df93eccb": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 165",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 165",
     "_id": "0a090facedb8bc61df93eccb",
     "acceptPlayerMessage": "0a090facedb8bc61df93eccb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28797,7 +28797,7 @@
     "type": "Elimination"
   },
   "f77edcd6ae8d4073cd8e420f": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 166",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 166",
     "_id": "f77edcd6ae8d4073cd8e420f",
     "acceptPlayerMessage": "f77edcd6ae8d4073cd8e420f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28990,7 +28990,7 @@
     "type": "Elimination"
   },
   "ac0369a4d3a59eca85b05186": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 167",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 167",
     "_id": "ac0369a4d3a59eca85b05186",
     "acceptPlayerMessage": "ac0369a4d3a59eca85b05186 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29143,7 +29143,7 @@
     "type": "Elimination"
   },
   "3cde43c34d38185e9dd2363b": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 168",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 168",
     "_id": "3cde43c34d38185e9dd2363b",
     "acceptPlayerMessage": "3cde43c34d38185e9dd2363b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29296,7 +29296,7 @@
     "type": "Elimination"
   },
   "bdb8e9fc2af4b9124969e8b3": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 169",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 169",
     "_id": "bdb8e9fc2af4b9124969e8b3",
     "acceptPlayerMessage": "bdb8e9fc2af4b9124969e8b3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29468,7 +29468,7 @@
     "type": "Elimination"
   },
   "d9d2aa80dfe10a2c3493a1ac": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 170",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 170",
     "_id": "d9d2aa80dfe10a2c3493a1ac",
     "acceptPlayerMessage": "d9d2aa80dfe10a2c3493a1ac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29677,7 +29677,7 @@
     "type": "Elimination"
   },
   "5bfdefbf066bc8bf48a68f17": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 171",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 171",
     "_id": "5bfdefbf066bc8bf48a68f17",
     "acceptPlayerMessage": "5bfdefbf066bc8bf48a68f17 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29902,7 +29902,7 @@
     "type": "Elimination"
   },
   "d94dedcf3e5f9954ebdd9476": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 172",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 172",
     "_id": "d94dedcf3e5f9954ebdd9476",
     "acceptPlayerMessage": "d94dedcf3e5f9954ebdd9476 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30042,7 +30042,7 @@
     "type": "Elimination"
   },
   "3d6db86e71f93bdf4e6ceeaa": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 173",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 173",
     "_id": "3d6db86e71f93bdf4e6ceeaa",
     "acceptPlayerMessage": "3d6db86e71f93bdf4e6ceeaa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30235,7 +30235,7 @@
     "type": "Elimination"
   },
   "7e76ea72be48a17b336e53de": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 174",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 174",
     "_id": "7e76ea72be48a17b336e53de",
     "acceptPlayerMessage": "7e76ea72be48a17b336e53de acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30502,7 +30502,7 @@
     "type": "Elimination"
   },
   "5c2edebf8cdb04e6f5a3eaa5": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 175",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 175",
     "_id": "5c2edebf8cdb04e6f5a3eaa5",
     "acceptPlayerMessage": "5c2edebf8cdb04e6f5a3eaa5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30727,7 +30727,7 @@
     "type": "Elimination"
   },
   "fdd0caa1af8ab09fe559d3ac": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 176",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 176",
     "_id": "fdd0caa1af8ab09fe559d3ac",
     "acceptPlayerMessage": "fdd0caa1af8ab09fe559d3ac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30928,7 +30928,7 @@
     "type": "Elimination"
   },
   "f25ab6ccd0bf413e2577abc4": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 177",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 177",
     "_id": "f25ab6ccd0bf413e2577abc4",
     "acceptPlayerMessage": "f25ab6ccd0bf413e2577abc4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31081,7 +31081,7 @@
     "type": "Elimination"
   },
   "bba243c875ef9a7dea49357f": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 178",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 178",
     "_id": "bba243c875ef9a7dea49357f",
     "acceptPlayerMessage": "bba243c875ef9a7dea49357f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31237,7 +31237,7 @@
     "type": "Elimination"
   },
   "1fb1dbfebcdbc48ce87dfeb5": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 179",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 179",
     "_id": "1fb1dbfebcdbc48ce87dfeb5",
     "acceptPlayerMessage": "1fb1dbfebcdbc48ce87dfeb5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31446,7 +31446,7 @@
     "type": "Elimination"
   },
   "4721d3fccfe5a929a42f4f6d": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 180",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 180",
     "_id": "4721d3fccfe5a929a42f4f6d",
     "acceptPlayerMessage": "4721d3fccfe5a929a42f4f6d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31655,7 +31655,7 @@
     "type": "Elimination"
   },
   "8c6e0dffec2ea84f66dfddf8": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 181",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 181",
     "_id": "8c6e0dffec2ea84f66dfddf8",
     "acceptPlayerMessage": "8c6e0dffec2ea84f66dfddf8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31843,7 +31843,7 @@
     "type": "Elimination"
   },
   "1bcb45e2f7adbf893bfcc2cf": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 182",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 182",
     "_id": "1bcb45e2f7adbf893bfcc2cf",
     "acceptPlayerMessage": "1bcb45e2f7adbf893bfcc2cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32020,7 +32020,7 @@
     "type": "Elimination"
   },
   "e6ecc5e93cb41e3bd47ab4fa": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 183",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 183",
     "_id": "e6ecc5e93cb41e3bd47ab4fa",
     "acceptPlayerMessage": "e6ecc5e93cb41e3bd47ab4fa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32287,7 +32287,7 @@
     "type": "Elimination"
   },
   "1485fdae6cadd7badace54bd": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 184",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 184",
     "_id": "1485fdae6cadd7badace54bd",
     "acceptPlayerMessage": "1485fdae6cadd7badace54bd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32480,7 +32480,7 @@
     "type": "Elimination"
   },
   "9cecf545e3fd28bef5d21a8a": {
-    "QuestName": "[Kho] Iron Head Legend: Scav - part 185",
+    "QuestName": "[Kos] Iron Head Legend: Scav - part 185",
     "_id": "9cecf545e3fd28bef5d21a8a",
     "acceptPlayerMessage": "9cecf545e3fd28bef5d21a8a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32649,7 +32649,7 @@
     "type": "Elimination"
   },
   "b247a8ee9c0cf1bdf19fda53": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 186",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 186",
     "_id": "b247a8ee9c0cf1bdf19fda53",
     "acceptPlayerMessage": "b247a8ee9c0cf1bdf19fda53 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32850,7 +32850,7 @@
     "type": "Elimination"
   },
   "f874dc7ce2dcdbfeb8cfa10c": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 187",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 187",
     "_id": "f874dc7ce2dcdbfeb8cfa10c",
     "acceptPlayerMessage": "f874dc7ce2dcdbfeb8cfa10c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33006,7 +33006,7 @@
     "type": "Elimination"
   },
   "8d2b3ba93b8d017fa4e60c1d": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 188",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 188",
     "_id": "8d2b3ba93b8d017fa4e60c1d",
     "acceptPlayerMessage": "8d2b3ba93b8d017fa4e60c1d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33199,7 +33199,7 @@
     "type": "Elimination"
   },
   "b1d467724b6f9e7af370626b": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 189",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 189",
     "_id": "b1d467724b6f9e7af370626b",
     "acceptPlayerMessage": "b1d467724b6f9e7af370626b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33408,7 +33408,7 @@
     "type": "Elimination"
   },
   "9e1f5bbd9dbb7e317efe2db1": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 190",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 190",
     "_id": "9e1f5bbd9dbb7e317efe2db1",
     "acceptPlayerMessage": "9e1f5bbd9dbb7e317efe2db1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33580,7 +33580,7 @@
     "type": "Elimination"
   },
   "fbfa7cbd6dec3e922225916e": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 191",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 191",
     "_id": "fbfa7cbd6dec3e922225916e",
     "acceptPlayerMessage": "fbfa7cbd6dec3e922225916e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33805,7 +33805,7 @@
     "type": "Elimination"
   },
   "5a41c4abc26b0cb951afcca5": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 192",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 192",
     "_id": "5a41c4abc26b0cb951afcca5",
     "acceptPlayerMessage": "5a41c4abc26b0cb951afcca5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34056,7 +34056,7 @@
     "type": "Elimination"
   },
   "e0b89f34f2837c6dc7fdeb83": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 193",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 193",
     "_id": "e0b89f34f2837c6dc7fdeb83",
     "acceptPlayerMessage": "e0b89f34f2837c6dc7fdeb83 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34249,7 +34249,7 @@
     "type": "Elimination"
   },
   "2daccebdb70ccf9db2dd69af": {
-    "QuestName": "[Kho] Iron Head Legend: PMC - part 194",
+    "QuestName": "[Kos] Iron Head Legend: PMC - part 194",
     "_id": "2daccebdb70ccf9db2dd69af",
     "acceptPlayerMessage": "2daccebdb70ccf9db2dd69af acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34418,7 +34418,7 @@
     "type": "Elimination"
   },
   "d13aacfd64cf70a5e6c84f1b": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 195",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 195",
     "_id": "d13aacfd64cf70a5e6c84f1b",
     "acceptPlayerMessage": "d13aacfd64cf70a5e6c84f1b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34622,7 +34622,7 @@
     "type": "Elimination"
   },
   "6318a38ac6f10e85b8a19d1c": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 196",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 196",
     "_id": "6318a38ac6f10e85b8a19d1c",
     "acceptPlayerMessage": "6318a38ac6f10e85b8a19d1c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34815,7 +34815,7 @@
     "type": "Elimination"
   },
   "b8a0ce45cdbed3cc111d2a07": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 197",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 197",
     "_id": "b8a0ce45cdbed3cc111d2a07",
     "acceptPlayerMessage": "b8a0ce45cdbed3cc111d2a07 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35008,7 +35008,7 @@
     "type": "Elimination"
   },
   "135e1ee8dd2abd2da59c85f4": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 198",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 198",
     "_id": "135e1ee8dd2abd2da59c85f4",
     "acceptPlayerMessage": "135e1ee8dd2abd2da59c85f4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35180,7 +35180,7 @@
     "type": "Elimination"
   },
   "3b2df0dcf4eb9cd2fdcf2775": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 199",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 199",
     "_id": "3b2df0dcf4eb9cd2fdcf2775",
     "acceptPlayerMessage": "3b2df0dcf4eb9cd2fdcf2775 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35389,7 +35389,7 @@
     "type": "Elimination"
   },
   "db0e1b8bbc2efdcfa9bbad23": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 200",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 200",
     "_id": "db0e1b8bbc2efdcfa9bbad23",
     "acceptPlayerMessage": "db0e1b8bbc2efdcfa9bbad23 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35688,7 +35688,7 @@
     "type": "Elimination"
   },
   "18cceb009c4c9e2be3baf4ce": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 201",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 201",
     "_id": "18cceb009c4c9e2be3baf4ce",
     "acceptPlayerMessage": "18cceb009c4c9e2be3baf4ce acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35865,7 +35865,7 @@
     "type": "Elimination"
   },
   "9cedbda6bbfabf5b16a3a2dd": {
-    "QuestName": "[Kho] Iron Head Legend: Raider - part 202",
+    "QuestName": "[Kos] Iron Head Legend: Raider - part 202",
     "_id": "9cedbda6bbfabf5b16a3a2dd",
     "acceptPlayerMessage": "9cedbda6bbfabf5b16a3a2dd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36037,7 +36037,7 @@
     "type": "Elimination"
   },
   "a8eecfcd8a903b77162afd6f": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 203",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 203",
     "_id": "a8eecfcd8a903b77162afd6f",
     "acceptPlayerMessage": "a8eecfcd8a903b77162afd6f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36278,7 +36278,7 @@
     "type": "Elimination"
   },
   "46163b2c4cc4fd64e756122e": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 204",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 204",
     "_id": "46163b2c4cc4fd64e756122e",
     "acceptPlayerMessage": "46163b2c4cc4fd64e756122e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36471,7 +36471,7 @@
     "type": "Elimination"
   },
   "03fd35b6d3a4c6deeed7afa4": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 205",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 205",
     "_id": "03fd35b6d3a4c6deeed7afa4",
     "acceptPlayerMessage": "03fd35b6d3a4c6deeed7afa4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36627,7 +36627,7 @@
     "type": "Elimination"
   },
   "6dc6953100f1b53fd21f13f3": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 206",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 206",
     "_id": "6dc6953100f1b53fd21f13f3",
     "acceptPlayerMessage": "6dc6953100f1b53fd21f13f3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36836,7 +36836,7 @@
     "type": "Elimination"
   },
   "3007dad6e24a15cc355373bd": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 207",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 207",
     "_id": "3007dad6e24a15cc355373bd",
     "acceptPlayerMessage": "3007dad6e24a15cc355373bd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37119,7 +37119,7 @@
     "type": "Elimination"
   },
   "50378f214bab4db51fcfbdee": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 208",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 208",
     "_id": "50378f214bab4db51fcfbdee",
     "acceptPlayerMessage": "50378f214bab4db51fcfbdee acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37344,7 +37344,7 @@
     "type": "Elimination"
   },
   "4bfd13851e9ffbc1c7c3daff": {
-    "QuestName": "[Kho] Iron Head Legend: Reshala - part 209",
+    "QuestName": "[Kos] Iron Head Legend: Reshala - part 209",
     "_id": "4bfd13851e9ffbc1c7c3daff",
     "acceptPlayerMessage": "4bfd13851e9ffbc1c7c3daff acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37553,7 +37553,7 @@
     "type": "Elimination"
   },
   "b71b34996ebfe4dc1d09d8aa": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 210",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 210",
     "_id": "b71b34996ebfe4dc1d09d8aa",
     "acceptPlayerMessage": "b71b34996ebfe4dc1d09d8aa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37794,7 +37794,7 @@
     "type": "Elimination"
   },
   "ee7be40abe24cbefd86ba4d2": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 211",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 211",
     "_id": "ee7be40abe24cbefd86ba4d2",
     "acceptPlayerMessage": "ee7be40abe24cbefd86ba4d2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37950,7 +37950,7 @@
     "type": "Elimination"
   },
   "4a8b349a60fefd9da5ff5d10": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 212",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 212",
     "_id": "4a8b349a60fefd9da5ff5d10",
     "acceptPlayerMessage": "4a8b349a60fefd9da5ff5d10 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38143,7 +38143,7 @@
     "type": "Elimination"
   },
   "6abc8f2856991c1dad80b5ee": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 213",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 213",
     "_id": "6abc8f2856991c1dad80b5ee",
     "acceptPlayerMessage": "6abc8f2856991c1dad80b5ee acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38426,7 +38426,7 @@
     "type": "Elimination"
   },
   "b343cefffe860ce8d79dfa22": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 214",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 214",
     "_id": "b343cefffe860ce8d79dfa22",
     "acceptPlayerMessage": "b343cefffe860ce8d79dfa22 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38635,7 +38635,7 @@
     "type": "Elimination"
   },
   "aee993b1ff80ef7af01a2f6a": {
-    "QuestName": "[Kho] Iron Head Legend: Shturman - part 215",
+    "QuestName": "[Kos] Iron Head Legend: Shturman - part 215",
     "_id": "aee993b1ff80ef7af01a2f6a",
     "acceptPlayerMessage": "aee993b1ff80ef7af01a2f6a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38844,7 +38844,7 @@
     "type": "Elimination"
   },
   "0afb2539bdf0c61be1d8bcef": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 216",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 216",
     "_id": "0afb2539bdf0c61be1d8bcef",
     "acceptPlayerMessage": "0afb2539bdf0c61be1d8bcef acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39048,7 +39048,7 @@
     "type": "Elimination"
   },
   "ab0f7708a4cb729797341228": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 217",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 217",
     "_id": "ab0f7708a4cb729797341228",
     "acceptPlayerMessage": "ab0f7708a4cb729797341228 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39241,7 +39241,7 @@
     "type": "Elimination"
   },
   "f5cf98cca15f6daeaf8fde5f": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 218",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 218",
     "_id": "f5cf98cca15f6daeaf8fde5f",
     "acceptPlayerMessage": "f5cf98cca15f6daeaf8fde5f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39508,7 +39508,7 @@
     "type": "Elimination"
   },
   "48dccebb0199fd89aab4a9e6": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 219",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 219",
     "_id": "48dccebb0199fd89aab4a9e6",
     "acceptPlayerMessage": "48dccebb0199fd89aab4a9e6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39717,7 +39717,7 @@
     "type": "Elimination"
   },
   "d170e81b4488f8f3f2acf831": {
-    "QuestName": "[Kho] Iron Head Legend: Killa - part 220",
+    "QuestName": "[Kos] Iron Head Legend: Killa - part 220",
     "_id": "d170e81b4488f8f3f2acf831",
     "acceptPlayerMessage": "d170e81b4488f8f3f2acf831 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39889,7 +39889,7 @@
     "type": "Elimination"
   },
   "7f0f77ee5b1ca6dcfadd1b86": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 221",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 221",
     "_id": "7f0f77ee5b1ca6dcfadd1b86",
     "acceptPlayerMessage": "7f0f77ee5b1ca6dcfadd1b86 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40130,7 +40130,7 @@
     "type": "Elimination"
   },
   "db2096ac080eed1adf3da81a": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 222",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 222",
     "_id": "db2096ac080eed1adf3da81a",
     "acceptPlayerMessage": "db2096ac080eed1adf3da81a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40397,7 +40397,7 @@
     "type": "Elimination"
   },
   "abe27aade0de89dd6da59ffe": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 223",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 223",
     "_id": "abe27aade0de89dd6da59ffe",
     "acceptPlayerMessage": "abe27aade0de89dd6da59ffe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40590,7 +40590,7 @@
     "type": "Elimination"
   },
   "ba9c39c3f17dff28c4ede1eb": {
-    "QuestName": "[Kho] Iron Head Legend: Sanitar - part 224",
+    "QuestName": "[Kos] Iron Head Legend: Sanitar - part 224",
     "_id": "ba9c39c3f17dff28c4ede1eb",
     "acceptPlayerMessage": "ba9c39c3f17dff28c4ede1eb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40799,7 +40799,7 @@
     "type": "Elimination"
   },
   "cbf7e2f6f95ce4c7cddfec1a": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 225",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 225",
     "_id": "cbf7e2f6f95ce4c7cddfec1a",
     "acceptPlayerMessage": "cbf7e2f6f95ce4c7cddfec1a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41114,7 +41114,7 @@
     "type": "Elimination"
   },
   "d343d07c4c90ee9db80f31bf": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 226",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 226",
     "_id": "d343d07c4c90ee9db80f31bf",
     "acceptPlayerMessage": "d343d07c4c90ee9db80f31bf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41307,7 +41307,7 @@
     "type": "Elimination"
   },
   "bed9d03ad8e47bddca44ecab": {
-    "QuestName": "[Kho] Iron Head Legend: Gluhar - part 227",
+    "QuestName": "[Kos] Iron Head Legend: Gluhar - part 227",
     "_id": "bed9d03ad8e47bddca44ecab",
     "acceptPlayerMessage": "bed9d03ad8e47bddca44ecab acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41590,7 +41590,7 @@
     "type": "Elimination"
   },
   "cb62c58966485bf0aaf4cfef": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 228",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 228",
     "_id": "cb62c58966485bf0aaf4cfef",
     "acceptPlayerMessage": "cb62c58966485bf0aaf4cfef acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41831,7 +41831,7 @@
     "type": "Elimination"
   },
   "da50d5e04fdbb1d55cf4fec3": {
-    "QuestName": "[Kho] Iron Head Legend: Sectant Priest - part 229",
+    "QuestName": "[Kos] Iron Head Legend: Sectant Priest - part 229",
     "_id": "da50d5e04fdbb1d55cf4fec3",
     "acceptPlayerMessage": "da50d5e04fdbb1d55cf4fec3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,

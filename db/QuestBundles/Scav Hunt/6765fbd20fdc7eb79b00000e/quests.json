@@ -1,6 +1,6 @@
 {
   "ba80b8f0bffddfc7d68f8eb1": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 2 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 2 Scav(s)",
     "_id": "ba80b8f0bffddfc7d68f8eb1",
     "acceptPlayerMessage": "ba80b8f0bffddfc7d68f8eb1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -90,7 +90,7 @@
     "type": "Elimination"
   },
   "d31ea072d62bf7043a5e36ed": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 10 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 10 Scav(s)",
     "_id": "d31ea072d62bf7043a5e36ed",
     "acceptPlayerMessage": "d31ea072d62bf7043a5e36ed acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -193,7 +193,7 @@
     "type": "Elimination"
   },
   "0d538a9ab089f7cbd8883f39": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 25 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 25 Scav(s)",
     "_id": "0d538a9ab089f7cbd8883f39",
     "acceptPlayerMessage": "0d538a9ab089f7cbd8883f39 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -380,7 +380,7 @@
     "type": "Elimination"
   },
   "6e4e7d00babd97d3bdeed34f": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 50 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 50 Scav(s)",
     "_id": "6e4e7d00babd97d3bdeed34f",
     "acceptPlayerMessage": "6e4e7d00babd97d3bdeed34f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -567,7 +567,7 @@
     "type": "Elimination"
   },
   "eff294e3effd8bf2bceafbfc": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 75 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 75 Scav(s)",
     "_id": "eff294e3effd8bf2bceafbfc",
     "acceptPlayerMessage": "eff294e3effd8bf2bceafbfc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -754,7 +754,7 @@
     "type": "Elimination"
   },
   "9bc51e1eeed43ebae1840fa9": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 100 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 100 Scav(s)",
     "_id": "9bc51e1eeed43ebae1840fa9",
     "acceptPlayerMessage": "9bc51e1eeed43ebae1840fa9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -941,7 +941,7 @@
     "type": "Elimination"
   },
   "675143ae0fd3af09fd62fba5": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 150 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 150 Scav(s)",
     "_id": "675143ae0fd3af09fd62fba5",
     "acceptPlayerMessage": "675143ae0fd3af09fd62fba5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1128,7 +1128,7 @@
     "type": "Elimination"
   },
   "7d37de300b3f7210fd86acdb": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 200 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 200 Scav(s)",
     "_id": "7d37de300b3f7210fd86acdb",
     "acceptPlayerMessage": "7d37de300b3f7210fd86acdb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1315,7 +1315,7 @@
     "type": "Elimination"
   },
   "debdbfbe6c4e18e038fbdf5d": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 500 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 500 Scav(s)",
     "_id": "debdbfbe6c4e18e038fbdf5d",
     "acceptPlayerMessage": "debdbfbe6c4e18e038fbdf5d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1502,7 +1502,7 @@
     "type": "Elimination"
   },
   "64efadfb44e07cafeea0dfd8": {
-    "QuestName": "[Kho] Scav Hunt: Clear Streets of Tarkov from 1000 Scav(s)",
+    "QuestName": "[Kos] Scav Hunt: Clear Streets of Tarkov from 1000 Scav(s)",
     "_id": "64efadfb44e07cafeea0dfd8",
     "acceptPlayerMessage": "64efadfb44e07cafeea0dfd8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,

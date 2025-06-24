@@ -46,9 +46,9 @@
         }
     ],
     "medic": false,
-    "name": "Khokhol",
+    "name": "Kosoy",
     "nextResupply": 1576761111,
-    "nickname": "Khokhol",
+    "nickname": "Kosoy",
     "repair": {
         "availability": false,
         "currency": "5449016a4bdc2d6f028b456f",
@@ -89,6 +89,6 @@
         "5b5f761f86f774094242f1a1",
         "5b5f764186f77447ec5d7714"
     ],
-    "surname": "Khokhol",
+    "surname": "Kosoy",
     "unlockedByDefault": true
 }

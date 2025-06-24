@@ -16,7 +16,7 @@ export interface IAQMQuestBundle {
     Bashkir_Temporal_Id?:   IAQMQuestBundleTrader;
     Colonel_Temporal_Id?:   IAQMQuestBundleTrader;
     Elder_Temporal_Id?:     IAQMQuestBundleTrader;
-    Khokhol_Temporal_Id?:   IAQMQuestBundleTrader;
+    Kosoy_Temporal_Id?:   IAQMQuestBundleTrader;
     LabRat_Temporal_Id?:    IAQMQuestBundleTrader;
     Warden_Temporal_Id?:    IAQMQuestBundleTrader;    
 }
@@ -37,7 +37,7 @@ export interface IAQMTraders {
     Bashkir_Temporal_Id?:           IAQMTrader;
     Colonel_Temporal_Id?:           IAQMTrader;
     Elder_Temporal_Id?:             IAQMTrader;
-    Khokhol_Temporal_Id?:           IAQMTrader;
+    Kosoy_Temporal_Id?:           IAQMTrader;
     LabRat_Temporal_Id?:            IAQMTrader;
     Warden_Temporal_Id?:            IAQMTrader;
 }
@@ -70,7 +70,7 @@ export interface IAQMLocalesTraders {
     Bashkir_Temporal_Id: Record<string, string>;
     Colonel_Temporal_Id: Record<string, string>;
     Elder_Temporal_Id: Record<string, string>;
-    Khokhol_Temporal_Id: Record<string, string>;
+    Kosoy_Temporal_Id: Record<string, string>;
     LabRat_Temporal_Id: Record<string, string>;
     Warden_Temporal_Id: Record<string, string>;
 }

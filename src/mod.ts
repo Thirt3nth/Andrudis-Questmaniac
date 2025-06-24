@@ -27,7 +27,7 @@ import { IAQMDatabase }                 from "../types_aqm/aqm_types";
 import * as bashkirBaseJson     from "../db/traders/6765fbd20fdc7eb79b00000b/base.json"
 import * as colonelBaseJson     from "../db/traders/6765fbd20fdc7eb79b00000c/base.json"
 import * as elderBaseJson       from "../db/traders/6765fbd20fdc7eb79b00000d/base.json"
-import * as khokholBaseJson     from "../db/traders/6765fbd20fdc7eb79b00000e/base.json"
+import * as kosoyBaseJson     from "../db/traders/6765fbd20fdc7eb79b00000e/base.json"
 import * as labratBaseJson      from "../db/traders/6765fbd20fdc7eb79b00000f/base.json"
 import * as wardenBaseJson      from "../db/traders/6765fbd20fdc7eb79b00000a/base.json"
 
@@ -308,7 +308,7 @@ class QuestManiac implements IPreSptLoadMod, IPostDBLoadMod
             database.traders[bashkirBaseJson._id].base.discount = config.TradersDiscounts.Bashkir
             database.traders[colonelBaseJson._id].base.discount = config.TradersDiscounts.Colonel
             database.traders[elderBaseJson._id].base.discount = config.TradersDiscounts.Elder
-            database.traders[khokholBaseJson._id].base.discount = config.TradersDiscounts.Khokhol
+            database.traders[kosoyBaseJson._id].base.discount = config.TradersDiscounts.Kosoy
             database.traders[labratBaseJson._id].base.discount = config.TradersDiscounts.LabRat
             database.traders[wardenBaseJson._id].base.discount = config.TradersDiscounts.Warden 
             
@@ -430,7 +430,7 @@ class QuestManiac implements IPreSptLoadMod, IPostDBLoadMod
         imageRouter.addRoute(bashkirBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Bashkir}.jpg`)
         imageRouter.addRoute(colonelBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Colonel}.jpg`)
         imageRouter.addRoute(elderBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Elder}.jpg`)
-        imageRouter.addRoute(khokholBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Khokhol}.jpg`)
+        imageRouter.addRoute(kosoyBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Kosoy}.jpg`)
         imageRouter.addRoute(labratBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.LabRat}.jpg`)
         imageRouter.addRoute(wardenBaseJson.avatar.replace(".jpg", ""), `${imageFilepath}/traders/${this.traderNamesToIDs.Warden}.jpg`)
 
@@ -444,14 +444,14 @@ class QuestManiac implements IPreSptLoadMod, IPostDBLoadMod
         const bashkirRefreshConfig: IUpdateTime = { traderId: bashkirBaseJson._id, seconds: { min: 1000, max: 6000 } }
         const colonelRefreshConfig: IUpdateTime = { traderId: colonelBaseJson._id, seconds: { min: 1000, max: 6000 } }
         const elderRefreshConfig: IUpdateTime = { traderId: elderBaseJson._id, seconds: { min: 1000, max: 6000 } }
-        const khokholRefreshConfig: IUpdateTime = { traderId: khokholBaseJson._id, seconds: { min: 1000, max: 6000 } }
+        const kosoyRefreshConfig: IUpdateTime = { traderId: kosoyBaseJson._id, seconds: { min: 1000, max: 6000 } }
         const labratRefreshConfig: IUpdateTime = { traderId: labratBaseJson._id, seconds: { min: 1000, max: 6000 } }
         const wardenRefreshConfig: IUpdateTime = { traderId: wardenBaseJson._id, seconds: { min: 1000, max: 6000 } }
 
         traderConfig.updateTime.push(bashkirRefreshConfig)
         traderConfig.updateTime.push(colonelRefreshConfig)
         traderConfig.updateTime.push(elderRefreshConfig)
-        traderConfig.updateTime.push(khokholRefreshConfig)
+        traderConfig.updateTime.push(kosoyRefreshConfig)
         traderConfig.updateTime.push(labratRefreshConfig)
         traderConfig.updateTime.push(wardenRefreshConfig)
     }
@@ -461,7 +461,7 @@ class QuestManiac implements IPreSptLoadMod, IPostDBLoadMod
 		Bashkir: "6765fbd20fdc7eb79b00000b",
 		Colonel: "6765fbd20fdc7eb79b00000c",
 		Elder: "6765fbd20fdc7eb79b00000d",
-		Khokhol: "6765fbd20fdc7eb79b00000e",
+		Kosoy: "6765fbd20fdc7eb79b00000e",
 		LabRat: "6765fbd20fdc7eb79b00000f",
 		Warden: "6765fbd20fdc7eb79b00000a"
 	}

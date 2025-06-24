@@ -1,6 +1,6 @@
 {
   "ebe9abaaaef6deccb1ee6cdd": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "ebe9abaaaef6deccb1ee6cdd",
     "acceptPlayerMessage": "ebe9abaaaef6deccb1ee6cdd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -161,7 +161,7 @@
     "type": "Completion"
   },
   "1ea329b882ff58c2f7df1cd7": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: Saiga-9 9x19 carbine",
     "_id": "1ea329b882ff58c2f7df1cd7",
     "acceptPlayerMessage": "1ea329b882ff58c2f7df1cd7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -340,7 +340,7 @@
     "type": "Completion"
   },
   "96c6b225dcea944f35b36a37": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "96c6b225dcea944f35b36a37",
     "acceptPlayerMessage": "96c6b225dcea944f35b36a37 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -575,7 +575,7 @@
     "type": "Completion"
   },
   "bdf50e35f7665c809c6afba0": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "bdf50e35f7665c809c6afba0",
     "acceptPlayerMessage": "bdf50e35f7665c809c6afba0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -730,7 +730,7 @@
     "type": "Completion"
   },
   "421a0c5fd286ece816d39a29": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: Saiga-9 9x19 carbine",
     "_id": "421a0c5fd286ece816d39a29",
     "acceptPlayerMessage": "421a0c5fd286ece816d39a29 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -969,7 +969,7 @@
     "type": "Completion"
   },
   "9c70b1dd2ffecc02c4fb9c62": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "9c70b1dd2ffecc02c4fb9c62",
     "acceptPlayerMessage": "9c70b1dd2ffecc02c4fb9c62 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1178,7 +1178,7 @@
     "type": "Completion"
   },
   "3c37c397c7bc560ba447adeb": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "3c37c397c7bc560ba447adeb",
     "acceptPlayerMessage": "3c37c397c7bc560ba447adeb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1335,7 +1335,7 @@
     "type": "Completion"
   },
   "3b5ab6dda01afeecc6aac7fa": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "3b5ab6dda01afeecc6aac7fa",
     "acceptPlayerMessage": "3b5ab6dda01afeecc6aac7fa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1550,7 +1550,7 @@
     "type": "Completion"
   },
   "2dab19dd4dee70ebe1a9a0d2": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: Saiga-9 9x19 carbine",
     "_id": "2dab19dd4dee70ebe1a9a0d2",
     "acceptPlayerMessage": "2dab19dd4dee70ebe1a9a0d2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1764,7 +1764,7 @@
     "type": "Completion"
   },
   "cb2e2faefdebaaedced0ed91": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "cb2e2faefdebaaedced0ed91",
     "acceptPlayerMessage": "cb2e2faefdebaaedced0ed91 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -1977,7 +1977,7 @@
     "type": "Completion"
   },
   "3fe120fd18fa4b3eb481ed73": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "3fe120fd18fa4b3eb481ed73",
     "acceptPlayerMessage": "3fe120fd18fa4b3eb481ed73 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2151,7 +2151,7 @@
     "type": "Completion"
   },
   "006f592af64faef168c1c083": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "006f592af64faef168c1c083",
     "acceptPlayerMessage": "006f592af64faef168c1c083 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2370,7 +2370,7 @@
     "type": "Completion"
   },
   "8d16ff0a710c09af6ec9c2c8": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "8d16ff0a710c09af6ec9c2c8",
     "acceptPlayerMessage": "8d16ff0a710c09af6ec9c2c8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2560,7 +2560,7 @@
     "type": "Completion"
   },
   "1a67e9cad048f24aecc8afeb": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: Saiga-9 9x19 carbine",
     "_id": "1a67e9cad048f24aecc8afeb",
     "acceptPlayerMessage": "1a67e9cad048f24aecc8afeb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2778,7 +2778,7 @@
     "type": "Completion"
   },
   "edf89b222dd9bd43bf697bcd": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "edf89b222dd9bd43bf697bcd",
     "acceptPlayerMessage": "edf89b222dd9bd43bf697bcd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -2992,7 +2992,7 @@
     "type": "Completion"
   },
   "aa6eeb5216d0bdafc2d7f40b": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "aa6eeb5216d0bdafc2d7f40b",
     "acceptPlayerMessage": "aa6eeb5216d0bdafc2d7f40b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3201,7 +3201,7 @@
     "type": "Completion"
   },
   "88f5aadca96d5c08eba50dfc": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "88f5aadca96d5c08eba50dfc",
     "acceptPlayerMessage": "88f5aadca96d5c08eba50dfc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3436,7 +3436,7 @@
     "type": "Completion"
   },
   "ec1894c5f186df4f10c3cb2e": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "ec1894c5f186df4f10c3cb2e",
     "acceptPlayerMessage": "ec1894c5f186df4f10c3cb2e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3721,7 +3721,7 @@
     "type": "Completion"
   },
   "9effbb9a3dfd503c5d5e57d2": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "9effbb9a3dfd503c5d5e57d2",
     "acceptPlayerMessage": "9effbb9a3dfd503c5d5e57d2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -3915,7 +3915,7 @@
     "type": "Completion"
   },
   "9b078188ddfbdaa20c90e7d1": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: Saiga-9 9x19 carbine",
     "_id": "9b078188ddfbdaa20c90e7d1",
     "acceptPlayerMessage": "9b078188ddfbdaa20c90e7d1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4134,7 +4134,7 @@
     "type": "Completion"
   },
   "d7c52397f6b485b1edd8d0cf": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "d7c52397f6b485b1edd8d0cf",
     "acceptPlayerMessage": "d7c52397f6b485b1edd8d0cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4347,7 +4347,7 @@
     "type": "Completion"
   },
   "fdfb94dcad8c096959e9ffab": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: SIG MPX 9x19 submachine gun",
     "_id": "fdfb94dcad8c096959e9ffab",
     "acceptPlayerMessage": "fdfb94dcad8c096959e9ffab acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4562,7 +4562,7 @@
     "type": "Completion"
   },
   "445f2204a46ace3a6f35d9f8": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "445f2204a46ace3a6f35d9f8",
     "acceptPlayerMessage": "445f2204a46ace3a6f35d9f8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -4831,7 +4831,7 @@
     "type": "Completion"
   },
   "9d5031bdbd7c0ea9ddbcee11": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "9d5031bdbd7c0ea9ddbcee11",
     "acceptPlayerMessage": "9d5031bdbd7c0ea9ddbcee11 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5130,7 +5130,7 @@
     "type": "Completion"
   },
   "4a2b36dc52cdffc186fb10c5": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "4a2b36dc52cdffc186fb10c5",
     "acceptPlayerMessage": "4a2b36dc52cdffc186fb10c5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5322,7 +5322,7 @@
     "type": "Completion"
   },
   "33ccbe28cf1591df883be9db": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "33ccbe28cf1591df883be9db",
     "acceptPlayerMessage": "33ccbe28cf1591df883be9db acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5517,7 +5517,7 @@
     "type": "Completion"
   },
   "c2c00abac4e5fdafc808f81a": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: Saiga-9 9x19 carbine",
     "_id": "c2c00abac4e5fdafc808f81a",
     "acceptPlayerMessage": "c2c00abac4e5fdafc808f81a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5735,7 +5735,7 @@
     "type": "Completion"
   },
   "390a4f103d44bff1efa5bb2d": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "390a4f103d44bff1efa5bb2d",
     "acceptPlayerMessage": "390a4f103d44bff1efa5bb2d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -5948,7 +5948,7 @@
     "type": "Completion"
   },
   "a8ab543eba45b82dd711ccf2": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "a8ab543eba45b82dd711ccf2",
     "acceptPlayerMessage": "a8ab543eba45b82dd711ccf2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6139,7 +6139,7 @@
     "type": "Completion"
   },
   "63fcfc0a2f3f3dc8abffd1b0": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: SIG MPX 9x19 submachine gun",
     "_id": "63fcfc0a2f3f3dc8abffd1b0",
     "acceptPlayerMessage": "63fcfc0a2f3f3dc8abffd1b0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6414,7 +6414,7 @@
     "type": "Completion"
   },
   "c09d39fdd7e4f9fd5adfbbc8": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "c09d39fdd7e4f9fd5adfbbc8",
     "acceptPlayerMessage": "c09d39fdd7e4f9fd5adfbbc8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6745,7 +6745,7 @@
     "type": "Completion"
   },
   "1ce7a67aeba5a0dbef14bc3d": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "1ce7a67aeba5a0dbef14bc3d",
     "acceptPlayerMessage": "1ce7a67aeba5a0dbef14bc3d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -6954,7 +6954,7 @@
     "type": "Completion"
   },
   "74eea53b2e6a06cb42e9dd5c": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "74eea53b2e6a06cb42e9dd5c",
     "acceptPlayerMessage": "74eea53b2e6a06cb42e9dd5c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7251,7 +7251,7 @@
     "type": "Completion"
   },
   "f7a6a7d6f6b7d5e4e1e9dc63": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "f7a6a7d6f6b7d5e4e1e9dc63",
     "acceptPlayerMessage": "f7a6a7d6f6b7d5e4e1e9dc63 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7445,7 +7445,7 @@
     "type": "Completion"
   },
   "bd00017bdba7f88ae384981c": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: Saiga-9 9x19 carbine",
     "_id": "bd00017bdba7f88ae384981c",
     "acceptPlayerMessage": "bd00017bdba7f88ae384981c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7663,7 +7663,7 @@
     "type": "Completion"
   },
   "c9bad4f3aa17b9b08e0fc40b": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "c9bad4f3aa17b9b08e0fc40b",
     "acceptPlayerMessage": "c9bad4f3aa17b9b08e0fc40b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -7876,7 +7876,7 @@
     "type": "Completion"
   },
   "4cacbac9268a13f4afd9ef8e": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK UMP .45 ACP submachine gun",
     "_id": "4cacbac9268a13f4afd9ef8e",
     "acceptPlayerMessage": "4cacbac9268a13f4afd9ef8e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8043,7 +8043,7 @@
     "type": "Completion"
   },
   "342bb2ccba9bb9db94bffd6c": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "342bb2ccba9bb9db94bffd6c",
     "acceptPlayerMessage": "342bb2ccba9bb9db94bffd6c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8294,7 +8294,7 @@
     "type": "Completion"
   },
   "d1533daef232bc2cc5bf2c28": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "d1533daef232bc2cc5bf2c28",
     "acceptPlayerMessage": "d1533daef232bc2cc5bf2c28 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8631,7 +8631,7 @@
     "type": "Completion"
   },
   "8e69e8dff6fcee1125acb445": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "8e69e8dff6fcee1125acb445",
     "acceptPlayerMessage": "8e69e8dff6fcee1125acb445 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -8875,7 +8875,7 @@
     "type": "Completion"
   },
   "8c8e80be1fa453e3d2f4e707": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "8c8e80be1fa453e3d2f4e707",
     "acceptPlayerMessage": "8c8e80be1fa453e3d2f4e707 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9186,7 +9186,7 @@
     "type": "Completion"
   },
   "85f638ee0ad2aae4a14b01e7": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "85f638ee0ad2aae4a14b01e7",
     "acceptPlayerMessage": "85f638ee0ad2aae4a14b01e7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9382,7 +9382,7 @@
     "type": "Completion"
   },
   "075a51cdc3ebc47cafc648b3": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "075a51cdc3ebc47cafc648b3",
     "acceptPlayerMessage": "075a51cdc3ebc47cafc648b3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9576,7 +9576,7 @@
     "type": "Completion"
   },
   "e8ac9af21f3e11b68b00fc88": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: Saiga-9 9x19 carbine",
     "_id": "e8ac9af21f3e11b68b00fc88",
     "acceptPlayerMessage": "e8ac9af21f3e11b68b00fc88 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -9794,7 +9794,7 @@
     "type": "Completion"
   },
   "2a3d8c6c68e6ae464b8aacba": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "2a3d8c6c68e6ae464b8aacba",
     "acceptPlayerMessage": "2a3d8c6c68e6ae464b8aacba acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10007,7 +10007,7 @@
     "type": "Completion"
   },
   "5c626256ab3bba1e5fc134a7": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "5c626256ab3bba1e5fc134a7",
     "acceptPlayerMessage": "5c626256ab3bba1e5fc134a7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10192,7 +10192,7 @@
     "type": "Completion"
   },
   "a2ca6dc8d59adcd0b4a36b34": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK UMP .45 ACP submachine gun",
     "_id": "a2ca6dc8d59adcd0b4a36b34",
     "acceptPlayerMessage": "a2ca6dc8d59adcd0b4a36b34 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10419,7 +10419,7 @@
     "type": "Completion"
   },
   "70ecaf0c38e29b5abd95bbf7": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "70ecaf0c38e29b5abd95bbf7",
     "acceptPlayerMessage": "70ecaf0c38e29b5abd95bbf7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10732,7 +10732,7 @@
     "type": "Completion"
   },
   "f9afa2bdd8e777d8efb7138f": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: SIG MPX 9x19 submachine gun",
     "_id": "f9afa2bdd8e777d8efb7138f",
     "acceptPlayerMessage": "f9afa2bdd8e777d8efb7138f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -10982,7 +10982,7 @@
     "type": "Completion"
   },
   "fd13fcace0bb4dc1e1d6d2e3": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "fd13fcace0bb4dc1e1d6d2e3",
     "acceptPlayerMessage": "fd13fcace0bb4dc1e1d6d2e3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11325,7 +11325,7 @@
     "type": "Completion"
   },
   "e4de9edf6d4d9b9f8aead25f": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "e4de9edf6d4d9b9f8aead25f",
     "acceptPlayerMessage": "e4de9edf6d4d9b9f8aead25f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11538,7 +11538,7 @@
     "type": "Completion"
   },
   "cea521fa545de84e7af8b5f4": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "cea521fa545de84e7af8b5f4",
     "acceptPlayerMessage": "cea521fa545de84e7af8b5f4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11735,7 +11735,7 @@
     "type": "Completion"
   },
   "bded87a84bdac7cfbb0ddafc": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "bded87a84bdac7cfbb0ddafc",
     "acceptPlayerMessage": "bded87a84bdac7cfbb0ddafc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -11929,7 +11929,7 @@
     "type": "Completion"
   },
   "88e44c780d9840dfe0fced7e": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: Saiga-9 9x19 carbine",
     "_id": "88e44c780d9840dfe0fced7e",
     "acceptPlayerMessage": "88e44c780d9840dfe0fced7e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12147,7 +12147,7 @@
     "type": "Completion"
   },
   "6801eed84cbec52a6c42df13": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "6801eed84cbec52a6c42df13",
     "acceptPlayerMessage": "6801eed84cbec52a6c42df13 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12399,7 +12399,7 @@
     "type": "Completion"
   },
   "8947b799ca42aa40c564a26b": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "8947b799ca42aa40c564a26b",
     "acceptPlayerMessage": "8947b799ca42aa40c564a26b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12584,7 +12584,7 @@
     "type": "Completion"
   },
   "a804e309de7a4aceee06f22f": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "a804e309de7a4aceee06f22f",
     "acceptPlayerMessage": "a804e309de7a4aceee06f22f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -12829,7 +12829,7 @@
     "type": "Completion"
   },
   "0b5763de8dcec7118decc35b": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "0b5763de8dcec7118decc35b",
     "acceptPlayerMessage": "0b5763de8dcec7118decc35b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13118,7 +13118,7 @@
     "type": "Completion"
   },
   "afaeaa65c15e0dcf3e11ef7a": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "afaeaa65c15e0dcf3e11ef7a",
     "acceptPlayerMessage": "afaeaa65c15e0dcf3e11ef7a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13344,7 +13344,7 @@
     "type": "Completion"
   },
   "1bc4ffc6de86be39e0ddca3a": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "1bc4ffc6de86be39e0ddca3a",
     "acceptPlayerMessage": "1bc4ffc6de86be39e0ddca3a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13693,7 +13693,7 @@
     "type": "Completion"
   },
   "b50da2dcfdfbe391eaf4cefa": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "b50da2dcfdfbe391eaf4cefa",
     "acceptPlayerMessage": "b50da2dcfdfbe391eaf4cefa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -13941,7 +13941,7 @@
     "type": "Completion"
   },
   "9501dd6d9bb76fad1bc8ed31": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "9501dd6d9bb76fad1bc8ed31",
     "acceptPlayerMessage": "9501dd6d9bb76fad1bc8ed31 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14155,7 +14155,7 @@
     "type": "Completion"
   },
   "d9e02ba8be3affe1bb7d83d4": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "d9e02ba8be3affe1bb7d83d4",
     "acceptPlayerMessage": "d9e02ba8be3affe1bb7d83d4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14351,7 +14351,7 @@
     "type": "Completion"
   },
   "ab851daad3cc008be7967889": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "ab851daad3cc008be7967889",
     "acceptPlayerMessage": "ab851daad3cc008be7967889 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14545,7 +14545,7 @@
     "type": "Completion"
   },
   "5c7b159f80b03ff8e0edbeea": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: Saiga-9 9x19 carbine",
     "_id": "5c7b159f80b03ff8e0edbeea",
     "acceptPlayerMessage": "5c7b159f80b03ff8e0edbeea acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -14801,7 +14801,7 @@
     "type": "Completion"
   },
   "d7ced91a3aa99396b0a2dc69": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
     "_id": "d7ced91a3aa99396b0a2dc69",
     "acceptPlayerMessage": "d7ced91a3aa99396b0a2dc69 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15014,7 +15014,7 @@
     "type": "Completion"
   },
   "6f975141c9cacef56dc9c41e": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: FN P90 5.7x28 submachine gun",
     "_id": "6f975141c9cacef56dc9c41e",
     "acceptPlayerMessage": "6f975141c9cacef56dc9c41e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15199,7 +15199,7 @@
     "type": "Completion"
   },
   "5a365e48cbcda22b264cc9fe": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "5a365e48cbcda22b264cc9fe",
     "acceptPlayerMessage": "5a365e48cbcda22b264cc9fe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15444,7 +15444,7 @@
     "type": "Completion"
   },
   "b884ff79ebaf127381da54c5": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "b884ff79ebaf127381da54c5",
     "acceptPlayerMessage": "b884ff79ebaf127381da54c5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15751,7 +15751,7 @@
     "type": "Completion"
   },
   "59ccab377c306ab1ff99dbd0": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: HK UMP .45 ACP submachine gun",
     "_id": "59ccab377c306ab1ff99dbd0",
     "acceptPlayerMessage": "59ccab377c306ab1ff99dbd0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -15953,7 +15953,7 @@
     "type": "Completion"
   },
   "634f53c3e85ca7c1cf20fe61": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "634f53c3e85ca7c1cf20fe61",
     "acceptPlayerMessage": "634f53c3e85ca7c1cf20fe61 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16278,7 +16278,7 @@
     "type": "Completion"
   },
   "71afa1674ff845da6fc77bb2": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: SIG MPX 9x19 submachine gun",
     "_id": "71afa1674ff845da6fc77bb2",
     "acceptPlayerMessage": "71afa1674ff845da6fc77bb2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16532,7 +16532,7 @@
     "type": "Completion"
   },
   "cca7ccce3cbbb888920ee2c4": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "cca7ccce3cbbb888920ee2c4",
     "acceptPlayerMessage": "cca7ccce3cbbb888920ee2c4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16781,7 +16781,7 @@
     "type": "Completion"
   },
   "a6fcbaf07dff42fc18121bf6": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "a6fcbaf07dff42fc18121bf6",
     "acceptPlayerMessage": "a6fcbaf07dff42fc18121bf6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -16994,7 +16994,7 @@
     "type": "Completion"
   },
   "2699fdb7ca11e07a6b5b111c": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "2699fdb7ca11e07a6b5b111c",
     "acceptPlayerMessage": "2699fdb7ca11e07a6b5b111c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17190,7 +17190,7 @@
     "type": "Completion"
   },
   "fbf5e9f9edc6ec26ecf5cec2": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "fbf5e9f9edc6ec26ecf5cec2",
     "acceptPlayerMessage": "fbf5e9f9edc6ec26ecf5cec2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17422,7 +17422,7 @@
     "type": "Completion"
   },
   "44bfaccdcf74955c5fc6cadd": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: Saiga-9 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: Saiga-9 9x19 carbine",
     "_id": "44bfaccdcf74955c5fc6cadd",
     "acceptPlayerMessage": "44bfaccdcf74955c5fc6cadd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17640,7 +17640,7 @@
     "type": "Completion"
   },
   "ed4241635a7c85b3c337e4ce": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "ed4241635a7c85b3c337e4ce",
     "acceptPlayerMessage": "ed4241635a7c85b3c337e4ce acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -17802,7 +17802,7 @@
     "type": "Completion"
   },
   "ab4c871fe57e87d4fcb137d7": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: FN P90 5.7x28 submachine gun",
     "_id": "ab4c871fe57e87d4fcb137d7",
     "acceptPlayerMessage": "ab4c871fe57e87d4fcb137d7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18047,7 +18047,7 @@
     "type": "Completion"
   },
   "6db14e33af19ce6cdf8fd005": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "6db14e33af19ce6cdf8fd005",
     "acceptPlayerMessage": "6db14e33af19ce6cdf8fd005 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18354,7 +18354,7 @@
     "type": "Completion"
   },
   "d7b43a7ef1d45cac172facd7": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "d7b43a7ef1d45cac172facd7",
     "acceptPlayerMessage": "d7b43a7ef1d45cac172facd7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18574,7 +18574,7 @@
     "type": "Completion"
   },
   "822e1cc8acdb62446b8efecb": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "822e1cc8acdb62446b8efecb",
     "acceptPlayerMessage": "822e1cc8acdb62446b8efecb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -18875,7 +18875,7 @@
     "type": "Completion"
   },
   "69b9a57add6a5badb5067da6": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "69b9a57add6a5badb5067da6",
     "acceptPlayerMessage": "69b9a57add6a5badb5067da6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19105,7 +19105,7 @@
     "type": "Completion"
   },
   "3a03168f05c5262dde1f6ced": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: SIG MPX 9x19 submachine gun",
     "_id": "3a03168f05c5262dde1f6ced",
     "acceptPlayerMessage": "3a03168f05c5262dde1f6ced acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19360,7 +19360,7 @@
     "type": "Completion"
   },
   "05b53e2b6aeaacdf44d2edec": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "05b53e2b6aeaacdf44d2edec",
     "acceptPlayerMessage": "05b53e2b6aeaacdf44d2edec acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19608,7 +19608,7 @@
     "type": "Completion"
   },
   "7a24dc98aa0ea727abc8746f": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "7a24dc98aa0ea727abc8746f",
     "acceptPlayerMessage": "7a24dc98aa0ea727abc8746f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -19821,7 +19821,7 @@
     "type": "Completion"
   },
   "fafab5cfdde4cdbb1c1dabbe": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "fafab5cfdde4cdbb1c1dabbe",
     "acceptPlayerMessage": "fafab5cfdde4cdbb1c1dabbe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20017,7 +20017,7 @@
     "type": "Completion"
   },
   "ec7dcafe7afdf27cd099fbdd": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: PPSh-41 7.62x25 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: PPSh-41 7.62x25 submachine gun",
     "_id": "ec7dcafe7afdf27cd099fbdd",
     "acceptPlayerMessage": "ec7dcafe7afdf27cd099fbdd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20211,7 +20211,7 @@
     "type": "Completion"
   },
   "1dd34bb6edafc5f5bfcbb69c": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "1dd34bb6edafc5f5bfcbb69c",
     "acceptPlayerMessage": "1dd34bb6edafc5f5bfcbb69c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20434,7 +20434,7 @@
     "type": "Completion"
   },
   "706abff7cc5e53b5fbfbea89": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "706abff7cc5e53b5fbfbea89",
     "acceptPlayerMessage": "706abff7cc5e53b5fbfbea89 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -20741,7 +20741,7 @@
     "type": "Completion"
   },
   "3e6d6f592cdbaa80ba743ebc": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "3e6d6f592cdbaa80ba743ebc",
     "acceptPlayerMessage": "3e6d6f592cdbaa80ba743ebc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21017,7 +21017,7 @@
     "type": "Completion"
   },
   "b0a38dd24753ad11dec69bd2": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "b0a38dd24753ad11dec69bd2",
     "acceptPlayerMessage": "b0a38dd24753ad11dec69bd2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21336,7 +21336,7 @@
     "type": "Completion"
   },
   "e771acd2d0fe2b6bdcef7c62": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: HK UMP .45 ACP submachine gun",
     "_id": "e771acd2d0fe2b6bdcef7c62",
     "acceptPlayerMessage": "e771acd2d0fe2b6bdcef7c62 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21542,7 +21542,7 @@
     "type": "Completion"
   },
   "8ebad0ed87b5cad7d91d3922": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "8ebad0ed87b5cad7d91d3922",
     "acceptPlayerMessage": "8ebad0ed87b5cad7d91d3922 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -21773,7 +21773,7 @@
     "type": "Completion"
   },
   "dd82b5a9d45bdfbdd7f92b62": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: SIG MPX 9x19 submachine gun",
     "_id": "dd82b5a9d45bdfbdd7f92b62",
     "acceptPlayerMessage": "dd82b5a9d45bdfbdd7f92b62 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22027,7 +22027,7 @@
     "type": "Completion"
   },
   "3eceb52e20421acf6bfa5f05": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "3eceb52e20421acf6bfa5f05",
     "acceptPlayerMessage": "3eceb52e20421acf6bfa5f05 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22275,7 +22275,7 @@
     "type": "Completion"
   },
   "9aa24e632e4ac66fd3cbb9e2": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "9aa24e632e4ac66fd3cbb9e2",
     "acceptPlayerMessage": "9aa24e632e4ac66fd3cbb9e2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22488,7 +22488,7 @@
     "type": "Completion"
   },
   "2f910aa46acb760f4aafbd51": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "2f910aa46acb760f4aafbd51",
     "acceptPlayerMessage": "2f910aa46acb760f4aafbd51 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22684,7 +22684,7 @@
     "type": "Completion"
   },
   "af191ba6cee98ce4eb23f3f4": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "af191ba6cee98ce4eb23f3f4",
     "acceptPlayerMessage": "af191ba6cee98ce4eb23f3f4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -22971,7 +22971,7 @@
     "type": "Completion"
   },
   "fbdbff74abbb78fa1bed381c": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Veteran: FN P90 5.7x28 submachine gun",
     "_id": "fbdbff74abbb78fa1bed381c",
     "acceptPlayerMessage": "fbdbff74abbb78fa1bed381c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23247,7 +23247,7 @@
     "type": "Completion"
   },
   "ac7d5ef7a83ac3d2daf12ce3": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "ac7d5ef7a83ac3d2daf12ce3",
     "acceptPlayerMessage": "ac7d5ef7a83ac3d2daf12ce3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23523,7 +23523,7 @@
     "type": "Completion"
   },
   "4a98316befe4bd2b22de2bac": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "4a98316befe4bd2b22de2bac",
     "acceptPlayerMessage": "4a98316befe4bd2b22de2bac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23747,7 +23747,7 @@
     "type": "Completion"
   },
   "b2b7e2da2fd5ec778b79f5f3": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: HK UMP .45 ACP submachine gun",
     "_id": "b2b7e2da2fd5ec778b79f5f3",
     "acceptPlayerMessage": "b2b7e2da2fd5ec778b79f5f3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -23954,7 +23954,7 @@
     "type": "Completion"
   },
   "2a9743e7ec2a7ebaf0affa95": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "2a9743e7ec2a7ebaf0affa95",
     "acceptPlayerMessage": "2a9743e7ec2a7ebaf0affa95 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24184,7 +24184,7 @@
     "type": "Completion"
   },
   "79bae4605940cbb4cb2bbbd3": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: SIG MPX 9x19 submachine gun",
     "_id": "79bae4605940cbb4cb2bbbd3",
     "acceptPlayerMessage": "79bae4605940cbb4cb2bbbd3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24438,7 +24438,7 @@
     "type": "Completion"
   },
   "54b6dc6b70a9c1ccabd2bb7e": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "54b6dc6b70a9c1ccabd2bb7e",
     "acceptPlayerMessage": "54b6dc6b70a9c1ccabd2bb7e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24686,7 +24686,7 @@
     "type": "Completion"
   },
   "eed39dffc27e5cfd0dbdacf3": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "eed39dffc27e5cfd0dbdacf3",
     "acceptPlayerMessage": "eed39dffc27e5cfd0dbdacf3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -24899,7 +24899,7 @@
     "type": "Completion"
   },
   "e00ea79a290ef0f5b44adc4a": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "e00ea79a290ef0f5b44adc4a",
     "acceptPlayerMessage": "e00ea79a290ef0f5b44adc4a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25135,7 +25135,7 @@
     "type": "Completion"
   },
   "8288cc0bd9eb9aaca14d83bb": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "8288cc0bd9eb9aaca14d83bb",
     "acceptPlayerMessage": "8288cc0bd9eb9aaca14d83bb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25390,7 +25390,7 @@
     "type": "Completion"
   },
   "884ccaafea4eee616f8dae47": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Elite: FN P90 5.7x28 submachine gun",
     "_id": "884ccaafea4eee616f8dae47",
     "acceptPlayerMessage": "884ccaafea4eee616f8dae47 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25666,7 +25666,7 @@
     "type": "Completion"
   },
   "a24e936ff076abb8dd91067c": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "a24e936ff076abb8dd91067c",
     "acceptPlayerMessage": "a24e936ff076abb8dd91067c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -25886,7 +25886,7 @@
     "type": "Completion"
   },
   "53bba466486df2be6ef5d806": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "53bba466486df2be6ef5d806",
     "acceptPlayerMessage": "53bba466486df2be6ef5d806 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26111,7 +26111,7 @@
     "type": "Completion"
   },
   "309e1fd6f9ae5dbcbd6afdb0": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: HK UMP .45 ACP submachine gun",
     "_id": "309e1fd6f9ae5dbcbd6afdb0",
     "acceptPlayerMessage": "309e1fd6f9ae5dbcbd6afdb0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26317,7 +26317,7 @@
     "type": "Completion"
   },
   "025cbc6eb4d51b8c8dbdef57": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "025cbc6eb4d51b8c8dbdef57",
     "acceptPlayerMessage": "025cbc6eb4d51b8c8dbdef57 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26547,7 +26547,7 @@
     "type": "Completion"
   },
   "bbccf9508e62dccdeb0a34f6": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: SIG MPX 9x19 submachine gun",
     "_id": "bbccf9508e62dccdeb0a34f6",
     "acceptPlayerMessage": "bbccf9508e62dccdeb0a34f6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -26801,7 +26801,7 @@
     "type": "Completion"
   },
   "37de6cee0f3fcb109ba9d5ce": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "37de6cee0f3fcb109ba9d5ce",
     "acceptPlayerMessage": "37de6cee0f3fcb109ba9d5ce acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27049,7 +27049,7 @@
     "type": "Completion"
   },
   "e2adaeac5ab327c51e6e78be": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "e2adaeac5ab327c51e6e78be",
     "acceptPlayerMessage": "e2adaeac5ab327c51e6e78be acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27301,7 +27301,7 @@
     "type": "Completion"
   },
   "fc68b17d57a59b13806a4b5a": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "fc68b17d57a59b13806a4b5a",
     "acceptPlayerMessage": "fc68b17d57a59b13806a4b5a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27497,7 +27497,7 @@
     "type": "Completion"
   },
   "4648d19ad72d851a3b1eb1f4": {
-    "QuestName": "[Kho] Weapon Mastery - Tarkov Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Tarkov Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "4648d19ad72d851a3b1eb1f4",
     "acceptPlayerMessage": "4648d19ad72d851a3b1eb1f4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27752,7 +27752,7 @@
     "type": "Completion"
   },
   "6a996cee0bcff4aa5dbb8e8a": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: FN P90 5.7x28 submachine gun",
     "_id": "6a996cee0bcff4aa5dbb8e8a",
     "acceptPlayerMessage": "6a996cee0bcff4aa5dbb8e8a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -27972,7 +27972,7 @@
     "type": "Completion"
   },
   "7deea72fee7c6ffb26c9a0cb": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "7deea72fee7c6ffb26c9a0cb",
     "acceptPlayerMessage": "7deea72fee7c6ffb26c9a0cb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28291,7 +28291,7 @@
     "type": "Completion"
   },
   "aac27fda318f679fb8c51b03": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "aac27fda318f679fb8c51b03",
     "acceptPlayerMessage": "aac27fda318f679fb8c51b03 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28515,7 +28515,7 @@
     "type": "Completion"
   },
   "dc2aad93bfb312d6ef454abe": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: HK UMP .45 ACP submachine gun",
     "_id": "dc2aad93bfb312d6ef454abe",
     "acceptPlayerMessage": "dc2aad93bfb312d6ef454abe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28721,7 +28721,7 @@
     "type": "Completion"
   },
   "f1aadd1c1b79fc0fcfe6f2fd": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "f1aadd1c1b79fc0fcfe6f2fd",
     "acceptPlayerMessage": "f1aadd1c1b79fc0fcfe6f2fd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -28951,7 +28951,7 @@
     "type": "Completion"
   },
   "3cb7a1bf4dd6ea0afdebf604": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: SIG MPX 9x19 submachine gun",
     "_id": "3cb7a1bf4dd6ea0afdebf604",
     "acceptPlayerMessage": "3cb7a1bf4dd6ea0afdebf604 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29205,7 +29205,7 @@
     "type": "Completion"
   },
   "09926ad16eb5ddbf132d3677": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "09926ad16eb5ddbf132d3677",
     "acceptPlayerMessage": "09926ad16eb5ddbf132d3677 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29491,7 +29491,7 @@
     "type": "Completion"
   },
   "f9c0d5176f201ffbba4bfd8f": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: B&T MP9-N 9x19 submachine gun",
     "_id": "f9c0d5176f201ffbba4bfd8f",
     "acceptPlayerMessage": "f9c0d5176f201ffbba4bfd8f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29704,7 +29704,7 @@
     "type": "Completion"
   },
   "0c0fcde9dea5106cd21adc23": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "0c0fcde9dea5106cd21adc23",
     "acceptPlayerMessage": "0c0fcde9dea5106cd21adc23 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -29977,7 +29977,7 @@
     "type": "Completion"
   },
   "854ded4d5fc1de5d3edfaeda": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "854ded4d5fc1de5d3edfaeda",
     "acceptPlayerMessage": "854ded4d5fc1de5d3edfaeda acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30174,7 +30174,7 @@
     "type": "Completion"
   },
   "eca1ef4293e5a458c4510f90": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "eca1ef4293e5a458c4510f90",
     "acceptPlayerMessage": "eca1ef4293e5a458c4510f90 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30493,7 +30493,7 @@
     "type": "Completion"
   },
   "8f466e33cfcacf9ed3b3321d": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "8f466e33cfcacf9ed3b3321d",
     "acceptPlayerMessage": "8f466e33cfcacf9ed3b3321d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -30778,7 +30778,7 @@
     "type": "Completion"
   },
   "3ecb5c274eceaa1916691bc6": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "3ecb5c274eceaa1916691bc6",
     "acceptPlayerMessage": "3ecb5c274eceaa1916691bc6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31002,7 +31002,7 @@
     "type": "Completion"
   },
   "fd0b0c787df94222fe9ffbbb": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: HK UMP .45 ACP submachine gun",
     "_id": "fd0b0c787df94222fe9ffbbb",
     "acceptPlayerMessage": "fd0b0c787df94222fe9ffbbb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31208,7 +31208,7 @@
     "type": "Completion"
   },
   "db07f4ace3d57fc1b66a2de9": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "db07f4ace3d57fc1b66a2de9",
     "acceptPlayerMessage": "db07f4ace3d57fc1b66a2de9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31438,7 +31438,7 @@
     "type": "Completion"
   },
   "bece13b7d8d3ebdcdd5b72c0": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: SIG MPX 9x19 submachine gun",
     "_id": "bece13b7d8d3ebdcdd5b72c0",
     "acceptPlayerMessage": "bece13b7d8d3ebdcdd5b72c0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31730,7 +31730,7 @@
     "type": "Completion"
   },
   "a3a0d358c9e03ac87bdfd2a0": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "a3a0d358c9e03ac87bdfd2a0",
     "acceptPlayerMessage": "a3a0d358c9e03ac87bdfd2a0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -31978,7 +31978,7 @@
     "type": "Completion"
   },
   "92beef5dbe19d23bbbf1157e": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "92beef5dbe19d23bbbf1157e",
     "acceptPlayerMessage": "92beef5dbe19d23bbbf1157e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32266,7 +32266,7 @@
     "type": "Completion"
   },
   "cc1ea5adf99da8fbc2b6afcd": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "cc1ea5adf99da8fbc2b6afcd",
     "acceptPlayerMessage": "cc1ea5adf99da8fbc2b6afcd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32501,7 +32501,7 @@
     "type": "Completion"
   },
   "b341c835b064ef2eb77bfcfe": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "b341c835b064ef2eb77bfcfe",
     "acceptPlayerMessage": "b341c835b064ef2eb77bfcfe acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -32800,7 +32800,7 @@
     "type": "Completion"
   },
   "0c1829630b55ebf527f37ebc": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Veteran: FN P90 5.7x28 submachine gun",
     "_id": "0c1829630b55ebf527f37ebc",
     "acceptPlayerMessage": "0c1829630b55ebf527f37ebc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33085,7 +33085,7 @@
     "type": "Completion"
   },
   "dbb2aa6f63aab8f4ce7dea6e": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "dbb2aa6f63aab8f4ce7dea6e",
     "acceptPlayerMessage": "dbb2aa6f63aab8f4ce7dea6e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -33812,7 +33812,7 @@
     "type": "Completion"
   },
   "c5ad1312ac095f025be919d4": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "c5ad1312ac095f025be919d4",
     "acceptPlayerMessage": "c5ad1312ac095f025be919d4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34036,7 +34036,7 @@
     "type": "Completion"
   },
   "7dbd7ff7b43ffdaebef59582": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: HK UMP .45 ACP submachine gun",
     "_id": "7dbd7ff7b43ffdaebef59582",
     "acceptPlayerMessage": "7dbd7ff7b43ffdaebef59582 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34242,7 +34242,7 @@
     "type": "Completion"
   },
   "e1ad919b5dd26c289c97ac1a": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "e1ad919b5dd26c289c97ac1a",
     "acceptPlayerMessage": "e1ad919b5dd26c289c97ac1a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34510,7 +34510,7 @@
     "type": "Completion"
   },
   "5adbfb2366cc7f2a0d1eb3f7": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: SIG MPX 9x19 submachine gun",
     "_id": "5adbfb2366cc7f2a0d1eb3f7",
     "acceptPlayerMessage": "5adbfb2366cc7f2a0d1eb3f7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -34764,7 +34764,7 @@
     "type": "Completion"
   },
   "7542f5525afdbfd9c78cc336": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "7542f5525afdbfd9c78cc336",
     "acceptPlayerMessage": "7542f5525afdbfd9c78cc336 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35085,7 +35085,7 @@
     "type": "Completion"
   },
   "2eb1acce558769e642bf1cb6": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "2eb1acce558769e642bf1cb6",
     "acceptPlayerMessage": "2eb1acce558769e642bf1cb6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35336,7 +35336,7 @@
     "type": "Completion"
   },
   "a4fcb7bb86f85db79e3d5eab": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "a4fcb7bb86f85db79e3d5eab",
     "acceptPlayerMessage": "a4fcb7bb86f85db79e3d5eab acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35609,7 +35609,7 @@
     "type": "Completion"
   },
   "cbc1cf521fc94eaacac5f35e": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "cbc1cf521fc94eaacac5f35e",
     "acceptPlayerMessage": "cbc1cf521fc94eaacac5f35e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -35873,7 +35873,7 @@
     "type": "Completion"
   },
   "bb050a1c58da7bdddffaec31": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Elite: FN P90 5.7x28 submachine gun",
     "_id": "bb050a1c58da7bdddffaec31",
     "acceptPlayerMessage": "bb050a1c58da7bdddffaec31 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36600,7 +36600,7 @@
     "type": "Completion"
   },
   "bf44efce53c0deac1bfcf3d4": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "bf44efce53c0deac1bfcf3d4",
     "acceptPlayerMessage": "bf44efce53c0deac1bfcf3d4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -36824,7 +36824,7 @@
     "type": "Completion"
   },
   "b5f5130fce6df6bbc75ea8cf": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "b5f5130fce6df6bbc75ea8cf",
     "acceptPlayerMessage": "b5f5130fce6df6bbc75ea8cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37048,7 +37048,7 @@
     "type": "Completion"
   },
   "8bdb13afade08b96e88d62d7": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: HK UMP .45 ACP submachine gun",
     "_id": "8bdb13afade08b96e88d62d7",
     "acceptPlayerMessage": "8bdb13afade08b96e88d62d7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37292,7 +37292,7 @@
     "type": "Completion"
   },
   "cdcacfcb1cfceff2be8016ca": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "cdcacfcb1cfceff2be8016ca",
     "acceptPlayerMessage": "cdcacfcb1cfceff2be8016ca acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37522,7 +37522,7 @@
     "type": "Completion"
   },
   "a85613dc5a9fa3e756396ab9": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "a85613dc5a9fa3e756396ab9",
     "acceptPlayerMessage": "a85613dc5a9fa3e756396ab9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -37849,7 +37849,7 @@
     "type": "Completion"
   },
   "3c0edfd4eacedaec8df151bd": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "3c0edfd4eacedaec8df151bd",
     "acceptPlayerMessage": "3c0edfd4eacedaec8df151bd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38134,7 +38134,7 @@
     "type": "Completion"
   },
   "9fbe1f3bfaa595be0b0d1e2f": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "9fbe1f3bfaa595be0b0d1e2f",
     "acceptPlayerMessage": "9fbe1f3bfaa595be0b0d1e2f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38422,7 +38422,7 @@
     "type": "Completion"
   },
   "fe1cc7361ddceabd1beb0d07": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "fe1cc7361ddceabd1beb0d07",
     "acceptPlayerMessage": "fe1cc7361ddceabd1beb0d07 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -38655,7 +38655,7 @@
     "type": "Completion"
   },
   "1ca1d8bf4dff6edd180db383": {
-    "QuestName": "[Kho] Weapon Mastery - Decapitator Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Decapitator Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "1ca1d8bf4dff6edd180db383",
     "acceptPlayerMessage": "1ca1d8bf4dff6edd180db383 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39374,7 +39374,7 @@
     "type": "Completion"
   },
   "fa17bbdaeabb060b0fcbcbdc": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: FN P90 5.7x28 submachine gun",
     "_id": "fa17bbdaeabb060b0fcbcbdc",
     "acceptPlayerMessage": "fa17bbdaeabb060b0fcbcbdc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39598,7 +39598,7 @@
     "type": "Completion"
   },
   "ea582c3cedbebddcababce9c": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "ea582c3cedbebddcababce9c",
     "acceptPlayerMessage": "ea582c3cedbebddcababce9c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -39823,7 +39823,7 @@
     "type": "Completion"
   },
   "ee7d1032f1c0aafccf82dfab": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "ee7d1032f1c0aafccf82dfab",
     "acceptPlayerMessage": "ee7d1032f1c0aafccf82dfab acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40085,7 +40085,7 @@
     "type": "Completion"
   },
   "bcc25cbaaad89489fcea5a3f": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: HK UMP .45 ACP submachine gun",
     "_id": "bcc25cbaaad89489fcea5a3f",
     "acceptPlayerMessage": "bcc25cbaaad89489fcea5a3f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40291,7 +40291,7 @@
     "type": "Completion"
   },
   "ec1480cbbfbd9da21d9b7aae": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "ec1480cbbfbd9da21d9b7aae",
     "acceptPlayerMessage": "ec1480cbbfbd9da21d9b7aae acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40594,7 +40594,7 @@
     "type": "Completion"
   },
   "fde1600d2cded1339ac83bd1": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "fde1600d2cded1339ac83bd1",
     "acceptPlayerMessage": "fde1600d2cded1339ac83bd1 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -40885,7 +40885,7 @@
     "type": "Completion"
   },
   "7eeddaf78deb083aced8edea": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "7eeddaf78deb083aced8edea",
     "acceptPlayerMessage": "7eeddaf78deb083aced8edea acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41206,7 +41206,7 @@
     "type": "Completion"
   },
   "ecfc1331ed1df2865dd23409": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "ecfc1331ed1df2865dd23409",
     "acceptPlayerMessage": "ecfc1331ed1df2865dd23409 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41455,7 +41455,7 @@
     "type": "Completion"
   },
   "75aaefaabdb8cbfe7fa04bbf": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "75aaefaabdb8cbfe7fa04bbf",
     "acceptPlayerMessage": "75aaefaabdb8cbfe7fa04bbf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41688,7 +41688,7 @@
     "type": "Completion"
   },
   "f5d4aacef83aca9e45e61a9e": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "f5d4aacef83aca9e45e61a9e",
     "acceptPlayerMessage": "f5d4aacef83aca9e45e61a9e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -41889,7 +41889,7 @@
     "type": "Completion"
   },
   "a732dac64be4eccc600fba41": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: FN P90 5.7x28 submachine gun",
     "_id": "a732dac64be4eccc600fba41",
     "acceptPlayerMessage": "a732dac64be4eccc600fba41 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -42114,7 +42114,7 @@
     "type": "Completion"
   },
   "3f22df765ad0eabcd29abe7c": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "3f22df765ad0eabcd29abe7c",
     "acceptPlayerMessage": "3f22df765ad0eabcd29abe7c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -42338,7 +42338,7 @@
     "type": "Completion"
   },
   "b32db8cc0b06a9e035dbeef5": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "b32db8cc0b06a9e035dbeef5",
     "acceptPlayerMessage": "b32db8cc0b06a9e035dbeef5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -42562,7 +42562,7 @@
     "type": "Completion"
   },
   "eec43a08aa7ed3fe1fc37fbf": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "eec43a08aa7ed3fe1fc37fbf",
     "acceptPlayerMessage": "eec43a08aa7ed3fe1fc37fbf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -42841,7 +42841,7 @@
     "type": "Completion"
   },
   "aca2fec4ef4c50d7787bd43d": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "aca2fec4ef4c50d7787bd43d",
     "acceptPlayerMessage": "aca2fec4ef4c50d7787bd43d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -43108,7 +43108,7 @@
     "type": "Completion"
   },
   "0d2e3dbcc9aa52cce4ffabc3": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "0d2e3dbcc9aa52cce4ffabc3",
     "acceptPlayerMessage": "0d2e3dbcc9aa52cce4ffabc3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -43435,7 +43435,7 @@
     "type": "Completion"
   },
   "9d1f5c4ed1e434ed9efff1ce": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "9d1f5c4ed1e434ed9efff1ce",
     "acceptPlayerMessage": "9d1f5c4ed1e434ed9efff1ce acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -43718,7 +43718,7 @@
     "type": "Completion"
   },
   "cfe4ebaa7f590bc5c37eee48": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "cfe4ebaa7f590bc5c37eee48",
     "acceptPlayerMessage": "cfe4ebaa7f590bc5c37eee48 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -43967,7 +43967,7 @@
     "type": "Completion"
   },
   "e17fec59db5711331cddd91e": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "e17fec59db5711331cddd91e",
     "acceptPlayerMessage": "e17fec59db5711331cddd91e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -44240,7 +44240,7 @@
     "type": "Completion"
   },
   "e018379db5ad14ba72b39dbd": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "e018379db5ad14ba72b39dbd",
     "acceptPlayerMessage": "e018379db5ad14ba72b39dbd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -44442,7 +44442,7 @@
     "type": "Completion"
   },
   "d8fccb3ae9aeba69bdfeb1d7": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: FN P90 5.7x28 submachine gun",
     "_id": "d8fccb3ae9aeba69bdfeb1d7",
     "acceptPlayerMessage": "d8fccb3ae9aeba69bdfeb1d7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -44666,7 +44666,7 @@
     "type": "Completion"
   },
   "4d8d3ba7bf715367e5ebf4bc": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "4d8d3ba7bf715367e5ebf4bc",
     "acceptPlayerMessage": "4d8d3ba7bf715367e5ebf4bc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -44890,7 +44890,7 @@
     "type": "Completion"
   },
   "cda59b3cc85d948c35ebfc66": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "cda59b3cc85d948c35ebfc66",
     "acceptPlayerMessage": "cda59b3cc85d948c35ebfc66 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -45187,7 +45187,7 @@
     "type": "Completion"
   },
   "f13ad5ef78cb6b035cdb46ea": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "f13ad5ef78cb6b035cdb46ea",
     "acceptPlayerMessage": "f13ad5ef78cb6b035cdb46ea acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -45430,7 +45430,7 @@
     "type": "Completion"
   },
   "a19de5f8fdadfe35d4ee0f8a": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "a19de5f8fdadfe35d4ee0f8a",
     "acceptPlayerMessage": "a19de5f8fdadfe35d4ee0f8a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -45733,7 +45733,7 @@
     "type": "Completion"
   },
   "5ebecc733ffce09e5484642e": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "5ebecc733ffce09e5484642e",
     "acceptPlayerMessage": "5ebecc733ffce09e5484642e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -46022,7 +46022,7 @@
     "type": "Completion"
   },
   "7aafcedcd7ef4bdac1ed9eb7": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "7aafcedcd7ef4bdac1ed9eb7",
     "acceptPlayerMessage": "7aafcedcd7ef4bdac1ed9eb7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -46305,7 +46305,7 @@
     "type": "Completion"
   },
   "5a643f3e9676dbf1c70dc6e6": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "5a643f3e9676dbf1c70dc6e6",
     "acceptPlayerMessage": "5a643f3e9676dbf1c70dc6e6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -46593,7 +46593,7 @@
     "type": "Completion"
   },
   "cff7299b8cb9bd31c8982aed": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "cff7299b8cb9bd31c8982aed",
     "acceptPlayerMessage": "cff7299b8cb9bd31c8982aed acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -46829,7 +46829,7 @@
     "type": "Completion"
   },
   "0ffb6dda9ff94bbc7a7fa3cf": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "0ffb6dda9ff94bbc7a7fa3cf",
     "acceptPlayerMessage": "0ffb6dda9ff94bbc7a7fa3cf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -47030,7 +47030,7 @@
     "type": "Completion"
   },
   "b54abdc92c2153ecd8afe7ec": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: FN P90 5.7x28 submachine gun",
     "_id": "b54abdc92c2153ecd8afe7ec",
     "acceptPlayerMessage": "b54abdc92c2153ecd8afe7ec acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -47254,7 +47254,7 @@
     "type": "Completion"
   },
   "246e8fbc6b57b843e8f0c212": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "246e8fbc6b57b843e8f0c212",
     "acceptPlayerMessage": "246e8fbc6b57b843e8f0c212 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -47478,7 +47478,7 @@
     "type": "Completion"
   },
   "4717bcdc5a5ff9dfb046f00b": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "4717bcdc5a5ff9dfb046f00b",
     "acceptPlayerMessage": "4717bcdc5a5ff9dfb046f00b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -47739,7 +47739,7 @@
     "type": "Completion"
   },
   "5acacac490f5e8fbeef5b1e7": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "5acacac490f5e8fbeef5b1e7",
     "acceptPlayerMessage": "5acacac490f5e8fbeef5b1e7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -48018,7 +48018,7 @@
     "type": "Completion"
   },
   "41b3ef8b5ee3b728bfe019e7": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "41b3ef8b5ee3b728bfe019e7",
     "acceptPlayerMessage": "41b3ef8b5ee3b728bfe019e7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -48283,7 +48283,7 @@
     "type": "Completion"
   },
   "afe7ac57df6fea8aa4afbde2": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "afe7ac57df6fea8aa4afbde2",
     "acceptPlayerMessage": "afe7ac57df6fea8aa4afbde2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -48572,7 +48572,7 @@
     "type": "Completion"
   },
   "2bc3623b36d1db2a85bcef8e": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "2bc3623b36d1db2a85bcef8e",
     "acceptPlayerMessage": "2bc3623b36d1db2a85bcef8e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -48893,7 +48893,7 @@
     "type": "Completion"
   },
   "ecae6ff2477fe9ce40d26456": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "ecae6ff2477fe9ce40d26456",
     "acceptPlayerMessage": "ecae6ff2477fe9ce40d26456 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -49145,7 +49145,7 @@
     "type": "Completion"
   },
   "15dcbedff37fcea3d0b6ae15": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: PP-91-01 'Kedr-B' 9x18PM submachine gun",
     "_id": "15dcbedff37fcea3d0b6ae15",
     "acceptPlayerMessage": "15dcbedff37fcea3d0b6ae15 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -49378,7 +49378,7 @@
     "type": "Completion"
   },
   "120d2c16fcfadea5dc8bd121": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "120d2c16fcfadea5dc8bd121",
     "acceptPlayerMessage": "120d2c16fcfadea5dc8bd121 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -49579,7 +49579,7 @@
     "type": "Completion"
   },
   "9f6d40a4b6fddc3a65dd490d": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: FN P90 5.7x28 submachine gun",
     "_id": "9f6d40a4b6fddc3a65dd490d",
     "acceptPlayerMessage": "9f6d40a4b6fddc3a65dd490d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -49803,7 +49803,7 @@
     "type": "Completion"
   },
   "8854fb2201dbff9a42bf1ed2": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "8854fb2201dbff9a42bf1ed2",
     "acceptPlayerMessage": "8854fb2201dbff9a42bf1ed2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -50027,7 +50027,7 @@
     "type": "Completion"
   },
   "fed8f2b9cc9cd1ca0f7d5e3a": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "fed8f2b9cc9cd1ca0f7d5e3a",
     "acceptPlayerMessage": "fed8f2b9cc9cd1ca0f7d5e3a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -50324,7 +50324,7 @@
     "type": "Completion"
   },
   "3e44fb227e8c9ac7cb8c0ed9": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "3e44fb227e8c9ac7cb8c0ed9",
     "acceptPlayerMessage": "3e44fb227e8c9ac7cb8c0ed9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -50565,7 +50565,7 @@
     "type": "Completion"
   },
   "dc3dffbdfccafecd25cae84e": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "dc3dffbdfccafecd25cae84e",
     "acceptPlayerMessage": "dc3dffbdfccafecd25cae84e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -50830,7 +50830,7 @@
     "type": "Completion"
   },
   "9c24ffc50084e5164fbd804a": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "9c24ffc50084e5164fbd804a",
     "acceptPlayerMessage": "9c24ffc50084e5164fbd804a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -51157,7 +51157,7 @@
     "type": "Completion"
   },
   "a2bfccaf7b0433974c1fb7dd": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "a2bfccaf7b0433974c1fb7dd",
     "acceptPlayerMessage": "a2bfccaf7b0433974c1fb7dd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -51443,7 +51443,7 @@
     "type": "Completion"
   },
   "0c8477d77b3b011bbe1bcfa4": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: B&T MP9-N 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: B&T MP9-N 9x19 submachine gun",
     "_id": "0c8477d77b3b011bbe1bcfa4",
     "acceptPlayerMessage": "0c8477d77b3b011bbe1bcfa4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -51692,7 +51692,7 @@
     "type": "Completion"
   },
   "5058c9ebced3a89647a4dbbb": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "5058c9ebced3a89647a4dbbb",
     "acceptPlayerMessage": "5058c9ebced3a89647a4dbbb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -51893,7 +51893,7 @@
     "type": "Completion"
   },
   "bad277cb7a53d4c78a55cba5": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: FN P90 5.7x28 submachine gun",
     "_id": "bad277cb7a53d4c78a55cba5",
     "acceptPlayerMessage": "bad277cb7a53d4c78a55cba5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -52117,7 +52117,7 @@
     "type": "Completion"
   },
   "fdae1ca1fc1b0dea77fdbae3": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "fdae1ca1fc1b0dea77fdbae3",
     "acceptPlayerMessage": "fdae1ca1fc1b0dea77fdbae3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -52379,7 +52379,7 @@
     "type": "Completion"
   },
   "0bec4c0a5777b65dcf67a0f0": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "0bec4c0a5777b65dcf67a0f0",
     "acceptPlayerMessage": "0bec4c0a5777b65dcf67a0f0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -52638,7 +52638,7 @@
     "type": "Completion"
   },
   "ca5a7be8f8378ab9004c1f74": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "ca5a7be8f8378ab9004c1f74",
     "acceptPlayerMessage": "ca5a7be8f8378ab9004c1f74 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -52879,7 +52879,7 @@
     "type": "Completion"
   },
   "dab93dff6e35d8d2baf4f0e0": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "dab93dff6e35d8d2baf4f0e0",
     "acceptPlayerMessage": "dab93dff6e35d8d2baf4f0e0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -53182,7 +53182,7 @@
     "type": "Completion"
   },
   "dee6e1a4acf9dfecb9e9025c": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "dee6e1a4acf9dfecb9e9025c",
     "acceptPlayerMessage": "dee6e1a4acf9dfecb9e9025c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -53474,7 +53474,7 @@
     "type": "Completion"
   },
   "a86cca2f4e65c99bffc95d37": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: PP-19-01 'Vityaz' 9x19 submachine gun",
     "_id": "a86cca2f4e65c99bffc95d37",
     "acceptPlayerMessage": "a86cca2f4e65c99bffc95d37 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -53757,7 +53757,7 @@
     "type": "Completion"
   },
   "76baea81f15fd271fd6fee11": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "76baea81f15fd271fd6fee11",
     "acceptPlayerMessage": "76baea81f15fd271fd6fee11 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -53958,7 +53958,7 @@
     "type": "Completion"
   },
   "d9aabb29bdda6dd3ae954f5d": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: FN P90 5.7x28 submachine gun",
     "_id": "d9aabb29bdda6dd3ae954f5d",
     "acceptPlayerMessage": "d9aabb29bdda6dd3ae954f5d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -54220,7 +54220,7 @@
     "type": "Completion"
   },
   "e89540aacafc52e5ecdaffcc": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "e89540aacafc52e5ecdaffcc",
     "acceptPlayerMessage": "e89540aacafc52e5ecdaffcc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -54444,7 +54444,7 @@
     "type": "Completion"
   },
   "1c2acca05e08d9896102d7c5": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "1c2acca05e08d9896102d7c5",
     "acceptPlayerMessage": "1c2acca05e08d9896102d7c5 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -54703,7 +54703,7 @@
     "type": "Completion"
   },
   "865ced4827128f42b42efebf": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "865ced4827128f42b42efebf",
     "acceptPlayerMessage": "865ced4827128f42b42efebf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -54982,7 +54982,7 @@
     "type": "Completion"
   },
   "c89abcd32c24831bd2ecfb42": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "c89abcd32c24831bd2ecfb42",
     "acceptPlayerMessage": "c89abcd32c24831bd2ecfb42 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -55250,7 +55250,7 @@
     "type": "Completion"
   },
   "a17c5182a6fbab88f7b5bffb": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: SIG MPX 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: SIG MPX 9x19 submachine gun",
     "_id": "a17c5182a6fbab88f7b5bffb",
     "acceptPlayerMessage": "a17c5182a6fbab88f7b5bffb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -55539,7 +55539,7 @@
     "type": "Completion"
   },
   "ffe6bc1413fee7b13851a83b": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "ffe6bc1413fee7b13851a83b",
     "acceptPlayerMessage": "ffe6bc1413fee7b13851a83b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -55779,7 +55779,7 @@
     "type": "Completion"
   },
   "9f8338a6d7e3cdad10a0dee2": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: FN P90 5.7x28 submachine gun",
     "_id": "9f8338a6d7e3cdad10a0dee2",
     "acceptPlayerMessage": "9f8338a6d7e3cdad10a0dee2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -56003,7 +56003,7 @@
     "type": "Completion"
   },
   "9f240e537c58b9da4cdb698a": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "9f240e537c58b9da4cdb698a",
     "acceptPlayerMessage": "9f240e537c58b9da4cdb698a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -56300,7 +56300,7 @@
     "type": "Completion"
   },
   "abd0aeadc787dd3aa4fa0e76": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "abd0aeadc787dd3aa4fa0e76",
     "acceptPlayerMessage": "abd0aeadc787dd3aa4fa0e76 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -56597,7 +56597,7 @@
     "type": "Completion"
   },
   "1b3c6478d9f6e72f1b6ac96f": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "1b3c6478d9f6e72f1b6ac96f",
     "acceptPlayerMessage": "1b3c6478d9f6e72f1b6ac96f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -56841,7 +56841,7 @@
     "type": "Completion"
   },
   "4162dc5121a86f142afdad6d": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: Soyuz-TM STM-9 Gen.2 9x19 carbine",
     "_id": "4162dc5121a86f142afdad6d",
     "acceptPlayerMessage": "4162dc5121a86f142afdad6d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -57106,7 +57106,7 @@
     "type": "Completion"
   },
   "d705bbe1bccdbce15a4f1e61": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Rookie: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Rookie: HK MP7A2 4.6x30 submachine gun",
     "_id": "d705bbe1bccdbce15a4f1e61",
     "acceptPlayerMessage": "d705bbe1bccdbce15a4f1e61 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -57307,7 +57307,7 @@
     "type": "Completion"
   },
   "da9fae4ccde0c9bfebbf8cc6": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "da9fae4ccde0c9bfebbf8cc6",
     "acceptPlayerMessage": "da9fae4ccde0c9bfebbf8cc6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -57604,7 +57604,7 @@
     "type": "Completion"
   },
   "e1fa43c3be6ed19e5cedeec7": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "e1fa43c3be6ed19e5cedeec7",
     "acceptPlayerMessage": "e1fa43c3be6ed19e5cedeec7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -57865,7 +57865,7 @@
     "type": "Completion"
   },
   "160c1d2ba2b494a5506ea9ef": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "160c1d2ba2b494a5506ea9ef",
     "acceptPlayerMessage": "160c1d2ba2b494a5506ea9ef acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -58127,7 +58127,7 @@
     "type": "Completion"
   },
   "1aa7e3bfa3350c03bd60efe8": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: HK UMP .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: HK UMP .45 ACP submachine gun",
     "_id": "1aa7e3bfa3350c03bd60efe8",
     "acceptPlayerMessage": "1aa7e3bfa3350c03bd60efe8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -58368,7 +58368,7 @@
     "type": "Completion"
   },
   "a570febac0e3a59dc17a7ece": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "a570febac0e3a59dc17a7ece",
     "acceptPlayerMessage": "a570febac0e3a59dc17a7ece acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -58644,7 +58644,7 @@
     "type": "Completion"
   },
   "a8429aabf21048fea39ad2c2": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "a8429aabf21048fea39ad2c2",
     "acceptPlayerMessage": "a8429aabf21048fea39ad2c2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -58905,7 +58905,7 @@
     "type": "Completion"
   },
   "ee2ae6ee75fbbeb43fcc0de9": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "ee2ae6ee75fbbeb43fcc0de9",
     "acceptPlayerMessage": "ee2ae6ee75fbbeb43fcc0de9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -59202,7 +59202,7 @@
     "type": "Completion"
   },
   "d4a3f9eaafea9f0b6eaff401": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: TDI KRISS Vector Gen.2 .45 ACP submachine gun",
     "_id": "d4a3f9eaafea9f0b6eaff401",
     "acceptPlayerMessage": "d4a3f9eaafea9f0b6eaff401 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -59461,7 +59461,7 @@
     "type": "Completion"
   },
   "c3bda1f9c0f03ba331be9adf": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "c3bda1f9c0f03ba331be9adf",
     "acceptPlayerMessage": "c3bda1f9c0f03ba331be9adf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -59700,7 +59700,7 @@
     "type": "Completion"
   },
   "dfa74a1bae475a2e388bfade": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "dfa74a1bae475a2e388bfade",
     "acceptPlayerMessage": "dfa74a1bae475a2e388bfade acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -59997,7 +59997,7 @@
     "type": "Completion"
   },
   "3e4dda5a6af5a4987d045ba6": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "3e4dda5a6af5a4987d045ba6",
     "acceptPlayerMessage": "3e4dda5a6af5a4987d045ba6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -60256,7 +60256,7 @@
     "type": "Completion"
   },
   "cbb21eeea38de92ce3ad1ffa": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "cbb21eeea38de92ce3ad1ffa",
     "acceptPlayerMessage": "cbb21eeea38de92ce3ad1ffa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -60532,7 +60532,7 @@
     "type": "Completion"
   },
   "1e02f0ac8edcceccff2c9fdc": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "1e02f0ac8edcceccff2c9fdc",
     "acceptPlayerMessage": "1e02f0ac8edcceccff2c9fdc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -60791,7 +60791,7 @@
     "type": "Completion"
   },
   "dcaeedfc8b9d7acf78a0928a": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "dcaeedfc8b9d7acf78a0928a",
     "acceptPlayerMessage": "dcaeedfc8b9d7acf78a0928a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -61050,7 +61050,7 @@
     "type": "Completion"
   },
   "ad0ec5959adbddcd30edca7a": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "ad0ec5959adbddcd30edca7a",
     "acceptPlayerMessage": "ad0ec5959adbddcd30edca7a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -61287,7 +61287,7 @@
     "type": "Completion"
   },
   "f7ffabaec8c08d3ddda507d3": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "f7ffabaec8c08d3ddda507d3",
     "acceptPlayerMessage": "f7ffabaec8c08d3ddda507d3 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -61546,7 +61546,7 @@
     "type": "Completion"
   },
   "638c917081845fff1b1e9d2c": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "638c917081845fff1b1e9d2c",
     "acceptPlayerMessage": "638c917081845fff1b1e9d2c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -61843,7 +61843,7 @@
     "type": "Completion"
   },
   "8bbe64b7aac4733a703ea8bf": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "8bbe64b7aac4733a703ea8bf",
     "acceptPlayerMessage": "8bbe64b7aac4733a703ea8bf acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -62080,7 +62080,7 @@
     "type": "Completion"
   },
   "68cbb4bab3d650e8c9d34ffb": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "68cbb4bab3d650e8c9d34ffb",
     "acceptPlayerMessage": "68cbb4bab3d650e8c9d34ffb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -62377,7 +62377,7 @@
     "type": "Completion"
   },
   "fab1e675a2bbd2d0b7fb4dc0": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "fab1e675a2bbd2d0b7fb4dc0",
     "acceptPlayerMessage": "fab1e675a2bbd2d0b7fb4dc0 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -62639,7 +62639,7 @@
     "type": "Completion"
   },
   "8f12a7ebd62bd1fcdecdc0ff": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "8f12a7ebd62bd1fcdecdc0ff",
     "acceptPlayerMessage": "8f12a7ebd62bd1fcdecdc0ff acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -62915,7 +62915,7 @@
     "type": "Completion"
   },
   "74ba2645c9ef0f18038c116a": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "74ba2645c9ef0f18038c116a",
     "acceptPlayerMessage": "74ba2645c9ef0f18038c116a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -63177,7 +63177,7 @@
     "type": "Completion"
   },
   "a7e8bddebee2383fba9b5bd4": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "a7e8bddebee2383fba9b5bd4",
     "acceptPlayerMessage": "a7e8bddebee2383fba9b5bd4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -63436,7 +63436,7 @@
     "type": "Completion"
   },
   "51f2dbeb73ae14a1c4b49a4d": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "51f2dbeb73ae14a1c4b49a4d",
     "acceptPlayerMessage": "51f2dbeb73ae14a1c4b49a4d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -63676,7 +63676,7 @@
     "type": "Completion"
   },
   "eb55336fdce495bc615e2a1a": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: FN P90 5.7x28 submachine gun",
     "_id": "eb55336fdce495bc615e2a1a",
     "acceptPlayerMessage": "eb55336fdce495bc615e2a1a acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -63935,7 +63935,7 @@
     "type": "Completion"
   },
   "a90be47eb7cda74de06b120b": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "a90be47eb7cda74de06b120b",
     "acceptPlayerMessage": "a90be47eb7cda74de06b120b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -64346,7 +64346,7 @@
     "type": "Completion"
   },
   "1fcc1ee7da3d15a27bef7ebc": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Seasoned: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Seasoned: HK MP7A2 4.6x30 submachine gun",
     "_id": "1fcc1ee7da3d15a27bef7ebc",
     "acceptPlayerMessage": "1fcc1ee7da3d15a27bef7ebc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -64583,7 +64583,7 @@
     "type": "Completion"
   },
   "3af6313faee25c65c8f5d8ba": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Veteran: FN P90 5.7x28 submachine gun",
     "_id": "3af6313faee25c65c8f5d8ba",
     "acceptPlayerMessage": "3af6313faee25c65c8f5d8ba acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -64994,7 +64994,7 @@
     "type": "Completion"
   },
   "b16e2ce829d8900ecf932dd8": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "b16e2ce829d8900ecf932dd8",
     "acceptPlayerMessage": "b16e2ce829d8900ecf932dd8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -65294,7 +65294,7 @@
     "type": "Completion"
   },
   "fc3f4e0fa1dff7fe341dce39": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "fc3f4e0fa1dff7fe341dce39",
     "acceptPlayerMessage": "fc3f4e0fa1dff7fe341dce39 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -65687,7 +65687,7 @@
     "type": "Completion"
   },
   "ece99fe5a42deea9cb0b35fa": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Veteran: FN P90 5.7x28 submachine gun",
     "_id": "ece99fe5a42deea9cb0b35fa",
     "acceptPlayerMessage": "ece99fe5a42deea9cb0b35fa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -65987,7 +65987,7 @@
     "type": "Completion"
   },
   "f2c84d805ebdcac7b9014afc": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "f2c84d805ebdcac7b9014afc",
     "acceptPlayerMessage": "f2c84d805ebdcac7b9014afc acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -66398,7 +66398,7 @@
     "type": "Completion"
   },
   "dfdca7717cafacfaeaec15b7": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "dfdca7717cafacfaeaec15b7",
     "acceptPlayerMessage": "dfdca7717cafacfaeaec15b7 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -66677,7 +66677,7 @@
     "type": "Completion"
   },
   "f3f2dddedb3dfe5ceb5e4dff": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Veteran: FN P90 5.7x28 submachine gun",
     "_id": "f3f2dddedb3dfe5ceb5e4dff",
     "acceptPlayerMessage": "f3f2dddedb3dfe5ceb5e4dff acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -67088,7 +67088,7 @@
     "type": "Completion"
   },
   "280c7e0ac599cd7bdda42c74": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "280c7e0ac599cd7bdda42c74",
     "acceptPlayerMessage": "280c7e0ac599cd7bdda42c74 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -67385,7 +67385,7 @@
     "type": "Completion"
   },
   "8a5de9fdfa5f559dd7dfbb94": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "8a5de9fdfa5f559dd7dfbb94",
     "acceptPlayerMessage": "8a5de9fdfa5f559dd7dfbb94 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -67778,7 +67778,7 @@
     "type": "Completion"
   },
   "bf6b266ea77bde983c72d3eb": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Veteran: FN P90 5.7x28 submachine gun",
     "_id": "bf6b266ea77bde983c72d3eb",
     "acceptPlayerMessage": "bf6b266ea77bde983c72d3eb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -68075,7 +68075,7 @@
     "type": "Completion"
   },
   "8d39dd1617bea29c599f19f8": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "8d39dd1617bea29c599f19f8",
     "acceptPlayerMessage": "8d39dd1617bea29c599f19f8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -68486,7 +68486,7 @@
     "type": "Completion"
   },
   "f66b65e6cebce1caf8bc2a41": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "f66b65e6cebce1caf8bc2a41",
     "acceptPlayerMessage": "f66b65e6cebce1caf8bc2a41 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -68762,7 +68762,7 @@
     "type": "Completion"
   },
   "a92ebb6f3cd8f3db74348f2e": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Veteran: FN P90 5.7x28 submachine gun",
     "_id": "a92ebb6f3cd8f3db74348f2e",
     "acceptPlayerMessage": "a92ebb6f3cd8f3db74348f2e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -69173,7 +69173,7 @@
     "type": "Completion"
   },
   "d6e1badee9adfc005bf62eca": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "d6e1badee9adfc005bf62eca",
     "acceptPlayerMessage": "d6e1badee9adfc005bf62eca acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -69622,7 +69622,7 @@
     "type": "Completion"
   },
   "ce8f9da82efdb11e3f0a5d0c": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "ce8f9da82efdb11e3f0a5d0c",
     "acceptPlayerMessage": "ce8f9da82efdb11e3f0a5d0c acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -70015,7 +70015,7 @@
     "type": "Completion"
   },
   "fe81c6baa8b51967ddbafaef": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Veteran: FN P90 5.7x28 submachine gun",
     "_id": "fe81c6baa8b51967ddbafaef",
     "acceptPlayerMessage": "fe81c6baa8b51967ddbafaef acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -70464,7 +70464,7 @@
     "type": "Completion"
   },
   "6efda9cd183c0ae9a5cb399e": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "6efda9cd183c0ae9a5cb399e",
     "acceptPlayerMessage": "6efda9cd183c0ae9a5cb399e acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -70726,7 +70726,7 @@
     "type": "Completion"
   },
   "3271b4a49ce28857d6609543": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "3271b4a49ce28857d6609543",
     "acceptPlayerMessage": "3271b4a49ce28857d6609543 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -71158,7 +71158,7 @@
     "type": "Completion"
   },
   "dc5f4b976ef6c98b1f98a3bb": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Veteran: FN P90 5.7x28 submachine gun",
     "_id": "dc5f4b976ef6c98b1f98a3bb",
     "acceptPlayerMessage": "dc5f4b976ef6c98b1f98a3bb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -71420,7 +71420,7 @@
     "type": "Completion"
   },
   "cf4e1c5b6cd6a788a7c2cee8": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Veteran: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "cf4e1c5b6cd6a788a7c2cee8",
     "acceptPlayerMessage": "cf4e1c5b6cd6a788a7c2cee8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -71717,7 +71717,7 @@
     "type": "Completion"
   },
   "17e5aa9bd08cfe6e574b53f4": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "17e5aa9bd08cfe6e574b53f4",
     "acceptPlayerMessage": "17e5aa9bd08cfe6e574b53f4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -71957,7 +71957,7 @@
     "type": "Completion"
   },
   "cdddc96aa6db72eb1edaf1a4": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Veteran: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Veteran: FN P90 5.7x28 submachine gun",
     "_id": "cdddc96aa6db72eb1edaf1a4",
     "acceptPlayerMessage": "cdddc96aa6db72eb1edaf1a4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -72254,7 +72254,7 @@
     "type": "Completion"
   },
   "29a475a586bb6dfc255cedca": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "29a475a586bb6dfc255cedca",
     "acceptPlayerMessage": "29a475a586bb6dfc255cedca acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -72665,7 +72665,7 @@
     "type": "Completion"
   },
   "49ffaadfe1dfccac877039a6": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Veteran: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Veteran: HK MP7A2 4.6x30 submachine gun",
     "_id": "49ffaadfe1dfccac877039a6",
     "acceptPlayerMessage": "49ffaadfe1dfccac877039a6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -72941,7 +72941,7 @@
     "type": "Completion"
   },
   "f16cfb1b5c6a1a3bb5eca0aa": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Elite: FN P90 5.7x28 submachine gun",
     "_id": "f16cfb1b5c6a1a3bb5eca0aa",
     "acceptPlayerMessage": "f16cfb1b5c6a1a3bb5eca0aa acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -73352,7 +73352,7 @@
     "type": "Completion"
   },
   "31b25fda776ce3ae36fea4e2": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "31b25fda776ce3ae36fea4e2",
     "acceptPlayerMessage": "31b25fda776ce3ae36fea4e2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -73652,7 +73652,7 @@
     "type": "Completion"
   },
   "3e34f3dc37abcce0aaf5fad2": {
-    "QuestName": "[Kho] Weapon Mastery - Customs Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Customs Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "3e34f3dc37abcce0aaf5fad2",
     "acceptPlayerMessage": "3e34f3dc37abcce0aaf5fad2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -74045,7 +74045,7 @@
     "type": "Completion"
   },
   "47eb105cd0df5aecb992bc41": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Elite: FN P90 5.7x28 submachine gun",
     "_id": "47eb105cd0df5aecb992bc41",
     "acceptPlayerMessage": "47eb105cd0df5aecb992bc41 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -74345,7 +74345,7 @@
     "type": "Completion"
   },
   "2b6efac23b4ffbc40cdb3503": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "2b6efac23b4ffbc40cdb3503",
     "acceptPlayerMessage": "2b6efac23b4ffbc40cdb3503 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -74756,7 +74756,7 @@
     "type": "Completion"
   },
   "9c5b4dd48badb8e8ea70ade4": {
-    "QuestName": "[Kho] Weapon Mastery - Factory Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Factory Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "9c5b4dd48badb8e8ea70ade4",
     "acceptPlayerMessage": "9c5b4dd48badb8e8ea70ade4 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -75035,7 +75035,7 @@
     "type": "Completion"
   },
   "cb2f91dd2b4be55caacbd39f": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Elite: FN P90 5.7x28 submachine gun",
     "_id": "cb2f91dd2b4be55caacbd39f",
     "acceptPlayerMessage": "cb2f91dd2b4be55caacbd39f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -75446,7 +75446,7 @@
     "type": "Completion"
   },
   "bcdcbfdddb5c9f6932a310a8": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "bcdcbfdddb5c9f6932a310a8",
     "acceptPlayerMessage": "bcdcbfdddb5c9f6932a310a8 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -75743,7 +75743,7 @@
     "type": "Completion"
   },
   "aa404afe7e220ccf67eaf8b6": {
-    "QuestName": "[Kho] Weapon Mastery - Woods Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Woods Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "aa404afe7e220ccf67eaf8b6",
     "acceptPlayerMessage": "aa404afe7e220ccf67eaf8b6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -76136,7 +76136,7 @@
     "type": "Completion"
   },
   "7fe5bdeaefdff8caceee6139": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Elite: FN P90 5.7x28 submachine gun",
     "_id": "7fe5bdeaefdff8caceee6139",
     "acceptPlayerMessage": "7fe5bdeaefdff8caceee6139 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -76433,7 +76433,7 @@
     "type": "Completion"
   },
   "6a7fbbef1fce92acfbc306ac": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "6a7fbbef1fce92acfbc306ac",
     "acceptPlayerMessage": "6a7fbbef1fce92acfbc306ac acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -76844,7 +76844,7 @@
     "type": "Completion"
   },
   "bfff076ec45cc2769deecaa9": {
-    "QuestName": "[Kho] Weapon Mastery - Interchange Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Interchange Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "bfff076ec45cc2769deecaa9",
     "acceptPlayerMessage": "bfff076ec45cc2769deecaa9 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -77120,7 +77120,7 @@
     "type": "Completion"
   },
   "ffea0fced205c2d0c4bdc9eb": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Elite: FN P90 5.7x28 submachine gun",
     "_id": "ffea0fced205c2d0c4bdc9eb",
     "acceptPlayerMessage": "ffea0fced205c2d0c4bdc9eb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -77531,7 +77531,7 @@
     "type": "Completion"
   },
   "fd4e93cf2173427dc6bd3ec2": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "fd4e93cf2173427dc6bd3ec2",
     "acceptPlayerMessage": "fd4e93cf2173427dc6bd3ec2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -78056,7 +78056,7 @@
     "type": "Completion"
   },
   "dbaa40e9fa3be4807fdff1d6": {
-    "QuestName": "[Kho] Weapon Mastery - Shoreline Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Shoreline Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "dbaa40e9fa3be4807fdff1d6",
     "acceptPlayerMessage": "dbaa40e9fa3be4807fdff1d6 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -78449,7 +78449,7 @@
     "type": "Completion"
   },
   "55e95de6fd1571ccf98a2524": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Elite: FN P90 5.7x28 submachine gun",
     "_id": "55e95de6fd1571ccf98a2524",
     "acceptPlayerMessage": "55e95de6fd1571ccf98a2524 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -78974,7 +78974,7 @@
     "type": "Completion"
   },
   "f6e5787697d04aea391ff0dd": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "f6e5787697d04aea391ff0dd",
     "acceptPlayerMessage": "f6e5787697d04aea391ff0dd acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -79236,7 +79236,7 @@
     "type": "Completion"
   },
   "ad7aab6506aa378cfaffde0f": {
-    "QuestName": "[Kho] Weapon Mastery - Reserve base Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Reserve base Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "ad7aab6506aa378cfaffde0f",
     "acceptPlayerMessage": "ad7aab6506aa378cfaffde0f acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -79746,7 +79746,7 @@
     "type": "Completion"
   },
   "affd0269d49b24c07bba8987": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Elite: FN P90 5.7x28 submachine gun",
     "_id": "affd0269d49b24c07bba8987",
     "acceptPlayerMessage": "affd0269d49b24c07bba8987 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -80008,7 +80008,7 @@
     "type": "Completion"
   },
   "ed5e1465e45af9cbecb432cb": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Elite: TDI KRISS Vector Gen.2 9x19 submachine gun",
     "_id": "ed5e1465e45af9cbecb432cb",
     "acceptPlayerMessage": "ed5e1465e45af9cbecb432cb acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -80305,7 +80305,7 @@
     "type": "Completion"
   },
   "4ea76dafadb7b6a89be3fcd2": {
-    "QuestName": "[Kho] Weapon Mastery - The Lab Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - The Lab Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "4ea76dafadb7b6a89be3fcd2",
     "acceptPlayerMessage": "4ea76dafadb7b6a89be3fcd2 acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -80545,7 +80545,7 @@
     "type": "Completion"
   },
   "ed950ffd3ae26aeb2fb59a3b": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Elite: FN P90 5.7x28 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Elite: FN P90 5.7x28 submachine gun",
     "_id": "ed950ffd3ae26aeb2fb59a3b",
     "acceptPlayerMessage": "ed950ffd3ae26aeb2fb59a3b acceptPlayerMessage",
     "canShowNotificationsInGame": true,
@@ -80842,7 +80842,7 @@
     "type": "Completion"
   },
   "d5c975a3ba45bce9a5ba0f1d": {
-    "QuestName": "[Kho] Weapon Mastery - Lighthouse Elite: HK MP7A2 4.6x30 submachine gun",
+    "QuestName": "[Kos] Weapon Mastery - Lighthouse Elite: HK MP7A2 4.6x30 submachine gun",
     "_id": "d5c975a3ba45bce9a5ba0f1d",
     "acceptPlayerMessage": "d5c975a3ba45bce9a5ba0f1d acceptPlayerMessage",
     "canShowNotificationsInGame": true,
